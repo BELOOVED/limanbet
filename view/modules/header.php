@@ -61,6 +61,8 @@
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.min.css" />
       <script async="" src="https://ws-cdn001.akamaized.net/c4ef95dc5825aee2b38acbacd82b39ad/widgetloader" n="SIR"></script><script async="" src="https://static.lgio.net/jp-f.js?v=1706334504857"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>window.prerenderReady = false;</script>
       <link rel="manifest" href="manifest.webmanifest">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      
       <meta name="theme-color" content="#1976d2">
       <style>
          @import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap&subset=latin,latin-ext);
