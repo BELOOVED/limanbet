@@ -53,6 +53,12 @@
          }
       </style>
       <link rel="shortcut icon" href="favicon.ico">
+      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.min.css" />
       <script async="" src="https://ws-cdn001.akamaized.net/c4ef95dc5825aee2b38acbacd82b39ad/widgetloader" n="SIR"></script><script async="" src="https://static.lgio.net/jp-f.js?v=1706334504857"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>window.prerenderReady = false;</script>
       <link rel="manifest" href="manifest.webmanifest">
       <meta name="theme-color" content="#1976d2">
