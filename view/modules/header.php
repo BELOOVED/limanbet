@@ -463,7 +463,7 @@
                                  <div class="hdr-usr-mn right">
                                     <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!---->
                                     <div class="logout-menu right">
-                                       <a href="javascript:;" class="login-btn"> Giriş </a><!----><a href="javascript:;" class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a>
+                                       <a href="javascript:;" onclick="openmodal('sgn-mdl')" class="login-btn"> Giriş </a><!----><a href="/signup"  class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a>
                                     </div>
                                     <!----><!---->
                                     <social-links classes=" ">
