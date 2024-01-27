@@ -506,30 +506,30 @@
                               <div id="menu-wrapper" class="hdr-top clear">
                                  <a name="logo" class="lg-cntr left" href="/tr"><img src="assets/views/trader/limanbet/assets/images/logo.png" class="lg" alt="limanbet"></a>
                                  <div class="mn-menu-wrapper">
-                                    <div class="mn-menu left">
+                                 <div class="mn-menu left">
                                        <ul data-element="mn-cont" class="clear">
-                                          <li data-order="1"><a routerlinkactive="active" href="/tr/bet/main" class=""> Spor </a></li>
-                                          <li data-order="2"><a routerlinkactive="active" href="/tr/bet/live" class=""> Canlı Bahis </a></li>
-                                          <li data-order="3"><a routerlinkactive="active" href="/tr/games/livecasino" class=""> Canlı Casino </a></li>
+                                          <li data-order="1"><a routerlinkactive="active" href="/sportsbook" class=""> Spor </a></li>
+                                          <li data-order="2"><a routerlinkactive="active" href="/livesports" class=""> Canlı Bahis </a></li>
+                                          <li data-order="3"><a routerlinkactive="active" href="/livecasino" class=""> Canlı Casino </a></li>
                                           <!---->
-                                          <li data-order="4"><a routerlinkactive="active" href="/tr/games/casino" class=""> Casino </a></li>
+                                          <li data-order="4"><a routerlinkactive="active" href="/casino" class=""> Casino </a></li>
                                           <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                          <li data-order="6"><a routerlinkactive="active" href="/tr/games/poker" class=""> Poker </a></li>
-                                          <li data-order="8"><a routerlinkactive="active" href="/tr/games/bingo/9427" class=""> Canlı Tombala </a></li>
+                                          <li data-order="6"><a routerlinkactive="active" href="/poker" class=""> Poker </a></li>
+                                          <li data-order="8"><a routerlinkactive="active" href="/tombala" class=""> Canlı Tombala </a></li>
                                           <li data-order="9" class="menu-tv-games">
                                              <a materialize="dropdown" data-activates="virtual-drop" class="dropdown-button"><span class="menu-text"> TV Games <i class="material-icons right pg-icons">arrow_drop_down</i></span></a>
-                                             <ul id="virtual-drop" class="dropdown-content" style="white-space: nowrap; opacity: 1; left: 651.587px; position: absolute; top: 111.997px; display: none;">
-                                                <li><a routerlinkactive="active" href="/tr/games/tv-games" class=""> TVBET </a></li>
-                                                <li><a routerlinkactive="active" href="/tr/games/betongames"> Betongames </a></li>
+                                             <ul id="virtual-drop" class="dropdown-content" style="white-space: nowrap; opacity: 1; left: 756.562px; position: absolute; top: 112.5px; display: none;">
+                                                <li><a routerlinkactive="active" href="/tvgames" class=""> TVBET </a></li>
+                                                <li><a routerlinkactive="active" href="/betongames" class=""> Betongames </a></li>
                                              </ul>
                                           </li>
-                                          <li data-order="10"><a routerlinkactive="active" href="/tr/games/casino/category/529" class=""> Crash Games </a></li>
+                                          <li data-order="10"><a routerlinkactive="active" href="/crash" class=""> Crash Games </a></li>
+                                          <li data-order="12"><a routerlinkactive="active" href="/esports" class=""> E-Sporlar </a></li>
+                                          <li data-order="14"><a routerlinkactive="active" href="/virtualsports" class=""> Sanal Bahis </a></li>
+                                          <li data-order="17"><a routerlinkactive="active" href="/promotions" class="active"> BONUSLAR </a></li>
                                           <li data-element="dropdown-wrapper" style="display: block;">
-                                             <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+4</span><i class="material-icons right pg-icons">arrow_drop_down</i></a>
-                                             <ul id="dropdown-responsive-menu" data-element="dropdown-container" class="dropdown-content main-menu-drop" style="white-space: nowrap; position: absolute; top: 67px; left: 800.354px; display: none; opacity: 1;">
-                                                <li data-order="12"><a routerlinkactive="active" href="/tr/bet/ultraplay-esports" class=""> E-Sporlar </a></li>
-                                                <li data-order="14"><a routerlinkactive="active" href="/tr/bet/virtuals" class=""> Sanal Bahis </a></li>
-                                                <li data-order="17"><a routerlinkactive="active" href="/tr/contents/promotions" class=""> BONUSLAR </a></li>
+                                             <a href="javascript:;" materialize="dropdown" data-activates="dropdown-responsive-menu" class="dropdown-button"><span data-element="dropdown-button" class="menu-count">+1</span><i class="material-icons right pg-icons">arrow_drop_down</i></a>
+                                             <ul id="dropdown-responsive-menu" data-element="dropdown-container" class="dropdown-content main-menu-drop" style="white-space: nowrap; position: absolute; top: 67.5px; left: 1216.04px; display: none; opacity: 1;">
                                                 <li data-order="18"><a href="https://aff.limanbetpartners.com/" target="_blank" routerlinkactive="active"> Ortaklık </a></li>
                                              </ul>
                                           </li>
