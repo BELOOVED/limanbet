@@ -94,7 +94,7 @@
                         </div>
                      </div>
                      <div scroll-top="" class="scroll-top-btn left animated fadeInDown" style="display: none;"><i aria-hidden="true" class="fa fa-chevron-up"></i></div>
-                     <link rel="stylesheet" href="//v3.pronetstatic.com/common/assets/css/core.css">
+                     <link rel="stylesheet" href="https://v3.pronetstatic.com/common/assets/css/core.css">
                   </footer>
                   <app-static-inner-content contentcode="footer-for-setup">
                      <div extroutelink="" id="footer-for-setup">
