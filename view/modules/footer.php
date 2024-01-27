@@ -2697,7 +2697,7 @@
    }
       function openmodal(contentId, menuId) {
           $("body").css('overflow','hidden');
-          $(".modal").addClass("open");
+          $("#" + contentId).addClass("open");
           $("#" + contentId).removeClass("hidden");
    
       
@@ -2705,8 +2705,8 @@
           
       }
       function closemodal(){
-         $(".modal").addClass("hidden");
-         $(".modal").removeClass("open");
+         $("#" + contentId).addClass("hidden");
+         $("#" + contentId).removeClass("open");
          $("body").css('overflow','scroll');
       
       }
