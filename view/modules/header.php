@@ -370,7 +370,6 @@
          <link rel="stylesheet" href="https://limanbet569.com/styles.728cfd8ae38a416b087a.css">
       </noscript>
       <meta name="revisit-after" content="1 Days">
-      <link href="https://cdn-plat.apidigi.com/plat/prd/Img/Partners/1093/customWeb.css" type="text/css" rel="stylesheet">
             <script type="text/javascript"  src="/assets/js/script.js"></script>
             <script type="text/javascript"  src="/assets/js/app.js"></script>
 			 
@@ -386,8 +385,7 @@
                let passport_status = <?= intval($main['passport_status']) ?>;
             </script>
             <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-            <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
-            <style>
+             <style>
                .hidden{
                display: none !important;
                }
@@ -463,7 +461,7 @@
                                  <div class="hdr-usr-mn right">
                                     <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!---->
                                     <div class="logout-menu right">
-                                       <a href="javascript:;" onclick="openmodal('sgn-mdl')" class="login-btn"> Giriş </a><!----><a href="/signup"  class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a>
+                                       <a href="javascript:;" onclick="openmodal('sgn-mdl' , 'none')" class="login-btn"> Giriş </a><!----><a href="/signup"  class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a>
                                     </div>
                                     <!----><!---->
                                     <social-links classes=" ">
@@ -538,7 +536,7 @@
                                           </div>
                                        </payments-widget>
                                        <div class="wrapper fix-show" style="display: none;">
-                                          <div class="logout-menu right"><a href="javascript:;" onclick="openmodal('sgn-mdl')" class="login-btn"> Giriş </a><a href="/signup" class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a></div>
+                                          <div class="logout-menu right"><a href="javascript:;" onclick="openmodal('sgn-mdl', 'none')" class="login-btn"> Giriş </a><a href="/signup" class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a></div>
                                           <!---->
                                        </div>
                                        <!---->
