@@ -67,33 +67,7 @@ if ($detect->isMobile()) {?>
                <div id="sync1" class="owl-carousel owl-theme owl-loaded owl-drag">
                   <div class="owl-stage-outer">
                      <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 2s ease 0s; width: 40896px;">
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424660-liman-web-bannerlar-1920x600px-1-kisim-01.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/authentication/signup" target="_self"><img src="https://liman.cdnroot.blog/home/1705279816-liman-web-banner-1920x600px.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424633-liman-web-bannerlar-1920x600px-2-kisim-07.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/1684264145-liman-web-banner-1920x600px.jpg"></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/1684264154-liman-web-banner-1920x600px-18.jpg"></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1647949107-liman-web-bannerlar-1920x600px-2-kisim-01.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="https://limanbet.app" target="_blank"><img src="https://liman.cdnroot.blog/home/1643628942-liman-web-bannerlar-1920x600px-1-kisim-05.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/1698746985-liman-web-banner-1920x600px-1.jpg"></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanwebpuan.jpg"></a></div>
-                        </div>
+                        
                         <div class="owl-item" style="width: 1136px;">
                            <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/liman.php"></a></div>
                         </div>
@@ -103,7 +77,7 @@ if ($detect->isMobile()) {?>
                         <div class="owl-item" style="width: 1136px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/1702308394-liman-web-banner-1920x600px-3.jpg"></div>
                         </div>
-                        <div class="owl-item active" style="width: 1136px;">
+                        <div class="owl-item" style="width: 1136px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/1705762013-liman-web-banner-1920x600px.jpg"></div>
                         </div>
                         <div class="owl-item" style="width: 1136px;">
@@ -147,33 +121,6 @@ if ($detect->isMobile()) {?>
                         </div>
                         <div class="owl-item" style="width: 1136px;">
                            <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanwebpuan.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/liman.php"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/bet/football/turkiye/super-lig-23-24" target="_self"><img src="https://liman.cdnroot.blog/home/1706273359-liman-oranli-1920x500px.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/1702308394-liman-web-banner-1920x600px-3.jpg"></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/1705762013-liman-web-banner-1920x600px.jpg"></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="tr/pages/tournaments" target="_blank"><img src="https://liman.cdnroot.blog/home/1704972246-liman-web-banner-1920x600px.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424704-liman-web-bannerlar-1920x600px-2-kisim-03.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424834-liman-web-bannerlar-1920x600px-1-kisim-08.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1698705609-liman-web-banner-1920x600px.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 1136px;">
-                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424690-liman-web-bannerlar-1920x600px-2-kisim-04.jpg"></a></div>
                         </div>
                      </div>
                   </div>
@@ -199,42 +146,24 @@ if ($detect->isMobile()) {?>
                   background-image: url(https://cdnliman.b-cdn.net/home/static/LIMAN-ANASAYFA%20BANNERLAR-03-1.png);
                   }
                </style>
-               <script>
-                  $(document).ready(function() {
-                  
-                  
-                  var interval = setInterval(function(){ 
-                  
-                  console.log("aa");
-                  
-                  
-                  if (typeof $("#sync1").owlCarousel === 'function') {
-                  console.log('loaded');
+              <script>
+               $(document).ready(function() {
                   $("#sync1").owlCarousel({
-                  items : 1,
+                  items: 1,
                   nav: true,
-                  autoplay: true, 
+                  autoplay: true,
                   dots: false,
                   autoHeight: false,
                   loop: true,
                   smartSpeed: 2000,
-                  touchDrag: true, 
-                  mouseDrag: true, 
-                  margin: 0, 
-                  responsiveRefreshRate : 700,
-                  navText: ['<svg width="100%" height="100%" viewBox="0 0 11 20"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M9.554,1.001l-8.607,8.607l8.607,8.606"></path></svg>','<svg width="100%" height="100%" viewBox="0 0 11 20" version="1.1"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M1.054,18.214l8.606,-8.606l-8.606,-8.607"></path></svg>'],
-                  }); 
-                  clearInterval(interval); 
-                  
-                  } 
-                  
-                               }, 10);
-                  
-                  
-                  
-                  
+                  touchDrag: true,
+                  mouseDrag: true,
+                  margin: 0,
+                  responsiveRefreshRate: 700,
+                  navText: ['<svg width="100%" height="100%" viewBox="0 0 11 20"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M9.554,1.001l-8.607,8.607l8.607,8.606"></path></svg>', '<svg width="100%" height="100%" viewBox="0 0 11 20" version="1.1"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M1.054,18.214l8.606,-8.606l-8.606,-8.607"></path></svg>'],
                   });
-               </script>
+               });
+            </script>
                <div id="encokOynanan">
                </div>
                <div style="clear:both;    height: 58px;">&nbsp;</div>
