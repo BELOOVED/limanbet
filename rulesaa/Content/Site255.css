@@ -1,0 +1,115 @@
+
+/* GrandPashaBet */
+.logo {
+    background: url('images/ClientLogo/255/big.png') no-repeat;
+    width: 203px;
+    height: 35px;
+    background-size: contain;
+}
+
+@media screen and (max-width: 1024px) {
+    .logo {
+        background: url('images/ClientLogo/255/big.png') no-repeat;
+        width: 203px;
+        height: 35px;
+        background-size: contain;
+    }
+}
+
+:root {
+    --bodyBg: #0F1300;
+    --bodyRGBA: rgba(15, 19, 0, 0.7);
+    --bodyTxt: rgba(255, 255, 255, 0.9);
+    --bodyTxt2: rgba(255, 255, 255, 0.6);
+    --bodyTxt3: rgba(255, 255, 255, 0.4);
+    --accentBg: #D0B752;
+    --dominantG: #21260A;
+    --dominantBg: #21260A;
+    --dominantBgHover: #2c320d;
+    --dominantBg2: #444e15;
+    --dominantBg3: #56631a;
+    --dominantTxt: rgba(255, 255, 255, 0.9);
+    --dominantTxt2: rgba(255, 255, 255, 0.6);
+    --dominantRadius: 0px;
+    --menu_1G: linear-gradient(180deg, #54581B 0%, #23280B 100%);
+    --menu_1Bg2: #465016;
+    --menu_1Txt: rgba(255, 255, 255, 0.9);
+    --menu_2G: #23280B;
+    --menu_2Bg2: #465016;
+    --menu_2Txt: rgba(255, 255, 255, 0.9);
+    --menu_3G: #3E4213;
+    --headerBG: undefined;
+    --headerG: linear-gradient(180deg, #7C803D 0%, #2B350B 100%);
+}
+
+
+body {
+    background-color: var(--bodyBg);
+    color: var(--bodyTxt);
+}
+
+header {
+    background: var(--headerG);
+    box-shadow: 3px 1px 4px rgba(0,0,0,0.3);
+}
+
+.languages .select-list,
+.langRow {
+    background-color: var(--dominantBg2);
+}
+
+    .langRow .txt {
+        color: var(--dominantTxt2);
+    }
+
+    .langRow:hover {
+        background-color: var(--dominantBg3);
+    }
+
+.languages #selLang > a {
+    border-radius: var(--dominantRadius);
+}
+
+.expandable-list {
+    background-color: var(--bodyBg);
+}
+
+.main-col {
+    background: var(--dominantBg);
+    color: var(--dominantTxt);
+}
+
+.expandable-list .menuleft .menuleftа {
+    background: var(--menu_1G);
+    color: var(--menu_1Txt);
+}
+
+    .expandable-list .menuleft .menuleftа:hover {
+        background: var(--menu_1Bg2);
+    }
+
+.expandable-list .menuleft ul li a {
+    background: var(--menu_2G);
+    color: var(--menu_2Txt);
+}
+
+    .expandable-list .menuleft ul li a:hover {
+        background-color: var(--menu_2Bg2);
+    }
+
+.expandable-list .menuleft ul li.active a {
+    background: var(--menu_3G);
+}
+
+.content-head {
+    color: var(--accentBg);
+}
+
+.mob_nav {
+    color: var(--dominantTxt2);
+}
+
+.subMenu .arrow,
+.languages #selLang > a:after {
+    color: var(--dominantTxt2);
+}
