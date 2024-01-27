@@ -1600,7 +1600,7 @@ if ($detect->isMobile()) {?>
                               </style>
                               <div id="sync1" class="owl-carousel owl-theme owl-loaded owl-drag">
                                  <div class="owl-stage-outer">
-                                    <div class="owl-stage" style="transform: translate3d(-21504px, 0px, 0px); transition: all 2s ease 0s; width: 36864px;">
+                                    <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 2s ease 0s; width: 36864px;">
                                        <div class="owl-item cloned" style="width: 1024px;">
                                           <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424660-liman-web-bannerlar-1920x600px-1-kisim-01.jpg"></a></div>
                                        </div>
@@ -1733,42 +1733,7 @@ if ($detect->isMobile()) {?>
                                  background-image: url(https://cdnliman.b-cdn.net/home/static/LIMAN-ANASAYFA%20BANNERLAR-03-1.png);
                                  }
                               </style>
-                              <script>
-                                 $(document).ready(function() {
-                                 
-                                 
-                                 var interval = setInterval(function(){ 
-                                 
-                                 console.log("aa");
-                                 
-                                 
-                                 if (typeof $("#sync1").owlCarousel === 'function') {
-                                 console.log('loaded');
-                                 $("#sync1").owlCarousel({
-                                 items : 1,
-                                 nav: true,
-                                 autoplay: true, 
-                                 dots: false,
-                                 autoHeight: false,
-                                 loop: true,
-                                 smartSpeed: 2000,
-                                 touchDrag: true, 
-                                 mouseDrag: true, 
-                                 margin: 0, 
-                                 responsiveRefreshRate : 700,
-                                 navText: ['<svg width="100%" height="100%" viewBox="0 0 11 20"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M9.554,1.001l-8.607,8.607l8.607,8.606"></path></svg>','<svg width="100%" height="100%" viewBox="0 0 11 20" version="1.1"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M1.054,18.214l8.606,-8.606l-8.606,-8.607"></path></svg>'],
-                                 }); 
-                                 clearInterval(interval); 
-                                 
-                                 } 
-                                 
-                                              }, 10);
-                                 
-                                 
-                                 
-                                 
-                                 });
-                              </script>
+                              
                               <div id="encokOynanan">
                               </div>
                               <div style="clear:both;    height: 58px;">&nbsp;</div>
