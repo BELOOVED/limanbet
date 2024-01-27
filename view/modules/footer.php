@@ -192,7 +192,7 @@
                   <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
                </div>
             </div>
-            <div materialize="modal" class="modal hidden" style="z-index: 1033; opacity: 0; transform: scaleX(0.7); top: 4%;" id="sgn-mdl">
+            <div materialize="modal" class="modal hidden" style="z-index: 1033; display: block; opacity: 1; transform: scaleX(1); top: 10%;" id="sgn-mdl">
                <a href="javascript:;" onclick="closemodal()" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
                <div class="modal-content">
                   <app-login class="ng-star-inserted">
@@ -2698,6 +2698,8 @@
       function openmodal(contentId, menuId) {
           $("body").css('overflow','hidden');
           $("#" + contentId).addClass("open");
+          $("modal-overlay").removeClass("hidden");
+
           $("#" + contentId).removeClass("hidden");
    
       
@@ -2708,9 +2710,11 @@
          $("#" + contentId).addClass("hidden");
          $("#" + contentId).removeClass("open");
          $("body").css('overflow','scroll');
+         $("modal-overlay").addClass("hidden");
       
       }
       </script>
+      <div class="modal-overlay hidden" style="z-index: 1032; display: block; opacity: 0.5;"></div>
    </body>
 </html>
 <?php }?>
