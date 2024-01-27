@@ -192,8 +192,8 @@
                   <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
                </div>
             </div>
-            <div materialize="modal" class="modal" style="z-index: 1033; display: none; opacity: 0; transform: scaleX(0.7); top: 4%;" id="sgn-mdl">
-               <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
+            <div materialize="modal" class="modal hidden" style="z-index: 1033; opacity: 0; transform: scaleX(0.7); top: 4%;" id="sgn-mdl">
+               <a href="javascript:;" onclick="closemodal()" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
                <div class="modal-content">
                   <app-login class="ng-star-inserted">
                      <form novalidate="" class="login-form ng-untouched ng-pristine ng-invalid ng-star-inserted">
@@ -2681,6 +2681,36 @@
          </div>
       </bet-master>
       <script src="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/owl.carousel.js"></script>  
+      <script>
+      function openmenu(element) {
+       var tabId = $(element).attr('id');
+       $('.tl_my_acc_cont_content').addClass('hidden');
+       $('.tl_my_acc_nav_item').removeClass('active');
+       $('.' + tabId).removeClass('hidden');
+       $('#' + tabId).addClass('active');
+
+   }
+   
+   function openmenu2(tabId) {
+       $('.tl_my_acc_cont_content').addClass('hidden');
+       $('.' + tabId).removeClass('hidden');
+   }
+      function openmodal(contentId, menuId) {
+          $("body").css('overflow','hidden');
+          $(".modal").addClass("open");
+          $("#" + contentId).removeClass("hidden");
+   
+      
+      
+          
+      }
+      function closemodal(){
+         $(".modal").addClass("hidden");
+         $(".modal").removeClass("open");
+         $("body").css('overflow','scroll');
+      
+      }
+      </script>
    </body>
 </html>
 <?php }?>

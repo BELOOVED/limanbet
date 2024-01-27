@@ -538,7 +538,7 @@
                                           </div>
                                        </payments-widget>
                                        <div class="wrapper fix-show" style="display: none;">
-                                          <div class="logout-menu right"><a href="javascript:;" class="login-btn"> Giriş </a><a href="javascript:;" class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a></div>
+                                          <div class="logout-menu right"><a href="javascript:;" onclick="openmodal('sgn-mdl')" class="login-btn"> Giriş </a><a href="/signup" class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a></div>
                                           <!---->
                                        </div>
                                        <!---->
