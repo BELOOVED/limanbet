@@ -67,7 +67,7 @@
                               </ul>
                            </div>
                            <div class="license">
-                              <a name="logo" class="lg-cntr left" href="/tr"><img src="views/trader/limanbet/assets/images/logo-footer.png" class="lg" alt="limanbet"></a>
+                              <a name="logo" class="lg-cntr left" href="/tr"><img src="assets/views/trader/limanbet/assets/images/logo-footer.png" class="lg" alt="limanbet"></a>
                               <div class="footer-payment">
                                  <div class="text-align"><i class="pg-icons visa"></i><i class="pg-icons mastercard"></i><i class="pg-icons maestro"></i><i class="pg-icons astropay"></i><i class="pg-icons banktransfer"></i><i class="pg-icons cepbank"></i><i class="pg-icons bitcoin"></i><i class="pg-icons papara"></i><i class="pg-icons hizlihavale"></i><i class="pg-icons hizliqr"></i></div>
                               </div>
@@ -197,7 +197,7 @@
                <div class="modal-content">
                   <app-login class="ng-star-inserted">
                      <form novalidate="" class="login-form ng-untouched ng-pristine ng-invalid ng-star-inserted">
-                        <div class="title"><a name="logo" class="lg-cntr" href="/tr"><img class="lg" src="views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
+                        <div class="title"><a name="logo" class="lg-cntr" href="/tr"><img class="lg" src="assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
                         <div class="lg-frm-content">
                            <!----><!----><input type="text" required="" class="validate browser-default ng-untouched ng-pristine ng-invalid ng-star-inserted" placeholder="Kullanıcı adı" id="username"><!----><!----><!----><!----><!----><!---->
                            <div class="input-field password">
