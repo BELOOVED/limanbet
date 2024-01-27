@@ -76,7 +76,7 @@ if ($detect->isMobile()) {?>
                </style>
                <div id="sync1" class="owl-carousel owl-theme owl-loaded owl-drag">
                   <div class="owl-stage-outer">
-                     <div class="owl-stage" style="transform: translate3d(-13632px, 0px, 0px); transition: all 2s ease 0s; width: 40896px;">
+                     <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 2s ease 0s; width: 40896px;">
                         <div class="owl-item cloned" style="width: 1136px;">
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424660-liman-web-bannerlar-1920x600px-1-kisim-01.jpg"></a></div>
                         </div>
