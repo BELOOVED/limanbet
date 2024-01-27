@@ -66,60 +66,47 @@ if ($detect->isMobile()) {?>
                </style>
                <div id="sync1" class="owl-carousel owl-theme">
                   
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/liman.php"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/bet/football/turkiye/super-lig-23-24" target="_self"><img src="https://liman.cdnroot.blog/home/1706273359-liman-oranli-1920x500px.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/1702308394-liman-web-banner-1920x600px-3.jpg"></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/1705762013-liman-web-banner-1920x600px.jpg"></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
+                        
                            <div class="item"><a href="tr/pages/tournaments" target="_blank"><img src="https://liman.cdnroot.blog/home/1704972246-liman-web-banner-1920x600px.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424704-liman-web-bannerlar-1920x600px-2-kisim-03.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424834-liman-web-bannerlar-1920x600px-1-kisim-08.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1698705609-liman-web-banner-1920x600px.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424690-liman-web-bannerlar-1920x600px-2-kisim-04.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424660-liman-web-bannerlar-1920x600px-1-kisim-01.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/authentication/signup" target="_self"><img src="https://liman.cdnroot.blog/home/1705279816-liman-web-banner-1920x600px.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1642424633-liman-web-bannerlar-1920x600px-2-kisim-07.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/1684264145-liman-web-banner-1920x600px.jpg"></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/1684264154-liman-web-banner-1920x600px-18.jpg"></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                       
+                        
                            <div class="item"><a href="/tr/contents/promotions" target="_self"><img src="https://liman.cdnroot.blog/home/1647949107-liman-web-bannerlar-1920x600px-2-kisim-01.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><a href="https://limanbet.app" target="_blank"><img src="https://liman.cdnroot.blog/home/1643628942-liman-web-bannerlar-1920x600px-1-kisim-05.jpg"></a></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/1698746985-liman-web-banner-1920x600px-1.jpg"></div>
-                        </div>
-                        <div class="item" style="width: 1136px;">
+                        
+                        
                            <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanwebpuan.jpg"></a></div>
-                        </div>
                   <div class="owl-nav">
                      <div class="owl-prev">
                         <svg width="100%" height="100%" viewBox="0 0 11 20">
