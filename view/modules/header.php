@@ -516,13 +516,8 @@
                                           <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <li data-order="6"><a routerlinkactive="active" href="/poker" class=""> Poker </a></li>
                                           <li data-order="8"><a routerlinkactive="active" href="/tombala" class=""> Canlı Tombala </a></li>
-                                          <li data-order="9" class="menu-tv-games">
-                                             <a materialize="dropdown" data-activates="virtual-drop" class="dropdown-button"><span class="menu-text"> TV Games <i class="material-icons right pg-icons">arrow_drop_down</i></span></a>
-                                             <ul id="virtual-drop" class="dropdown-content" style="white-space: nowrap; opacity: 1; left: 756.562px; position: absolute; top: 112.5px; display: none;">
-                                                <li><a routerlinkactive="active" href="/tvgames" class=""> TVBET </a></li>
-                                                <li><a routerlinkactive="active" href="/betongames" class=""> Betongames </a></li>
-                                             </ul>
-                                          </li>
+                                          <li data-order="43"><a routerlinkactive="active" href="/tvgames" class=""> TVBET </a></li>
+                                          <li data-order="21"><a routerlinkactive="active" href="/betongames" class=""> Betongames </a></li>
                                           <li data-order="10"><a routerlinkactive="active" href="/crash" class=""> Crash Games </a></li>
                                           <li data-order="12"><a routerlinkactive="active" href="/esports" class=""> E-Sporlar </a></li>
                                           <li data-order="14"><a routerlinkactive="active" href="/virtualsports" class=""> Sanal Bahis </a></li>
