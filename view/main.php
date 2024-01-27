@@ -17,17 +17,7 @@ if ($detect->isMobile()) {?>
                <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/owl.carousel.min.js"></script>
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
-               <script type="text/javascript">
-                  var url = new URL(window.location.href);
-                  var aff = url.searchParams.get("aff");
-                  
-                  if ( aff == null ){
-                    console.log("asdsad");
-                  } else {
-                    console.log(aff);
-                  }
-                  
-               </script>
+              
                <style type="text/css">
                   #sync1 .item {
                   background: #0c83e7;
@@ -282,23 +272,7 @@ if ($detect->isMobile()) {?>
             </div>
          </div>
          <div class="ng-star-inserted">
-            <script type="text/javascript">
-               $(document).ready(function(){ 
-               
-               var interval2 = setInterval(function() {
-               console.log("settime");
-               if ($(".circle").is(':visible') === false) {
-               $.get("https://api.cdnroot.net/api/lmnv2/home/getHome.php", function(data) {
-                $("#bosbos").html(data);
-               console.log("loading slider");
-               });
-               clearInterval(interval2);
-               }
-               
-               }, 200);
-               
-               }); 
-            </script>
+            
          </div>
          <div class="ng-star-inserted"></div>
          <!----><!---->
