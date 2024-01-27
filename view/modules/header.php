@@ -1374,9 +1374,7 @@
          </app-out-component>
          <!----><!----><!---->
       </app-root>
-      <noscript>Please enable JavaScript to continue using this application.</noscript>
-      <script src="/assets/js/runtime-es2015.59f764c8a94bc1ef4045.js" type="module"></script><script src="/assets/js/runtime-es5.59f764c8a94bc1ef4045.js" nomodule="" defer=""></script><script src="/assets/js/polyfills-es5.04780b623e528dbf95c3.js" nomodule="" defer=""></script><script src="/assets/js/polyfills-es2015.cd1663d4f2033cce4e98.js" type="module"></script><script src="/assets/js/scripts.019282d5336d65f8c26b.js" defer=""></script><script src="/assets/js/main-es2015.ae9f753a8b3b0f5bf488.js" type="module"></script><script src="/assets/js/main-es5.ae9f753a8b3b0f5bf488.js" nomodule="" defer=""></script>
-      <div class="hiddendiv common"></div>
+     <div class="hiddendiv common"></div>
       <bet-master merchant="pn35" language="tr" vce-ready="">
          <div id="PanelFront">
             <!---->
