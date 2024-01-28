@@ -1,18 +1,12 @@
 <?php
 if ($detect->isMobile()) {?>
 <?php }else {?>
-   <main>
+    <main>
    <router-outlet></router-outlet>
    <app-dashboard class="ng-star-inserted">
       <div class="container dshbrd-cntr">
          <div class="row">
             <div class="col s3 lft-cntnt">
-               <div class="uinfoDom" style="background-color: #fff;color: #000;border-bottom: 1px solid #e0e0e0;text-align: center;">
-                  <h5 class="u-name" style="font-size: 14px;padding-top: 6px;font-weight: bold;">
-                     <!---->SIRADAKİ DOMAİNLER
-                  </h5>
-                  <div><b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet570.com </b><b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet571.com</b> <b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet572.com</b></div>
-               </div>
                <div class="u-info">
                   <h5 class="u-name">
                      Dilafruz<!---->
@@ -50,7 +44,7 @@ if ($detect->isMobile()) {?>
                         <div class="collapsible-body ng-star-inserted" style="display: block;">
                            <ul class="collection">
                               <li class="collection-item ng-star-inserted">
-                                 <a routerlinkactive="active" href="/tr/dashboard/account-activity/bet-history" class="ng-star-inserted active"><i class="fa fa-history"></i> Bahis Geçmişi</a><!----><!---->
+                                 <a routerlinkactive="active" href="/tr/dashboard/account-activity/bet-history" class="ng-star-inserted"><i class="fa fa-history"></i> Bahis Geçmişi</a><!----><!---->
                               </li>
                               <li class="collection-item ng-star-inserted" hidden="">
                                  <a routerlinkactive="active" href="/tr/dashboard/account-activity/jackpot-history" class="ng-star-inserted"><i class="fa fa-history"></i> Jackpot Geçmişi</a><!----><!---->
@@ -71,7 +65,7 @@ if ($detect->isMobile()) {?>
                                  <a routerlinkactive="active" href="/tr/dashboard/account-activity/iframe-report/betradar" class="ng-star-inserted"><i class="fa fa-history"></i> Betradar</a><!----><!---->
                               </li>
                               <li class="collection-item ng-star-inserted">
-                                 <a routerlinkactive="active" href="/tr/dashboard/account-activity/iframe-report/golden-race" class="ng-star-inserted"><i class="fa fa-history"></i> Golden Race</a><!----><!---->
+                                 <a routerlinkactive="active" href="/tr/dashboard/account-activity/iframe-report/golden-race" class="ng-star-inserted active"><i class="fa fa-history"></i> Golden Race</a><!----><!---->
                               </li>
                               <li class="collection-item ng-star-inserted" hidden="">
                                  <a routerlinkactive="active" href="/tr/dashboard/account-activity/iframe-report/betmakers" class="ng-star-inserted"><i class="fa fa-history"></i> Betmakers</a><!----><!---->
@@ -126,13 +120,18 @@ if ($detect->isMobile()) {?>
             </div>
             <div class="col s9 rght-cntnt">
                <router-outlet></router-outlet>
-               <app-bet-history class="ng-star-inserted">
-                  <div class="bet-hstry-cntnt">
-                     <div class="dshbrd-mdl ng-star-inserted">
-                        <div class="mdl-hdr">
-                           <div class="inf-hdr"><i class="fa fa-history"></i><span class="inf-title">Geçmiş</span></div>
-                        </div>
+               <app-iframe-reports class="ng-star-inserted">
+                  <div class="bet-hstry-cntnt bet-lmt-cntnt">
+                     <div class="dshbrd-mdl">
                         <div class="mdl-cntnt">
+                           <ul class="tabs ng-star-inserted">
+                              <!---->
+                              <li class="tab ng-star-inserted"><a href="/tr/dashboard/account-activity/iframe-report/golden-race" routerlinkactive="active" class="iframe-tabs active"> Golden Race </a></li>
+                              <!----><!---->
+                              <li class="tab ng-star-inserted"><a href="/tr/dashboard/account-activity/iframe-report/ultraplay" routerlinkactive="active" class="iframe-tabs"> E-Sporlar Hesap Hrk. Raporu </a></li>
+                              <!----><!---->
+                           </ul>
+                           <!----><!---->
                            <form novalidate="" class="ng-untouched ng-valid ng-dirty">
                               <div class="row">
                                  <div class="col s12">
@@ -512,65 +511,36 @@ if ($detect->isMobile()) {?>
                                     </label>
                                     <input type="text" pattern="[0-9]{2}/[0-9]{2}/[0-9]{4}" minlength="10" tabindex="2" required="" class="datepicker browser-default ng-untouched ng-pristine ng-valid">
                                  </div>
-                                 <div class="input-field col s2"><button type="submit" class="btn w100">Sorgula</button></div>
+                                 <div class="input-field col s12 m2"><button class="btn w100">Sorgula</button></div>
                               </div>
                            </form>
                            <div class="type-btn-grp">
-                              <button class="btn bg stts-CO fltr-btn ng-star-inserted"><i class="stts-CO">Bahis Bozdur</i><i class="fa fa-database right stts-CO"></i></button><button class="btn bg stts-O fltr-btn ng-star-inserted"><i class="stts-O">Tamamlanmamış</i><i class="fa fa-clock-o right stts-O"></i></button><button class="btn bg stts-C fltr-btn ng-star-inserted"><i class="stts-C">Bozdurulan</i><i class="fa fa-bullseye right stts-C"></i></button><button class="btn bg stts-W fltr-btn ng-star-inserted"><i class="stts-W">Kazanç</i><i class="fa fa-check right stts-W"></i></button><button class="btn bg stts-L fltr-btn ng-star-inserted"><i class="stts-L">Kayıp</i><i class="fa fa-times right stts-L"></i></button><button class="btn bg stts-V fltr-btn ng-star-inserted"><i class="stts-V">Geçersiz</i><i class="fa fa-ban right stts-V"></i></button><button class="btn bg stts- fltr-btn active ng-star-inserted"><i class="stts-">Hepsi</i><i class="fa fa-bars right stts-"></i></button><!---->
+                              <button class="btn bg stts- fltr-btn active ng-star-inserted"><i class="fa fa-bars stts-"></i><i class="stts-">Hepsi</i></button><button class="btn bg stts-R fltr-btn ng-star-inserted"><i class="stts-"></i><i class="stts-">İade</i></button><button class="btn bg stts-O fltr-btn ng-star-inserted"><i class="fa fa-clock-o stts-"></i><i class="stts-">Tamamlanmamış</i></button><button class="btn bg stts-L fltr-btn ng-star-inserted"><i class="fa fa-times stts-"></i><i class="stts-">Kayıp</i></button><button class="btn bg stts-W fltr-btn ng-star-inserted"><i class="fa fa-check stts-"></i><i class="stts-">Kazanç</i></button><!----><!----><!---->
                            </div>
                         </div>
                      </div>
-                     <!----><!---->
-                     <app-notifications>
-                        <div>
-                           <!---->
-                        </div>
-                     </app-notifications>
                      <div class="dshbrd-mdl">
                         <div class="mdl-hdr">
-                           <!---->
-                           <div class="inf-hdr ng-star-inserted">
-                              <i class="fa fa-bars"></i><!----><span class="inf-title ng-star-inserted">Tarih aralığı: 28/01/2024 - 28/01/2024</span><!---->
-                           </div>
-                           <!---->
+                           <div class="inf-hdr"><i class="fa fa-bars"></i><span class="inf-title">En Son Yapılan İşlemler</span></div>
                         </div>
                         <!---->
-                        <div class="not-found-box ng-star-inserted"><img src="../../../../../assets/images/not-found-images.png" alt=""><br> Veri bulunamadı </div>
-                        <!---->
-                     </div>
-                     <!---->
-                     <div id="betHistoryDetailModal" materialize="modal" class="modal modal-md dshbrd-tckt-modal hdr-fix" style="z-index: 1101;">
-                        <!---->
-                     </div>
-                     <div id="cashoutPromptModal" materialize="modal" class="modal modal-sm dshbrd-modal ng-star-inserted" style="z-index: 1099;">
-                        <cashout-promt>
-                           <div class="modal-content cashout-modal-main ng-star-inserted">
-                              <div class="dshbrd-mdl">
-                                 <div class="mdl-hdr">
-                                    <div class="inf-hdr">
-                                       <h5 class="inf-title">Bahis Bozdurma Onayla</h5>
-                                       <i class="fa fa-times close-modal"></i>
-                                    </div>
-                                 </div>
-                                 <div class="mdl-cntnt">
-                                    <div class="info-field">
-                                       <h5 class="inf-hdr ng-star-inserted">Bozdurma Miktarı : <span>null<span class="currency-symbol"> ₺</span></span></h5>
-                                       <span class="inf-cntnt ng-star-inserted">
-                                          <div class="suffix-field ng-star-inserted"><input type="checkbox" id="tCAACheck" class="filled-in ng-untouched ng-pristine ng-valid"><label for="tCAACheck">Miktar değişimlerini kabul ediyorum.</label></div>
-                                          <!---->
-                                       </span>
-                                       <!----><!----><!---->
-                                    </div>
-                                    <div class="footer-btn-grp"><button class="btn disagree-btn">Kapat</button><button class="btn">Onayla</button></div>
-                                 </div>
+                        <message-box type="error" icon="fa fa-exclamation-circle" class="ng-star-inserted">
+                           <div class="card-panel message-box error">
+                              <div class="icon left ng-star-inserted"><i class="fa fa-exclamation-circle"></i></div>
+                              <!----><!---->
+                              <div class="ng-star-inserted">
+                                 Veri bulunamadı<!----><!----><!----><!---->
                               </div>
+                              <!----><!----><!----><!----><!---->
                            </div>
-                           <!----><!----><!---->
-                        </cashout-promt>
+                        </message-box>
+                        <!----><!----><!---->
                      </div>
+                  </div>
+                  <div id="betHistoryModal" materialize="modal" class="modal modal-md dshbrd-tckt-modal hdr-fix" style="z-index: 1121;">
                      <!---->
                   </div>
-               </app-bet-history>
+               </app-iframe-reports>
                <!---->
             </div>
          </div>

@@ -460,6 +460,168 @@
                         <div class="hdr-cntr-wrapper-top">
                            <div class="container">
                               <div class="hdr-first-row clear fix-hide">
+                                 <?php if(isset($us['id'])) {?>
+                                 <div class="hdr-usr-mn right">
+                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!----><!---->
+                                    <div class="login-menu right ng-star-inserted">
+                                       <ul class="clear">
+                                          <li>
+                                             <balance>
+                                                <a materialize="dropdown" class="waves-effect balance-dropdown-main waves-light dropdown-button" data-activates="balance-drop-2" style="">
+                                                   <!---->
+                                                   <div class="left">
+                                                      <i class="material-icons pg-icons left">person</i><!----><span title="Ana Bakiye"><span>0.05<span class="currency-symbol"> ₺</span></span></span><i class="fa fa-refresh fa-fw pg-icons refresh-icon" title="Bakiyeyi Yenile"></i><i class="material-icons pg-icons right" title="Diğer Bakiyeler">arrow_drop_down</i>
+                                                   </div>
+                                                </a>
+                                                <div class="dropdown-content balance-dropdropdown" id="balance-drop-2" style="white-space: nowrap; position: absolute; top: 36.9922px; left: 860.484px; display: none; opacity: 1;">
+                                                   <div class="balance-main">
+                                                      <div class="balance-head"> Bakiyeyi Görüntüle </div>
+                                                      <div class="balance-content ng-star-inserted">
+                                                         <div class="blance-text"> Ygt0790 <span class="right">2024016933711</span></div>
+                                                         <div class="blance-text date"> Son giriş yaptığınız tarih: <span class="right">28-01-2024 14:38</span></div>
+                                                         <!---->
+                                                         <div class="blance-text blc-color"> Bekleyen Çekim <span class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></span></div>
+                                                         <div class="blance-text blc-color"> Bakiye <span class="right"><span>0.05<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></span></div>
+                                                      </div>
+                                                      <!---->
+                                                   </div>
+                                                   <div class="crow ng-star-inserted">
+                                                      <div class="balance-content">
+                                                         <div class="flex-container text">
+                                                            <div class="flex-item">Spor Bonus</div>
+                                                            <div class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <!----><!----><!---->
+                                                   <div class="crow ng-star-inserted">
+                                                      <div class="balance-content">
+                                                         <div class="flex-container text">
+                                                            <div class="flex-item">Spor FreeBet</div>
+                                                            <div class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <!----><!----><!---->
+                                                   <div class="crow ng-star-inserted">
+                                                      <div class="balance-content">
+                                                         <div class="flex-container text">
+                                                            <div class="flex-item">Casino Bonus</div>
+                                                            <div class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <!----><!----><!----><!----><!----><!---->
+                                                   <div class="crow ng-star-inserted">
+                                                      <div class="balance-content">
+                                                         <div class="flex-container text">
+                                                            <div class="title flex-item">Klas Poker</div>
+                                                            <div class="right"><span>0<span class="currency-symbol"> ₺</span></span><i class="fa fa-refresh pg-icons right"></i></div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                   <!----><!---->
+                                                   <div class="balance-footer">
+                                                      <a class="btn transfer ng-star-inserted" href="/tr/dashboard/payments/transfer">Transfer</a><!----><!----><!----><a href="javascript:;" class="btn logout">Çıkış Yap</a>
+                                                   </div>
+                                                </div>
+                                             </balance>
+                                          </li>
+                                          <li class="fix-hide">
+                                             <messages>
+                                                <a href="javascript:;" materialize="dropdown" class="waves-effect waves-light dropdown-button badge" data-activates="msg-drop-2">
+                                                   <i class="material-icons pg-icons" title="Mesajlar">email</i><span class="count ng-star-inserted">9</span><!---->
+                                                </a>
+                                                <div class="dropdown-content head-message-main" id="msg-drop-2">
+                                                   <div class="title"> Mesajlar </div>
+                                                   <div class="content">
+                                                      <!---->
+                                                      <div class="msg-all-main">
+                                                         <!---->
+                                                      </div>
+                                                      <div class="msg-emty ng-star-inserted"> Yeni mesajınız bulunmamaktadır </div>
+                                                      <!---->
+                                                   </div>
+                                                </div>
+                                             </messages>
+                                          </li>
+                                          <!---->
+                                          <li class="fix-hide"><a routerlinkactive="active" href="/tr/dashboard/payments/deposit-money"> Para Yatırma </a></li>
+                                          <li class="fix-hide"><a routerlinkactive="active" href="/tr/dashboard/payments/withdraw-money"> Para Çekme </a></li>
+                                          <li class="fix-hide"><a routerlinkactive="active" href="/tr/dashboard/payments/transfer" class=""> Transfer </a></li>
+                                          <li class="fix-hide"><a routerlinkactive="active" href="/tr/dashboard/account-activity/bet-history"> Bahis Geçmişi </a></li>
+                                          <li>
+                                             <a href="javascript:;" materialize="dropdown" data-activates="settings-drop" class="fill"><i class="material-icons pg-icons">settings</i> Hesap İşlemleri </a>
+                                             <div id="settings-drop" class="dropdown-content">
+                                                <div class="content flex-container align-items-res">
+                                                   <ul class="collection with-header">
+                                                      <li class="collection-header">
+                                                         <h6><i class="fa fa-angle-double-down pg-icons left"></i> Hesabım </h6>
+                                                      </li>
+                                                      <a class="collection-item" href="/tr/dashboard/payments/deposit-money"><i class="fa fa-angle-right fa-fw pg-icons"></i> Para Yatırma </a><a class="collection-item" href="/tr/dashboard/payments/withdraw-money"><i class="fa fa-angle-right fa-fw pg-icons"></i> Para Çekme </a><a class="collection-item ng-star-inserted" href="/tr/dashboard/payments/transfer"><i class="fa fa-angle-right fa-fw pg-icons"></i> Hesaplar Arası Transfer </a><!----><a class="collection-item" href="/tr/dashboard/payments/promotions"><i class="fa fa-angle-right fa-fw pg-icons"></i> Bonus Detaylarım </a>
+                                                   </ul>
+                                                   <ul class="collection with-header">
+                                                      <li class="collection-header">
+                                                         <h6><i class="fa fa-angle-double-down pg-icons left"></i> İşlemler </h6>
+                                                      </li>
+                                                      <a class="collection-item" href="/tr/dashboard/account-activity/bet-history"><i class="fa fa-angle-right fa-fw pg-icons"></i> Bahis Geçmişi </a><a class="collection-item" href="/tr/dashboard/account-activity/financial-transactions"><i class="fa fa-angle-right fa-fw pg-icons"></i> Finans Geçmişim </a><a class="collection-item ng-star-inserted" href="/tr/dashboard/account-activity/bonus-activities"><i class="fa fa-angle-right fa-fw pg-icons"></i> Bonus Hareketlerim </a><!----><a class="collection-item ng-star-inserted" href="/tr/dashboard/account-activity/casino-pro-history"><i class="fa fa-angle-right fa-fw pg-icons"></i> Casinopro Geçmişi </a><!----><a class="collection-item ng-star-inserted" href="/tr/dashboard/account-activity/free-spin"><i class="fa fa-angle-right fa-fw pg-icons"></i> Freespin Detayları </a><!---->
+                                                   </ul>
+                                                   <ul class="collection with-header">
+                                                      <li class="collection-header">
+                                                         <h6><i class="fa fa-angle-double-down pg-icons left"></i> Kullanıcı Hareketleri </h6>
+                                                      </li>
+                                                      <a class="collection-item" href="/tr/dashboard/user-info/personal-and-account-detail"><i class="fa fa-angle-right fa-fw pg-icons"></i> Kişisel ve Hesap Bilgilerim </a><a class="collection-item" href="/tr/dashboard/user-info/limit-settings"><i class="fa fa-angle-right fa-fw pg-icons"></i> Bahis Limitlendirme </a><a class="collection-item" href="/tr/dashboard/user-info/change-password"><i class="fa fa-angle-right fa-fw pg-icons"></i> Şifremi Değiştir </a><a class="collection-item" href="/tr/messages"><i class="fa fa-angle-right fa-fw pg-icons"></i> Mesajlar </a><!----><a class="collection-item" href="/tr/dashboard/user-info/user-security"><i class="fa fa-angle-right fa-fw pg-icons"></i> İki adımlı doğrulama </a>
+                                                   </ul>
+                                                   <ul class="collection with-header">
+                                                      <li class="collection-header">
+                                                         <h6><i class="fa fa-angle-double-down pg-icons left"></i> Diğer </h6>
+                                                      </li>
+                                                      <a href="javascript:;" class="collection-item"><i class="fa fa-angle-right fa-fw pg-icons"></i> Çıkış Yap </a><a href="javascript:;" class="collection-item"><i class="fa fa-angle-right fa-fw pg-icons"></i> Destek </a>
+                                                   </ul>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <!---->
+                                       </ul>
+                                    </div>
+                                    <!---->
+                                    <social-links classes=" ">
+                                       <ul>
+                                          <li>
+                                             <a target="_blank" href="https://www.facebook.com/limanbetofficial">
+                                                <!----><i class="fa fa-facebook-official fa-fw"></i><!----><!---->
+                                             </a>
+                                          </li>
+                                          <!---->
+                                          <li>
+                                             <a target="_blank" href="https://twitter.com/Liman_bet">
+                                                <!----><i class="fa fa-twitter-square fa-fw"></i><!----><!---->
+                                             </a>
+                                          </li>
+                                          <!----><!---->
+                                          <li>
+                                             <a target="_blank" href="https://www.instagram.com/LimanBet2023">
+                                                <!----><i class="fa fa-instagram fa-fw"></i><!----><!---->
+                                             </a>
+                                          </li>
+                                          <!----><!---->
+                                          <li>
+                                             <a target="_blank" href="https://wa.me/447501141720">
+                                                <i class="fa fa-whatsapp"></i><!---->
+                                             </a>
+                                          </li>
+                                          <!---->
+                                       </ul>
+                                    </social-links>
+                                    <language>
+                                       <ul class="language">
+                                          <li><a href="javascript:;"><span class="country-cont"><i class="country pg-icons icon-32xTUR active"></i></span></a></li>
+                                          <li><a href="javascript:;"><span class="country-cont"><i class="country pg-icons icon-32xGBRF"></i></span></a></li>
+                                          <!---->
+                                       </ul>
+                                    </language>
+                                 </div>
+                                 <?php }else{?>
                                  <div class="hdr-usr-mn right">
                                     <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!---->
                                     <div class="logout-menu right">
@@ -502,6 +664,7 @@
                                        </ul>
                                     </language>
                                  </div>
+                                 <?php }?>
                               </div>
                               <div id="menu-wrapper" class="hdr-top clear">
                                  <a name="logo" class="lg-cntr left" href="/tr"><img src="assets/views/trader/limanbet/assets/images/logo.png" class="lg" alt="limanbet"></a>
