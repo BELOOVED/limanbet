@@ -13,7 +13,7 @@ if ($detect->isMobile()) {?>
       <app-static-inner-content contentcode="landing">
          <div extroutelink="" id="landing" class="ng-star-inserted">
             <div id="bosbos">
-               <link href="https://cdn.pandestek.com/css/V4home.css?v=11021" rel="stylesheet">
+               <link href="/pandesk/css/V4home.css?v=11021" rel="stylesheet">
                <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/owl.carousel.min.js"></script>
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">

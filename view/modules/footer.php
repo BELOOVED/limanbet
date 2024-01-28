@@ -94,7 +94,7 @@
                         </div>
                      </div>
                      <div scroll-top="" class="scroll-top-btn left animated fadeInDown" style="display: none;"><i aria-hidden="true" class="fa fa-chevron-up"></i></div>
-                     <link rel="stylesheet" href="https:/images/common/assets/css/core.css">
+                     <link rel="stylesheet" href="https://v3.pronetstatic.com/common/assets/css/core.css">
                   </footer>
                   <app-static-inner-content contentcode="footer-for-setup">
                      <div extroutelink="" id="footer-for-setup">
@@ -158,7 +158,7 @@
                   <div>
                      <p>
                         <a href="/tr/contents/promotions">
-                           <!-- <img src="https://cdn.pandestek.com/other/popup_envoy.jpg" />  !-->
+                           <!-- <img src="/pandesk/other/popup_envoy.jpg" />  !-->
                            <img src="https://liman.cdnroot.blog/other/popup.jpg" style="    height: 100%;
                               width: 100%;">
                         </a>
@@ -268,7 +268,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -280,7 +280,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -292,7 +292,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -304,7 +304,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -316,7 +316,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -328,7 +328,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -340,7 +340,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -352,7 +352,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -364,7 +364,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -376,7 +376,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -388,7 +388,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -400,7 +400,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -412,7 +412,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -424,7 +424,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -436,7 +436,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -448,7 +448,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -460,7 +460,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -472,7 +472,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -484,7 +484,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -496,7 +496,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -508,7 +508,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -520,7 +520,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -532,7 +532,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -544,7 +544,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -556,7 +556,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -568,7 +568,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -580,7 +580,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -592,7 +592,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -604,7 +604,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -616,7 +616,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -628,7 +628,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -640,7 +640,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -652,7 +652,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -664,7 +664,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -676,7 +676,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -688,7 +688,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -700,7 +700,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -722,7 +722,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -734,7 +734,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -746,7 +746,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -758,7 +758,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -770,7 +770,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -782,7 +782,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -794,7 +794,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -806,7 +806,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -818,7 +818,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -830,7 +830,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -842,7 +842,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -854,7 +854,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -866,7 +866,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -878,7 +878,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -890,7 +890,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -902,7 +902,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -914,7 +914,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -926,7 +926,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -938,7 +938,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -950,7 +950,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -962,7 +962,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -974,7 +974,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -986,7 +986,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -998,7 +998,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1010,7 +1010,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1022,7 +1022,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1034,7 +1034,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1046,7 +1046,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1058,7 +1058,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1070,7 +1070,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1082,7 +1082,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1094,7 +1094,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1106,7 +1106,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1118,7 +1118,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1130,7 +1130,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1142,7 +1142,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1154,7 +1154,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1176,7 +1176,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1188,7 +1188,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1200,7 +1200,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1212,7 +1212,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1224,7 +1224,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1236,7 +1236,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1248,7 +1248,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1260,7 +1260,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1272,7 +1272,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1284,7 +1284,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1296,7 +1296,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1308,7 +1308,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1320,7 +1320,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1332,7 +1332,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1344,7 +1344,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1356,7 +1356,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1368,7 +1368,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1380,7 +1380,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1392,7 +1392,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1404,7 +1404,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1416,7 +1416,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1428,7 +1428,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1440,7 +1440,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1452,7 +1452,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1464,7 +1464,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1476,7 +1476,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1488,7 +1488,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1500,7 +1500,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1512,7 +1512,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1524,7 +1524,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1536,7 +1536,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1548,7 +1548,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1560,7 +1560,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1572,7 +1572,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1584,7 +1584,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1596,7 +1596,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1608,7 +1608,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1630,7 +1630,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K********97 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺8,500</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1642,7 +1642,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1654,7 +1654,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺225</strong>  karşılığı , <strong class="win_amount">₺70,740</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1666,7 +1666,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17853.jpg"> <span> <strong class="game">Gigantoonz</strong> oyununda <strong class="bet_amount">₺60</strong>  karşılığı , <strong class="win_amount">₺48,426</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1678,7 +1678,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r******54 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/11413.jpg"> <span> <strong class="game">Christmas Carol Megaways</strong> oyununda <strong class="bet_amount">₺100</strong>  karşılığı , <strong class="win_amount">₺65,510</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1690,7 +1690,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>M********71 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺15,000</strong>  karşılığı , <strong class="win_amount">₺122,962</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1702,7 +1702,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>c***at ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺350</strong>  karşılığı , <strong class="win_amount">₺70,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1714,7 +1714,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺41,025</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1726,7 +1726,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B************ur ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18111.jpg"> <span> <strong class="game">18111</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺36,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1738,7 +1738,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>N********32 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺384</strong>  karşılığı , <strong class="win_amount">₺148,608</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1750,7 +1750,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>u*****56 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1762,7 +1762,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K*****35 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2</strong>  karşılığı , <strong class="win_amount">₺2,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1774,7 +1774,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>D******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺100,800</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1786,7 +1786,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>j***yl ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺937</strong>  karşılığı , <strong class="win_amount">₺271,837</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1798,7 +1798,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺185,901</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1810,7 +1810,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>savazingo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺80,347</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1822,7 +1822,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>0******HH ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺104,568</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1834,7 +1834,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺3,620</strong>  karşılığı , <strong class="win_amount">₺92,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1846,7 +1846,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>r*******91 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"> <span> <strong class="game">Immersive Roulette</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺19,260</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1858,7 +1858,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>p******un ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1870,7 +1870,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21994.jpg"> <span> <strong class="game">Fish Eye</strong> oyununda <strong class="bet_amount">₺27</strong>  karşılığı , <strong class="win_amount">₺21,124</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1882,7 +1882,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>B********11 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/25903.jpg"> <span> <strong class="game">Big Bass Christmas Bash™</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺28,920</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1894,7 +1894,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺4,500</strong>  karşılığı , <strong class="win_amount">₺34,699</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1906,7 +1906,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>J*****uk ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺62</strong>  karşılığı , <strong class="win_amount">₺53,120</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1918,7 +1918,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>K***lo ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺1,200</strong>  karşılığı , <strong class="win_amount">₺40,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1930,7 +1930,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>m**it ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺23,181</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1942,7 +1942,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>n*******0m ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2732.jpg"> <span> <strong class="game">Dice and Roll</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺24,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1954,7 +1954,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>b******uc ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10228.jpg"> <span> <strong class="game">The Dog House Megaways</strong> oyununda <strong class="bet_amount">₺1,800</strong>  karşılığı , <strong class="win_amount">₺26,308</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1966,7 +1966,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>F******00 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺2,500</strong>  karşılığı , <strong class="win_amount">₺180,600</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1978,7 +1978,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>ercin10 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺400</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -1990,7 +1990,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -2002,7 +2002,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>e******49 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺600</strong>  karşılığı , <strong class="win_amount">₺240,180</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -2014,7 +2014,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>d*******in ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17303.jpg"> <span> <strong class="game">Wanted Dead or a Wild </strong> oyununda <strong class="bet_amount">₺1,600</strong>  karşılığı , <strong class="win_amount">₺100,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -2026,7 +2026,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/14895.jpg"> <span> <strong class="game">Panda's Fortune 2</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺106,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -2038,7 +2038,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>k******er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/23296.jpg"> <span> <strong class="game">Royal Joker: Hold and Win</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺82,500</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -2050,7 +2050,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -2062,7 +2062,7 @@
                                              <!----><!---->
                                              <div class="news">
                                                 <div class="bmm ticker_top_winners">
-                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https:/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                                   <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                                    <!----><!---->
                                                 </div>
                                              </div>
@@ -2099,88 +2099,88 @@
                         <div class="el-carousel__container" style="height: 115px;">
                            <!----><!---->
                            <div class="el-carousel__item is-animating is-active is-animating" id="bottom_slide_0" style="transform: translateX(0px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/19560" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/19560.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/19560" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19560.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_1" style="transform: translateX(193px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/1213" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/1213.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/1213" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/1213.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_2" style="transform: translateX(386px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/16872" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/16872.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/16872" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16872.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_3" style="transform: translateX(579px) scale(1);">
-                              <!----><a href="/tr/games/detail/casino/demo/7787" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/7787.jpg"></a>
+                              <!----><a href="/tr/games/detail/casino/demo/7787" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/7787.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_4" style="transform: translateX(772px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/8888" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/8888.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/8888" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_5" style="transform: translateX(965px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/4883" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/4883.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/4883" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/4883.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_6" style="transform: translateX(1158px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/13006" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/13006.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/13006" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13006.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_7" style="transform: translateX(1351px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/5190" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/5190.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/5190" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/5190.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_8" style="transform: translateX(1544px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/15212" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/15212.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/15212" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/15212.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_9" style="transform: translateX(1737px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/10863" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/livecasino/300x200/10862.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/10863" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/10862.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_10" style="transform: translateX(1930px) scale(1);">
-                              <!----><a href="/tr/games/detail/livecasino/normal/9644/evolution_CrazyTime0000001_TRY" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/livecasino/300x200/9644.jpg"></a>
+                              <!----><a href="/tr/games/detail/livecasino/normal/9644/evolution_CrazyTime0000001_TRY" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/9644.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_11" style="transform: translateX(2123px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/9691" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/9691.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/9691" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/9691.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_12" style="transform: translateX(2316px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/2746" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/2746.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/2746" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2746.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_13" style="transform: translateX(2509px) scale(1);">
-                              <!----><a href="/tr/games/detail/livecasino/normal/3272/evolution_mkif4dot6byaziyb_TRY" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/livecasino/300x200/3272.jpg"></a>
+                              <!----><a href="/tr/games/detail/livecasino/normal/3272/evolution_mkif4dot6byaziyb_TRY" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/3272.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_14" style="transform: translateX(2702px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/19560" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/19560.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/19560" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19560.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_15" style="transform: translateX(2895px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/1213" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/1213.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/1213" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/1213.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_16" style="transform: translateX(3088px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/16872" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/16872.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/16872" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16872.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_17" style="transform: translateX(3281px) scale(1);">
-                              <!----><a href="/tr/games/detail/casino/demo/7787" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/7787.jpg"></a>
+                              <!----><a href="/tr/games/detail/casino/demo/7787" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/7787.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_18" style="transform: translateX(3474px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/8888" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/8888.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/8888" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_19" style="transform: translateX(3667px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/4883" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/4883.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/4883" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/4883.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_20" style="transform: translateX(3860px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/13006" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/13006.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/13006" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13006.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_21" style="transform: translateX(4053px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/5190" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/5190.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/5190" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/5190.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_22" style="transform: translateX(4246px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/15212" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/15212.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/15212" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/15212.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_23" style="transform: translateX(4439px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/10863" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/livecasino/300x200/10862.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/10863" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/10862.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_24" style="transform: translateX(4632px) scale(1);">
-                              <!----><a href="/tr/games/detail/livecasino/normal/9644/evolution_CrazyTime0000001_TRY" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/livecasino/300x200/9644.jpg"></a>
+                              <!----><a href="/tr/games/detail/livecasino/normal/9644/evolution_CrazyTime0000001_TRY" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/9644.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_25" style="transform: translateX(4825px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/9691" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/9691.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/9691" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/9691.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_26" style="transform: translateX(5018px) scale(1);">
-                              <!----><a href="/tr/games/casino/detail/normal/2746" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/casino/300x200/2746.jpg"></a>
+                              <!----><a href="/tr/games/casino/detail/normal/2746" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2746.jpg"></a>
                            </div>
                            <div class="el-carousel__item is-animating" id="bottom_slide_27" style="transform: translateX(5211px) scale(1);">
-                              <!----><a href="/tr/games/detail/livecasino/normal/3272/evolution_mkif4dot6byaziyb_TRY" target="_top" class="bottom_slider_item"><img src="https:/images/common/assets/images/livecasino/300x200/3272.jpg"></a>
+                              <!----><a href="/tr/games/detail/livecasino/normal/3272/evolution_mkif4dot6byaziyb_TRY" target="_top" class="bottom_slider_item"><img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/3272.jpg"></a>
                            </div>
                         </div>
                         <!---->
@@ -2361,7 +2361,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>tak****</span><strong class="game_name">Gold Party™</strong></div>
@@ -2373,7 +2373,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Far****</span><strong class="game_name">Crazy Time</strong></div>
@@ -2385,7 +2385,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Far****</span><strong class="game_name">Crazy Time</strong></div>
@@ -2397,7 +2397,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Far****</span><strong class="game_name">Crazy Time</strong></div>
@@ -2409,7 +2409,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Exclusive Limits Blackjack VIP</strong></div>
@@ -2421,7 +2421,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/livecasino/300x200/24451.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/24451.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Blackjack B</strong></div>
@@ -2433,7 +2433,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/livecasino/300x200/24451.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/24451.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Blackjack B</strong></div>
@@ -2453,7 +2453,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Hus****</span><strong class="game_name">Sugar Rush</strong></div>
@@ -2465,7 +2465,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>sez******</span><strong class="game_name">Sugar Rush</strong></div>
@@ -2477,7 +2477,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>tak****</span><strong class="game_name">Gold Party™</strong></div>
@@ -2489,7 +2489,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>jsn****</span><strong class="game_name">Gates of Olympus™</strong></div>
@@ -2501,7 +2501,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>tak****</span><strong class="game_name">Gold Party™</strong></div>
@@ -2513,7 +2513,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/13997.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13997.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>sev****</span><strong class="game_name">Power of Thor Megaways™</strong></div>
@@ -2525,7 +2525,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/25414.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/25414.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>gal******</span><strong class="game_name">Starlight Princess 1000™</strong></div>
@@ -2545,7 +2545,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/22541.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/22541.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Ser****</span><strong class="game_name">Wild Wild Riches Megaways</strong></div>
@@ -2557,7 +2557,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>erc****</span><strong class="game_name">Sugar Rush</strong></div>
@@ -2569,7 +2569,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>tak****</span><strong class="game_name">Gold Party™</strong></div>
@@ -2581,7 +2581,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/2740.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2740.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Nig****</span><strong class="game_name">Extra Stars</strong></div>
@@ -2593,7 +2593,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/19400.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19400.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Barn Festival</strong></div>
@@ -2605,7 +2605,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/6461.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>hay****</span><strong class="game_name">40 Burning Hot 6 Reels</strong></div>
@@ -2617,7 +2617,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https:/images/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner"><!---->
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Gates of Olympus™</strong></div>

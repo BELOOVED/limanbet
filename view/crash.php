@@ -58,23 +58,23 @@ if ($detect->isMobile()) {?>
                                  <ul class="splide__list" id="splide19-list" style="transform: translateX(-2850px);">
                                     <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 1425px;" aria-hidden="true" tabindex="-1">
                                        <div class="panel_galery_content" style="display: none;"></div>
-                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://cdn.pandestek.com/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="https://cdn.pandestek.com/other/slotyuzde20.jpg" style=""></a>
+                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="/pandesk/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="/pandesk/other/slotyuzde20.jpg" style=""></a>
                                     </li>
                                     <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 1425px;">
                                        <div class="panel_galery_content" style="display: none;"></div>
-                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://cdn.pandestek.com/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="https://cdn.pandestek.com/other/slotyuzde20.jpg" style=""></a>
+                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="/pandesk/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="/pandesk/other/slotyuzde20.jpg" style=""></a>
                                     </li>
                                     <li class="splide__slide panel_gallery_item is-active is-visible" id="splide19-slide01" style="width: 1425px;" aria-hidden="false" tabindex="0">
                                        <div class="panel_galery_content" style="display: none;"></div>
-                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://cdn.pandestek.com/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="https://cdn.pandestek.com/other/slotyuzde20.jpg" style=""></a>
+                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="/pandesk/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="/pandesk/other/slotyuzde20.jpg" style=""></a>
                                     </li>
                                     <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 1425px;">
                                        <div class="panel_galery_content" style="display: none;"></div>
-                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://cdn.pandestek.com/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="https://cdn.pandestek.com/other/slotyuzde20.jpg" style=""></a>
+                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="/pandesk/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="/pandesk/other/slotyuzde20.jpg" style=""></a>
                                     </li>
                                     <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 1425px;">
                                        <div class="panel_galery_content" style="display: none;"></div>
-                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://cdn.pandestek.com/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="https://cdn.pandestek.com/other/slotyuzde20.jpg" style=""></a>
+                                       <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="/pandesk/other/slotyuzde20.jpg" aria-rowindex="0" class="" srcset="" src="/pandesk/other/slotyuzde20.jpg" style=""></a>
                                     </li>
                                  </ul>
                               </div>

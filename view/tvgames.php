@@ -27,7 +27,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13117.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13117.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -43,7 +43,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13116.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13116.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -59,7 +59,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/17527.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/17527.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -75,7 +75,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13122.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13122.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -91,7 +91,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13121.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13121.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -107,7 +107,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13114.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13114.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -123,7 +123,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13120.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13120.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -139,7 +139,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13113.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13113.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -155,7 +155,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13118.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13118.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
@@ -171,7 +171,7 @@ if ($detect->isMobile()) {?>
                               <div class="csn-crd">
                                  <div class="crd-img">
                                     <a href="javascript:;" class="csn-crd ng-star-inserted">
-                                       <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/23518.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"><!---->
+                                       <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/23518.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif"><!---->
                                     </a>
                                     <!---->
                                  </div>
