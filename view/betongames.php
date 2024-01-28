@@ -26,7 +26,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/629.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/629.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -46,7 +46,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/24420.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/24420.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -66,7 +66,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/12.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/12.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -86,7 +86,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/14.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/14.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -106,7 +106,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/13.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/13.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -126,7 +126,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/8760.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/8760.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -146,7 +146,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/645.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/645.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -166,7 +166,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/6911.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/6911.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -186,7 +186,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/15410.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/15410.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -206,7 +206,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/628.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/628.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->
@@ -226,7 +226,7 @@ if ($detect->isMobile()) {?>
                            <div class="col pg-grd-6 csn-crd-col ng-star-inserted">
                               <div class="csn-crd">
                                  <div class="crd-img">
-                                    <img alt="" class="gm-img" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/22103.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                    <img alt="" class="gm-img" src="/images/common/assets/images/livecasino/300x200/22103.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                     <div class="hvr-inf">
                                        <div class="v-a">
                                           <!---->

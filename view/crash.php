@@ -157,9 +157,9 @@ if ($detect->isMobile()) {?>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">5</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">6</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                               </div>
-                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/IV.png&quot;);"></div>
+                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/IV.png&quot;);"></div>
                               <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                              <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#IV" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                              <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#IV" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                               <map name="IV">
                                  <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                               </map>
@@ -177,9 +177,9 @@ if ($detect->isMobile()) {?>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">4</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">3</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                               </div>
-                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/III.png&quot;);"></div>
+                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/III.png&quot;);"></div>
                               <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                              <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#III" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                              <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#III" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                               <map name="III">
                                  <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                               </map>
@@ -197,9 +197,9 @@ if ($detect->isMobile()) {?>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">4</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">5</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                               </div>
-                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/II.png&quot;);"></div>
+                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/II.png&quot;);"></div>
                               <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                              <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#II" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                              <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#II" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                               <map name="II">
                                  <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                               </map>
@@ -215,9 +215,9 @@ if ($detect->isMobile()) {?>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">2</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                                  <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">2</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                               </div>
-                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/I.png&quot;);"></div>
+                              <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/I.png&quot;);"></div>
                               <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                              <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#I" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                              <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#I" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                               <map name="I">
                                  <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                               </map>
@@ -267,14 +267,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="JetLiman" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24578.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="JetLiman" src="/images/common/assets/images/casino/300x200/24578.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -289,14 +289,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Spaceman" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/19364.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Spaceman" src="/images/common/assets/images/casino/300x200/19364.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/pragmatic_play.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/pragmatic_play.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -311,14 +311,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Aviator" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/7787.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Aviator" src="/images/common/assets/images/casino/300x200/7787.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spribe.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spribe.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -333,14 +333,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Football X" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21295.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Football X" src="/images/common/assets/images/casino/300x200/21295.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -355,7 +355,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Balloon" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/13475.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Balloon" src="/images/common/assets/images/casino/300x200/13475.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -364,7 +364,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -379,14 +379,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Cappadocia" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/13470.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Cappadocia" src="/images/common/assets/images/casino/300x200/13470.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -401,14 +401,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Hipodrom" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21681.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Hipodrom" src="/images/common/assets/images/casino/300x200/21681.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/livegames.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/livegames.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -423,14 +423,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="JetLucky2" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21736.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="JetLucky2" src="/images/common/assets/images/casino/300x200/21736.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/gamingcorps.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/gamingcorps.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -445,14 +445,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="JetX3" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/17070.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="JetX3" src="/images/common/assets/images/casino/300x200/17070.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -467,14 +467,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Goblin Run" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/19618.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Goblin Run" src="/images/common/assets/images/casino/300x200/19618.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/evoplay.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/evoplay.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -489,14 +489,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Save The Hamster" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/15701.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Save The Hamster" src="/images/common/assets/images/casino/300x200/15701.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/evoplay.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/evoplay.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -511,14 +511,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Vecihi" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24245.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Vecihi" src="/images/common/assets/images/casino/300x200/24245.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/acegaming.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/acegaming.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -533,7 +533,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Cricket X" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/19420.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Cricket X" src="/images/common/assets/images/casino/300x200/19420.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -542,7 +542,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -557,14 +557,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="To Mars And Beyond" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21723.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="To Mars And Beyond" src="/images/common/assets/images/casino/300x200/21723.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/gamingcorps.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/gamingcorps.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -579,14 +579,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Ho Ho HODL" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21731.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Ho Ho HODL" src="/images/common/assets/images/casino/300x200/21731.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/gamingcorps.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/gamingcorps.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -601,14 +601,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Skyliner" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21742.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Skyliner" src="/images/common/assets/images/casino/300x200/21742.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/gamingcorps.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/gamingcorps.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -623,14 +623,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Stormy Witch" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21745.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Stormy Witch" src="/images/common/assets/images/casino/300x200/21745.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/gamingcorps.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/gamingcorps.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -645,7 +645,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="JetX" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/13477.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="JetX" src="/images/common/assets/images/casino/300x200/13477.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -654,7 +654,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -669,14 +669,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="FlyX" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24198.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="FlyX" src="/images/common/assets/images/casino/300x200/24198.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/microgaming_mga.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/microgaming_mga.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -691,14 +691,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Rocket Racers" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/20810.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Rocket Racers" src="/images/common/assets/images/casino/300x200/20810.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/esa_gaming.png"></div>
+                                       <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/esa_gaming.png"></div>
                                        <div class="hvr-inf">
                                           <div class="v-a">
                                              <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->

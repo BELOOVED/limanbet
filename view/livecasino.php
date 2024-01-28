@@ -168,14 +168,14 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Craps" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/18119.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Craps" src="/images/common/assets/images/livecasino/300x200/18119.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!----><!----><!---->
                                        </div>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/evol.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="/images/common/assets/images/livecasino/32x32/evol.png"></div>
                                        <div class="hour ng-star-inserted"><i class="material-icons pg-icons left">access_time</i> Saat : 00:00 - 23:59 </div>
                                        <!---->
                                        <div class="hvr-inf">
@@ -192,7 +192,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Crazy Time" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Crazy Time" src="/images/common/assets/images/livecasino/300x200/18190.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -201,7 +201,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/evol.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="/images/common/assets/images/livecasino/32x32/evol.png"></div>
                                        <div class="hour ng-star-inserted"><i class="material-icons pg-icons left">access_time</i> Saat : 00:00 - 23:59 </div>
                                        <!---->
                                        <div class="hvr-inf">
@@ -218,7 +218,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Auto-Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Auto-Roulette" src="/images/common/assets/images/livecasino/300x200/18225.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -227,7 +227,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/evol.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="/images/common/assets/images/livecasino/32x32/evol.png"></div>
                                        <div class="hour ng-star-inserted"><i class="material-icons pg-icons left">access_time</i> Saat : 00:00 - 23:59 </div>
                                        <!---->
                                        <div class="hvr-inf">
@@ -244,7 +244,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Immersive Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/18503.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Immersive Roulette" src="/images/common/assets/images/livecasino/300x200/18503.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -253,7 +253,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/evol.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="/images/common/assets/images/livecasino/32x32/evol.png"></div>
                                        <div class="hour ng-star-inserted"><i class="material-icons pg-icons left">access_time</i> Saat : 00:00 - 23:59 </div>
                                        <!---->
                                        <div class="hvr-inf">
@@ -270,7 +270,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Lightning Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/18091.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Lightning Roulette" src="/images/common/assets/images/livecasino/300x200/18091.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -279,7 +279,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/evol.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="/images/common/assets/images/livecasino/32x32/evol.png"></div>
                                        <div class="hour ng-star-inserted"><i class="material-icons pg-icons left">access_time</i> Saat : 00:00 - 23:59 </div>
                                        <!---->
                                        <div class="hvr-inf">
@@ -296,7 +296,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Turkish Lightning Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/18303.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Turkish Lightning Roulette" src="/images/common/assets/images/livecasino/300x200/18303.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -305,7 +305,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/evol.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="evol" src="/images/common/assets/images/livecasino/32x32/evol.png"></div>
                                        <div class="hour ng-star-inserted"><i class="material-icons pg-icons left">access_time</i> Saat : 00:00 - 23:59 </div>
                                        <!---->
                                        <div class="hvr-inf">
@@ -322,7 +322,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Auto Mega Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/24549.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Auto Mega Roulette" src="/images/common/assets/images/livecasino/300x200/24549.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -331,7 +331,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="/images/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -347,7 +347,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Roulette 1 - Azure " src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/11376.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Roulette 1 - Azure " src="/images/common/assets/images/livecasino/300x200/11376.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -358,7 +358,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="/images/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -374,7 +374,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/24325.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Roulette" src="/images/common/assets/images/livecasino/300x200/24325.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <div class="new ng-star-inserted">Yeni</div>
                                           <!---->
@@ -384,7 +384,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="elcasino_tvbet" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/elcasino_tvbet.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="elcasino_tvbet" src="/images/common/assets/images/livecasino/32x32/elcasino_tvbet.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -402,7 +402,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Roulette 6 - Turkish" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/9395.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Roulette 6 - Turkish" src="/images/common/assets/images/livecasino/300x200/9395.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -413,7 +413,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="/images/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -429,7 +429,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Privé Lounge Blackjack 3" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/24675.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Privé Lounge Blackjack 3" src="/images/common/assets/images/livecasino/300x200/24675.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -438,7 +438,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="pragmatic_play" src="/images/common/assets/images/livecasino/32x32/pragmatic_play.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -454,7 +454,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Prestige Auto Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/8978.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Prestige Auto Roulette" src="/images/common/assets/images/livecasino/300x200/8978.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -463,7 +463,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/ezugi.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="/images/common/assets/images/livecasino/32x32/ezugi.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -479,7 +479,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Türkçe Rulet" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/699.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Türkçe Rulet" src="/images/common/assets/images/livecasino/300x200/699.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -488,7 +488,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/ezugi.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="/images/common/assets/images/livecasino/32x32/ezugi.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -504,7 +504,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Betgames War of Bets" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/645.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Betgames War of Bets" src="/images/common/assets/images/livecasino/300x200/645.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -513,7 +513,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="betg" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/betg.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="betg" src="/images/common/assets/images/livecasino/32x32/betg.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -531,7 +531,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Speed Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/4474.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Speed Roulette" src="/images/common/assets/images/livecasino/300x200/4474.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -540,7 +540,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/ezugi.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="/images/common/assets/images/livecasino/32x32/ezugi.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -556,7 +556,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Speed Auto Roulette" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/5450.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Speed Auto Roulette" src="/images/common/assets/images/livecasino/300x200/5450.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -565,7 +565,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/ezugi.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="ezugi" src="/images/common/assets/images/livecasino/32x32/ezugi.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -581,7 +581,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Blackjack B" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/24451.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Blackjack B" src="/images/common/assets/images/livecasino/300x200/24451.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -590,7 +590,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/atmosfera.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="/images/common/assets/images/livecasino/32x32/atmosfera.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -608,7 +608,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Blackjack C" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/24452.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Blackjack C" src="/images/common/assets/images/livecasino/300x200/24452.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -617,7 +617,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/atmosfera.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="/images/common/assets/images/livecasino/32x32/atmosfera.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -635,7 +635,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Blackjack A" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/24450.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Blackjack A" src="/images/common/assets/images/livecasino/300x200/24450.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <!---->
                                           <div class="popular ng-star-inserted">Popüler</div>
@@ -644,7 +644,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/atmosfera.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="/images/common/assets/images/livecasino/32x32/atmosfera.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">
@@ -662,7 +662,7 @@ if ($detect->isMobile()) {?>
                               <div class="col pg-grd-5 csn-crd-col ng-star-inserted">
                                  <div class="csn-crd">
                                     <div class="crd-img">
-                                       <img class="gm-img" alt="Black Jack E" src="//v3.pronetstatic.com/common/assets/images/livecasino/300x200/26377.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                       <img class="gm-img" alt="Black Jack E" src="/images/common/assets/images/livecasino/300x200/26377.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                        <div class="inf">
                                           <div class="new ng-star-inserted">Yeni</div>
                                           <!---->
@@ -672,7 +672,7 @@ if ($detect->isMobile()) {?>
                                        <app-user-favorite classes="fvrt-lnk left">
                                           <!---->
                                        </app-user-favorite>
-                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="//v3.pronetstatic.com/common/assets/images/livecasino/32x32/atmosfera.png"></div>
+                                       <div class="vndr"><img class="vndr-lg" alt="atmosfera" src="/images/common/assets/images/livecasino/32x32/atmosfera.png"></div>
                                        <!---->
                                        <div class="hvr-inf">
                                           <div class="v-a">

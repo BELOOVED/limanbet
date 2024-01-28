@@ -12241,7 +12241,7 @@ if ($detect->isMobile()) {?>
                      <div class="modul-content">
                         <!---->
                         <div class="csn-crd">
-                           <div class="crd-img"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/egt_games_tumb.jpg"></div>
+                           <div class="crd-img"><img alt="" class="gm-img loading" src="/images/common/assets/images/egt_games_tumb.jpg"></div>
                         </div>
                      </div>
                   </div>
@@ -12267,19 +12267,19 @@ if ($detect->isMobile()) {?>
                            <div class="c_g_g_title">Populer Oyunlar</div>
                            <div class="row c_g_wrapper mt-1 no-gutters">
                               <a href="tr/games/livecasino/detail/normal/11370/801-TRY" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/11370.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/livecasino/300x200/11370.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                               <a href="tr/games/casino/detail/normal/10890" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10890.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/casino/300x200/10890.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                               <a href="tr/games/casino/detail/normal/8888" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/casino/300x200/8888.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                               <a href="tr/games/casino/detail/normal/10717" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10717.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/casino/300x200/10717.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                            </div>
