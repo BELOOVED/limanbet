@@ -2707,8 +2707,8 @@
           
       }
       function closemodal(){
-         $("#" + contentId).addClass("hidden");
-         $("#" + contentId).removeClass("open");
+         $(".modal").addClass("hidden");
+         $(".modal").removeClass("open");
          $("body").css('overflow','scroll');
          $("modal-overlay").addClass("hidden");
       
