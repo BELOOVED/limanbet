@@ -6,7 +6,7 @@ body {
 
         
         #encokOynanan {
-            background: url(https://cdn.pandestek.com/home/static/encok_alt.jpg);
+            background: url(/pandesk/home/static/encok_alt.jpg);
             height: 40px;
             width: 100%;
                 margin-top: 0;
@@ -181,7 +181,7 @@ font-family: 'Exo 2', sans-serif;
   #mainPoker{
     width:247px; 
     height:201px; 
-    background-image:url(https://cdn.pandestek.com/home/static/15_nakit.jpg);
+    background-image:url(/pandesk/home/static/15_nakit.jpg);
   position:relative;
  display: block;
  font-family: 'Exo 2', sans-serif;
@@ -190,7 +190,7 @@ font-family: 'Exo 2', sans-serif;
 #mainCasino {
     width:247px; 
     height:201px; 
-    background-image:url(https://cdn.pandestek.com/home/static/envoy_main.jpg);
+    background-image:url(/pandesk/home/static/envoy_main.jpg);
   position:relative;
  display: block;
  font-family: 'Exo 2', sans-serif;
@@ -200,7 +200,7 @@ font-family: 'Exo 2', sans-serif;
 #mainRegister {
     width:342px; 
     height:432px; 
-    background-image:url(https://cdn.pandestek.com/home/static/hemen_uye_olmain.jpg);
+    background-image:url(/pandesk/home/static/hemen_uye_olmain.jpg);
   position:relative;
  display: block;
  font-family: 'Exo 2', sans-serif;
@@ -210,7 +210,7 @@ font-family: 'Exo 2', sans-serif;
 #mainLive {
     width:323px; 
     height:201px; 
-    background-image:url(https://cdn.pandestek.com/home/static/mobile_main.jpg);
+    background-image:url(/pandesk/home/static/mobile_main.jpg);
   position:relative;
  display: block;
  font-family: 'Exo 2', sans-serif;
@@ -275,7 +275,7 @@ position: absolute;
 #encokTitle {
     color: #FFF;
     height: 42px;
-    background: url(https://cdn.pandestek.com/home/static/encokOynan.png);
+    background: url(/pandesk/home/static/encokOynan.png);
     line-height: 42px;
     padding-left: 20px;
     border-top-left-radius: 6px;
@@ -405,7 +405,7 @@ position: absolute;
         float: left;
     margin-left: 20px;
     display: block;
-    background: url(https://cdn.pandestek.com/home/static/kredi_karti_main.jpg);
+    background: url(/pandesk/home/static/kredi_karti_main.jpg);
  }
  .kuponic {
         font-size: 14px;
@@ -1104,7 +1104,7 @@ bottom: 0px !important;
   height: 498px;
 }
 .sy-box.sy-loading {
-  background: url("https://cdn.pandestek.com/home/static/sy-loader.gif") 50% 50% no-repeat;
+  background: url("/pandesk/home/static/sy-loader.gif") 50% 50% no-repeat;
   -webkit-background-size: 32px 32px;
           background-size: 32px;
   min-height: 40px; }
@@ -1227,7 +1227,7 @@ bottom: 0px !important;
         outline: none; }
       .sy-controls li a:after {
         content: "";
-        background-image: url("https://cdn.pandestek.com/home/static/arrows.svg");
+        background-image: url("/pandesk/home/static/arrows.svg");
         background-repeat: no-repeat;
         -webkit-background-size: cover;
                 background-size: cover;

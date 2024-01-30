@@ -462,7 +462,7 @@
                               <div class="hdr-first-row clear fix-hide">
                                  <?php if(isset($us['id'])) {?>
                                  <div class="hdr-usr-mn right">
-                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!----><!---->
+                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="/assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!----><!---->
                                     <div class="login-menu right ng-star-inserted">
                                        <ul class="clear">
                                           <li>
