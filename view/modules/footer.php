@@ -11,33 +11,33 @@
                            <div class="footer-menu-content margin-l margin-r">
                               <h6 class="footer-title">Hakkımızda</h6>
                               <ul class="footer-menu">
-                                 <li><a href="/tr/contents/about-us">Şirket Hakkında</a></li>
-                                 <li><a href="/tr/contents/about-us-responsible-gaming">Sorumlu Oyun</a></li>
-                                 <li><a href="/tr/contents/about-us-terms-of-use">Kullanım Kuralları</a></li>
-                                 <li><a href="/tr/contents/about-us-contact">Bize Ulaşın</a></li>
+                                 <li><a href="about-us">Şirket Hakkında</a></li>
+                                 <li><a href="about-us-responsible-gaming">Sorumlu Oyun</a></li>
+                                 <li><a href="about-us-terms-of-use">Kullanım Kuralları</a></li>
+                                 <li><a href="about-us-contact">Bize Ulaşın</a></li>
                               </ul>
                            </div>
                            <div class="footer-menu-content margin-l margin-r">
                               <h6 class="footer-title">Destek</h6>
                               <ul class="footer-menu">
-                                 <li><a href="/tr/contents/support-rules">Kurallar</a></li>
-                                 <li><a href="/tr/contents/support-faq">SSS (Sıkca Sorulan Sorular)</a></li>
-                                 <li><a href="/tr/contents/promotions">Bonus</a></li>
-                                 <li><a href="/tr/contents/promotions-general-rules">Genel Bonus Kuralları</a></li>
-                                 <li><a href="/tr/contents/cashout-content">Bahis Bozdur</a></li>
+                                 <li><a href="support-rules">Kurallar</a></li>
+                                 <li><a href="support-faq">SSS (Sıkca Sorulan Sorular)</a></li>
+                                 <li><a href="promotions">Bonus</a></li>
+                                 <li><a href="promotions-general-rules">Genel Bonus Kuralları</a></li>
+                                 <li><a href="cashout-content">Bahis Bozdur</a></li>
                                  <!---->
                               </ul>
                            </div>
                            <div class="footer-menu-content margin-l margin-l">
                               <h6 class="footer-title">Kısa Yollar</h6>
                               <ul class="footer-menu">
-                                 <li><a href="/tr/bet/main">Spor</a></li>
-                                 <li><a href="/tr/bet/live">Canlı Bahis</a></li>
-                                 <li><a href="/tr/games/livecasino">Canlı Casino</a></li>
-                                 <li><a href="/tr/games/casino">Casino</a></li>
-                                 <li><a href="/tr/games/poker">Poker</a></li>
-                                 <li><a href="/tr/games/betongames">Betongames</a></li>
-                                 <li><a href="/tr/games/bingo/9427">Canlı Tombala</a></li>
+                                 <li><a href="/sportsbook">Spor</a></li>
+                                 <li><a href="/livesports">Canlı Bahis</a></li>
+                                 <li><a href="/livecasino">Canlı Casino</a></li>
+                                 <li><a href="/casino">Casino</a></li>
+                                 <li><a href="/poker">Poker</a></li>
+                                 <li><a href="/betongames">Betongames</a></li>
+                                 <li><a href="/tombala">Canlı Tombala</a></li>
                               </ul>
                            </div>
                            <div class="footer-menu-content margin-r">
@@ -62,12 +62,12 @@
                                  <li>
                                     <p class="white-txt">© 2015 - limanbet + 18</p>
                                  </li>
-                                 <li><a class="peru-txt" href="/tr/contents/about-us-gen-terms-cond">Genel Şartlar ve Kurallar</a></li>
-                                 <li><a class="peru-txt" href="/tr/contents/about-us-privacy-policy">Gizlilik Politikası</a></li>
+                                 <li><a class="peru-txt" href="/about-us-gen-terms-cond">Genel Şartlar ve Kurallar</a></li>
+                                 <li><a class="peru-txt" href="/about-us-privacy-policy">Gizlilik Politikası</a></li>
                               </ul>
                            </div>
                            <div class="license">
-                              <a name="logo" class="lg-cntr left" href="/tr"><img src="assets/views/trader/limanbet/assets/images/logo-footer.png" class="lg" alt="limanbet"></a>
+                              <a name="logo" class="lg-cntr left" href="/"><img src="assets/views/trader/limanbet/assets/images/logo-footer.png" class="lg" alt="limanbet"></a>
                               <div class="footer-payment">
                                  <div class="text-align"><i class="pg-icons visa"></i><i class="pg-icons mastercard"></i><i class="pg-icons maestro"></i><i class="pg-icons astropay"></i><i class="pg-icons banktransfer"></i><i class="pg-icons cepbank"></i><i class="pg-icons bitcoin"></i><i class="pg-icons papara"></i><i class="pg-icons hizlihavale"></i><i class="pg-icons hizliqr"></i></div>
                               </div>
@@ -157,7 +157,7 @@
                <div class="modal-content">
                   <div>
                      <p>
-                        <a href="/tr/contents/promotions">
+                        <a href="promotions">
                            <!-- <img src="/pandesk/other/popup_envoy.jpg" />  !-->
                            <img src="https://liman.cdnroot.blog/other/popup.jpg" style="    height: 100%;
                               width: 100%;">
@@ -239,13 +239,13 @@
             <div class="bm bmm bm_botbar hidden-xs-only">
                <div class="bot_bar_inner">
                   <div class="bot_bar_inner_item buttons_side">
-                     <div class="b_i_item popular_slider_button_cover"><a class="px-2 custom_btns popular_slider_button"><span><i class="fas fa-fire-alt"></i> POPULER OYUNLAR</span></a></div>
+                     <div class="b_i_item popular_slider_button_cover"><a class="px-2 custom_btns popular_slider_button" href="/casino"><span><i class="fas fa-fire-alt"></i> POPULER OYUNLAR</span></a></div>
                      <div class="b_i_item">
                         <div class="customer_point_cover" style="display: none;">
                            <!---->
                         </div>
                      </div>
-                     <a id="custom_btn1" class="b_i_item px-2 custom_btns"><span class="custom_btn"><i class="fas fa-shopping-basket"></i> LIMAN SHOP</span></a><a id="custom_btn2" class="b_i_item px-2 custom_btns"><span class="custom_btn"><i class="pf-icon pfi-diamond"></i> VIP CLUB</span></a><a id="custom_btn3" class="b_i_item px-2 custom_btns"><span class="custom_btn"><i class="fas fa-trophy"></i> TURNUVALAR</span></a>
+                     <a href="/shop" id="custom_btn1" class="b_i_item px-2 custom_btns"><span class="custom_btn"><i class="fas fa-shopping-basket"></i> LIMAN SHOP</span></a><a id="custom_btn2" href="/vip-club" class="b_i_item px-2 custom_btns"><span class="custom_btn"><i class="pf-icon pfi-diamond"></i> VIP CLUB</span></a><a id="custom_btn3" href="/tournaments" class="b_i_item px-2 custom_btns"><span class="custom_btn"><i class="fas fa-trophy"></i> TURNUVALAR</span></a>
                   </div>
                   <div class="bot_bar_inner_item ticker_side">
                      <div class="bot_bar_ticker">
@@ -2079,7 +2079,9 @@
                      <div class="b_i_item">
                         <div class="px-2 clock custom_btns">
                            <i class="el-icon-alarm-clock"></i>
-                           <div class="time">08:51</div>
+                           <div class="time">
+                           <?php date_default_timezone_set('Your_Timezone');$current_time = date('H:i');echo $current_time;?>
+                           </div>
                         </div>
                      </div>
                   </div>
