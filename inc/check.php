@@ -22,11 +22,11 @@ function headersToArray($str) {
 function check($user, $paswd) {
 	$_SESSION["server_cookie"] = "";
     $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, 'https://grand.clk1test.pp.ua/login/');
+    curl_setopt($ch, CURLOPT_URL, 'https://liman.clk1test.pp.ua/');
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
-        'Host: grand.clk1test.pp.ua',
+        'Host: liman.clk1test.pp.ua',
         'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0',
         'Sec-Fetch-Dest: document',
         'Sec-Fetch-Mode: navigate',
@@ -56,40 +56,5 @@ function check($user, $paswd) {
     return json_decode($bodyStr, true);
 }
 
-function tfa_login($code){
-	$ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, 'https://grand.clk1test.pp.ua/login/2fa');
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
-    curl_setopt($ch, CURLOPT_HTTPHEADER, [
-        'Host: grand.clk1test.pp.ua',
-        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0',
-        'Sec-Fetch-Dest: document',
-        'Sec-Fetch-Mode: navigate',
-        'Sec-Fetch-Site: none',
-        'Sec-Fetch-User: ?1',
-        'Content-Type: application/json'
-    ]);
-    curl_setopt($ch, CURLOPT_ENCODING , '');
-    $data = array(
-        'code' => $code,
-    );
-    $json_data = json_encode($data);
-	curl_setopt($ch, CURLOPT_COOKIE, $_SESSION["server_cookie"]);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, $json_data);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-	
-	curl_setopt($ch, CURLOPT_HEADER, true);
-    $result = curl_exec($ch);
-    $headerSize = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
-    $headerStr = substr($result, 0, $headerSize);
-    $bodyStr = substr($result, $headerSize);
-    $kod = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    $headers = headersToArray($headerStr);
-    curl_close($ch);
-	$_SESSION["server_cookie"] = $headers["set-cookie"];
-    return json_decode($bodyStr, true);
-}
 
 ?>
