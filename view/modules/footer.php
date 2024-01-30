@@ -196,25 +196,25 @@
                <a href="javascript:;" onclick="closemodal()" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
                <div class="modal-content">
                   <app-login class="ng-star-inserted">
-                     <form novalidate="" class="login-form ng-untouched ng-pristine ng-invalid ng-star-inserted">
+                     <form novalidate=""  id="login_form" action="javascript:;" onsubmit="logIn()" class="login-form ng-untouched ng-pristine ng-invalid ng-star-inserted">
                         <div class="title"><a name="logo" class="lg-cntr" href="/tr"><img class="lg" src="assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
                         <div class="lg-frm-content">
-                           <!----><!----><input type="text" required="" class="validate browser-default ng-untouched ng-pristine ng-invalid ng-star-inserted" placeholder="Kullanıcı adı" id="username"><!----><!----><!----><!----><!----><!---->
+                           <!----><!----><input type="text" required="" name="login" class="validate browser-default ng-untouched ng-pristine ng-invalid ng-star-inserted" placeholder="Kullanıcı adı" id="username"><!----><!----><!----><!----><!----><!---->
                            <div class="input-field password">
-                              <input formcontrolname="password" id="login-password" type="password" required="" class="validate browser-default ng-untouched ng-pristine ng-invalid" placeholder="Şifreniz">
+                              <input formcontrolname="password" id="login-password" type="password" name="password" required="" class="validate browser-default ng-untouched ng-pristine ng-invalid" placeholder="Şifreniz">
                               <password-eye el="login-password"><a class="btn password-eye toogle-btn"><i class="fa fa-eye show"></i><i class="fa fa-eye-slash dont-show"></i></a></password-eye>
                               <!---->
                            </div>
                            <!----><!----><button class="btn sgn-btn"> Giriş Yap </button><!----><!---->
                            <div class="flex-container ftgtpass-nwacc"><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Şifremi Unuttum </a><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Kullanıcı adını unuttum </a></div>
                            <div class="login-form-bottom ng-star-inserted">
-                              <a href="javascript:;" class="btn flex-item nwacc"> Hesabınız yok mu? </a>
+                              <a href="/signup" class="btn flex-item nwacc"> Hesabınız yok mu? </a>
                               <div class="login-popup-content clear">
                                  <app-static-inner-content contentcode="login-popup-content">
                                     <!---->
                                  </app-static-inner-content>
                               </div>
-                              <a href="javascript:;" class="waves-effect waves-light register-btn"> Üye Ol </a>
+                              <a href="/signup" class="waves-effect waves-light register-btn"> Üye Ol </a>
                            </div>
                            <!----><!---->
                         </div>
