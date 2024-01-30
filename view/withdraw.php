@@ -87,7 +87,7 @@ if ($detect->isMobile()) {?>
                                     <div class="flex-container">
                                        <!----><!---->
                                        <payment-icon class="ng-star-inserted">
-                                          <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Çekim" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/withdraw-413.png" width="100" height="33" class="envoysoft-withdraw"><!---->
+                                          <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Çekim" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-413.png" width="100" height="33" class="envoysoft-withdraw"><!---->
                                        </payment-icon>
                                        <!----><!---->
                                        <div class="flex-item ng-star-inserted">
@@ -122,7 +122,7 @@ if ($detect->isMobile()) {?>
                                  <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
                                     <div class="flex-container">
                                        <payment-icon class="ng-star-inserted">
-                                          <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
+                                          <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
                                        </payment-icon>
                                        <div class="flex-item ng-star-inserted">
                                           <div class="bnk-inf-fld bnk-fisrts">
@@ -153,7 +153,7 @@ if ($detect->isMobile()) {?>
                                     <div class="flex-container">
                                        <!----><!---->
                                        <payment-icon class="ng-star-inserted">
-                                          <img src="https://via.placeholder.com/100x33.png?text=Papara Çekim Form" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/withdraw-270.png" width="100" height="33" class="papara-form-withdraw"><!---->
+                                          <img src="https://via.placeholder.com/100x33.png?text=Papara Çekim Form" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-270.png" width="100" height="33" class="papara-form-withdraw"><!---->
                                        </payment-icon>
                                        <!----><!---->
                                        <div class="flex-item ng-star-inserted">
@@ -189,7 +189,7 @@ if ($detect->isMobile()) {?>
                                     <div class="flex-container">
                                        <!----><!---->
                                        <payment-icon class="ng-star-inserted">
-                                          <img src="https://via.placeholder.com/100x33.png?text=YouPayCoin Çekim" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/withdraw-715.png" width="100" height="33" class="upaycoins-withdraw"><!---->
+                                          <img src="https://via.placeholder.com/100x33.png?text=YouPayCoin Çekim" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-715.png" width="100" height="33" class="upaycoins-withdraw"><!---->
                                        </payment-icon>
                                        <!----><!---->
                                        <div class="flex-item ng-star-inserted">
@@ -225,7 +225,7 @@ if ($detect->isMobile()) {?>
                                     <div class="flex-container">
                                        <!----><!---->
                                        <payment-icon class="ng-star-inserted">
-                                          <img src="https://via.placeholder.com/100x33.png?text=Payfix Çekim Form" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/withdraw-836.png" width="100" height="33" class="payfix-form-withdraw"><!---->
+                                          <img src="https://via.placeholder.com/100x33.png?text=Payfix Çekim Form" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-836.png" width="100" height="33" class="payfix-form-withdraw"><!---->
                                        </payment-icon>
                                        <!----><!---->
                                        <div class="flex-item ng-star-inserted">
@@ -261,7 +261,7 @@ if ($detect->isMobile()) {?>
                                     <div class="flex-container">
                                        <!----><!---->
                                        <payment-icon class="ng-star-inserted">
-                                          <img src="https://via.placeholder.com/100x33.png?text=Seripopy Withdraw" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/withdraw-1872.png" width="100" height="33" class="seripopy-withdraw"><!---->
+                                          <img src="https://via.placeholder.com/100x33.png?text=Seripopy Withdraw" class="hide" hidden=""><img src="/images/limanbet/upload_files/withdraw-1872.png" width="100" height="33" class="seripopy-withdraw"><!---->
                                        </payment-icon>
                                        <!----><!---->
                                        <div class="flex-item ng-star-inserted">
@@ -297,7 +297,7 @@ if ($detect->isMobile()) {?>
                                     <div class="flex-container">
                                        <!----><!---->
                                        <payment-icon class="ng-star-inserted">
-                                          <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Withdraw" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/withdraw-1870.png" width="100" height="33" class="starpay-papara-withdraw"><!---->
+                                          <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Withdraw" class="hide" hidden=""><img src="/images/limanbet/upload_files/withdraw-1870.png" width="100" height="33" class="starpay-papara-withdraw"><!---->
                                        </payment-icon>
                                        <!----><!---->
                                        <div class="flex-item ng-star-inserted">

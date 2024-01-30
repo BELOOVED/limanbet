@@ -1,3 +1,4 @@
+<?php if(isset($us['id'])) {?>
 <div class="col s3 lft-cntnt">
                <div class="uinfoDom" style="background-color: #fff;color: #000;border-bottom: 1px solid #e0e0e0;text-align: center;">
                   <h5 class="u-name" style="font-size: 14px;padding-top: 6px;font-weight: bold;">
@@ -116,3 +117,6 @@
                   </ul>
                </div>
             </div>
+            <?php }else{
+                header('location: /');
+                }?>
