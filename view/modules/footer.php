@@ -2700,7 +2700,7 @@
       function openmodal(contentId, menuId) {
           $("body").css('overflow','hidden');
           $("#" + contentId).addClass("open");
-          $("modal-overlay").removeClass("hidden");
+          $(".modal-overlay").removeClass("hidden");
 
           $("#" + contentId).removeClass("hidden");
    
@@ -2712,7 +2712,7 @@
          $(".modal").addClass("hidden");
          $(".modal").removeClass("open");
          $("body").css('overflow','scroll');
-         $("modal-overlay").addClass("hidden");
+         $(".modal-overlay").addClass("hidden");
       
       }
       </script>
