@@ -908,8 +908,8 @@ if ($detect->isMobile()) {?>
                         </app-static-inner-content>
                         <!----><!---->
                      </div>
-                     <div id="PaymentFormModal" materialize="modal" class="modal open dshbrd-modal pymnt-mdl" style="z-index: 1079;">
-                        <payment-form class="modal hidden" id="htur1">
+                     <div id="PaymentFormModal" materialize="modal" class="modal open dshbrd-modal pymnt-mdl hidden" style="z-index: 1047; display: block; opacity: 1; transform: scaleX(1); top: 10%;">
+                        <payment-form class="modal1 hidden" id="htur1">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -1224,7 +1224,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur2">
+                        <payment-form class="modal1 hidden" id="htur2">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -1550,7 +1550,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur3">
+                        <payment-form class="modal1 hidden" id="htur3">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -1884,7 +1884,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur4">
+                        <payment-form class="modal1 hidden" id="htur4">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -2131,7 +2131,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur5">
+                        <payment-form class="modal1 hidden" id="htur5">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -2412,7 +2412,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur6">
+                        <payment-form class="modal1 hidden" id="htur6">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -2687,7 +2687,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur7">
+                        <payment-form class="modal1 hidden" id="htur7">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -2977,7 +2977,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur8">
+                        <payment-form class="modal1 hidden" id="htur8">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -3267,7 +3267,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur9">
+                        <payment-form class="modal1 hidden" id="htur9">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -3559,7 +3559,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur10">
+                        <payment-form class="modal1 hidden" id="htur10">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -3849,7 +3849,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur11">
+                        <payment-form class="modal1 hidden" id="htur11">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -4096,7 +4096,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur12">
+                        <payment-form class="modal1 hidden" id="htur12">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -4386,7 +4386,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur13">
+                        <payment-form class="modal1 hidden" id="htur13">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -4676,7 +4676,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur14">
+                        <payment-form class="modal1 hidden" id="htur14">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -4966,7 +4966,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur15">
+                        <payment-form class="modal1 hidden" id="htur15">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -5256,7 +5256,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur16">
+                        <payment-form class="modal1 hidden" id="htur16">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -5548,7 +5548,7 @@ if ($detect->isMobile()) {?>
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                         </payment-form>
-                        <payment-form class="modal hidden" id="htur17">
+                        <payment-form class="modal1 hidden" id="htur17">
                            <!----><!---->
                            <div class="modal-content">
                               <div class="dshbrd-mdl pymnt-mdl">
@@ -5814,12 +5814,14 @@ if ($detect->isMobile()) {?>
    function openpaymentmodal(contentId) {
           closepaymentmodal();
           $("body").css('overflow','hidden');
+          $(".modal").removeClass("hidden");
           $(".modal-overlay").removeClass("hidden");
           $("#htur" + contentId).removeClass("hidden");
       }
       function closepaymentmodal() {
           $("body").css('overflow','scroll');
-          $(".modal").addClass("hidden");
+          
+          $(".modal1").addClass("hidden");
           $(".modal-overlay").addClass("hidden");
           
       }
