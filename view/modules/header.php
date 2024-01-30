@@ -473,7 +473,7 @@
                                                       <i class="material-icons pg-icons left">person</i><!----><span title="Ana Bakiye"><span><?=$us['balance']?><span class="currency-symbol"> ₺</span></span></span><i class="fa fa-refresh fa-fw pg-icons refresh-icon" title="Bakiyeyi Yenile"></i><i class="material-icons pg-icons right" title="Diğer Bakiyeler">arrow_drop_down</i>
                                                    </div>
                                                 </a>
-                                                <div class="dropdown-content balance-dropdropdown hidden menusaf1" id="balance-drop-2" style="white-space: nowrap; position: absolute; top: 36.9922px;; opacity: 1; display: block;">
+                                                <div class="dropdown-content balance-dropdropdown hidden menusaf1" onclick="closemenu()" id="balance-drop-2" style="white-space: nowrap; position: absolute; top: 36.9922px;; opacity: 1; display: block;">
                                                    <div class="balance-main">
                                                       <div class="balance-head"> Bakiyeyi Görüntüle </div>
                                                       <div class="balance-content ng-star-inserted">
@@ -552,7 +552,7 @@
                                           <li class="fix-hide"><a routerlinkactive="active" href="/history"> Bahis Geçmişi </a></li>
                                           <li>
                                              <a href="javascript:;" onclick="openmenu('2')" materialize="dropdown" data-activates="settings-drop" class="fill"><i class="material-icons pg-icons">settings</i> Hesap İşlemleri </a>
-                                             <div id="settings-drop hidden" class="dropdown-content menusaf2" style="white-space: nowrap; opacity: 1; position: absolute; top: 36.9922px; display: block;">
+                                             <div id="settings-drop" class="dropdown-content menusaf2 hidden" onclick="closemenu()" style="white-space: nowrap; opacity: 1; position: absolute; top: 36.9922px; display: block;">
                                                 <div class="content flex-container align-items-res">
                                                    <ul class="collection with-header">
                                                       <li class="collection-header">
