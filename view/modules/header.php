@@ -15,6 +15,16 @@
          font-weight: 400;
          src: url(https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff) format('woff');
          }
+         .csn-crd .crd-img img.gm-img {
+    min-width: 100%;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    height: -1%;
+}
          .material-icons {
          font-family: 'Material Icons';
          font-weight: normal;
