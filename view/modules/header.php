@@ -23,7 +23,7 @@
     top: 0;
     left: 0;
     z-index: 5;
-    height: -1%;
+    height: -1% !important;
 }
          .material-icons {
          font-family: 'Material Icons';
