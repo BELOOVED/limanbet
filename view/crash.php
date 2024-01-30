@@ -1,7 +1,7 @@
 <?php
 if ($detect->isMobile()) {?>
 <?php }else {?>
-<main>
+<main onclick="loginorp1ay()">
    <router-outlet></router-outlet>
    <app-games class="ng-star-inserted">
       <router-outlet></router-outlet>

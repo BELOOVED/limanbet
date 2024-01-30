@@ -2,7 +2,7 @@
 if ($detect->isMobile()) {?>
 
 <?php }else{?>
-    <main>
+    <main onclick="loginorp1ay()">
    <router-outlet></router-outlet>
    <app-placebet class="ng-star-inserted">
       <div class="clear static" id="">

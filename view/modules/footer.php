@@ -2721,4 +2721,53 @@
       <div class="modal-overlay hidden" style="z-index: 1032; display: block; opacity: 0.5;"></div>
    </body>
 </html>
+<?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
+<script>
+  
+	 function guncelleniyor(){
+      swal.fire('Hata!','Bu ödeme yöntemi güncelleniyor','warning');
+   }
+	<?php if(isset($us['id'])){ ?>
+   function yetersiz(){
+      swal.fire('Hata!','Yetersiz Bakiye, Canlı Desteke İletişime Geçiniz','warning');
+   }
+	<?php }else{?>
+	function yetersiz(){
+      openmodal('sgn-mdl', 'none');
+   }
+	<?php }?>
+
+
+function usernotdefined(){
+   swal.fire('Hata!','Kullanıcı Bulunamadı','error');
+}
+function discount(){
+   swal.fire('Tebrikler!','Talebiniz Alındı!','success');
+}
+function islemkisiti(){
+   Swal.fire({
+   title: 'Hata!',
+   html: 'Hesabınız Kısıtlandı! Canlı Destekle İle İletişime Geçiniz <br> <button onclick="maximizeTawkToWidget();" class="swal2-confirm swal2-styled">Canlı Desteğe Bağlan</button>',
+    icon: 'error',
+    showConfirmButton: false
+});
+
+}
+<?php if(isset($us['id'])){?>
+function loginorp1ay(){
+   Swal.fire({
+    title: 'Hata!',
+    icon: 'error',
+    html: 'Yetersiz Bakiye! Hesabınıza Yükleme Yapınız. <br> <button class="swal2-confirm swal2-styled"><a href="deposit">Para Yatır</a></button>',
+    showConfirmButton: false
+});
+}
+<?php }else{?>
+   function loginorp1ay(){
+      openmodal('sgn-mdl', 'none')
+   }
+   <?php }?>
+
+
+
 <?php }?>

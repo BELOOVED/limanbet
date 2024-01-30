@@ -1,7 +1,7 @@
 <?php
 if ($detect->isMobile()) {?>
 <?php }else {?>
-    <main><router-outlet></router-outlet><app-dynamic-content><!----><!----><div>
+    <main  onclick="loginorp1ay()"><router-outlet></router-outlet><app-dynamic-content><!----><!----><div>
 
 
 

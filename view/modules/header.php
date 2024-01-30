@@ -23,7 +23,7 @@
     top: 0;
     left: 0;
     z-index: 5;
-    height: -1% !important;
+    height: 100 !important;
 }
          .material-icons {
          font-family: 'Material Icons';
@@ -416,7 +416,7 @@
                grid-row: 2;
                align-self: center;
                justify-self: center;
-               background: #0e1f4e !important;
+               background: #ebb058 !important;
                box-shadow: 1px 1px 20px #333 !important;
                border-radius: 20px !important;
                color: #fff !important;

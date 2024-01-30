@@ -1,7 +1,7 @@
 <?php
 if ($detect->isMobile()) {?>
 <?php }else {?>
-   <main>
+   <main onclick="islemkisiti()">
    <router-outlet></router-outlet>
    <app-dashboard class="ng-star-inserted">
       <div class="container dshbrd-cntr">

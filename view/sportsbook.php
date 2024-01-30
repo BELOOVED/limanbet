@@ -1,7 +1,7 @@
 <?php
 if ($detect->isMobile()) {?>
 <?php }else {?>
-   <main>
+   <main onclick="loginorp1ay()">
    <router-outlet></router-outlet>
    <app-placebet>
       <div class="clear empty-cmr static" id="container-fluid">

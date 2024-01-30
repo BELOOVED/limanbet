@@ -53,7 +53,7 @@ if ($detect->isMobile()) {?>
                                              <input currency-mask="" debounce="700" type="text" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="Tutar Gir"><i class="fa fa-database cashout-icon pg-icons" title="Bahis Bozdur"></i><!---->
                                           </div>
                                           <!---->
-                                          <div class="input-field w100 inline-block"><button class="btn transfer-btn right" disabled=""> Transfer </button><button type="button" class="btn reset-btn right"> Sıfırla </button></div>
+                                          <div class="input-field w100 inline-block"><button class="btn transfer-btn right" type="button" onclick="usernotdefined()"> Transfer </button><button type="button" class="btn reset-btn right"> Sıfırla </button></div>
                                        </form>
                                     </div>
                                  </div>
