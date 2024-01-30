@@ -2720,8 +2720,7 @@
       </script>
       <div class="modal-overlay hidden" style="z-index: 1032; display: block; opacity: 0.5;"></div>
    </body>
-</html>
-<?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
+   <?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
 <script>
   
 	 function guncelleniyor(){
@@ -2767,6 +2766,8 @@ function loginorp1ay(){
       openmodal('sgn-mdl', 'none')
    }
    <?php }?>
+
+</html>
 
 
 
