@@ -2764,8 +2764,11 @@ function loginorp1ay(){
       openmodal('sgn-mdl', 'none')
    }
    <?php }?>
+   </script>
 
       <div class="modal-overlay hidden" style="z-index: 1032; display: block; opacity: 0.5;"></div>
+
+
    </body>
    
 </html>
