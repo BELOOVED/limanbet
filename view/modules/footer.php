@@ -2682,13 +2682,9 @@
       </bet-master>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
       <script>
-      function openmenu(element) {
-       var tabId = $(element).attr('id');
-       $('.tl_my_acc_cont_content').addClass('hidden');
-       $('.tl_my_acc_nav_item').removeClass('active');
-       $('.' + tabId).removeClass('hidden');
-       $('#' + tabId).addClass('active');
-
+      function openmenu(tabId) {
+       $('.menusaf' + tabId).removeClass('hidden');
+       $('.menusaf' + tabId).addClass('active');
    }
    
    function openmenu2(tabId) {
