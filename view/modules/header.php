@@ -473,7 +473,7 @@
                                                       <i class="material-icons pg-icons left">person</i><!----><span title="Ana Bakiye"><span><?=$us['balance']?><span class="currency-symbol"> ₺</span></span></span><i class="fa fa-refresh fa-fw pg-icons refresh-icon" title="Bakiyeyi Yenile"></i><i class="material-icons pg-icons right" title="Diğer Bakiyeler">arrow_drop_down</i>
                                                    </div>
                                                 </a>
-                                                <div class="dropdown-content balance-dropdropdown hidden menusaf1" onclick="closemenu()" id="balance-drop-2" style="white-space: nowrap; position: absolute; top: 36.9922px;; opacity: 1; display: block;">
+                                                <div class="dropdown-content balance-dropdropdown hidden menusaf1" onclick="closemenu()" id="balance-drop-2" style="white-space: nowrap; position: absolute; top: 36.9922px;; opacity: 1; display: block; display: flex; align-items: center;justify-content: center;flex-direction: column;right: 170;">
                                                    <div class="balance-main">
                                                       <div class="balance-head"> Bakiyeyi Görüntüle </div>
                                                       <div class="balance-content ng-star-inserted">
