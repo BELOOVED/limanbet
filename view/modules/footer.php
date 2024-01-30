@@ -2685,8 +2685,12 @@
       function openmenu(tabId) {
        $('.menusaf' + tabId).removeClass('hidden');
        $('.menusaf' + tabId).addClass('active');
+       closemenu();
    }
-   
+   function closemenu() {
+       $('.dropdown-content').addClass('hidden');
+       $('.dropdown-content').removeClass('hidden');
+   }
    function openmenu2(tabId) {
        $('.tl_my_acc_cont_content').addClass('hidden');
        $('.' + tabId).removeClass('hidden');
