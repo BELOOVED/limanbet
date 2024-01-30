@@ -467,7 +467,7 @@
                                        <ul class="clear">
                                           <li>
                                              <balance>
-                                                <a materialize="dropdown" href="javascript:;" onclick="openmanu('1')" class="waves-effect balance-dropdown-main waves-light dropdown-button" data-activates="balance-drop-2" style="">
+                                                <a materialize="dropdown" href="javascript:;" onclick="openmenu('1')" class="waves-effect balance-dropdown-main waves-light dropdown-button" data-activates="balance-drop-2" style="">
                                                    <!---->
                                                    <div class="left">
                                                       <i class="material-icons pg-icons left">person</i><!----><span title="Ana Bakiye"><span><?=$us['balance']?><span class="currency-symbol"> ₺</span></span></span><i class="fa fa-refresh fa-fw pg-icons refresh-icon" title="Bakiyeyi Yenile"></i><i class="material-icons pg-icons right" title="Diğer Bakiyeler">arrow_drop_down</i>
