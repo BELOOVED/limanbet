@@ -5670,7 +5670,6 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   top: 0;
   left: 0;
   z-index: 5;
-  height: 100%;
 }
 .csn-crd .crd-img img.gm-img.loading {
   position: relative;
