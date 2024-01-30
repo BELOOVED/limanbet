@@ -923,7 +923,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -936,7 +936,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -945,7 +945,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -954,7 +954,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -963,7 +963,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -972,7 +972,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -981,7 +981,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -990,7 +990,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -999,7 +999,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -1008,7 +1008,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -1017,7 +1017,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -1026,7 +1026,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -1035,7 +1035,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -1044,7 +1044,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -1053,7 +1053,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -1062,7 +1062,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -1071,7 +1071,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -1080,7 +1080,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -1238,7 +1238,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -1251,7 +1251,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -1260,7 +1260,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -1269,7 +1269,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -1278,7 +1278,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -1287,7 +1287,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -1296,7 +1296,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -1305,7 +1305,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -1314,7 +1314,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -1323,7 +1323,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -1332,7 +1332,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -1341,7 +1341,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -1350,7 +1350,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -1359,7 +1359,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -1368,7 +1368,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -1377,7 +1377,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -1386,7 +1386,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -1395,7 +1395,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -1564,7 +1564,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -1577,7 +1577,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -1586,7 +1586,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -1595,7 +1595,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -1604,7 +1604,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -1613,7 +1613,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -1622,7 +1622,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -1631,7 +1631,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -1640,7 +1640,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -1649,7 +1649,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -1658,7 +1658,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -1667,7 +1667,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -1676,7 +1676,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -1685,7 +1685,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -1694,7 +1694,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -1703,7 +1703,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -1712,7 +1712,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -1721,7 +1721,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -1898,7 +1898,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -1911,7 +1911,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -1920,7 +1920,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -1929,7 +1929,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -1938,7 +1938,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -1947,7 +1947,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -1956,7 +1956,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -1965,7 +1965,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -1974,7 +1974,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -1983,7 +1983,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -1992,7 +1992,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -2001,7 +2001,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -2010,7 +2010,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -2019,7 +2019,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -2028,7 +2028,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -2037,7 +2037,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -2046,7 +2046,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -2055,7 +2055,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -2145,7 +2145,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
                                           </payment-icon>
                                           <!----><!----><!----><!---->
                                           <h5>Banka Transferi</h5>
@@ -2158,7 +2158,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -2167,7 +2167,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -2176,7 +2176,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -2185,7 +2185,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -2194,7 +2194,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -2203,7 +2203,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -2212,7 +2212,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -2221,7 +2221,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -2230,7 +2230,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -2239,7 +2239,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -2248,7 +2248,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -2257,7 +2257,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -2266,7 +2266,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -2275,7 +2275,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -2284,7 +2284,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -2293,7 +2293,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -2302,7 +2302,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -2426,7 +2426,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
                                           </payment-icon>
                                           <!----><!----><!----><!---->
                                           <h5>Atm/Cep Bank ile Transfer</h5>
@@ -2439,7 +2439,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -2448,7 +2448,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -2457,7 +2457,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -2466,7 +2466,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -2475,7 +2475,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -2484,7 +2484,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -2493,7 +2493,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -2502,7 +2502,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -2511,7 +2511,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -2520,7 +2520,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -2529,7 +2529,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -2538,7 +2538,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -2547,7 +2547,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -2556,7 +2556,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -2565,7 +2565,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -2574,7 +2574,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -2583,7 +2583,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -2701,7 +2701,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -2714,7 +2714,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -2723,7 +2723,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -2732,7 +2732,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -2741,7 +2741,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -2750,7 +2750,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -2759,7 +2759,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -2768,7 +2768,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -2777,7 +2777,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -2786,7 +2786,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -2795,7 +2795,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -2804,7 +2804,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -2813,7 +2813,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -2822,7 +2822,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -2831,7 +2831,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -2840,7 +2840,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -2849,7 +2849,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -2858,7 +2858,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -2991,7 +2991,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -3004,7 +3004,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -3013,7 +3013,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -3022,7 +3022,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -3031,7 +3031,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -3040,7 +3040,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -3049,7 +3049,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -3058,7 +3058,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -3067,7 +3067,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -3076,7 +3076,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -3085,7 +3085,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -3094,7 +3094,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -3103,7 +3103,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -3112,7 +3112,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -3121,7 +3121,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -3130,7 +3130,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -3139,7 +3139,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -3148,7 +3148,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -3281,7 +3281,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -3294,7 +3294,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -3303,7 +3303,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -3312,7 +3312,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -3321,7 +3321,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -3330,7 +3330,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -3339,7 +3339,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -3348,7 +3348,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -3357,7 +3357,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -3366,7 +3366,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -3375,7 +3375,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -3384,7 +3384,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -3393,7 +3393,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -3402,7 +3402,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -3411,7 +3411,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -3420,7 +3420,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -3429,7 +3429,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -3438,7 +3438,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -3573,7 +3573,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -3586,7 +3586,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -3595,7 +3595,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -3604,7 +3604,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -3613,7 +3613,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -3622,7 +3622,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -3631,7 +3631,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -3640,7 +3640,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -3649,7 +3649,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -3658,7 +3658,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -3667,7 +3667,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -3676,7 +3676,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -3685,7 +3685,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -3694,7 +3694,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -3703,7 +3703,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -3712,7 +3712,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -3721,7 +3721,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -3730,7 +3730,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -3863,7 +3863,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -3876,7 +3876,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -3885,7 +3885,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -3894,7 +3894,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -3903,7 +3903,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -3912,7 +3912,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -3921,7 +3921,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -3930,7 +3930,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -3939,7 +3939,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -3948,7 +3948,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -3957,7 +3957,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -3966,7 +3966,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -3975,7 +3975,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -3984,7 +3984,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -3993,7 +3993,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -4002,7 +4002,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -4011,7 +4011,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -4020,7 +4020,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -4110,7 +4110,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -4123,7 +4123,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -4132,7 +4132,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -4141,7 +4141,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -4150,7 +4150,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -4159,7 +4159,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -4168,7 +4168,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -4177,7 +4177,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -4186,7 +4186,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -4195,7 +4195,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -4204,7 +4204,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -4213,7 +4213,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -4222,7 +4222,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -4231,7 +4231,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -4240,7 +4240,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -4249,7 +4249,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -4258,7 +4258,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -4267,7 +4267,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -4400,7 +4400,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -4413,7 +4413,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -4422,7 +4422,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -4431,7 +4431,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -4440,7 +4440,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -4449,7 +4449,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -4458,7 +4458,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -4467,7 +4467,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -4476,7 +4476,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -4485,7 +4485,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -4494,7 +4494,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -4503,7 +4503,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -4512,7 +4512,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -4521,7 +4521,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -4530,7 +4530,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -4539,7 +4539,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -4548,7 +4548,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -4557,7 +4557,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -4690,7 +4690,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -4703,7 +4703,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -4712,7 +4712,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -4721,7 +4721,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -4730,7 +4730,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -4739,7 +4739,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -4748,7 +4748,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -4757,7 +4757,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -4766,7 +4766,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -4775,7 +4775,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -4784,7 +4784,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -4793,7 +4793,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -4802,7 +4802,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -4811,7 +4811,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -4820,7 +4820,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -4829,7 +4829,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -4838,7 +4838,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -4847,7 +4847,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -4980,7 +4980,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -4993,7 +4993,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -5002,7 +5002,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -5011,7 +5011,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -5020,7 +5020,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -5029,7 +5029,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -5038,7 +5038,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -5047,7 +5047,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -5056,7 +5056,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -5065,7 +5065,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -5074,7 +5074,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -5083,7 +5083,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -5092,7 +5092,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -5101,7 +5101,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -5110,7 +5110,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -5119,7 +5119,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -5128,7 +5128,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -5137,7 +5137,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -5270,7 +5270,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -5283,7 +5283,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -5292,7 +5292,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -5301,7 +5301,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -5310,7 +5310,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -5319,7 +5319,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -5328,7 +5328,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -5337,7 +5337,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -5346,7 +5346,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -5355,7 +5355,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -5364,7 +5364,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -5373,7 +5373,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -5382,7 +5382,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -5391,7 +5391,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -5400,7 +5400,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -5409,7 +5409,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -5418,7 +5418,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -5427,7 +5427,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
@@ -5562,7 +5562,7 @@ if ($detect->isMobile()) {?>
                                     <div class="header-content">
                                        <div class="modal-title">
                                           <payment-icon>
-                                             <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
+                                             <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
                                           </payment-icon>
                                           <!----><!---->
                                           <h5>Para Yatırma</h5>
@@ -5575,7 +5575,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="55" height="18" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı Havale Yatırım</span><!---->
                                                 </a>
@@ -5584,7 +5584,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="55" height="18" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Envoy Hızlı QR Yatırım</span><!---->
                                                 </a>
@@ -5593,7 +5593,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="55" height="18" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Papara Yatırım</span><!---->
                                                 </a>
@@ -5602,7 +5602,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="55" height="18" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Youpaycoin Yatırım</span><!---->
                                                 </a>
@@ -5611,7 +5611,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <!----><span class="pymnt-name">Banka Transferi</span><!----><!---->
                                                 </a>
@@ -5620,7 +5620,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="55" height="18" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-name">Atm/Cep Bank ile Transfer</span><!----><!----><!---->
                                                 </a>
@@ -5629,7 +5629,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="55" height="18" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trend Havale Yatırım</span><!---->
                                                 </a>
@@ -5638,7 +5638,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="55" height="18" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Fixturka Deposit</span><!---->
                                                 </a>
@@ -5647,7 +5647,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="55" height="18" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Papara Deposit</span><!---->
                                                 </a>
@@ -5656,7 +5656,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="55" height="18" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Tiktak Havale Deposit</span><!---->
                                                 </a>
@@ -5665,7 +5665,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="55" height="18" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Trink Havale</span><!---->
                                                 </a>
@@ -5674,7 +5674,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="55" height="18" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Papara Deposit</span><!---->
                                                 </a>
@@ -5683,7 +5683,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="55" height="18" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Sistem Nakit Bank Deposit</span><!---->
                                                 </a>
@@ -5692,7 +5692,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="55" height="18" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Seripopy Deposit</span><!---->
                                                 </a>
@@ -5701,7 +5701,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="55" height="18" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Safirhavale Deposit</span><!---->
                                                 </a>
@@ -5710,7 +5710,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="55" height="18" class="hide"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">ScashMoney Bank Transfer Deposit</span><!---->
                                                 </a>
@@ -5719,7 +5719,7 @@ if ($detect->isMobile()) {?>
                                              <li>
                                                 <a href="javascript:;" class="bnk-field">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/55x18.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="55" height="18" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <!----><!----><span class="pymnt-name">Starpay Papara Deposit</span><!---->
                                                 </a>
