@@ -7,7 +7,13 @@ if ($detect->isMobile()) {?>
       <div class="container dshbrd-cntr">
          <div class="row">
          <?php include 'modules/sidebar.php' ?>
-
+<style>
+   .dshbrd-modal .modal-content .dshbrd-mdl .mdl-hdr .header-content .modal-close-button a i {
+    color: white;
+    margin-top: 7px;
+    margin-left: 1px;
+}
+</style>
             <div class="col s9 rght-cntnt">
                <router-outlet></router-outlet>
                <app-deposit-money class="ng-star-inserted">
@@ -1083,7 +1089,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -1398,7 +1404,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -1724,7 +1730,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -2058,7 +2064,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -2305,7 +2311,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -2586,7 +2592,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -2861,7 +2867,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -3151,7 +3157,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -3441,7 +3447,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -3733,7 +3739,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -4023,7 +4029,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -4270,7 +4276,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -4560,7 +4566,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -4850,7 +4856,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -5140,7 +5146,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -5430,7 +5436,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -5722,7 +5728,7 @@ if ($detect->isMobile()) {?>
                                           </ul>
                                           <!----><!----><!---->
                                        </div>
-                                       <div class="modal-close-button"><a><i class="fa fa-times"></i></a></div>
+                                       <div class="modal-close-button" onclick="closepaymentmodal()"><a><i class="fa fa-times"></i></a></div>
                                     </div>
                                     <!---->
                                  </div>
@@ -5814,7 +5820,7 @@ if ($detect->isMobile()) {?>
    function openpaymentmodal(contentId) {
           closepaymentmodal();
           $("body").css('overflow','hidden');
-          $(".modal").removeClass("hidden");
+          $(".pymnt-mdl").removeClass("hidden");
           $(".modal-overlay").removeClass("hidden");
           $("#htur" + contentId).removeClass("hidden");
       }
