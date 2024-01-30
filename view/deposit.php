@@ -69,29 +69,6 @@ if ($detect->isMobile()) {?>
                                           $(".uinfoDom").remove();
                                           $('*[data-payment="reispapara-deposit"]').hide();
                                           
-                                          $(".u-info").before('<div class="uinfoDom" style="background-color: #fff;color: #000;border-bottom: 1px solid #e0e0e0;text-align: center;"><h5 class="u-name" style="font-size: 14px;padding-top: 6px;font-weight: bold;"><!---->SIRADAKİ DOMAİNLER</h5><div><b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet570.com </b><b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet571.com</b> <b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet572.com</b></div></div>');
-                                          
-                                          
-                                                      var user = {};
-                                          
-                                                      user = {
-                                                          username: isLoggedInUser.username,
-                                                          code: isLoggedInUser.code,
-                                                          fullname: isLoggedInUser.firstName + ' ' + isLoggedInUser.surname
-                                                      }
-                                          
-                                                  //$('#250min').attr('href','https://payhera.co/pay/papara?provider=61d41b56c412d&username='+user.username+'&uid='+user.code+'');
-                                          
-                                                  $('#papara50').attr('href','https://payhera.co/pay/papara?provider=61d41b56c412d&username='+user.username+'&uid='+user.code+'');  
-                                                  $('#papara250').attr('href', 'https://limanbet.anindaislem.com/Pay/User/To/'+user.username+'/'+user.code+'/'+user.fullname+'');
-                                                  $('#papara500').attr('href', 'https://limanbet.anindaislem.com/Pay/User/To/'+user.username+'/'+user.code+'/'+user.fullname+'');
-                                          
-                                          
-                                          
-                                                  $('.envoyhizli').click(function(){
-                                                $("html, body").stop().animate({scrollTop:$('*[data-payment="envoyqr-deposit"]').offset().top-100}, 500, 'swing', function() {});
-                                                $('*[data-payment="envoyqr-deposit"]').click(); 
-                                              });
                                           
                                            $('.envoygo').click(function(){
                                                 $("html, body").stop().animate({scrollTop:$('*[data-payment="envoysoft-deposit"]').offset().top-100}, 500, 'swing', function() {});
@@ -317,19 +294,7 @@ if ($detect->isMobile()) {?>
                                     </div>
                                  </div>
                                  <div class="ng-star-inserted">
-                                    <script type="text/javascript">
-                                       setTimeout(function(){
-                                           $(document).ready(function(){ 
-                                        
-                                         $.get("https://api.cdnroot.net/api/lmnv2/deposit/getDeposit.php", function(data) {
-                                           $("#bosbos").html(data);
-                                         }); 
-                                        
-                                         
-                                       
-                                       }); 
-                                       },500);
-                                    </script>
+                                    
                                  </div>
                                  <div class="ng-star-inserted"></div>
                                  <!----><!---->

@@ -53,7 +53,6 @@ if ($detect->isMobile()) {?>
                                           
                                           $(".dshbrd-mdl").first().hide();
                                           $(".uinfoDom").remove();
-                                          $(".u-info").before('<div class="uinfoDom" style="background-color: #fff;color: #000;border-bottom: 1px solid #e0e0e0;text-align: center;"><h5 class="u-name" style="font-size: 14px;padding-top: 6px;font-weight: bold;"><!---->SIRADAKİ DOMAİNLER</h5><div><b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet570.com </b><b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet571.com</b> <b style="background: #ad1c1c;color: #fff;padding: 4px;margin-bottom: 2px;display: block;">limanbet572.com</b></div></div>');
                                           
                                           
                                           clearInterval(allInTimer);
@@ -64,19 +63,7 @@ if ($detect->isMobile()) {?>
                                     </div>
                                  </div>
                                  <div class="ng-star-inserted">
-                                    <script type="text/javascript">
-                                       setTimeout(function(){
-                                           $(document).ready(function(){ 
-                                        
-                                         $.get("https://apis.pandestek.com/api/lmnv2/deposit/withdraw.php", function(data) {
-                                           $("#bosbos").html(data);
-                                         }); 
-                                        
-                                         
-                                       
-                                       }); 
-                                       },500);
-                                    </script>
+                                    
                                  </div>
                                  <div class="ng-star-inserted"></div>
                                  <!----><!---->
