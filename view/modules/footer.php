@@ -2764,6 +2764,15 @@ function loginorp1ay(){
       openmodal('sgn-mdl', 'none')
    }
    <?php }?>
+   function maximizeTawkToWidget() {
+  Tawk_API.maximize();
+  window.Tawk_API.hideWidget();
+	
+}
+window.Tawk_API.onLoad = function(){
+    window.Tawk_API.hideWidget();
+};
+document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);
    </script>
 
       <div class="modal-overlay hidden" style="z-index: 1032; display: block; opacity: 0.5;"></div>
