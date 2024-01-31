@@ -1,5 +1,646 @@
 <?php
    if ($detect->isMobile()) {?>
+   <div id="btslpSld" style="top: 100%; padding-bottom: 0px;">
+               <app-bet-slip>
+                  <div id="btslp-hdr" class="bet-slip-header flex-container">
+                     <div class="bet-slip">
+                        <ul class="tabs tabs-fixed-width bet-slip-tabs fast-tab" style="background-color: transparent;">
+                           <li class="tab">
+                              <a href="javascript:;" class="bet-count active">
+                                 Kupon <!---->
+                              </a>
+                           </li>
+                           <!---->
+                        </ul>
+                     </div>
+                     <a href="javascript:;" class="coupon-close-btn betslipbtn btn"><i class="material-icons">close</i></a>
+                  </div>
+                  <!---->
+                  <div id="bet-slip-master" class="bet-slip-master history">
+                     <div class="bookabet-main">
+                        <!---->
+                     </div>
+                     <!----><!---->
+                     <div class="card-panel message-box center-align info empty_coupon_message"> Bahis yapabilmek için en az bir seçim yapılmalıdır </div>
+                     <!----><!----><!----><!----><!----><!---->
+                  </div>
+                  <!----><!----><!----><!----><!----><!----><!----><!---->
+               </app-bet-slip>
+            </div>
+            <div materialize="modal" class="modal" id="undefined" style="z-index: 1027;">
+               <!----><!----><!---->
+               <div class="modal-content">
+                  <!---->
+               </div>
+            </div>
+            <div id="cookies-top-modal" materialize="modal" class="modal bottom-sheet" style="z-index: 1029;">
+               <br>
+               <div class="modal-content">
+                  <div></div>
+                  <div></div>
+                  <a href="javascript:;" class="btn dont-show-again secondary-color right cookies-btn">Anladım</a>
+               </div>
+            </div>
+            <div id="cookies-bottom-modal" materialize="modal" class="modal bottom-sheet" style="z-index: 1031;">
+               <br>
+               <div class="modal-content">
+                  <div></div>
+                  <div></div>
+                  <a href="javascript:;" class="btn dont-show-again secondary-color right cookies-btn">Anladım </a>
+               </div>
+            </div>
+            <div id="mdl-on-enter" materialize="modal" class="modal" style="z-index: 1033; display: none; opacity: 0; transform: scaleX(0.7); top: 4%;">
+               <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><br>
+               <div class="modal-content">
+                  <div>
+                     <p>
+                        <a href="/tr/contents/promotions">
+                           <!-- <img src="https://cdnliman.b-cdn.net/other/popup_envoy.jpg" />  !-->
+                           <img src="https://liman.cdnroot.blog/other/popup.jpg?id=01" style="    height: 100%;
+                              width: 100%;">
+                        </a>
+                     </p>
+                     <style>
+                        #mdl-on-enter{
+                        max-width: 673px;
+                        }
+                        #mdl-on-enter p {
+                        margin:0;
+                        }
+                     </style>
+                  </div>
+                  <div></div>
+                  <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
+               </div>
+            </div>
+            <div id="home-page-modal" materialize="modal" class="modal" style="z-index: 1035;">
+               <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><br>
+               <div class="modal-content">
+                  <div></div>
+                  <div></div>
+                  <a href="javascript:;" class="btn dont-show-again">Bir Daha Gösterme</a>
+               </div>
+            </div>
+            <div materialize="modal" id="cNumpad" class="modal bottom-sheet number-keyboard" style="z-index: 1037;">
+               <app-custom-numpad>
+                  <div class="key-info">
+                     <!----> Yetersiz bakiye <!----><!---->
+                     <div class="flex-container first-row">
+                        <div class="text flex-item"> Olası Kazanç: </div>
+                        <div class="amount"><span>0.00<span class="currency-symbol"> ₺</span></span></div>
+                     </div>
+                     <!----><!---->
+                     <div class="flex-container sec-row">
+                        <div id="amountArea" libcnumpadamount="" class="amount flex-item">
+                           <div id="eas" class="text left numpad-amount"> Miktar gir </div>
+                           <span id="number" class="right">0</span><span id="css" class="right currency-symbol">₺</span><!---->
+                        </div>
+                     </div>
+                     <!----><!---->
+                  </div>
+                  <div class="flex-container fast-btns">
+                     <button class="flex-item btn">
+                        <span class="currency-symbol">₺</span><!----> 1 
+                     </button>
+                     <!---->
+                     <button class="flex-item btn">
+                        <span class="currency-symbol">₺</span><!----> 5 
+                     </button>
+                     <!---->
+                     <button class="flex-item btn">
+                        <span class="currency-symbol">₺</span><!----> 10 
+                     </button>
+                     <!---->
+                     <button class="flex-item btn">
+                        <span class="currency-symbol">₺</span><!----> 25 
+                     </button>
+                     <!---->
+                     <button class="flex-item btn">
+                        <span class="currency-symbol">₺</span><!----> 50 
+                     </button>
+                     <!---->
+                     <button class="flex-item btn">
+                        <span class="currency-symbol">₺</span><!----> 100 
+                     </button>
+                     <!----><!---->
+                  </div>
+                  <!----><!---->
+                  <div class="numbers-cont">
+                     <button class="item">1</button><!----><button class="item">2</button><!----><button class="item">3</button><!----><button class="item">4</button><!----><button class="item">5</button><!----><button class="item">6</button><!----><button class="item">7</button><!----><button class="item">8</button><!----><button class="item">9</button><!----><button class="item zero">0</button><!----><!----><button class="item">,</button><button class="item backspace"><i class="fa fa-backward"></i></button><button class="item enter">Tamam</button>
+                  </div>
+                  <!----><!---->
+               </app-custom-numpad>
+            </div>
+            <!---->
+         </app-out-component>
+         <!----><!----><!----><!---->
+      </app-root>
+      <div class="hiddendiv common"></div>
+      <bet-master merchant="pn35" language="tr" vce-ready="">
+         <div id="PanelFront">
+            <!---->
+            <div class="bm_popup_cover">
+               <div class="popup_cover"></div>
+               <!---->
+               <div class="bm_popup_mask" style="display: none;"></div>
+            </div>
+            <!----><!---->
+            <div class="bmm bm betmaster_helper">
+               <div class="helper_button">
+                  <div class="helper_btn_content">
+                     <div class="help_text hidden-xs-only"> Yardım </div>
+                     <div class="help_text hidden-sm-and-up"><i class="fas fa-info"></i></div>
+                  </div>
+               </div>
+               <div class="sidemenu">
+                  <div class="header">
+                     <div class="title">Yardım</div>
+                     <i class="el-icon-close close"></i>
+                  </div>
+                  <div class="content">
+                     <!----><a id="menu_btn1" class="helper_content_btn menu_btn"><i class="pf-icon pfi-spades"></i> VIP CLUB </a>
+                     <div class="helper_content_btn live_chat_side_btn"><i class="far fa-comment-alt"></i> Canlı Destek </div>
+                     <!----><a class="helper_content_btn shop_btn"><i class="far fa-shopping-cart"></i> Liman Shop </a><a class="helper_content_btn tournament_btn"><i class="fas fa-medal"></i> Turnuvalar </a>
+                     <div class="helper_content_btn point_table_btn"><i class="fas fa-list-alt"></i> Puan Tablosu </div>
+                     <!---->
+                     <div role="tablist" aria-multiselectable="true" class="el-collapse">
+                        <!---->
+                        <div class="el-collapse-item write_us_info">
+                           <div role="tab" aria-controls="el-collapse-content-466" aria-describedby="el-collapse-content-466">
+                              <div role="button" id="el-collapse-head-466" tabindex="0" class="el-collapse-item__header"><i class="far fa-envelope"></i> Bize Yazın <i class="el-collapse-item__arrow el-icon-arrow-right"></i></div>
+                           </div>
+                           <div role="tabpanel" aria-hidden="true" aria-labelledby="el-collapse-head-466" id="el-collapse-content-466" class="el-collapse-item__wrap" style="display: none;">
+                              <div class="el-collapse-item__content">
+                                 <div>Dilediğiniz zaman bize <span class="highlight">destek@limanbet.com</span> adresinden ulaşabilirsiniz.</div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="el-collapse-item call_collapse">
+                           <div role="tab" aria-controls="el-collapse-content-4952" aria-describedby="el-collapse-content-4952">
+                              <div role="button" id="el-collapse-head-4952" tabindex="0" class="el-collapse-item__header"><i class="el-icon-phone-outline"></i> Sizi Arayalım <i class="el-collapse-item__arrow el-icon-arrow-right"></i></div>
+                           </div>
+                           <div role="tabpanel" aria-hidden="true" aria-labelledby="el-collapse-head-4952" id="el-collapse-content-4952" class="el-collapse-item__wrap" style="display: none;">
+                              <div class="el-collapse-item__content">
+                                 <call-service theme="dark" vce-ready="">
+                                    <div class="bmm call_me_form dark">
+                                       <!---->
+                                       <div class="el-select call_me_inputs el-select--small">
+                                          <!---->
+                                          <div class="el-input el-input--small el-input--prefix el-input--suffix">
+                                             <!----><input type="text" readonly="readonly" autocomplete="off" placeholder="Aranmak İstediğiniz Zaman" class="el-input__inner">
+                                             <span class="el-input__prefix">
+                                                <i class="el-input__icon el-icon-watch"></i><!---->
+                                             </span>
+                                             <span class="el-input__suffix">
+                                                <span class="el-input__suffix-inner">
+                                                   <i class="el-select__caret el-input__icon el-icon-arrow-up"></i><!----><!----><!----><!----><!---->
+                                                </span>
+                                                <!---->
+                                             </span>
+                                             <!----><!---->
+                                          </div>
+                                          <div class="el-select-dropdown el-popper" style="display: none;">
+                                             <div class="el-scrollbar" style="">
+                                                <div class="el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default">
+                                                   <ul class="el-scrollbar__view el-select-dropdown__list">
+                                                      <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                                      <li class="el-select-dropdown__item"><span>11:00 - 12:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>12:00 - 13:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>13:00 - 14:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>14:00 - 15:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>15:00 - 16:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>16:00 - 17:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>17:00 - 18:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>18:00 - 19:00</span></li>
+                                                      <li class="el-select-dropdown__item"><span>19:00 - 20:00</span></li>
+                                                      <!---->
+                                                      <li class="el-select-dropdown__item"><span>21:00 - 22:00</span></li>
+                                                      <!----><!---->
+                                                   </ul>
+                                                </div>
+                                                <div class="el-scrollbar__bar is-horizontal">
+                                                   <div class="el-scrollbar__thumb" style="transform: translateX(0%);"></div>
+                                                </div>
+                                                <div class="el-scrollbar__bar is-vertical">
+                                                   <div class="el-scrollbar__thumb" style="transform: translateY(0%);"></div>
+                                                </div>
+                                             </div>
+                                             <!---->
+                                          </div>
+                                       </div>
+                                       <button disabled="disabled" type="button" class="el-button call_me_btn el-button--default el-button--small is-disabled">
+                                          <!----><!----><span>Gönder</span>
+                                       </button>
+                                    </div>
+                                 </call-service>
+                              </div>
+                           </div>
+                        </div>
+                        <!---->
+                        <div class="el-collapse-item app_collapse">
+                           <div role="tab" aria-controls="el-collapse-content-7436" aria-describedby="el-collapse-content-7436">
+                              <div role="button" id="el-collapse-head-7436" tabindex="0" class="el-collapse-item__header"><i class="fas fa-th-large"></i> Kolay Erişim <i class="el-collapse-item__arrow el-icon-arrow-right"></i></div>
+                           </div>
+                           <div role="tabpanel" aria-hidden="true" aria-labelledby="el-collapse-head-7436" id="el-collapse-content-7436" class="el-collapse-item__wrap" style="display: none;">
+                              <div class="el-collapse-item__content">
+                                 <div class="app_info"> Adres değişikliklerinden etkilenmemek için kolay erişim uygulamalarımızı indirebilirsiniz. </div>
+                                 <a href="https://limanbet.app" target="_blank" class="app_btns"><i class="fab fa-apple"></i> IOS Uygulaması</a>
+                                 <a href="https://limanbet.app" target="_blank" class="app_btns">
+                                    <div class="app_btn_inner"><i class="fab fa-android"></i> Android Uygulaması</div>
+                                    <!---->
+                                 </a>
+                                 <!---->
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <a class="helper_content_btn faq_btn"><i class="fas fa-info-circle"></i> Genel Sorular </a>
+                     <social-media theme="dark" vce-ready="">
+                        <div id="bm_socialmedia" class="bmm social_media_btns dark big_social">
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                        </div>
+                     </social-media>
+                  </div>
+               </div>
+            </div>
+            <div class="bmm panel_drawer scorematic_drawer">
+               <div class="sidemenu ">
+                  <div class="header">
+                     <div class="title">Scorematik</div>
+                     <i class="el-icon-close close"></i>
+                  </div>
+                  <div class="drawer_content"></div>
+                  <div class="drawer_loader"><i class="fas fa-circle-notch fa-spin"></i></div>
+               </div>
+            </div>
+            <div class="bmm panel_drawer pointtable_drawer">
+               <div class="sidemenu ">
+                  <div class="header">
+                     <div class="title">Puan Tablosu</div>
+                     <i class="el-icon-close close"></i>
+                  </div>
+                  <div class="drawer_content"></div>
+                  <div class="drawer_loader"><i class="fas fa-circle-notch fa-spin"></i></div>
+               </div>
+            </div>
+            <div class="bmm panel_drawer populargames_drawer">
+               <div class="sidemenu ">
+                  <div class="header">
+                     <div class="title"></div>
+                     <i class="el-icon-close close"></i>
+                  </div>
+                  <div class="drawer_content">
+                     <div class="bmm popular_games">
+                        <div class="popular_games_cover"></div>
+                     </div>
+                  </div>
+                  <!---->
+               </div>
+            </div>
+            <div class="bmm panel_drawer top_winners_drawer">
+               <div class="sidemenu ">
+                  <div class="header">
+                     <div class="title">En Çok Kazananlar</div>
+                     <i class="el-icon-close close"></i>
+                  </div>
+                  <div class="drawer_content">
+                     <top-winners type="casino" mobile="true" drawer="true" vce-ready="">
+                        <div class="bmm top_winners_contanier tabbed_winners" style="max-width: 100%;">
+                           <div class="topn_winners_title" style="display: none;">
+                              <span class="mark-fapk pf-icon pfi-cherry"></span><!----> En Çok Kazananlar 
+                           </div>
+                           <div class="top_winners_tabs"><button class="is_active">Günlük</button><button class="">Haftalık</button><button class="">Aylık</button></div>
+                           <div id="top_winners" class="top_winners_cover">
+                              <section class="top_winners_section is_active">
+                                 <div class="top_winners_title"> Günlük </div>
+                                 <div class="top_winners_table" style="min-height: 300px !important;">
+                                    <div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Emr****</span><strong class="game_name">Bigger Bass Bonanza™</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺162,600</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Emi****</span><strong class="game_name">Gates of Olympus 1000™</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺149,990</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/24336.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Srk****</span><strong class="game_name">Big Bass Amazon Xtreme™</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺130,800</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Exclusive Limits Blackjack VIP</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺100,000</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Exclusive Limits Blackjack VIP</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺100,000</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Srk****</span><strong class="game_name">Sugar Rush</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺92,625</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Emr****</span><strong class="game_name">Bigger Bass Bonanza™</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺82,656</span><!---->
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <!---->
+                                 </div>
+                              </section>
+                              <section class="top_winners_section">
+                                 <div class="top_winners_title"> Haftalık </div>
+                                 <div class="top_winners_table" style="min-height: 300px !important;">
+                                    <div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Sweet Bonanza</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺1,132,900</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Sev****</span><strong class="game_name">Gold Party™</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺689,200</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>boy****</span><strong class="game_name">Big Bass Splash</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺633,200</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Sev****</span><strong class="game_name">Sugar Rush</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺581,562</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Gates of Olympus™</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺540,325</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Sweet Bonanza</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺504,950</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/24452.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Blackjack C</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺400,000</span><!---->
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <!---->
+                                 </div>
+                              </section>
+                              <section class="top_winners_section">
+                                 <div class="top_winners_title"> Aylık </div>
+                                 <div class="top_winners_table" style="min-height: 300px !important;">
+                                    <div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/22541.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Ser****</span><strong class="game_name">Wild Wild Riches Megaways</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺1,196,250</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Sweet Bonanza</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺1,132,900</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>erc****</span><strong class="game_name">Sugar Rush</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺1,068,200</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2740.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Nig****</span><strong class="game_name">Extra Stars</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺695,000</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>Sev****</span><strong class="game_name">Gold Party™</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺689,200</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>boy****</span><strong class="game_name">Big Bass Splash</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺633,200</span><!---->
+                                          </div>
+                                       </div>
+                                       <div class="top_winners_table_row" style="min-height: 55px !important;">
+                                          <a class="game_image">
+                                             <div class="el-image">
+                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg" class="el-image__inner"><!---->
+                                             </div>
+                                          </a>
+                                          <div class="top_winners_games_column_user"><span>hay****</span><strong class="game_name">40 Burning Hot 6 Reels</strong></div>
+                                          <!---->
+                                          <div class="top_winners_games_column_profit">
+                                             <strong>Kazanç</strong><span>₺625,750</span><!---->
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <!---->
+                                 </div>
+                              </section>
+                           </div>
+                        </div>
+                     </top-winners>
+                  </div>
+                  <!---->
+               </div>
+            </div>
+            <div class="bmm panel_drawer custom_menu_drawer">
+               <div class="sidemenu ">
+                  <div class="header">
+                     <div class="title">En Çok Kazananlar</div>
+                     <i class="el-icon-close close"></i>
+                  </div>
+                  <div class="drawer_content"></div>
+                  <!---->
+               </div>
+            </div>
+            <div class="bmm bm betmaster_tournament_table">
+               <div class="tournament_button"><i class="fas fa-medal"></i></div>
+               <div class="sidemenu">
+                  <div class="header">
+                     <div class="title">Turnuvalar</div>
+                     <i class="el-icon-close close"></i>
+                  </div>
+                  <!---->
+               </div>
+            </div>
+            <div class="el-dialog__wrapper bt_modal" style="display: none;">
+               <div role="dialog" aria-modal="true" aria-label="dialog" class="el-dialog is-fullscreen">
+                  <div class="el-dialog__header"><span class="el-dialog__title"></span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div>
+                  <!----><!---->
+               </div>
+            </div>
+            <!---->
+            <div class="bmm betmaster_post_page" style="display: none;">
+               <div class="el-icon-close post_close_btn"></div>
+               <!----><!---->
+            </div>
+            <div class="bmm bm">
+               <!---->
+            </div>
+            <!----><!---->
+            <div class="el-dialog__wrapper participate_modal" style="display: none;">
+               <div role="dialog" aria-modal="true" aria-label="Katıl" class="el-dialog" style="margin-top: 15vh;">
+                  <div class="el-dialog__header"><span class="el-dialog__title">Katıl</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div>
+                  <!----><!---->
+               </div>
+            </div>
+         </div>
+      </bet-master>
+      <div class="drag-target" data-sidenav="left-menu" style="touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); left: 0px;"></div>
+      <div class="drag-target" data-sidenav="user-menu" style="touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); right: 0px;"></div>
+   </body>
+</html>
    <?php }else{?>
    <app-footer>
                   <footer class="page-footer">
