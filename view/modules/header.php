@@ -269,7 +269,7 @@
                <header id="hdr-c" class="navbar-fixed shw-fx">
                   <nav>
                      <div class="nav-wrapper">
-                        <a routerlink="/" class="logo logo-out" href="/"><img src="views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
+                        <a routerlink="/" class="logo logo-out" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
                      </div>
                   </nav>
                   <app-static-inner-content contentcode="m_header-static">
@@ -283,7 +283,7 @@
             <app-sidebar>
                <div id="left-menu" class="side-nav" style="transform: translateX(-100%);">
                   <div class="side-nav-header">
-                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img src="views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a></div>
+                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a></div>
                      <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
                   </div>
                   <div class="input-field search-one-input">
@@ -387,7 +387,7 @@
                <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(100%);">
                   <div class="side-nav-header">
                      <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
-                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
+                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="/assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
                   </div>
                   <!---->
                   <div class="logout-menu">
@@ -895,7 +895,7 @@
                               <div class="hdr-first-row clear fix-hide">
                                  <?php if(isset($us['id'])) {?>
                                  <div class="hdr-usr-mn right">
-                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="/assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!----><!---->
+                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="/assets//assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!----><!---->
                                     <div class="login-menu right ng-star-inserted">
                                        <ul class="clear">
                                           <li>
@@ -1056,7 +1056,7 @@
                                  </div>
                                  <?php }else{?>
                                  <div class="hdr-usr-mn right">
-                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!---->
+                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="assets//assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!---->
                                     <div class="logout-menu right">
                                        <a href="javascript:;" onclick="openmodal('sgn-mdl' , 'none')" class="login-btn"> Giriş </a><!----><a href="/signup"  class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a>
                                     </div>
@@ -1100,7 +1100,7 @@
                                  <?php }?>
                               </div>
                               <div id="menu-wrapper" class="hdr-top clear">
-                                 <a name="logo" class="lg-cntr left" href="/tr"><img src="assets/views/trader/limanbet/assets/images/logo.png" class="lg" alt="limanbet"></a>
+                                 <a name="logo" class="lg-cntr left" href="/tr"><img src="assets//assets/views/trader/limanbet/assets/images/logo.png" class="lg" alt="limanbet"></a>
                                  <div class="mn-menu-wrapper">
                                  <div class="mn-menu left">
                                        <ul data-element="mn-cont" class="clear">

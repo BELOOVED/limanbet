@@ -318,7 +318,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/16624.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Emr****</span><strong class="game_name">Bigger Bass Bonanza™</strong></div>
@@ -330,7 +330,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/26163.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Emi****</span><strong class="game_name">Gates of Olympus 1000™</strong></div>
@@ -342,7 +342,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/24336.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/24336.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Srk****</span><strong class="game_name">Big Bass Amazon Xtreme™</strong></div>
@@ -354,7 +354,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Exclusive Limits Blackjack VIP</strong></div>
@@ -366,7 +366,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/livecasino/300x200/18237.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Exclusive Limits Blackjack VIP</strong></div>
@@ -378,7 +378,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Srk****</span><strong class="game_name">Sugar Rush</strong></div>
@@ -390,7 +390,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/16624.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Emr****</span><strong class="game_name">Bigger Bass Bonanza™</strong></div>
@@ -410,7 +410,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Sweet Bonanza</strong></div>
@@ -422,7 +422,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Sev****</span><strong class="game_name">Gold Party™</strong></div>
@@ -434,7 +434,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/19982.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>boy****</span><strong class="game_name">Big Bass Splash</strong></div>
@@ -446,7 +446,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Sev****</span><strong class="game_name">Sugar Rush</strong></div>
@@ -458,7 +458,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Gates of Olympus™</strong></div>
@@ -470,7 +470,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Sweet Bonanza</strong></div>
@@ -482,7 +482,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/24452.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/livecasino/300x200/24452.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ali****</span><strong class="game_name">Blackjack C</strong></div>
@@ -502,7 +502,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/22541.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/22541.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Ser****</span><strong class="game_name">Wild Wild Riches Megaways</strong></div>
@@ -514,7 +514,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/8888.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>ark****</span><strong class="game_name">Sweet Bonanza</strong></div>
@@ -526,7 +526,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/20053.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>erc****</span><strong class="game_name">Sugar Rush</strong></div>
@@ -538,7 +538,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/2740.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/2740.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Nig****</span><strong class="game_name">Extra Stars</strong></div>
@@ -550,7 +550,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/17737.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>Sev****</span><strong class="game_name">Gold Party™</strong></div>
@@ -562,7 +562,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/19982.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>boy****</span><strong class="game_name">Big Bass Splash</strong></div>
@@ -574,7 +574,7 @@
                                        <div class="top_winners_table_row" style="min-height: 55px !important;">
                                           <a class="game_image">
                                              <div class="el-image">
-                                                <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg" class="el-image__inner"><!---->
+                                                <img src="https:/images/common/assets/images/casino/300x200/6461.jpg" class="el-image__inner"><!---->
                                              </div>
                                           </a>
                                           <div class="top_winners_games_column_user"><span>hay****</span><strong class="game_name">40 Burning Hot 6 Reels</strong></div>
@@ -708,7 +708,7 @@
                               </ul>
                            </div>
                            <div class="license">
-                              <a name="logo" class="lg-cntr left" href="/"><img src="assets/views/trader/limanbet/assets/images/logo-footer.png" class="lg" alt="limanbet"></a>
+                              <a name="logo" class="lg-cntr left" href="/"><img src="assets//assets/views/trader/limanbet/assets/images/logo-footer.png" class="lg" alt="limanbet"></a>
                               <div class="footer-payment">
                                  <div class="text-align"><i class="pg-icons visa"></i><i class="pg-icons mastercard"></i><i class="pg-icons maestro"></i><i class="pg-icons astropay"></i><i class="pg-icons banktransfer"></i><i class="pg-icons cepbank"></i><i class="pg-icons bitcoin"></i><i class="pg-icons papara"></i><i class="pg-icons hizlihavale"></i><i class="pg-icons hizliqr"></i></div>
                               </div>
@@ -838,7 +838,7 @@
                <div class="modal-content">
                   <app-login class="ng-star-inserted">
                      <form novalidate=""  id="login_form" action="javascript:;" class="login-form ng-untouched ng-pristine ng-invalid ng-star-inserted">
-                        <div class="title"><a name="logo" class="lg-cntr" href="/tr"><img class="lg" src="assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
+                        <div class="title"><a name="logo" class="lg-cntr" href="/tr"><img class="lg" src="assets//assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
                         <div class="lg-frm-content">
                            <!----><!----><input type="text" required="" name="login" class="validate browser-default ng-untouched ng-pristine ng-invalid ng-star-inserted" placeholder="Kullanıcı adı" id="username"><!----><!----><!----><!----><!----><!---->
                            <div class="input-field password">
