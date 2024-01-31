@@ -737,6 +737,107 @@
       </bet-master>
       <div class="drag-target" data-sidenav="left-menu" style="touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); left: 0px;"></div>
       <div class="drag-target" data-sidenav="user-menu" style="touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); right: 0px;"></div>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <script>
+      function openmenu(tabId) {
+         closemenu1();
+         closemenu2();
+
+       if(tabId == 'menusq'){
+         $("#left-menu").css('transform','translateX(0%)');
+       }else if(tabId == 'menusw'){
+         $("#user-menu").css('transform','translateX(100%)');
+       }
+       
+   }
+   function closemenu1() {
+      $("#left-menu").css('transform','translateX(-100%)');
+   }
+   function closemenu2() {
+      $("#user-menu").css('transform','translateX(0%)');
+   }
+   function openmenu2(tabId) {
+       $('.tl_my_acc_cont_content').addClass('hidden');
+       $('.' + tabId).removeClass('hidden');
+   }
+      function openmodal(contentId, menuId) {
+          $("body").css('overflow','hidden');
+          $("#" + contentId).addClass("open");
+          $(".modal-overlay").removeClass("hidden");
+
+          $("#" + contentId).removeClass("hidden");
+   
+      
+      
+          
+      }
+      function closemodal(){
+         $(".modal").addClass("hidden");
+         $(".modal").removeClass("open");
+         $("body").css('overflow','scroll');
+         $(".modal-overlay").addClass("hidden");
+      
+      }
+      </script>
+      <?=html_entity_decode($main['sources'], ENT_QUOTES, 'UTF-8')?>
+<script>
+  
+	 function guncelleniyor(){
+      swal.fire('Hata!','Bu ödeme yöntemi güncelleniyor','warning');
+   }
+	<?php if(isset($us['id'])){ ?>
+   function yetersiz(){
+      swal.fire('Hata!','Yetersiz Bakiye, Canlı Desteke İletişime Geçiniz','warning');
+   }
+	<?php }else{?>
+	function yetersiz(){
+      openmodal('sgn-mdl', 'none');
+   }
+	<?php }?>
+
+
+function usernotdefined(){
+   swal.fire('Hata!','Kullanıcı Bulunamadı','error');
+}
+function discount(){
+   swal.fire('Tebrikler!','Talebiniz Alındı!','success');
+}
+function islemkisiti(){
+   Swal.fire({
+   title: 'Hata!',
+   html: 'Hesabınız Kısıtlandı! Canlı Destekle İle İletişime Geçiniz <br> <button onclick="maximizeTawkToWidget();" class="swal2-confirm swal2-styled">Canlı Desteğe Bağlan</button>',
+    icon: 'error',
+    showConfirmButton: false
+});
+
+}
+<?php if(isset($us['id'])){?>
+function loginorp1ay(){
+   Swal.fire({
+    title: 'Hata!',
+    icon: 'error',
+    html: 'Yetersiz Bakiye! Hesabınıza Yükleme Yapınız. <br> <button class="swal2-confirm swal2-styled"><a href="deposit">Para Yatır</a></button>',
+    showConfirmButton: false
+});
+}
+<?php }else{?>
+   function loginorp1ay(){
+      openmodal('sgn-mdl', 'none')
+   }
+   <?php }?>
+   function maximizeTawkToWidget() {
+  Tawk_API.maximize();
+  window.Tawk_API.hideWidget();
+	
+}
+window.Tawk_API.onLoad = function(){
+    window.Tawk_API.hideWidget();
+};
+document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);
+   </script>
+
+      <div class="modal-overlay hidden" style="z-index: 1032; display: block; opacity: 0.5;"></div>
+
    </body>
 </html>
    <?php }else{?>
