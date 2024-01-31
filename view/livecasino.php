@@ -1,5 +1,588 @@
 <?php
 if ($detect->isMobile()) {?>
+<main>
+   <router-outlet></router-outlet>
+   <app-games class="ng-star-inserted">
+      <router-outlet></router-outlet>
+      <app-live-casino class="ng-star-inserted">
+         <div class="breadcrumb-wrapper flex-container">
+            <div class="breadcrumbs-cont flex-container flex-item">
+               <history-back-button><a class="breadcrumb"><i></i></a></history-back-button>
+               <a href="javascript:;" class="breadcrumb">Canlı Casino</a>
+            </div>
+            <div class="filter-toggle ng-star-inserted"><a href="javascript:;" class="filter-toggle-btn active"><i class="fa fa-filter"></i></a></div>
+            <!---->
+            <div class="casino-search-toogle ng-star-inserted"><i class="fa fa-search pg-icons"></i></div>
+            <!---->
+         </div>
+         <slider>
+            <!---->
+         </slider>
+         <app-static-inner-content contentcode="m_liveCasino-top">
+            <div extroutelink="" id="m_liveCasino-top" class="ng-star-inserted"><img src="https://cdnliman.b-cdn.net/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg" width="100%"></div>
+            <div class="ng-star-inserted"></div>
+            <div class="ng-star-inserted">
+               <style type="text/css">
+                  #com-egt-jackpot-html-jackpotBanner {
+                  display:none;
+                  }
+                  #jpf-container {
+                  display:none !important;
+                  }
+               </style>
+            </div>
+            <!----><!---->
+         </app-static-inner-content>
+         <div id="jpf-container" class="ng-star-inserted" style="width: 526px; height: 220.92px; display: block;"><iframe name="jpf-container" id="jpf-container-iframe" width="100%" height="100%" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" src="https://static.lgio.net/jpf-widget/html/index.html?sign=eyJhbGciOiJIUzI1NiJ9.eyJhcGlLZXkiOiJKalBMWmtGTyIsImV4cCI6MTc0NDYwMzYwMCwiaWF0IjoxNTgzMDY3NjAwLCJ1c2VyIjp7Imd1ZXN0Ijp0cnVlfSwianRpIjoiamFja3BvdC13aWRnZXQifQ.zACcWq7fsHl2jqafPNiCXG0B-giStQfuMVRKkbXxqRU%0D%0A&amp;redirectUrl=https%3A%2F%2Fm.limanbet569.com%2Ftr%2Fgames%2Fbingo%2F9427&amp;origin=https://m.limanbet569.com"></iframe></div>
+         <!---->
+         <div class="casino-options ng-star-inserted">
+            <div class="casino-filter">
+               <app-vendor-container>
+                  <select select-modal="" class="browser-default ng-untouched ng-pristine ng-valid">
+                     <option value="0" class="ng-star-inserted">Hepsi</option>
+                     <option value="24" class="ng-star-inserted">Amusnet</option>
+                     <option value="68" class="ng-star-inserted">Atmosfera</option>
+                     <option value="4" class="ng-star-inserted">BetGames</option>
+                     <option value="148" class="ng-star-inserted">El Casino</option>
+                     <option value="130" class="ng-star-inserted">Evolution</option>
+                     <option value="8" class="ng-star-inserted">Ezugi</option>
+                     <option value="145" class="ng-star-inserted">HoGaming</option>
+                     <option value="13" class="ng-star-inserted">LiveGames</option>
+                     <option value="44" class="ng-star-inserted">Lotto Instant Win</option>
+                     <option value="7" class="ng-star-inserted">Lucky Streak</option>
+                     <option value="80" class="ng-star-inserted">Pragmatic Play</option>
+                     <option value="126" class="ng-star-inserted">Swintt</option>
+                     <option value="104" class="ng-star-inserted">TVBET</option>
+                     <option value="18" class="ng-star-inserted">VivoGaming</option>
+                     <option value="146" class="ng-star-inserted">Winfinity</option>
+                     <option value="6" class="ng-star-inserted">XProGaming</option>
+                     <!---->
+                  </select>
+               </app-vendor-container>
+            </div>
+         </div>
+         <!----><!----><!----><!----><!---->
+         <div id="type1" class="ng-star-inserted">
+            <app-category-container>
+               <owl-carousel-o _nghost-fxd-c77="" class="ng-star-inserted">
+                  <div _ngcontent-fxd-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
+                     <div _ngcontent-fxd-c77="" class="owl-stage-outer ng-star-inserted">
+                        <owl-stage _ngcontent-fxd-c77="" class="ng-tns-c78-12 ng-star-inserted">
+                           <div class="ng-tns-c78-12">
+                              <div class="owl-stage ng-tns-c78-12" style="width: 3682px; transform: translate3d(-920px, 0px, 0px); transition: all 0s ease 0s;">
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Direkt Lobi (13) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Diğer Oyunlar (29) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Live Show (20) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Loto (32) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Masa Oyunları (3) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Texas Hold'em (3) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab active"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Hepsi (778) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Size Özel (198) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Popüler (27) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Yeni (52) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Rulet (105) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Poker (14) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Bakarat (144) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Blackjack (415) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Direkt Lobi (13) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Diğer Oyunlar (29) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Live Show (20) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Loto (32) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Masa Oyunları (3) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Texas Hold'em (3) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab active"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Hepsi (778) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Size Özel (198) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Popüler (27) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Yeni (52) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Rulet (105) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Poker (14) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!---->
+                                 <div class="owl-item ng-tns-c78-12 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                    <div class="events ng-star-inserted" style=""><a class="horizontal-slide-tab"><span class="icon"><i class="material-icons pg-icons">stars</i></span><span class="type truncate"> Bakarat (144) </span></a></div>
+                                    <!----><!---->
+                                 </div>
+                                 <!----><!---->
+                              </div>
+                           </div>
+                        </owl-stage>
+                     </div>
+                     <!---->
+                     <div _ngcontent-fxd-c77="" class="owl-nav ng-star-inserted">
+                        <div _ngcontent-fxd-c77="" class="owl-prev"><i class="fa fa-chevron-left"></i></div>
+                        <div _ngcontent-fxd-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
+                     </div>
+                     <div _ngcontent-fxd-c77="" class="owl-dots disabled ng-star-inserted">
+                        <!---->
+                     </div>
+                     <!----><!---->
+                  </div>
+               </owl-carousel-o>
+               <!---->
+            </app-category-container>
+            <!----><!----><!---->
+            <div class="modul-content">
+               <div class="row casino-content">
+                  <!---->
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Craps" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/18119.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="evol" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/evol.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Craps </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Crazy Time" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/18190.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="evol" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/evol.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Crazy Time </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Auto-Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/18225.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="evol" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/evol.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Auto-Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Immersive Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/18503.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="evol" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/evol.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Immersive Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Lightning Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/18091.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="evol" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/evol.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Lightning Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Turkish Lightning Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/18303.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="evol" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/evol.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Turkish Lightning Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Auto Mega Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/24549.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="pragmatic_play" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/pragmatic_play.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Auto Mega Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Roulette 1 - Azure " src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/11376.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                              <div class="new new-tags ng-star-inserted">Drops&amp;Wins</div>
+                              <!----><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="pragmatic_play" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/pragmatic_play.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Roulette 1 - Azure  </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/24325.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="elcasino_tvbet" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/elcasino_tvbet.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Roulette 6 - Turkish" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/9395.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!---->
+                              <div class="new new-tags ng-star-inserted">Drops&amp;Wins</div>
+                              <!----><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="pragmatic_play" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/pragmatic_play.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Roulette 6 - Turkish </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Privé Lounge Blackjack 3" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/24675.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="pragmatic_play" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/pragmatic_play.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Privé Lounge Blackjack 3 </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Prestige Auto Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/8978.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="ezugi" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/ezugi.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Prestige Auto Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Türkçe Rulet" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/699.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="ezugi" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/ezugi.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Türkçe Rulet </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Betgames War of Bets" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/645.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="betg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/betg.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Betgames War of Bets </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Speed Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/4474.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="ezugi" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/ezugi.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Speed Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Speed Auto Roulette" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/5450.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="ezugi" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/ezugi.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Speed Auto Roulette </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Blackjack B" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/24451.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="atmosfera" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/atmosfera.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Blackjack B </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Blackjack C" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/24452.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="atmosfera" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/atmosfera.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Blackjack C </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Blackjack A" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/24450.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="atmosfera" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/atmosfera.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Blackjack A </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Black Jack E" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/26377.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="atmosfera" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/atmosfera.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Black Jack E </a>
+                  </div>
+                  <div class="col s4 game-card ng-star-inserted">
+                     <div class="card-image">
+                        <a href="javascript:;">
+                           <img class="game-img" alt="Black Jack D" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/26376.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <span class="inf">
+                              <span class="new ng-star-inserted">Yeni</span><!----><span class="popular ng-star-inserted">Popüler</span><!----><!---->
+                           </span>
+                           <app-user-favorite classes="fvrt-lnk left">
+                              <!---->
+                           </app-user-favorite>
+                           <span class="vendor-wrap"><span class="pg-icons"><img class="vendor-img" alt="atmosfera" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/atmosfera.png"></span></span>
+                        </a>
+                     </div>
+                     <a href="javascript:;" class="game-name"> Black Jack D </a>
+                  </div>
+                  <!----><!----><!----><!---->
+               </div>
+               <div class="row ng-star-inserted">
+                  <!---->
+                  <div class="col s6 s12 ng-star-inserted"><button class="casino-show-more"> Daha Fazla Oyun Göster </button></div>
+                  <!---->
+               </div>
+               <!----><!---->
+            </div>
+         </div>
+         <!----><!----><!---->
+         <div class="casino horizontal-slide-tabs flex-container main">
+            <div class="horizontal-slide-content flex-item">
+               <a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/casino"><span class="icon"><i class="icon cherry pg-icons"></i></span><span class="type truncate"> Casino </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/games/tv-games"><span class="icon"><i class="pg-icons fa fa-television"></i></span><span class="type truncate"> TVBET </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/virtuals"><span class="icon"><i class="fa fa-university pg-icons"></i></span><span class="type truncate"> Sanal Bahis </span></a>
+            </div>
+         </div>
+         <app-static-inner-content contentcode="m_liveCasino-bottom">
+            <!---->
+         </app-static-inner-content>
+         <!---->
+      </app-live-casino>
+      <!---->
+      <app-esa-games class="ng-star-inserted"></app-esa-games>
+      <!---->
+   </app-games>
+   <!---->
+   <payments-widget>
+      <!---->
+      <div id="PaymentFormModal" materialize="modal" class="modal modal-md open dshbrd-modal pymnt-mdl black-text" style="z-index: 1025;">
+         <div class="modal-header"><a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons white-text">close</i></a></div>
+         <!---->
+      </div>
+   </payments-widget>
+</main>
 <?php }else {?>
    <main onclick="loginorp1ay()">
    <router-outlet></router-outlet>

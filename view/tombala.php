@@ -1,5 +1,27 @@
 <?php
 if ($detect->isMobile()) {?>
+<main>
+   <router-outlet></router-outlet>
+   <app-games class="ng-star-inserted">
+      <router-outlet></router-outlet>
+      <app-bingo class="ng-star-inserted">
+         <!----><!----><!----><!---->
+         <div class="gm-bx ng-star-inserted">
+            <iframe id="gm-frm" frameborder="0" scrolling="no" allow="autoplay; screen-wake-lock;" class="iframeDefaultSize ng-star-inserted" width="100%" height="909px" src="https://casino.pronetgaming.eu/livegames.php?k=WHdLDv3Ie9aE1i2WcBbu%2Ba5fJJ%2FiWlfgTOydugfqxI4rZTOQT4xvhnxB%2Bbz3LH1QqdkuRhWMLV6fckdjkeOPpDFwIfPAE87a3Hkf18rrVRWvu17uc05RgGiGJXtNBbmu3DJh33zEOQLBTasQ1jHYEt57bhbi%2BbJo7weduY%2F2XLpf0qoofgJLmefJGYRi4CgcUk%2FlDddICo6mDObvaKShRnNFPEVL%2FZsF03PM6ONGx%2FFa0%2BlU2ZmPe1s6l%2FW3S7gcGaYKC1qThvx45OfeDXcxgrhLzdDp3%2Fln0DlVK5oH7%2BwbYK7UncWX7MHk12q5hq9zocB3nbDppjyUDC9yfk8QJ0Wj7%2FOQ1Ws%2FFP3VafIOIkmlgngjrf5ZcmiwqVQiMyOSFs7Y4OGolShSOIdpSCnzhQ%3D%3D"></iframe><!---->
+         </div>
+         <!----><!----><!---->
+      </app-bingo>
+      <!----><!---->
+   </app-games>
+   <!---->
+   <payments-widget>
+      <!---->
+      <div id="PaymentFormModal" materialize="modal" class="modal modal-md open dshbrd-modal pymnt-mdl black-text" style="z-index: 1025;">
+         <div class="modal-header"><a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons white-text">close</i></a></div>
+         <!---->
+      </div>
+   </payments-widget>
+</main>
 <?php }else {?>
    <main onclick="loginorp1ay()">
    <router-outlet></router-outlet>

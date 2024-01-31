@@ -1,6 +1,104 @@
 <?php
    if ($detect->isMobile()) {?>
-   <div id="btslpSld" style="top: 100%; padding-bottom: 0px;">
+ <app-footer>
+                  <!---->
+                  <footer class="page-footer">
+                     <app-static-inner-content contentcode="footer-static">
+                        <div extroutelink="" id="footer-static">&nbsp; &nbsp;    </div>
+                        <div></div>
+                        <div></div>
+                        <!----><!---->
+                     </app-static-inner-content>
+                     <div class="footer-menu">
+                        <ul class="links">
+                           <li><a href="/tr/contents/about-us">Şirket Hakkında</a></li>
+                           <li><a href="/tr/contents/about-us-gen-terms-cond">Genel Şartlar ve Kurallar</a></li>
+                           <li><a href="/tr/contents/about-us-responsible-gaming">Sorumlu Oyun</a></li>
+                           <li><a href="/tr/contents/about-us-privacy-policy">Gizlilik Politikası</a></li>
+                           <li><a href="/tr/contents/about-us-terms-of-use">Kullanım Kuralları</a></li>
+                           <li><a href="/tr/contents/support-rules">Kurallar</a></li>
+                           <li><a href="/tr/contents/about-us-contact">Bize Ulaşın</a></li>
+                           <li><a href="/tr/contents/promotions-general-rules">Genel Bonus Kuralları</a></li>
+                           <li><a href="/tr/contents/cashout-content">Bahis Bozdur</a></li>
+                           <!---->
+                        </ul>
+                     </div>
+                     <div class="divider opacity-half mar-top-5"></div>
+                     <div class="footer-copyright">
+                        <div class="container">
+                           <span>© 2018 Copyright - limanbet Online Bahis Sitesi, En Yüksek Bahis Oranları, Canlı Bahisler ve Casino</span>
+                           <div class="playgo-content">
+                              <div class="container flex-container">
+                                 <div class="playgo-lisans">
+                                    <app-static-inner-content contentcode="licence-html">
+                                       <div extroutelink="" id="licence-html">
+                                          <div id="apg-c89816a9-6377-45ee-9276-aa6684453eae" data-apg-seal-id="c89816a9-6377-45ee-9276-aa6684453eae" data-apg-image-size="50" data-apg-image-type="basic-small"></div>
+                                       </div>
+                                       <div></div>
+                                       <div>
+                                          <style type="text/css">
+                                             #apg-c89816a9-6377-45ee-9276-aa6684453eae > div {min-width:64px !important;}
+                                          </style>
+                                       </div>
+                                       <!----><!---->
+                                    </app-static-inner-content>
+                                 </div>
+                                 <div class="playgo-text flex-item"> Limanbet.com website is owned and operated by PinBit N.V., a company incorporated under the laws of Curacao with company registration number 143584 and having its registered address at Heelsumstraat 51, E-Commerce Park, Curacao, authorised by Curacao Antillephone N.V. License Validator, Antillephone N.V. license number #8048/JAZ. </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="social-media">
+                        <social-links classes="social-links">
+                           <ul class="social-links">
+                              <li><a target="_blank" href="https://www.facebook.com/limanbetofficial"><i class="fa fa-facebook-square"></i></a></li>
+                              <!---->
+                              <li><a target="_blank" href="https://twitter.com/Liman_bet"><i class="fa fa-twitter-square"></i></a></li>
+                              <!----><!---->
+                              <li><a target="_blank" href="https://www.instagram.com/LimanBet2023"><i class="fa fa-instagram"></i></a></li>
+                              <!----><!----><!---->
+                              <li><a target="_blank" href="https://wa.me/447501141720"><i class="fa fa-whatsapp"></i></a></li>
+                              <!----><!----><!----><!----><!---->
+                           </ul>
+                        </social-links>
+                     </div>
+                     <div class="divider opacity-half mar-top-5"></div>
+                     <div class="footer-top">
+                        <div class="footer-partner">
+                           <div class="container center-align"><i class="netent"></i><i class="evolution"></i><i class="xpro"></i><i class="klas"></i><i class="pronet"></i></div>
+                        </div>
+                     </div>
+                     <div class="footer-payment">
+                        <div class="container center-align"><i class="visa"></i><i class="mastercard"></i><i class="maestro"></i><i class="astropay"></i><i class="banktransfer"></i><i class="cepbank"></i><i class="bitcoin"></i><i class="papara"></i><i class="hizli_havale"></i><i class="hizli_qr"></i></div>
+                     </div>
+                     <app-static-inner-content contentcode="m_footer-static">
+                        <!---->
+                     </app-static-inner-content>
+                     <app-static-inner-content contentcode="m_footer-for-setup">
+                        <div extroutelink="" id="m_footer-for-setup">
+                        </div>
+                        <div>
+                           <script type="text/javascript" src="https://c89816a9-6377-45ee-9276-aa6684453eae.snippet.antillephone.com/apg-seal.js"></script><script type="text/javascript"></script><script type="text/javascript">var sealCDN = setInterval(function(){
+                              if(typeof apg_c89816a9_6377_45ee_9276_aa6684453eae !== 'undefined'){
+                                clearInterval(sealCDN);
+                                setTimeout(function(){
+                                  apg_c89816a9_6377_45ee_9276_aa6684453eae.init();
+                                })
+                              }
+                              },50);
+                           </script>
+                        </div>
+                        <div>
+                           <style type="text/css">
+                              .temp-promocode-field {display:none!important;}
+                           </style>
+                        </div>
+                        <!----><!---->
+                     </app-static-inner-content>
+                  </footer>
+               </app-footer>
+            </div>
+ <div id="btslpSld" style="top: 100%; padding-bottom: 0px;">
                <app-bet-slip>
                   <div id="btslp-hdr" class="bet-slip-header flex-container">
                      <div class="bet-slip">

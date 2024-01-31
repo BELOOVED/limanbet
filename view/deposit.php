@@ -1,5 +1,1299 @@
 <?php
 if ($detect->isMobile()) {?>
+<main>
+   <router-outlet></router-outlet>
+   <app-dashboard class="ng-star-inserted">
+      <router-outlet></router-outlet>
+      <payment-component class="ng-star-inserted">
+         <router-outlet></router-outlet>
+         <deposit-money class="ng-star-inserted">
+            <deposit-withdraw-money>
+               <div class="breadcrumb-wrapper flex-container">
+                  <div class="breadcrumbs-cont flex-container flex-item">
+                     <history-back-button><a class="breadcrumb"><i></i></a></history-back-button>
+                     <a href="javascript:;" class="breadcrumb ng-star-inserted">Para Yatırma</a><!----><!---->
+                  </div>
+               </div>
+               <!----><!----><!---->
+               <div class="modul-accordion-account">
+                  <!---->
+                  <app-notifications>
+                     <div>
+                        <!---->
+                     </div>
+                  </app-notifications>
+                  <div class="modul-content">
+                     <div class="money-list-cont">
+                        <!----><!----><!----><!----><!---->
+                        <app-static-inner-content contentcode="m_deposit-link" class="ng-star-inserted">
+                           <div extroutelink="" id="m_deposit-link" class="ng-star-inserted">
+                              <div id="bosbos">
+                                 <style type="text/css">
+                                    #paymentDep {
+                                    width: 100%;
+                                    margin: 0 auto;
+                                    }
+                                    #paymentDep img{
+                                    width: 100%;
+                                    margin: 5px; 
+                                    }
+                                 </style>
+                                 <style>
+                                    /* The Modal (background) */
+                                    .modalDe {
+                                    display: none; /* Hidden by default */
+                                    position: fixed; /* Stay in place */
+                                    z-index: 1; /* Sit on top */
+                                    left: 0;
+                                    top: 0;
+                                    width: 100%; /* Full width */
+                                    height: 100%; /* Full height */
+                                    overflow: auto; /* Enable scroll if needed */
+                                    background-color: rgb(0,0,0); /* Fallback color */
+                                    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+                                    }
+                                    /* Modal Content/Box */
+                                    .modalDe-content {
+                                    background-color: #fefefe;
+                                    margin: 15% auto; /* 15% from the top and centered */
+                                    padding: 20px;
+                                    border: 1px solid #888;
+                                    color: #000;
+                                    width: 80%; /* Could be more or less, depending on screen size */
+                                    }
+                                    /* The Close Button */
+                                    .close {
+                                    color: #aaa;
+                                    float: right;
+                                    font-size: 28px;
+                                    font-weight: bold;
+                                    }
+                                    .close:hover,
+                                    .close:focus {
+                                    color: black;
+                                    text-decoration: none;
+                                    cursor: pointer;
+                                    }
+                                    #domains b {
+                                    background: #ca0202;
+                                    color: #fff;
+                                    padding: 4px;
+                                    }
+                                    .modul-accordion-account {
+                                    margin:  0px;
+                                    overflow: hidden;
+                                    }
+                                 </style>
+                                 <span style="
+                                    font-weight: bold;
+                                    color: #000;
+                                    padding: 4px;
+                                    color: #fff;
+                                    /* position: absolute; */
+                                    /* margin-top: -20px; */
+                                    text-align: center;
+                                    font-size: 12px;
+                                    width: 100%;
+                                    display: block;
+                                    ">SIRADAKİ DOMAİNLER</span>
+                                 <div id="domains" style="
+                                    text-align: center;
+                                    display: block;
+                                    margin-bottom: 4px;
+                                    "> <b>limanbet570.com </b><b style="margin-left: 4px;margin-right: 1px;">limanbet571.com</b> <b>limanbet572.com</b></div>
+                                 <script type="text/javascript">
+                                    setTimeout(function(){
+                                    $(document).ready(function () {
+                                    
+                                     
+                                     
+                                     
+                                                      var user = {};
+                                    
+                                                user = {
+                                                    username: isLoggedInUser.username,
+                                                    code: isLoggedInUser.code,
+                                                    fullname: isLoggedInUser.firstName + ' ' + isLoggedInUser.surname
+                                                }
+                                    
+                                    
+                                       // $('#250min').attr('href','https://payhera.co/pay/papara?provider=61d41b56c412d&username='+user.username+'&uid='+user.code+'');
+                                    
+                                    
+                                        $('#papara250').attr('href', 'https://limanbet.anindaislem.com/Pay/User/To/'+user.username+'/'+user.code+'/'+user.fullname+'');
+                                        $('#papara500').attr('href', 'https://limanbet.anindaislem.com/Pay/User/To/'+user.username+'/'+user.code+'/'+user.fullname+'');
+                                    
+                                    
+                                    
+                                    
+                                    
+                                        $('.parazula').attr('href', 'https://pzula.sistemnakit.com/parazula/start-parazula.php?secret=oCWDs5XeO8j9CXwnVt8m&intpay=true&userdata='+user.code+'&fullname='+user.fullname+'&amount=100');
+                                        $('#upaycoins').attr('href', '/tr/dashboard/payments/deposit-money/detail/softpay-deposit');
+                                    
+                                    
+                                        });
+                                    
+                                      },300);
+                                    
+                                 </script>
+                                 <script type="text/javascript">
+                                    function gotoBITCON() {
+                                    popupWindow = window.open(
+                                    //'https://neropay.com/tr/','_blank');
+                                    'https://metepay.com/transactions/1204223cf8711c7c41ff72a4d3c3ab0c','_blank','height=950,width=750,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+                                    }
+                                 </script>
+                                 <script>
+                                    var envoyAPI=envoyAPI||{},envoyUrl="https://envoysoft2.net/api",siteKey="ym0IFpRS",enVendor="p3";(function(){(function(f){var g=document.createElement("script"),h=document.getElementsByTagName("script");l=h.length,h=h[l-1],g.type="text/javascript",g.async=!0,g.src=f,h.parentNode.insertBefore(g,h)})(envoyUrl+"/api.1.0.min.js")})(envoyAPI||{});
+                                 </script>
+                                 <div id="paymentDep">
+                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit" id="envoygo" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/envoyhavale1.jpg"></a>
+                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoyqr-deposit" id="envoyqr" style="display: inline;"><img src="https://beluga.cdnroot.blog/deposit/mobile_envoyqr25.jpg"></a>
+                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit" id="envoygo" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/papara2.jpg"></a>
+                                    <!--  <a href="https://cdn.pandestek.com/deposit/bannerlar-beluga2.png" class="envoygo" target="_blank"  style="display: inline;"><img src="https://cdn.pandestek.com/deposit/en/lmn_deposit_qr1.jpg "/></a> !-->
+                                    <a id="open-btn" style="display: inline;"><img src="https://beluga.cdnroot.blog/deposit/oto_papara_m.jpg"></a>
+                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/kredikart22.jpg"></a>
+                                    <a href="/tr/dashboard/payments/deposit-money/detail/softpay-deposit" id="upaycoins" target="_blank" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/724sistem.jpg"></a>
+                                    <!--<a href=" " id="envoyqr" class="parazula" target="_blank"  style="display: inline;"><img src="https://cdn.pandestek.com/deposit/parazulanew.jpg" ></a> !-->
+                                 </div>
+                                 <div style="clear:both;"></div>
+                                 <!-- Modal Background and Modal -->
+                                 <div id="modal-background">
+                                    <div id="modal">
+                                       <span id="close-btn">×</span>
+                                       <p>Yatırım Tutarım </p>
+                                       <div class="buttons">
+                                          <!-- <a href="" id="papara50" class="yes" target="_blank">
+                                             200 TL ALTI  Bu yatırım pasifdir.Lütfen Başka Ödeme Seçeneklerini Deneyiniz.
+                                             </a>
+                                             <a href="" id="allInOneInterPapara" class="no" target="_blank">
+                                             200 TL ÜSTÜ
+                                               </a>
+                                             !-->
+                                          <a href="https://limanbet.anindaislem.com/Pay/User/To/Dilafruz/2022046625030/Dilafruz Hudoyberdiyeva" id="papara250" class="yes listPrice" style="margin-bottom:20px;" target="_blank">
+                                          MİN 100 TL VE ÜSTÜ
+                                          </a>
+                                          <a href="https://limanbet.anindaislem.com/Pay/User/To/Dilafruz/2022046625030/Dilafruz Hudoyberdiyeva" id="papara500" class="no1 no" target="_blank">
+                                          MİN 500 TL VE ÜSTÜ
+                                          </a>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <style type="text/css">
+                                    /* common styles */
+                                    body {
+                                    font-family: sans-serif;
+                                    }
+                                    button:hover {
+                                    cursor: pointer;
+                                    }
+                                    /* common styles end */
+                                    /* modal part */
+                                    #modal-background {
+                                    display: none;
+                                    background-color: rgba(0, 0, 0, 0.2);
+                                    position: fixed;
+                                    top: 0;
+                                    left: 0;
+                                    width: 100%;
+                                    height: 100%;
+                                    z-index: 1;
+                                    }
+                                    #modal-background p {
+                                    padding: 0;
+                                    margin: 0;
+                                    }
+                                    #modal {
+                                    background-color: #fff;
+                                    position: absolute;
+                                    top: 50%;
+                                    left: 50%;
+                                    transform: translate(-50%, -50%);
+                                    width: 250px;
+                                    padding: 10px 20px;
+                                    border-radius: 5px;
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: center;
+                                    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+                                    font-size: 1.5rem;
+                                    animation-name: animatemodal;
+                                    animation-duration: 0.4s;
+                                    }
+                                    .yes, .no {
+                                    float: left;
+                                    border: none;
+                                    padding: 10px;
+                                    font-size: 1rem;
+                                    border-radius: 5px;
+                                    width: 100%;
+                                    text-align: center;
+                                    margin-bottom: 10px;
+                                    }
+                                    .yes {
+                                    background-color: #265065;
+                                    color: #fff;
+                                    }
+                                    .no {
+                                    background-color: #2f7921;
+                                    color: #FFF;
+                                    }
+                                    .no1 {
+                                    background-color: #6f1818;
+                                    color: #FFF;
+                                    }
+                                    #close-btn {
+                                    align-self: flex-end;
+                                    }
+                                    #close-btn:hover {
+                                    cursor: pointer;
+                                    color: #ff0000;
+                                    }
+                                    #open-btn {
+                                    cursor: pointer;
+                                    }
+                                    /* modal part end */
+                                    /* animation part */
+                                    @keyframes animatemodal {
+                                    from {
+                                    top: -300px;
+                                    opacity: 0;
+                                    }
+                                    to {
+                                    top: 50%;
+                                    opacity: 1;
+                                    }
+                                    }
+                                    /* animation part end */
+                                 </style>
+                                 <script type="text/javascript">
+                                    // select the open-btn button
+                                    let openBtn = document.getElementById('open-btn');
+                                    // select the modal-background
+                                    let modalBackground = document.getElementById('modal-background');
+                                    // select the close-btn 
+                                    let closeBtn = document.getElementById('close-btn');
+                                    
+                                    // shows the modal when the user clicks open-btn
+                                    openBtn.addEventListener('click', function() {
+                                    modalBackground.style.display = 'block';
+                                    });
+                                    
+                                    // hides the modal when the user clicks close-btn
+                                    closeBtn.addEventListener('click', function() {
+                                    modalBackground.style.display = 'none';
+                                    });
+                                    
+                                    // hides the modal when the user clicks outside the modal
+                                    window.addEventListener('click', function(event) {
+                                    // check if the event happened on the modal-background
+                                    if (event.target === modalBackground) {
+                                    // hides the modal
+                                    modalBackground.style.display = 'none';
+                                    }
+                                    });
+                                 </script>
+                              </div>
+                           </div>
+                           <div class="ng-star-inserted">
+                              <script type="text/javascript">
+                                 setTimeout(function(){
+                                     $(document).ready(function(){ 
+                                   $.get("https://api.cdnroot.net/api/lmnv2/deposit/getDepositM.php", function(data) {
+                                     $("#bosbos").html(data);
+                                   }); 
+                                  
+                                 
+                                 }); 
+                                 },500);
+                              </script>
+                           </div>
+                           <div class="ng-star-inserted"></div>
+                           <!----><!---->
+                        </app-static-inner-content>
+                        <!----><!---->
+                        <ul class="money-list-menu">
+                           <!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="envoysoft-deposit" href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Envoy Hızlı Havale Yatırım" class="ng-star-inserted">Envoy Hızlı Havale Yatırım</b><br class="ng-star-inserted"><small class="ng-star-inserted">Envoy Hızlı Havale Yatırım ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><span class="ng-star-inserted">/ Anında <span class="processing-min">Dk</span></span><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 10,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="envoyqr-deposit" href="/tr/dashboard/payments/deposit-money/detail/envoyqr-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Envoy Hızlı QR Yatırım" class="ng-star-inserted">Envoy Hızlı QR Yatırım</b><br class="ng-star-inserted"><small class="ng-star-inserted">Envoy Hızlı QR Yatırım ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><span class="ng-star-inserted">/ Anında <span class="processing-min">Dk</span></span><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 5,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-deposit" href="/tr/dashboard/payments/deposit-money/detail/papara-form-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Papara Yatırım" class="ng-star-inserted">Papara Yatırım</b><br class="ng-star-inserted"><small class="ng-star-inserted">Papara Yatırım ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><span class="ng-star-inserted">/ Anında <span class="processing-min">Dk</span></span><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-deposit" href="/tr/dashboard/payments/deposit-money/detail/upaycoins-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Youpaycoin Yatırım" class="ng-star-inserted">Youpaycoin Yatırım</b><br class="ng-star-inserted"><small class="ng-star-inserted">Youpaycoin Yatırım ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 20.00 / Max. TRY: 1,000,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" href="/tr/dashboard/payments/deposit-money/detail/bankTransfer">
+                                 <div class="img-wrapper">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <br>
+                                 <ul class="flex-item info">
+                                    <li><b>Banka Transferi</b></li>
+                                    <li>
+                                       <small class="ng-star-inserted">Banka Havalesi ile Yatırım</small><!----><!---->
+                                    </li>
+                                    <li class="trans-fee ng-star-inserted">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><span class="ng-star-inserted">/ 10-30 <span class="processing-min">Dk</span></span><!----><!---->
+                                       </small>
+                                    </li>
+                                    <!---->
+                                    <li class="bank-amound-limit"><small>Min: ₺50.00 / Max: ₺50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" href="/tr/dashboard/payments/deposit-money/detail/mobileBank">
+                                 <div class="img-wrapper">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <br>
+                                 <ul class="flex-item info">
+                                    <li><b>Atm/Cep Bank ile Transfer</b></li>
+                                    <li><small>Mobil bankacılık ile yatırım</small></li>
+                                    <li class="trans-fee ng-star-inserted">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><span class="ng-star-inserted">/ 10-30 <span class="processing-min">Dk</span></span><!----><!---->
+                                       </small>
+                                    </li>
+                                    <!---->
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 1,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="turbohavale-deposit" href="/tr/dashboard/payments/deposit-money/detail/turbohavale-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Trend Havale Yatırım" class="ng-star-inserted">Trend Havale Yatırım</b><br class="ng-star-inserted"><small class="ng-star-inserted">Trend Havale Yatırım ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-fixturka-deposit" href="/tr/dashboard/payments/deposit-money/detail/scashmoney-fixturka-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="ScashMoney Fixturka Deposit" class="ng-star-inserted">ScashMoney Fixturka Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">ScashMoney Fixturka Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><span class="ng-star-inserted">/ ANINDA <span class="processing-min">Dk</span></span><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 25.00 / Max. TRY: 50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-papara-deposit" href="/tr/dashboard/payments/deposit-money/detail/scashmoney-papara-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="ScashMoney Papara Deposit" class="ng-star-inserted">ScashMoney Papara Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">ScashMoney Papara Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 500,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="tiktak-havale-deposit" href="/tr/dashboard/payments/deposit-money/detail/tiktak-havale-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Tiktak Havale Deposit" class="ng-star-inserted">Tiktak Havale Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">Tiktak Havale Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="softpay-deposit" href="/tr/dashboard/payments/deposit-money/detail/softpay-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Trink Havale" class="ng-star-inserted">Trink Havale</b><br class="ng-star-inserted"><small class="ng-star-inserted">Trink Havale ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 250.00 / Max. TRY: 100,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-papara-deposit" href="/tr/dashboard/payments/deposit-money/detail/sistemnakit-papara-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Sistem Nakit Papara Deposit" class="ng-star-inserted">Sistem Nakit Papara Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">Sistem Nakit Papara Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 250.00 / Max. TRY: 100,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-bank-deposit" href="/tr/dashboard/payments/deposit-money/detail/sistemnakit-bank-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Sistem Nakit Bank Deposit" class="ng-star-inserted">Sistem Nakit Bank Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">Sistem Nakit Bank Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 100,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="seripopy-deposit" href="/tr/dashboard/payments/deposit-money/detail/seripopy-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Seripopy Deposit" class="ng-star-inserted">Seripopy Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">Seripopy Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 100,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="safirhavale-deposit" href="/tr/dashboard/payments/deposit-money/detail/safirhavale-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Safirhavale Deposit" class="ng-star-inserted">Safirhavale Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">Safirhavale Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 100.00 / Max. TRY: 50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-bank-transfer-deposit" href="/tr/dashboard/payments/deposit-money/detail/scashmoney-bank-transfer-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" width="100" height="33" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="ScashMoney Bank Transfer Deposit" class="ng-star-inserted">ScashMoney Bank Transfer Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">ScashMoney Bank Transfer Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 250.00 / Max. TRY: 50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="starpay-papara-deposit" href="/tr/dashboard/payments/deposit-money/detail/starpay-papara-deposit">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Starpay Papara Deposit" class="ng-star-inserted">Starpay Papara Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">Starpay Papara Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><!----><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 250.00 / Max. TRY: 200,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
+                           <!----><!----><!----><!----><!----><!---->
+                        </ul>
+                     </div>
+                     <app-static-inner-content contentcode="m_deposit-bottom" class="ng-star-inserted">
+                        <!---->
+                     </app-static-inner-content>
+                     <!----><!---->
+                  </div>
+               </div>
+            </deposit-withdraw-money>
+         </deposit-money>
+         <!---->
+      </payment-component>
+      <!---->
+   </app-dashboard>
+   <!---->
+   <payments-widget>
+      <owl-carousel-o _nghost-rlw-c77="" class="ng-star-inserted">
+         <div _ngcontent-rlw-c77="" class="owl-carousel owl-theme owl-loaded owl-drag">
+            <div _ngcontent-rlw-c77="" class="owl-stage-outer ng-star-inserted">
+               <owl-stage _ngcontent-rlw-c77="" class="ng-tns-c78-3 ng-star-inserted">
+                  <div class="ng-tns-c78-3" style="transition: all 0.88s ease 0s;">
+                     <div class="owl-stage ng-tns-c78-3" style="width: 6370px; transform: translate3d(-2366px, 0px, 0px); transition: all 0.88s ease 0s;">
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="tiktak-havale-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1764 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="softpay-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="sistemnakit-papara-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1958 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="sistemnakit-bank-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1956 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="seripopy-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1871 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="safirhavale-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="scashmoney-bank-transfer-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" width="100" height="33" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1572 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="starpay-papara-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1869 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="envoysoft-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-412 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="envoyqr-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="papara-form-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-264 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="upaycoins-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
+                                 <div class="fix-payments ng-star-inserted">
+                                    <payment-icon>
+                                       <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
+                                    </payment-icon>
+                                    <span class="pymnt-icon icon-finance100x33-8"></span>
+                                 </div>
+                                 <!----><!----><!---->
+                                 <div class="flex-container">
+                                    <!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="MOBILEBANK">
+                                 <!---->
+                                 <div class="fix-payments ng-star-inserted">
+                                    <payment-icon>
+                                       <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
+                                    </payment-icon>
+                                    <span class="pymnt-icon icon-cepbank100x33"></span>
+                                 </div>
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted active" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="turbohavale-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1651 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="scashmoney-fixturka-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1945 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="scashmoney-papara-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1576 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="tiktak-havale-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1764 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="softpay-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="sistemnakit-papara-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1958 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="sistemnakit-bank-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1956 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="seripopy-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1871 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="safirhavale-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="scashmoney-bank-transfer-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" width="100" height="33" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1572 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="starpay-papara-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1869 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="envoysoft-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-412 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="envoyqr-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="papara-form-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-264 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="upaycoins-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
+                                 <div class="fix-payments ng-star-inserted">
+                                    <payment-icon>
+                                       <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
+                                    </payment-icon>
+                                    <span class="pymnt-icon icon-finance100x33-8"></span>
+                                 </div>
+                                 <!----><!----><!---->
+                                 <div class="flex-container">
+                                    <!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="MOBILEBANK">
+                                 <!---->
+                                 <div class="fix-payments ng-star-inserted">
+                                    <payment-icon>
+                                       <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
+                                    </payment-icon>
+                                    <span class="pymnt-icon icon-cepbank100x33"></span>
+                                 </div>
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="turbohavale-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1651 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="scashmoney-fixturka-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1945 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!---->
+                        <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted cloned" style="width: 162px; margin-right: 20px;">
+                           <div class="col s12 ng-star-inserted" style="">
+                              <div class="card-panel bank-card" data-payment="scashmoney-papara-deposit">
+                                 <!----><!---->
+                                 <div class="flex-container">
+                                    <payment-icon class="ng-star-inserted">
+                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
+                                    </payment-icon>
+                                    <span class="icon-finance100x33-1576 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
+                                 </div>
+                              </div>
+                           </div>
+                           <!----><!----><!----><!---->
+                        </div>
+                        <!----><!---->
+                     </div>
+                  </div>
+               </owl-stage>
+            </div>
+            <!---->
+            <div _ngcontent-rlw-c77="" class="owl-nav ng-star-inserted">
+               <div _ngcontent-rlw-c77="" class="owl-prev"><i class="material-icons">chevron_left</i></div>
+               <div _ngcontent-rlw-c77="" class="owl-next"><i class="material-icons">chevron_right</i></div>
+            </div>
+            <div _ngcontent-rlw-c77="" class="owl-dots disabled ng-star-inserted">
+               <!---->
+            </div>
+            <!----><!---->
+         </div>
+      </owl-carousel-o>
+      <!----><!----><!----><!----><!----><!---->
+      <div id="PaymentFormModal" materialize="modal" class="modal modal-md open dshbrd-modal pymnt-mdl black-text" style="z-index: 1025;">
+         <div class="modal-header"><a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons white-text">close</i></a></div>
+         <!---->
+      </div>
+   </payments-widget>
+</main>
 <?php }else {?>
    <main>
    <router-outlet></router-outlet>
