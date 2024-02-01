@@ -7,6 +7,8 @@
       <base href="/">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet preload">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      
       <link rel="shortcut icon" href="favicon.ico">
       <script async="" src="https://static.lgio.net/jp-f.js?v=1706718982481"></script><script>window.prerenderReady = false;</script>
       <link rel="manifest" href="manifest.webmanifest">
