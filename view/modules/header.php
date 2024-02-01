@@ -227,9 +227,9 @@
          /* Promoted Events Start */
          /* Promoted Events End */
       </style>
-      <link rel="stylesheet" href="/assets/css/1.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/2.css" media="all" onload="this.media='all'">
       <noscript>
-         <link rel="stylesheet" href="/assets/css/1.css">
+         <link rel="stylesheet" href="/assets/css/2.css">
       </noscript>
       <link rel="canonical" href="https://m.<?=$main['sitelink']?>.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.<?=$main['sitelink']?>.com/en">
