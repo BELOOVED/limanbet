@@ -244,6 +244,58 @@
       <style type="text/css">.vue-slider{position:relative;-webkit-box-sizing:content-box;box-sizing:content-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;display:block;-webkit-tap-highlight-color:rgba(0,0,0,0)}.vue-slider-rail{position:relative;width:100%;height:100%;-webkit-transition-property:width,height,left,right,top,bottom;transition-property:width,height,left,right,top,bottom}.vue-slider-process{position:absolute;z-index:1}</style>
       <style type="text/css">.panel_drawer .opened{right:0 !important;} .splide__arrow--next{right: 5em;} .splide__arrow--prev{left: 5em;}</style>
       <style>.owl-theme[_ngcontent-fxd-c77] { display: block; }</style>
+      <script type="text/javascript"  src="/assets/js/script.js"></script>
+            <script type="text/javascript"  src="/assets/js/app.js"></script>
+			 
+            <script type="text/javascript"  src="payment/assets/js/script.js"></script>
+            <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+            <!-- Add the slick-theme.css if you want default styling -->
+            <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
+            <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+            <script>
+               let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+               let locate = <?= intval($main['location']) ?>;
+               let phone_status = <?= intval($main['phone_status']) ?>;
+               let passport_status = <?= intval($main['passport_status']) ?>;
+            </script>
+            <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+             <style>
+               .hidden{
+               display: none !important;
+               }
+            </style>
+            <style>
+               .hidden{
+               display: none;
+               }
+               .sidePanel-holder-bc{
+               z-index: 10000;
+               }
+            </style>
+            <style>
+               div:where(.swal2-container).swal2-center>.swal2-popup {
+               grid-column: 2;
+               grid-row: 2;
+               align-self: center;
+               justify-self: center;
+               background: url('/headerbg.de9a3d998ee4c0ff031d.png') !important;
+               box-shadow: 1px 1px 20px #333 !important;
+               border-radius: 20px !important;
+               color: #fff !important;
+               }
+               div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
+               border: 0;
+               border-radius: 0.25em;
+               background: initial;
+               background-color: #ebb058 !important;
+               color: #fff !important;
+               font-size: 1em;
+               }
+               div:where(.swal2-icon).swal2-warning {
+               border-color: #ebb058 !important;
+               color: #ebb058 !important;
+               }
+            </style>
    </head>
    <body id="trader-limanbet" class="platform-pg page-main" style="">
       <div class="bm_topup" style="display: none;">
