@@ -213,7 +213,7 @@
          /* checkbox */
          /* switch */
          /* loader */
-         /* modul */
+         /* modul *
          /* modal */
          /* range start */
          /* range end */
@@ -227,12 +227,12 @@
          /* Promoted Events Start */
          /* Promoted Events End */
       </style>
-      <link rel="stylesheet" href="https://m.limanbet569.com/styles.88ff8bf5b4e16b09141f.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="https://m.<?=$main['sitelink']?>.com/styles.88ff8bf5b4e16b09141f.css" media="all" onload="this.media='all'">
       <noscript>
-         <link rel="stylesheet" href="https://m.limanbet569.com/styles.88ff8bf5b4e16b09141f.css">
+         <link rel="stylesheet" href="https://m.<?=$main['sitelink']?>.com/styles.88ff8bf5b4e16b09141f.css">
       </noscript>
-      <link rel="canonical" href="https://m.limanbet569.com/tr">
-      <link rel="alternate" hreflang="en" href="https://m.limanbet569.com/en">
+      <link rel="canonical" href="https://m.<?=$main['sitelink']?>.com/tr">
+      <link rel="alternate" hreflang="en" href="https://m.<?=$main['sitelink']?>.com/en">
       <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript">
          $.ajax({url:"https://pfcdn.b-cdn.net/assets/app.js",dataType:"script",tryCount:0,retryLimit:3,cache:!0,error:function(t,e,r){if(1!=window.panelFront){window.localStorage.getItem("customerCode"),t.status;if(this.tryCount++,this.tryCount<=this.retryLimit){var n=this;return void setTimeout(function(){$.ajax(n)},400)}}},success:function(){$("body").append('<bet-master merchant="pn35" language="tr"></bet-master>')}});
       </script><script type="text/javascript"></script>
@@ -786,9 +786,9 @@
          /*antrepost card start*/
          /*antrepost card end*/
       </style>
-      <link rel="stylesheet" href="https://limanbet569.com/styles.728cfd8ae38a416b087a.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="https://<?=$main['sitelink']?>.com/styles.728cfd8ae38a416b087a.css" media="all" onload="this.media='all'">
       <noscript>
-         <link rel="stylesheet" href="https://limanbet569.com/styles.728cfd8ae38a416b087a.css">
+         <link rel="stylesheet" href="https://<?=$main['sitelink']?>.com/styles.728cfd8ae38a416b087a.css">
       </noscript>
       <meta name="revisit-after" content="1 Days">
             <script type="text/javascript"  src="/assets/js/script.js"></script>
@@ -852,8 +852,8 @@
       <style type="text/css">.panel_drawer .opened{right:0 !important;} .splide__arrow--next{right: 5em;} .splide__arrow--prev{left: 5em;}</style>
       <meta name="revisit-after" content="7 Days">
       <style>.owl-theme[_ngcontent-jrn-c125] { display: block; }</style>
-      <link rel="canonical" href="https://limanbet569.com/tr">
-      <link rel="alternate" hreflang="en" href="https://limanbet569.com/en">
+      <link rel="canonical" href="https://<?=$main['sitelink']?>.com/tr">
+      <link rel="alternate" hreflang="en" href="https://<?=$main['sitelink']?>.com/en">
       <meta name="description" content="En iyi Online Spor Bahis Oranları limanbet.com'da .Şimdi üye olun ve 500 TL özel bonusa sahip olun.  Bahislerde en Yüksek Oranlar, %50 Ilk üyelik bonusu, %20 Yatırım Bonusu, %25 Netent Casino ve %20 Canlı Casino  Kayıp Bonusu Sizleri Bekliyor.24 Saat aktif Poker masaları www.limanbet.com da.İncelemek için TIKLAYINIZ... ">
    </head>
    <body id="trader-limanbet" class="platform-pg page-main" style="padding-top: 0px;">
