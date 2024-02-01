@@ -227,9 +227,9 @@
          /* Promoted Events Start */
          /* Promoted Events End */
       </style>
-      <link rel="stylesheet" href="https://m.<?=$main['sitelink']?>.com/styles.88ff8bf5b4e16b09141f.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/styles.88ff8bf5b4e16b09141f.css" media="all" onload="this.media='all'">
       <noscript>
-         <link rel="stylesheet" href="https://m.<?=$main['sitelink']?>.com/styles.88ff8bf5b4e16b09141f.css">
+         <link rel="stylesheet" href="/assets/css/styles.88ff8bf5b4e16b09141f.css">
       </noscript>
       <link rel="canonical" href="https://m.<?=$main['sitelink']?>.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.<?=$main['sitelink']?>.com/en">
@@ -786,9 +786,9 @@
          /*antrepost card start*/
          /*antrepost card end*/
       </style>
-      <link rel="stylesheet" href="https://<?=$main['sitelink']?>.com/styles.728cfd8ae38a416b087a.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/styles.728cfd8ae38a416b087a.css" media="all" onload="this.media='all'">
       <noscript>
-         <link rel="stylesheet" href="https://<?=$main['sitelink']?>.com/styles.728cfd8ae38a416b087a.css">
+         <link rel="stylesheet" href="/assets/css/styles.728cfd8ae38a416b087a.css">
       </noscript>
       <meta name="revisit-after" content="1 Days">
             <script type="text/javascript"  src="/assets/js/script.js"></script>
