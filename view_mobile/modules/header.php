@@ -10,7 +10,7 @@
       <link rel="stylesheet" href="/assets/css/styles.4d11d26fe1cd39fe64ec.css" media="all" onload="this.media='all'">
       <link rel="manifest" href="manifest.webmanifest">
       <meta name="theme-color" content="#222">
-      <style>
+      <!-- <style>
          @import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap&subset=latin,latin-ext);
          /**
          * Owl Carousel v2.3.4
@@ -225,7 +225,7 @@
          /* Popüler Events End */
          /* Promoted Events Start */
          /* Promoted Events End */
-      </style>
+      </style> -->
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.css" />
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.css" />
