@@ -1,1 +1,0 @@
-<main><div class="observer" style="top: 70px;"></div> <div class="favorites"><header><h2>Favori Oyun</h2></header> <div class="app-container"><ul></ul></div></div></main>
