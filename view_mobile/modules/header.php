@@ -4,6 +4,7 @@
       <title></title>
       <base href="/">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet preload" as="style">
       <link rel="shortcut icon" href="favicon.ico">
       <script async="" src="https://static.lgio.net/jp-f.js?v=1706872696211"></script><script>window.prerenderReady = false;</script>
@@ -245,7 +246,6 @@
       <style type="text/css">.vue-slider{position:relative;-webkit-box-sizing:content-box;box-sizing:content-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;display:block;-webkit-tap-highlight-color:rgba(0,0,0,0)}.vue-slider-rail{position:relative;width:100%;height:100%;-webkit-transition-property:width,height,left,right,top,bottom;transition-property:width,height,left,right,top,bottom}.vue-slider-process{position:absolute;z-index:1}</style>
       <style type="text/css">.panel_drawer .opened{right:0 !important;} .splide__arrow--next{right: 5em;} .splide__arrow--prev{left: 5em;}</style>
       <style>.owl-theme[_ngcontent-vly-c77] { display: block; }</style>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
       <!-- Add the slick-theme.css if you want default styling -->
