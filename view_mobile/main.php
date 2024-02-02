@@ -84,39 +84,35 @@
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
                <div id="sync1" class="owl-carousel owl-theme">
-                  
-                     
-                           <div class="item"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></div>
-                        
-                           <div class="item"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1702308369-liman-mobil-bannerlar-900x500px-3.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152841-liman-mobil-bannerlar-900x500px-12.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1647947484-liman-mobil-bannerlar-900x500px-08.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698705654-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264521-liman-mobil-bannerlar-900x500px-18.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152939-liman-mobil-bannerlar-900x500px-10.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152968-liman-mobil-bannerlar-900x500px-05.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></div>
+                  <div class="item"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></div>
+                              
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1702308369-liman-mobil-bannerlar-900x500px-3.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152841-liman-mobil-bannerlar-900x500px-12.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1647947484-liman-mobil-bannerlar-900x500px-08.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698705654-liman-mobil-bannerlar-900x500px.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264521-liman-mobil-bannerlar-900x500px-18.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152939-liman-mobil-bannerlar-900x500px-10.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152968-liman-mobil-bannerlar-900x500px-05.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
+               
+                  <div class="item"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></div>
                         
                         
                   <div class="owl-nav">
