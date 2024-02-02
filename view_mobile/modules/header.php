@@ -287,7 +287,7 @@
          }
       </style>
    </head>
-   <body id="trader-limanbet" class="platform-pg page-main" style="overflow: hidden;">
+   <body id="trader-limanbet" class="platform-pg page-main">
       <div class="bm_topup">
          <!---->
       </div>
