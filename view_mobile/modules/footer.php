@@ -261,7 +261,7 @@
    }
    function openmenu2() {
 
-         $("#user-menu").css('transform','translateX(100%)');
+         $("#user-menu").css('transform','translateX(0%)');
        }
        
    
@@ -269,7 +269,7 @@
       $("#left-menu").css('transform','translateX(-100%)');
    }
    function closemenu2() {
-      $("#user-menu").css('transform','translateX(0%)');
+      $("#user-menu").css('transform','translateX(100%)');
    }
   
       function openmodal(contentId, menuId) {
