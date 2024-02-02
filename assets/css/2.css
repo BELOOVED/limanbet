@@ -18777,7 +18777,7 @@ header .register-btn-head {
   white-space: nowrap;
 }
 .page-footer .footer-payment i {
-  background: url("/assets/trader/limanbet/assets/images/footer-images.png") center left no-repeat;
+  background: url("/assets/views/trader/limanbet/assets/images/footer-images.png") center left no-repeat;
   display: inline-block;
   margin: 0 5px;
 }
@@ -18846,7 +18846,7 @@ header .register-btn-head {
   margin-bottom: 10px;
 }
 .page-footer .footer-partner i {
-  background: url("/assets/trader/limanbet/assets/images/vendor-logo.png") center left no-repeat;
+  background: url("/assets/views/trader/limanbet/assets/images/vendor-logo.png") center left no-repeat;
   display: inline-block;
   margin: 0 5px;
 }
