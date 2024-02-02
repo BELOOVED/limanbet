@@ -233,6 +233,10 @@
       <noscript>
          <link rel="stylesheet" href="/assets/css/2.css">
       </noscript>
+      <link rel="stylesheet" href="/assets/css/1.css" media="all" onload="this.media='all'">
+      <noscript>
+         <link rel="stylesheet" href="/assets/css/1.css">
+      </noscript>
       <link rel="canonical" href="https://m.<?=$main['sitelink']?>.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.<?=$main['sitelink']?>.com/en">
       <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript">
@@ -842,6 +846,10 @@
       <link rel="stylesheet" href="/assets/css/1.css" media="all" onload="this.media='all'">
       <noscript>
          <link rel="stylesheet" href="/assets/css/1.css">
+      </noscript>
+      <link rel="stylesheet" href="/assets/css/2.css" media="all" onload="this.media='all'">
+      <noscript>
+         <link rel="stylesheet" href="/assets/css/2.css">
       </noscript>
       <meta name="revisit-after" content="1 Days">
             <script type="text/javascript"  src="/assets/js/script.js"></script>
