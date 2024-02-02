@@ -83,71 +83,103 @@
                <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/owl.carousel.min.js"></script>
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
-               <div id="sync1" class="owl-carousel owl-theme">
-                  
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"></div>
-                       
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
-                      
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                     
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264521-liman-mobil-bannerlar-900x500px-18.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152939-liman-mobil-bannerlar-900x500px-10.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152968-liman-mobil-bannerlar-900x500px-05.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
-                        
-                           <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></a></div>
-                        
-                           <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></a></div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
-                       
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1702308369-liman-mobil-bannerlar-900x500px-3.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152841-liman-mobil-bannerlar-900x500px-12.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1647947484-liman-mobil-bannerlar-900x500px-08.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698705654-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
-                        
+               <div id="sync1" class="owl-carousel owl-theme owl-loaded owl-drag">
+                  <div class="owl-stage-outer">
+                     <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 2s ease 0s; width: 16306px;">
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264521-liman-mobil-bannerlar-900x500px-18.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152939-liman-mobil-bannerlar-900x500px-10.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152968-liman-mobil-bannerlar-900x500px-05.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
                            <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></a></div>
-                        
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
                            <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></a></div>
-                        
+                        </div>
+                        <div class="owl-item active" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1702308369-liman-mobil-bannerlar-900x500px-3.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152841-liman-mobil-bannerlar-900x500px-12.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1647947484-liman-mobil-bannerlar-900x500px-08.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698705654-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
-                        
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
-                        
-                     
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg"> </div>
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264521-liman-mobil-bannerlar-900x500px-18.jpg"> </div>
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152939-liman-mobil-bannerlar-900x500px-10.jpg"> </div>
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152968-liman-mobil-bannerlar-900x500px-05.jpg"> </div>
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
+                        </div>
+                        <div class="owl-item" style="width: 526px;">
+                           <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></a></div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></a></div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1702308369-liman-mobil-bannerlar-900x500px-3.jpg"> </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152841-liman-mobil-bannerlar-900x500px-12.jpg"> </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1647947484-liman-mobil-bannerlar-900x500px-08.jpg"> </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698705654-liman-mobil-bannerlar-900x500px.jpg"> </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
+                        </div>
+                        <div class="owl-item cloned" style="width: 526px;">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
+                        </div>
+                     </div>
                   </div>
                   <div class="owl-nav">
                      <div class="owl-prev">
@@ -237,7 +269,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -257,7 +289,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -269,7 +301,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -281,7 +313,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -293,7 +325,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -305,7 +337,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -317,7 +349,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -329,7 +361,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -341,7 +373,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -353,7 +385,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -365,7 +397,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -377,7 +409,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -389,7 +421,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -401,7 +433,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -413,7 +445,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -425,7 +457,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -437,7 +469,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -449,7 +481,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -461,7 +493,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -473,7 +505,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -485,7 +517,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -497,7 +529,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -511,7 +543,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -531,7 +563,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -543,7 +575,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -555,7 +587,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -567,7 +599,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -579,7 +611,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -591,7 +623,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -603,7 +635,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -615,7 +647,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -627,7 +659,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -639,7 +671,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -651,7 +683,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -663,7 +695,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -675,7 +707,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -687,7 +719,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -699,7 +731,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -711,7 +743,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -723,7 +755,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -735,7 +767,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -747,7 +779,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -759,7 +791,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -771,7 +803,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -785,7 +817,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -805,7 +837,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -817,7 +849,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -829,7 +861,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -841,7 +873,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -853,7 +885,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -865,7 +897,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -877,7 +909,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -889,7 +921,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -901,7 +933,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -913,7 +945,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -925,7 +957,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -937,7 +969,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -949,7 +981,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -961,7 +993,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -973,7 +1005,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -985,7 +1017,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -997,7 +1029,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1009,7 +1041,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1021,7 +1053,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1033,7 +1065,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1045,7 +1077,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1059,7 +1091,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>G**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18190.jpg"> <span> <strong class="game">Crazy Time</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺50,010</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1079,7 +1111,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺691,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1091,7 +1123,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>h*********et ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺500</strong>  karşılığı , <strong class="win_amount">₺254,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1103,7 +1135,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b****27 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/19982.jpg"> <span> <strong class="game">Big Bass Splash</strong> oyununda <strong class="bet_amount">₺1,000</strong>  karşılığı , <strong class="win_amount">₺634,200</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1115,7 +1147,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H**n ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺150</strong>  karşılığı , <strong class="win_amount">₺120,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1127,7 +1159,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E******87 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/16624.jpg"> <span> <strong class="game">Bigger Bass Bonanza™</strong> oyununda <strong class="bet_amount">₺576</strong>  karşılığı , <strong class="win_amount">₺233,280</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1139,7 +1171,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>y**el ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺72,900</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1151,7 +1183,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>b*******53 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺5,000</strong>  karşılığı , <strong class="win_amount">₺171,312</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1163,7 +1195,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>o********an ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20053.jpg"> <span> <strong class="game">Sugar Rush</strong> oyununda <strong class="bet_amount">₺7,500</strong>  karşılığı , <strong class="win_amount">₺58,672</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1175,7 +1207,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*****er ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/13485.jpg"> <span> <strong class="game">Gates of Olympus™</strong> oyununda <strong class="bet_amount">₺125</strong>  karşılığı , <strong class="win_amount">₺97,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1187,7 +1219,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>c****81 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/18225.jpg"> <span> <strong class="game">Auto-Roulette</strong> oyununda <strong class="bet_amount">₺4,350</strong>  karşılığı , <strong class="win_amount">₺45,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1199,7 +1231,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>E********47 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺150,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1211,7 +1243,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>N**y ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/21001.jpg"> <span> <strong class="game">Big Bass Keeping it Reel™</strong> oyununda <strong class="bet_amount">₺1,500</strong>  karşılığı , <strong class="win_amount">₺24,399</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1223,7 +1255,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>H******31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺30,000</strong>  karşılığı , <strong class="win_amount">₺118,995</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1235,7 +1267,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>k****16 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg"> <span> <strong class="game">Sweet Bonanza</strong> oyununda <strong class="bet_amount">₺50</strong>  karşılığı , <strong class="win_amount">₺32,595</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1247,7 +1279,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S*******IM ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺300</strong>  karşılığı , <strong class="win_amount">₺60,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1259,7 +1291,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>A***31 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/6461.jpg"> <span> <strong class="game">40 Burning Hot 6 Reels</strong> oyununda <strong class="bet_amount">₺250</strong>  karşılığı , <strong class="win_amount">₺22,750</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1271,7 +1303,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>d******ey ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺10</strong>  karşılığı , <strong class="win_amount">₺41,000</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1283,7 +1315,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="/images/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>T**sy ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/19884.jpg"> <span> <strong class="game">XXXtreme Lightning Roulette</strong> oyununda <strong class="bet_amount">₺380</strong>  karşılığı , <strong class="win_amount">₺40,180</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1295,7 +1327,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S****ap ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/26163.jpg"> <span> <strong class="game">Gates of Olympus 1000™</strong> oyununda <strong class="bet_amount">₺2,000</strong>  karşılığı , <strong class="win_amount">₺121,964</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1307,7 +1339,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>S***l1 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/17737.jpg"> <span> <strong class="game">Gold Party™</strong> oyununda <strong class="bet_amount">₺1,250</strong>  karşılığı , <strong class="win_amount">₺64,500</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1319,7 +1351,7 @@
                                  <!----><!---->
                                  <div class="news">
                                     <div class="bmm ticker_top_winners">
-                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="/images/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
+                                       <div class="ttw_inner"><span>P*********34 ,</span> <img class="ttw_game_img" src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/20163.jpg"> <span> <strong class="game">Candy Palace</strong> oyununda <strong class="bet_amount">₺8,000</strong>  karşılığı , <strong class="win_amount">₺48,660</strong> kazandı. </span></div>
                                        <!----><!---->
                                     </div>
                                  </div>
@@ -1387,59 +1419,59 @@
                               <div class="modul-content">
                                  <div class="fixture-container">
                                     <div class="liveOverview-tabs-container tabsAndOtherTab">
-                                       <owl-carousel-o _nghost-muf-c77="" class="ng-star-inserted">
-                                          <div _ngcontent-muf-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
-                                             <div _ngcontent-muf-c77="" class="owl-stage-outer ng-star-inserted">
-                                                <owl-stage _ngcontent-muf-c77="" class="ng-tns-c78-10 ng-star-inserted">
-                                                   <div class="ng-tns-c78-10">
-                                                      <div class="owl-stage ng-tns-c78-10" style="width: 1265px; transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s;">
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
-                                                            <div class="events ng-star-inserted" style=""><a class="href-item active"><span class="icon"><i class="sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol (19) </span></a></div>
+                                       <owl-carousel-o _nghost-lmt-c77="" class="ng-star-inserted">
+                                          <div _ngcontent-lmt-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
+                                             <div _ngcontent-lmt-c77="" class="owl-stage-outer ng-star-inserted">
+                                                <owl-stage _ngcontent-lmt-c77="" class="ng-tns-c78-4 ng-star-inserted">
+                                                   <div class="ng-tns-c78-4">
+                                                      <div class="owl-stage ng-tns-c78-4" style="width: 1265px; transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s;">
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
+                                                            <div class="events ng-star-inserted" style=""><a class="href-item active"><span class="icon"><i class="sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol (25) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
-                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol (6) </span></a></div>
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
+                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol (12) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
-                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol (11) </span></a></div>
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
+                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi (3) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
-                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi (2) </span></a></div>
-                                                            <!----><!---->
-                                                         </div>
-                                                         <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 126.5px;">
                                                             <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis (11) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
-                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol (5) </span></a></div>
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
+                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol (3) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
+                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker (2) </span></a></div>
+                                                            <!----><!---->
+                                                         </div>
+                                                         <!---->
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
                                                             <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol (1) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
                                                             <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol (1) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
-                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi (9) </span></a></div>
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
+                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi (11) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!---->
-                                                         <div class="owl-item ng-tns-c78-10 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
-                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-31 st-font-icons"></i></span><span class="type truncate"> Badminton (1) </span></a></div>
+                                                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 126.5px;">
+                                                            <div class="events ng-star-inserted" style=""><a class="href-item"><span class="icon"><i class="sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket (1) </span></a></div>
                                                             <!----><!---->
                                                          </div>
                                                          <!----><!---->
@@ -1448,11 +1480,11 @@
                                                 </owl-stage>
                                              </div>
                                              <!---->
-                                             <div _ngcontent-muf-c77="" class="owl-nav ng-star-inserted">
-                                                <div _ngcontent-muf-c77="" class="owl-prev disabled"><i class="fa fa-chevron-left"></i></div>
-                                                <div _ngcontent-muf-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
+                                             <div _ngcontent-lmt-c77="" class="owl-nav ng-star-inserted">
+                                                <div _ngcontent-lmt-c77="" class="owl-prev disabled"><i class="fa fa-chevron-left"></i></div>
+                                                <div _ngcontent-lmt-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
                                              </div>
-                                             <div _ngcontent-muf-c77="" class="owl-dots disabled ng-star-inserted">
+                                             <div _ngcontent-lmt-c77="" class="owl-dots disabled ng-star-inserted">
                                                 <!---->
                                              </div>
                                              <!----><!---->
@@ -1491,7 +1523,7 @@
                                                 </div>
                                                 <div class="team-period">
                                                    <div class="team-period-content">
-                                                      <div class="item ng-star-inserted"><span class="now">0 </span><span class="now"> 0</span></div>
+                                                      <div class="item ng-star-inserted"><span class="now">0 </span><span class="now"> 1</span></div>
                                                       <!----><!----><!---->
                                                    </div>
                                                 </div>
@@ -1499,46 +1531,23 @@
                                              <div class="live-score-panel match-data"></div>
                                              <div class="date">
                                                 <app-live-favorite classes="material-icons fvrt-add">
-                                       <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><b><span class="minutes"> 2. Devre <span class="ng-star-inserted">56:07''</span><!----></span></b><span class="btn other-btn">+322</span><!----></div></span></a>
+                                       <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><b><span class="minutes"> 2. Devre <span class="ng-star-inserted">66:51''</span><!----></span></b><span class="btn other-btn">+315</span><!----></div></span></a>
                                        <div class="match-header-right flex-container flex-item">
-                                          <!----><span class="bet-now bet-type ng-star-inserted" tabindex="0"> Şimdi Bahis Yap <i aria-hidden="true" class="fa fa-angle-right"></i></span><!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted rate-down-small" title="Tacikistan" foid="7844393125">
+                                             <!----><span class="bet-btn-odd">44.49</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted rate-down-small" title="Beraberlik" foid="7844393126">
+                                             <!----><span class="bet-btn-odd">6.43</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted rate-down-small" title="Ürdün" foid="7844393127">
+                                             <!----><span class="bet-btn-odd">1.15</span>
+                                          </a>
+                                          <!----><!----><!----><!----><!----><!---->
                                        </div>
                                     </div>
                                     <!----><!----><!----><!---->
-                                    <div class="match-content flex-container ng-star-inserted">
-                                       <a routerlinkactive="active" class="match-header flex-container" href="/tr/bet/live/detail/55621570">
-                                          <span class="match-title flex-item">
-                                             <div class="team content-left">
-                                                <div class="team-content-left team-name">
-                                                   <div class="team-content-info">
-                                                      <app-teams-logo classes="team-flag">
-                                                         <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/7693.png"><!----><!----><!---->
-                                                      </app-teams-logo>
-                                                      <div class="text truncate">Zaglebie Sos.</div>
-                                                   </div>
-                                                   <div class="team-content-info">
-                                                      <app-teams-logo classes="team-flag">
-                                                         <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/38729.png"><!----><!----><!---->
-                                                      </app-teams-logo>
-                                                      <div class="text truncate">Puszcza Nie.</div>
-                                                   </div>
-                                                </div>
-                                                <div class="team-period">
-                                                   <div class="team-period-content">
-                                                      <div class="item ng-star-inserted"><span class="now">1 </span><span class="now"> 1</span></div>
-                                                      <!----><!----><!---->
-                                                   </div>
-                                                </div>
-                                             </div>
-                                             <div class="live-score-panel match-data"></div>
-                                             <div class="date">
-                                                <app-live-favorite classes="material-icons fvrt-add">
-                                       <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><b><span class="minutes"> 2. Devre <span class="ng-star-inserted">87:50''</span><!----></span></b><span class="btn other-btn">+72</span><!----></div></span></a>
-                                       <div class="match-header-right flex-container flex-item">
-                                          <!----><span class="bet-now bet-type ng-star-inserted" tabindex="0"> Şimdi Bahis Yap <i aria-hidden="true" class="fa fa-angle-right"></i></span><!----><!---->
-                                       </div>
-                                    </div>
-                                    <!----><!---->
                                     <div class="match-content flex-container ng-star-inserted">
                                        <a routerlinkactive="active" class="match-header flex-container" href="/tr/bet/live/detail/55657974">
                                           <span class="match-title flex-item">
@@ -1569,7 +1578,18 @@
                                                 <app-live-favorite classes="material-icons fvrt-add">
                                        <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><b><span class="minutes"> Devre Arası <span class="ng-star-inserted">45:00''</span><!----></span></b><span class="btn other-btn">+108</span><!----></div></span></a>
                                        <div class="match-header-right flex-container flex-item">
-                                          <!----><span class="bet-now bet-type ng-star-inserted" tabindex="0"> Şimdi Bahis Yap <i aria-hidden="true" class="fa fa-angle-right"></i></span><!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="NK Gosk Gabela" foid="7857131830">
+                                             <!----><span class="bet-btn-odd">98.13</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7857131831">
+                                             <!----><span class="bet-btn-odd">32.38</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Nk Jadran Lp" foid="7857131832">
+                                             <!----><span class="bet-btn-odd">1.01</span>
+                                          </a>
+                                          <!----><!----><!----><!----><!----><!---->
                                        </div>
                                     </div>
                                     <!----><!---->
@@ -1601,12 +1621,68 @@
                                              <div class="live-score-panel match-data"></div>
                                              <div class="date">
                                                 <app-live-favorite classes="material-icons fvrt-add">
-                                       <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><b><span class="minutes"> 1. Devre <span class="ng-star-inserted">45:00''</span><!----></span></b><span class="btn other-btn">+125</span><!----></div></span></a>
+                                       <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><b><span class="minutes"> Devre Arası <span class="ng-star-inserted">45:00''</span><!----></span></b><span class="btn other-btn">+125</span><!----></div></span></a>
                                        <div class="match-header-right flex-container flex-item">
-                                          <!----><span class="bet-now bet-type ng-star-inserted" tabindex="0"> Şimdi Bahis Yap <i aria-hidden="true" class="fa fa-angle-right"></i></span><!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-up-small ng-star-inserted" title="BG Pathum United FC" foid="7853659115">
+                                             <!----><span class="bet-btn-odd">5.27</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-down-small ng-star-inserted" title="Beraberlik" foid="7853659116">
+                                             <!----><span class="bet-btn-odd">2.88</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow rate-down-small ng-star-inserted" title="Cerezo Osaka" foid="7853659117">
+                                             <!----><span class="bet-btn-odd">1.95</span>
+                                          </a>
+                                          <!----><!----><!----><!----><!----><!---->
                                        </div>
                                     </div>
-                                    <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                    <!----><!---->
+                                    <div class="match-content flex-container ng-star-inserted">
+                                       <a routerlinkactive="active" class="match-header flex-container" href="/tr/bet/live/detail/55621581">
+                                          <span class="match-title flex-item">
+                                             <div class="team content-left">
+                                                <div class="team-content-left team-name">
+                                                   <div class="team-content-info">
+                                                      <app-teams-logo classes="team-flag">
+                                                         <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/2052.png"><!----><!----><!---->
+                                                      </app-teams-logo>
+                                                      <div class="text truncate">Grazer AK</div>
+                                                   </div>
+                                                   <div class="team-content-info">
+                                                      <app-teams-logo classes="team-flag">
+                                                         <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/2067.png"><!----><!----><!---->
+                                                      </app-teams-logo>
+                                                      <div class="text truncate">KSV 1919</div>
+                                                   </div>
+                                                </div>
+                                                <div class="team-period">
+                                                   <div class="team-period-content">
+                                                      <div class="item ng-star-inserted"><span class="now">0 </span><span class="now"> 0</span></div>
+                                                      <!----><!----><!---->
+                                                   </div>
+                                                </div>
+                                             </div>
+                                             <div class="live-score-panel match-data"></div>
+                                             <div class="date">
+                                                <app-live-favorite classes="material-icons fvrt-add">
+                                       <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><b><span class="minutes"> 1. Devre <span class="ng-star-inserted">25:53''</span><!----></span></b><span class="btn other-btn">+283</span><!----></div></span></a>
+                                       <div class="match-header-right flex-container flex-item">
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Grazer AK" foid="7853297274">
+                                             <!----><span class="bet-btn-odd">1.81</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7853297275">
+                                             <!----><span class="bet-btn-odd">3.62</span>
+                                          </a>
+                                          <!----><!---->
+                                          <a href="javascript:;" bet-button="" class="btn bet-btn flex-item twoRow ng-star-inserted" title="KSV 1919" foid="7853297276">
+                                             <!----><span class="bet-btn-odd">4.50</span>
+                                          </a>
+                                          <!----><!----><!----><!----><!----><!---->
+                                       </div>
+                                    </div>
+                                    <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  </div>
                                  <div class="ng-star-inserted"><a routerlinkactive="active" class="show-more-other" href="/tr/bet/live/170">Tümünü Göster</a></div>
                                  <!---->
@@ -1625,7 +1701,7 @@
                         <div class="modul-header" hidden=""><span class="header-text"> Günün Maçları </span><i class="fa fa-chevron-right right"></i></div>
                         <div class="modul-content">
                            <div class="list-btn-cont">
-                              <a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/football"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Futbol</span><span class="count">165</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/e-football"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text">e-Futbol</span><span class="count">8</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/basketball"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text">Basketbol</span><span class="count">68</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/ice-hockey"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text">Buz Hokeyi</span><span class="count">106</span></a><a href="/tr/bet/virtuals" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Sanal Sporlar</span></a><!----><!----><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/tennis"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text">Tenis</span><span class="count">86</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/volleyball"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text">Voleybol</span><span class="count">20</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/snooker"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text">Snooker</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/handball"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text">Hentbol</span><span class="count">32</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/baseball"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text">Beyzbol</span><span class="count">2</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/futsal"><i class="pg-icons sport-types-29 svg-font-icons"></i><span class="flex-item text">Salon Futbolu</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/rugby"><i class="pg-icons sport-types-12 svg-font-icons"></i><span class="flex-item text">Ragbi</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/dart"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text">Dart</span><span class="count">19</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/table-tennis"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text">Masa Tenisi</span><span class="count">148</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/cricket"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text">Kriket</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/badminton"><i class="pg-icons sport-types-31 svg-font-icons"></i><span class="flex-item text">Badminton</span><span class="count">2</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/bandy"><i class="pg-icons sport-types-15 svg-font-icons"></i><span class="flex-item text">Bandy</span><span class="count">8</span></a><!----><!----><!----><!---->
+                              <a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/football"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Futbol</span><span class="count">151</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/e-football"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text">e-Futbol</span><span class="count">15</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/basketball"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text">Basketbol</span><span class="count">63</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/ice-hockey"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text">Buz Hokeyi</span><span class="count">106</span></a><a href="/tr/bet/virtuals" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Sanal Sporlar</span></a><!----><!----><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/tennis"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text">Tenis</span><span class="count">76</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/volleyball"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text">Voleybol</span><span class="count">19</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/snooker"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text">Snooker</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/handball"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text">Hentbol</span><span class="count">31</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/baseball"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text">Beyzbol</span><span class="count">2</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/futsal"><i class="pg-icons sport-types-29 svg-font-icons"></i><span class="flex-item text">Salon Futbolu</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/rugby"><i class="pg-icons sport-types-12 svg-font-icons"></i><span class="flex-item text">Ragbi</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/dart"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text">Dart</span><span class="count">19</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/table-tennis"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text">Masa Tenisi</span><span class="count">130</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/cricket"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text">Kriket</span><span class="count">5</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/bandy"><i class="pg-icons sport-types-15 svg-font-icons"></i><span class="flex-item text">Bandy</span><span class="count">8</span></a><!----><!----><!----><!---->
                            </div>
                         </div>
                      </div>
@@ -2268,35 +2344,35 @@
                                        <div class="team-content-left team-name">
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3091.png"><!----><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/50.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Hatayspor</span>
+                                             <span class="text truncate">Brentford</span>
                                           </div>
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/4954.png"><!----><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/17.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Fatih Karagümrük</span>
+                                             <span class="text truncate">Manchester City FC</span>
                                           </div>
                                        </div>
                                     </div>
                                     <div class="date">
-                                       <b><span class="minutes"> 02/02 17:00 </span></b><!----><span class="btn other-btn">+936</span>
+                                       <b><span class="minutes"> 05/02 23:00 </span></b><!----><span class="btn other-btn">+844</span>
                                     </div>
                                  </span>
                                  <div class="match-header middle"><button class="statistic-btn"><i class="material-icons pg-icons">equalizer</i></button></div>
                               </a>
                               <div class="match-header-right flex-container flex-item ng-star-inserted">
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7838335860">
-                                    <!----><span class="bet-btn-odd">2.69</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7808008372">
+                                    <!----><span class="bet-btn-odd">8.70</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7838335861">
-                                    <!----><span class="bet-btn-odd">3.31</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7808008373">
+                                    <!----><span class="bet-btn-odd">4.57</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7838335862">
-                                    <!----><span class="bet-btn-odd">2.89</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7808008374">
+                                    <!----><span class="bet-btn-odd">1.46</span>
                                  </a>
                                  <!----><!----><!----><!----><!----><!---->
                               </div>
@@ -2310,35 +2386,35 @@
                                        <div class="team-content-left team-name">
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3103.png"><!----><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1284.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">MKE Ankaragücü</span>
+                                             <span class="text truncate">FC Kopenhag</span>
                                           </div>
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3076.png"><!----><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/17.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Sivasspor</span>
+                                             <span class="text truncate">Manchester City FC</span>
                                           </div>
                                        </div>
                                     </div>
                                     <div class="date">
-                                       <b><span class="minutes"> 02/02 17:00 </span></b><!----><span class="btn other-btn">+907</span>
+                                       <b><span class="minutes"> 13/02 23:00 </span></b><!----><span class="btn other-btn">+704</span>
                                     </div>
                                  </span>
                                  <div class="match-header middle"><button class="statistic-btn"><i class="material-icons pg-icons">equalizer</i></button></div>
                               </a>
                               <div class="match-header-right flex-container flex-item ng-star-inserted">
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7838336608">
-                                    <!----><span class="bet-btn-odd">2.15</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7663591321">
+                                    <!----><span class="bet-btn-odd">10.09</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7838336609">
-                                    <!----><span class="bet-btn-odd">3.55</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7663591322">
+                                    <!----><span class="bet-btn-odd">5.74</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7838336610">
-                                    <!----><span class="bet-btn-odd">3.67</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7663591323">
+                                    <!----><span class="bet-btn-odd">1.34</span>
                                  </a>
                                  <!----><!----><!----><!----><!----><!---->
                               </div>
@@ -2352,35 +2428,35 @@
                                        <div class="team-content-left team-name">
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3053.png"><!----><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/2699.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Samsunspor</span>
+                                             <span class="text truncate">Lazio</span>
                                           </div>
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3061.png"><!----><!----><!---->
+                                                <!----><img class="team-flag team-tshirt ng-star-inserted" src="//v3.pronetstatic.com/common/assets/images/uniform-grey.png"><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Galatasaray</span>
+                                             <span class="text truncate">Bayern Münih</span>
                                           </div>
                                        </div>
                                     </div>
                                     <div class="date">
-                                       <b><span class="minutes"> 02/02 20:00 </span></b><!----><span class="btn other-btn">+932</span>
+                                       <b><span class="minutes"> 14/02 23:00 </span></b><!----><span class="btn other-btn">+724</span>
                                     </div>
                                  </span>
                                  <div class="match-header middle"><button class="statistic-btn"><i class="material-icons pg-icons">equalizer</i></button></div>
                               </a>
                               <div class="match-header-right flex-container flex-item ng-star-inserted">
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7838413586">
-                                    <!----><span class="bet-btn-odd">5.36</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7663611518">
+                                    <!----><span class="bet-btn-odd">6.16</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7838413587">
-                                    <!----><span class="bet-btn-odd">4.18</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7663611519">
+                                    <!----><span class="bet-btn-odd">4.63</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7838413588">
-                                    <!----><span class="bet-btn-odd">1.68</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7663611520">
+                                    <!----><span class="bet-btn-odd">1.56</span>
                                  </a>
                                  <!----><!----><!----><!----><!----><!---->
                               </div>
@@ -2394,35 +2470,35 @@
                                        <div class="team-content-left team-name">
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <!----><img class="team-flag team-tshirt ng-star-inserted" src="/images/common/assets/images/uniform-red.png"><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3006.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">1. FC Heidenheim</span>
+                                             <span class="text truncate">Benfica Lisbon</span>
                                           </div>
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <!----><img class="team-flag team-tshirt ng-star-inserted" src="/images/common/assets/images/uniform-grey.png"><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1681.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Borussia Dortmund</span>
+                                             <span class="text truncate">Toulouse FC</span>
                                           </div>
                                        </div>
                                     </div>
                                     <div class="date">
-                                       <b><span class="minutes"> 02/02 22:30 </span></b><!----><span class="btn other-btn">+947</span>
+                                       <b><span class="minutes"> 15/02 23:00 </span></b><!----><span class="btn other-btn">+716</span>
                                     </div>
                                  </span>
                                  <div class="match-header middle"><button class="statistic-btn"><i class="material-icons pg-icons">equalizer</i></button></div>
                               </a>
                               <div class="match-header-right flex-container flex-item ng-star-inserted">
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7802735494">
-                                    <!----><span class="bet-btn-odd">4.03</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7663733723">
+                                    <!----><span class="bet-btn-odd">1.43</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7802735495">
-                                    <!----><span class="bet-btn-odd">4.42</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7663733724">
+                                    <!----><span class="bet-btn-odd">5.09</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7802735496">
-                                    <!----><span class="bet-btn-odd">1.83</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7663733725">
+                                    <!----><span class="bet-btn-odd">8.18</span>
                                  </a>
                                  <!----><!----><!----><!----><!----><!---->
                               </div>
@@ -2436,35 +2512,35 @@
                                        <div class="team-content-left team-name">
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1659.png"><!----><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/2999.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Strasbourg</span>
+                                             <span class="text truncate">SC Braga</span>
                                           </div>
                                           <div class="team-content-info">
                                              <app-teams-logo classes="team-flag">
-                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1644.png"><!----><!----><!---->
+                                                <img class="team-flag ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/5962.png"><!----><!----><!---->
                                              </app-teams-logo>
-                                             <span class="text truncate">Paris St. Germain</span>
+                                             <span class="text truncate">Karabağ FK</span>
                                           </div>
                                        </div>
                                     </div>
                                     <div class="date">
-                                       <b><span class="minutes"> 02/02 23:00 </span></b><!----><span class="btn other-btn">+935</span>
+                                       <b><span class="minutes"> 15/02 23:00 </span></b><!----><span class="btn other-btn">+718</span>
                                     </div>
                                  </span>
                                  <div class="match-header middle"><button class="statistic-btn"><i class="material-icons pg-icons">equalizer</i></button></div>
                               </a>
                               <div class="match-header-right flex-container flex-item ng-star-inserted">
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7806828769">
-                                    <!----><span class="bet-btn-odd">6.20</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Ev Sahibi" foid="7663669448">
+                                    <!----><span class="bet-btn-odd">1.40</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7806828770">
-                                    <!----><span class="bet-btn-odd">4.81</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Beraberlik" foid="7663669449">
+                                    <!----><span class="bet-btn-odd">5.38</span>
                                  </a>
                                  <!----><!----><!----><!----><!---->
-                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7806828771">
-                                    <!----><span class="bet-btn-odd">1.54</span>
+                                 <a href="javascript:;" bet-button="" class="btn bet-btn waves-effect waves-light flex-item twoRow ng-star-inserted" title="Deplasman" foid="7663669450">
+                                    <!----><span class="bet-btn-odd">8.38</span>
                                  </a>
                                  <!----><!----><!----><!----><!----><!---->
                               </div>
@@ -2487,526 +2563,526 @@
                <div accordion="" class="modul-accordion populer-events ng-star-inserted">
                   <div class="modul-header"><span class="header-text"> Casino </span><i class="fa fa-chevron-right right"></i><a class="show-more-games mar-right-10 right" href="/tr/games/casino">Daha Fazla Oyun Göster</a></div>
                   <div class="modul-content">
-                     <owl-carousel-o _nghost-muf-c77="">
-                        <div _ngcontent-muf-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
-                           <div _ngcontent-muf-c77="" class="owl-stage-outer ng-star-inserted">
-                              <owl-stage _ngcontent-muf-c77="" class="ng-tns-c78-9 ng-star-inserted">
-                                 <div class="ng-tns-c78-9">
-                                    <div class="owl-stage ng-tns-c78-9" style="width: 68775px; transform: translate3d(-17226px, 0px, 0px); transition: all 0s ease 0s;">
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                     <owl-carousel-o _nghost-lmt-c77="">
+                        <div _ngcontent-lmt-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
+                           <div _ngcontent-lmt-c77="" class="owl-stage-outer ng-star-inserted">
+                              <owl-stage _ngcontent-lmt-c77="" class="ng-tns-c78-3 ng-star-inserted">
+                                 <div class="ng-tns-c78-3">
+                                    <div class="owl-stage ng-tns-c78-3" style="width: 68775px; transform: translate3d(-17226px, 0px, 0px); transition: all 0s ease 0s;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/22581.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22581.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Inferno  Diamonds</div>
@@ -3014,16 +3090,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Vikings Go Berzerk</div>
@@ -3031,16 +3107,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/20727.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20727.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Jingle Ways Megaways</div>
@@ -3048,16 +3124,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Hell Hot 100</div>
@@ -3065,16 +3141,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/24276.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24276.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Pop  And  Drop</div>
@@ -3082,16 +3158,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/13475.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13475.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Balloon</div>
@@ -3099,16 +3175,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/19420.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19420.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Cricket X</div>
@@ -3116,16 +3192,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">JetX</div>
@@ -3133,16 +3209,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/7209.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/7209.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Mahjong Ways</div>
@@ -3150,16 +3226,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/21257.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21257.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Wild Bounty Showdown</div>
@@ -3167,1020 +3243,1020 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/22581.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22581.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Inferno  Diamonds</div>
@@ -4188,16 +4264,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/16784.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/yggdrasil_lcky.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Vikings Go Berzerk</div>
@@ -4205,16 +4281,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/20727.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20727.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/red_tiger_oss.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Jingle Ways Megaways</div>
@@ -4222,16 +4298,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/14707.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/endorphina.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Hell Hot 100</div>
@@ -4239,16 +4315,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/24276.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24276.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/fugaso_lcky.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Pop  And  Drop</div>
@@ -4256,16 +4332,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/13475.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13475.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Balloon</div>
@@ -4273,16 +4349,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/19420.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19420.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Cricket X</div>
@@ -4290,16 +4366,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/13477.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/smart_soft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">JetX</div>
@@ -4307,16 +4383,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/7209.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/7209.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Mahjong Ways</div>
@@ -4324,16 +4400,16 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <div class="game-card ng-star-inserted" style="">
                                              <div class="card-image">
                                                 <a href="javascript:;">
                                                    <div class="image-overlay"></div>
-                                                   <img class="game-img" src="/images/m-common/assets/images/casino/300x200/21257.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
+                                                   <img class="game-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21257.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
                                                    <span class="inf">
                                                       <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                    </span>
-                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
+                                                   <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pgsoft.png"></span></span>
                                                 </a>
                                              </div>
                                              <div class="game-name truncate">Wild Bounty Showdown</div>
@@ -4341,507 +4417,507 @@
                                           <!----><!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!---->
-                                       <div class="owl-item ng-tns-c78-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
+                                       <div class="owl-item ng-tns-c78-3 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
                                           <!---->
                                        </div>
                                        <!----><!---->
@@ -4850,11 +4926,11 @@
                               </owl-stage>
                            </div>
                            <!---->
-                           <div _ngcontent-muf-c77="" class="owl-nav ng-star-inserted">
-                              <div _ngcontent-muf-c77="" class="owl-prev"><i class="fa fa-chevron-left"></i></div>
-                              <div _ngcontent-muf-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
+                           <div _ngcontent-lmt-c77="" class="owl-nav ng-star-inserted">
+                              <div _ngcontent-lmt-c77="" class="owl-prev"><i class="fa fa-chevron-left"></i></div>
+                              <div _ngcontent-lmt-c77="" class="owl-next"><i class="fa fa fa-chevron-right"></i></div>
                            </div>
-                           <div _ngcontent-muf-c77="" class="owl-dots disabled ng-star-inserted">
+                           <div _ngcontent-lmt-c77="" class="owl-dots disabled ng-star-inserted">
                               <!---->
                            </div>
                            <!----><!---->
@@ -4894,6 +4970,26 @@
                               <div class="flex-item truncate">
                                  <a href="javascript:;" class="match-header flex-container">
                                     <div class="content-left flex-container">
+                                       <div class="time"><span class="clock">23:00</span><span class="date">05/02</span></div>
+                                       <div class="team-name truncate">
+                                          <span class="item"><span class="text truncate"> Brentford - Manchester City FC </span></span>
+                                          <span class="item">
+                                             <i class="left pg-icons sport-types-1 svg-font-icons"></i>
+                                             <div class="text truncate">1x2: <span class="selection">Deplasman</span></div>
+                                          </span>
+                                       </div>
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7808008374" foid="7808008374"><span class="bet-btn-odd">1.46</span></a></div>
+                           </div>
+                        </div>
+                        <!---->
+                        <div class="match-content ng-star-inserted">
+                           <div class="flex-container">
+                              <div class="flex-item truncate">
+                                 <a href="javascript:;" class="match-header flex-container">
+                                    <div class="content-left flex-container">
                                        <div class="time"><span class="clock">19:00</span><span class="date">04/02</span></div>
                                        <div class="team-name truncate">
                                           <span class="item"><span class="text truncate"> Beşiktaş - Trabzonspor </span></span>
@@ -4906,6 +5002,26 @@
                                  </a>
                               </div>
                               <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7839076073" foid="7839076073"><span class="bet-btn-odd">1.77</span></a></div>
+                           </div>
+                        </div>
+                        <!---->
+                        <div class="match-content ng-star-inserted">
+                           <div class="flex-container">
+                              <div class="flex-item truncate">
+                                 <a href="javascript:;" class="match-header flex-container">
+                                    <div class="content-left flex-container">
+                                       <div class="time"><span class="clock">23:00</span><span class="date">15/02</span></div>
+                                       <div class="team-name truncate">
+                                          <span class="item"><span class="text truncate"> Benfica Lisbon - Toulouse FC </span></span>
+                                          <span class="item">
+                                             <i class="left pg-icons sport-types-1 svg-font-icons"></i>
+                                             <div class="text truncate">1x2: <span class="selection">Ev Sahibi</span></div>
+                                          </span>
+                                       </div>
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7663733723" foid="7663733723"><span class="bet-btn-odd">1.43</span></a></div>
                            </div>
                         </div>
                         <!---->
@@ -4934,18 +5050,18 @@
                               <div class="flex-item truncate">
                                  <a href="javascript:;" class="match-header flex-container">
                                     <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">17:00</span><span class="date">02/02</span></div>
+                                       <div class="time"><span class="clock">23:00</span><span class="date">15/02</span></div>
                                        <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> Hatayspor - Fatih Karagümrük </span></span>
+                                          <span class="item"><span class="text truncate"> Real Betis Sevilla - Dinamo Zagreb </span></span>
                                           <span class="item">
                                              <i class="left pg-icons sport-types-1 svg-font-icons"></i>
-                                             <div class="text truncate">Toplam Korner Sayısı: <span class="selection">9.5 Üst</span></div>
+                                             <div class="text truncate">1x2: <span class="selection">Ev Sahibi</span></div>
                                           </span>
                                        </div>
                                     </div>
                                  </a>
                               </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7855906106" foid="7855906106"><span class="bet-btn-odd">1.85</span></a></div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7663976425" foid="7663976425"><span class="bet-btn-odd">1.75</span></a></div>
                            </div>
                         </div>
                         <!---->
@@ -4954,18 +5070,18 @@
                               <div class="flex-item truncate">
                                  <a href="javascript:;" class="match-header flex-container">
                                     <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">17:00</span><span class="date">02/02</span></div>
+                                       <div class="time"><span class="clock">23:00</span><span class="date">15/02</span></div>
                                        <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> MKE Ankaragücü - Sivasspor </span></span>
+                                          <span class="item"><span class="text truncate"> SC Braga - Karabağ FK </span></span>
                                           <span class="item">
                                              <i class="left pg-icons sport-types-1 svg-font-icons"></i>
-                                             <div class="text truncate">Toplam Korner Sayısı: <span class="selection">9.5 Üst</span></div>
+                                             <div class="text truncate">1x2: <span class="selection">Ev Sahibi</span></div>
                                           </span>
                                        </div>
                                     </div>
                                  </a>
                               </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7855916934" foid="7855916934"><span class="bet-btn-odd">1.85</span></a></div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7663669448" foid="7663669448"><span class="bet-btn-odd">1.4</span></a></div>
                            </div>
                         </div>
                         <!---->
@@ -4974,9 +5090,29 @@
                               <div class="flex-item truncate">
                                  <a href="javascript:;" class="match-header flex-container">
                                     <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">20:00</span><span class="date">02/02</span></div>
+                                       <div class="time"><span class="clock">23:00</span><span class="date">15/02</span></div>
                                        <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> Samsunspor - Galatasaray </span></span>
+                                          <span class="item"><span class="text truncate"> Milan - Stade Rennais </span></span>
+                                          <span class="item">
+                                             <i class="left pg-icons sport-types-1 svg-font-icons"></i>
+                                             <div class="text truncate">1x2: <span class="selection">Ev Sahibi</span></div>
+                                          </span>
+                                       </div>
+                                    </div>
+                                 </a>
+                              </div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7663669453" foid="7663669453"><span class="bet-btn-odd">1.66</span></a></div>
+                           </div>
+                        </div>
+                        <!---->
+                        <div class="match-content ng-star-inserted">
+                           <div class="flex-container">
+                              <div class="flex-item truncate">
+                                 <a href="javascript:;" class="match-header flex-container">
+                                    <div class="content-left flex-container">
+                                       <div class="time"><span class="clock">23:00</span><span class="date">13/02</span></div>
+                                       <div class="team-name truncate">
+                                          <span class="item"><span class="text truncate"> FC Kopenhag - Manchester City FC </span></span>
                                           <span class="item">
                                              <i class="left pg-icons sport-types-1 svg-font-icons"></i>
                                              <div class="text truncate">1x2: <span class="selection">Deplasman</span></div>
@@ -4985,7 +5121,7 @@
                                     </div>
                                  </a>
                               </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7838413588" foid="7838413588"><span class="bet-btn-odd">1.68</span></a></div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7663591323" foid="7663591323"><span class="bet-btn-odd">1.34</span></a></div>
                            </div>
                         </div>
                         <!---->
@@ -4994,18 +5130,18 @@
                               <div class="flex-item truncate">
                                  <a href="javascript:;" class="match-header flex-container">
                                     <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">17:30</span><span class="date">03/02</span></div>
+                                       <div class="time"><span class="clock">23:00</span><span class="date">13/02</span></div>
                                        <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> Mainz 05 - Werder Bremen </span></span>
+                                          <span class="item"><span class="text truncate"> RB Leipzig - Real Madrid </span></span>
                                           <span class="item">
                                              <i class="left pg-icons sport-types-1 svg-font-icons"></i>
-                                             <div class="text truncate">İlk Yarı 1x2: <span class="selection">Ev Sahibi</span></div>
+                                             <div class="text truncate">1x2: <span class="selection">Deplasman</span></div>
                                           </span>
                                        </div>
                                     </div>
                                  </a>
                               </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7806985846" foid="7806985846"><span class="bet-btn-odd">2.68</span></a></div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7663618360" foid="7663618360"><span class="bet-btn-odd">2.2</span></a></div>
                            </div>
                         </div>
                         <!---->
@@ -5014,78 +5150,18 @@
                               <div class="flex-item truncate">
                                  <a href="javascript:;" class="match-header flex-container">
                                     <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">20:30</span><span class="date">02/02</span></div>
+                                       <div class="time"><span class="clock">20:45</span><span class="date">15/02</span></div>
                                        <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> Karlsruher - Wehen </span></span>
+                                          <span class="item"><span class="text truncate"> Galatasaray - AC Sparta Prag </span></span>
                                           <span class="item">
                                              <i class="left pg-icons sport-types-1 svg-font-icons"></i>
-                                             <div class="text truncate">İlk Yarı 1x2: <span class="selection">Ev Sahibi</span></div>
+                                             <div class="text truncate">1x2: <span class="selection">Ev Sahibi</span></div>
                                           </span>
                                        </div>
                                     </div>
                                  </a>
                               </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7837797560" foid="7837797560"><span class="bet-btn-odd">2.12</span></a></div>
-                           </div>
-                        </div>
-                        <!---->
-                        <div class="match-content ng-star-inserted">
-                           <div class="flex-container">
-                              <div class="flex-item truncate">
-                                 <a href="javascript:;" class="match-header flex-container">
-                                    <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">20:00</span><span class="date">02/02</span></div>
-                                       <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> Sakaryaspor - Bandırmaspor </span></span>
-                                          <span class="item">
-                                             <i class="left pg-icons sport-types-1 svg-font-icons"></i>
-                                             <div class="text truncate">İlk Yarı 1x2: <span class="selection">Ev Sahibi</span></div>
-                                          </span>
-                                       </div>
-                                    </div>
-                                 </a>
-                              </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7837944564" foid="7837944564"><span class="bet-btn-odd">3.12</span></a></div>
-                           </div>
-                        </div>
-                        <!---->
-                        <div class="match-content ng-star-inserted">
-                           <div class="flex-container">
-                              <div class="flex-item truncate">
-                                 <a href="javascript:;" class="match-header flex-container">
-                                    <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">22:30</span><span class="date">02/02</span></div>
-                                       <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> 1. FC Heidenheim - Borussia Dortmund </span></span>
-                                          <span class="item">
-                                             <i class="left pg-icons sport-types-1 svg-font-icons"></i>
-                                             <div class="text truncate">İlk Yarı 1x2: <span class="selection">Deplasman</span></div>
-                                          </span>
-                                       </div>
-                                    </div>
-                                 </a>
-                              </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7802735539" foid="7802735539"><span class="bet-btn-odd">2.27</span></a></div>
-                           </div>
-                        </div>
-                        <!---->
-                        <div class="match-content ng-star-inserted">
-                           <div class="flex-container">
-                              <div class="flex-item truncate">
-                                 <a href="javascript:;" class="match-header flex-container">
-                                    <div class="content-left flex-container">
-                                       <div class="time"><span class="clock">17:30</span><span class="date">03/02</span></div>
-                                       <div class="team-name truncate">
-                                          <span class="item"><span class="text truncate"> Bochum - Augsburg </span></span>
-                                          <span class="item">
-                                             <i class="left pg-icons sport-types-1 svg-font-icons"></i>
-                                             <div class="text truncate">İlk Yarı 1x2: <span class="selection">Ev Sahibi</span></div>
-                                          </span>
-                                       </div>
-                                    </div>
-                                 </a>
-                              </div>
-                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7806986977" foid="7806986977"><span class="bet-btn-odd">2.72</span></a></div>
+                              <div class="odd-btn-group team-bets-btn-main"><a bet-button="" class="btn bet-btn waves-effect waves-light w100" title="7663669472" foid="7663669472"><span class="bet-btn-odd">1.78</span></a></div>
                            </div>
                         </div>
                         <!----><!---->
@@ -5097,562 +5173,13 @@
             <!---->
          </div>
          <!----><!----><!----><!---->
-         <div id="jpf-container" class="ng-star-inserted" style="width: 526px; height: 220.92px; display: block;"><iframe name="jpf-container" id="jpf-container-iframe" width="100%" height="100%" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" src="https://static.lgio.net/jpf-widget/html/index.html?sign=eyJhbGciOiJIUzI1NiJ9.eyJhcGlLZXkiOiJKalBMWmtGTyIsImV4cCI6MTc0NDYwMzYwMCwiaWF0IjoxNTgzMDY3NjAwLCJ1c2VyIjp7Imd1ZXN0Ijp0cnVlfSwianRpIjoiamFja3BvdC13aWRnZXQifQ.zACcWq7fsHl2jqafPNiCXG0B-giStQfuMVRKkbXxqRU%0D%0A&amp;redirectUrl=https%3A%2F%2Fm.limanbet569.com%2Ftr%2Fgames%2Fbingo%2F9427&amp;origin=https://m.limanbet569.com"></iframe></div>
+         <div id="jpf-container" class="ng-star-inserted" style="display: block;"><iframe name="jpf-container" id="jpf-container-iframe" width="100%" height="100%" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" src="https://static.lgio.net/jpf-widget/html/index.html?sign=eyJhbGciOiJIUzI1NiJ9.eyJhcGlLZXkiOiJKalBMWmtGTyIsImV4cCI6MTc0NDYwMzYwMCwiaWF0IjoxNTgzMDY3NjAwLCJ1c2VyIjp7Imd1ZXN0Ijp0cnVlfSwianRpIjoiamFja3BvdC13aWRnZXQifQ.zACcWq7fsHl2jqafPNiCXG0B-giStQfuMVRKkbXxqRU%0D%0A&amp;redirectUrl=https%3A%2F%2Fm.limanbet569.com%2Ftr%2Fgames%2Fbingo%2F9427&amp;origin=https://m.limanbet569.com"></iframe></div>
          <!---->
       </main>
    </app-main-page>
    <!---->
    <payments-widget>
-      <owl-carousel-o _nghost-muf-c77="" class="ng-star-inserted">
-         <div _ngcontent-muf-c77="" class="owl-carousel owl-theme owl-loaded owl-drag">
-            <div _ngcontent-muf-c77="" class="owl-stage-outer ng-star-inserted">
-               <owl-stage _ngcontent-muf-c77="" class="ng-tns-c78-7 ng-star-inserted">
-                  <div class="ng-tns-c78-7">
-                     <div class="owl-stage ng-tns-c78-7" style="width: 6370px; transform: translate3d(-1638px, 0px, 0px); transition: all 0s ease 0s;">
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="tiktak-havale-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1764 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="softpay-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="sistemnakit-papara-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1958 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="sistemnakit-bank-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1956 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="seripopy-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1871 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="safirhavale-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="scashmoney-bank-transfer-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" width="100" height="33" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1572 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="starpay-papara-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1869 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="envoysoft-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-412 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="envoyqr-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="papara-form-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-264 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="upaycoins-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
-                                 <div class="fix-payments ng-star-inserted">
-                                    <payment-icon>
-                                       <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
-                                    </payment-icon>
-                                    <span class="pymnt-icon icon-finance100x33-8"></span>
-                                 </div>
-                                 <!----><!----><!---->
-                                 <div class="flex-container">
-                                    <!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="MOBILEBANK">
-                                 <!---->
-                                 <div class="fix-payments ng-star-inserted">
-                                    <payment-icon>
-                                       <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
-                                    </payment-icon>
-                                    <span class="pymnt-icon icon-cepbank100x33"></span>
-                                 </div>
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="turbohavale-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1651 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="scashmoney-fixturka-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1945 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="scashmoney-papara-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1576 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="tiktak-havale-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1764 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="softpay-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="sistemnakit-papara-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1958 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="sistemnakit-bank-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1956 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="seripopy-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1871 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="safirhavale-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="scashmoney-bank-transfer-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" width="100" height="33" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1572 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="starpay-papara-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1869 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="envoysoft-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-412 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="envoyqr-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="papara-form-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-264 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="upaycoins-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
-                                 <div class="fix-payments ng-star-inserted">
-                                    <payment-icon>
-                                       <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
-                                    </payment-icon>
-                                    <span class="pymnt-icon icon-finance100x33-8"></span>
-                                 </div>
-                                 <!----><!----><!---->
-                                 <div class="flex-container">
-                                    <!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="MOBILEBANK">
-                                 <!---->
-                                 <div class="fix-payments ng-star-inserted">
-                                    <payment-icon>
-                                       <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
-                                    </payment-icon>
-                                    <span class="pymnt-icon icon-cepbank100x33"></span>
-                                 </div>
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="turbohavale-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1651 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="scashmoney-fixturka-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1945 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!---->
-                        <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 162px; margin-right: 20px;">
-                           <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="scashmoney-papara-deposit">
-                                 <!----><!---->
-                                 <div class="flex-container">
-                                    <payment-icon class="ng-star-inserted">
-                                       <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
-                                    </payment-icon>
-                                    <span class="icon-finance100x33-1576 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
-                                 </div>
-                              </div>
-                           </div>
-                           <!----><!----><!----><!---->
-                        </div>
-                        <!----><!---->
-                     </div>
-                  </div>
-               </owl-stage>
-            </div>
-            <!---->
-            <div _ngcontent-muf-c77="" class="owl-nav ng-star-inserted">
-               <div _ngcontent-muf-c77="" class="owl-prev"><i class="material-icons">chevron_left</i></div>
-               <div _ngcontent-muf-c77="" class="owl-next"><i class="material-icons">chevron_right</i></div>
-            </div>
-            <div _ngcontent-muf-c77="" class="owl-dots disabled ng-star-inserted">
-               <!---->
-            </div>
-            <!----><!---->
-         </div>
-      </owl-carousel-o>
-      <!----><!----><!----><!----><!----><!---->
+      <!---->
       <div id="PaymentFormModal" materialize="modal" class="modal modal-md open dshbrd-modal pymnt-mdl black-text" style="z-index: 1025;">
          <div class="modal-header"><a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons white-text">close</i></a></div>
          <!---->
