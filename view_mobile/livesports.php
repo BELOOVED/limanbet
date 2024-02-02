@@ -4746,7 +4746,7 @@ if ($detect->isMobile()) {?>
                                        </div>
                                        <div class="team-content-info">
                                           <app-teams-logo classes="team-flag">
-                                             <!----><img class="team-flag team-tshirt ng-star-inserted" src="//v3.pronetstatic.com/common/assets/images/uniform-grey.png"><!----><!---->
+                                             <!----><img class="team-flag team-tshirt ng-star-inserted" src="/images/common/assets/images/uniform-grey.png"><!----><!---->
                                           </app-teams-logo>
                                           <div class="text truncate">Fanselow, Seb.</div>
                                        </div>

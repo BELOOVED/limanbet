@@ -325,9 +325,9 @@ if ($detect->isMobile()) {?>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">5</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">6</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                      </div>
-                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/IV.png&quot;);"></div>
+                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/IV.png&quot;);"></div>
                      <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                     <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#IV" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                     <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#IV" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                      <map name="IV">
                         <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                      </map>
@@ -345,9 +345,9 @@ if ($detect->isMobile()) {?>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">4</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">3</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                      </div>
-                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/III.png&quot;);"></div>
+                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/III.png&quot;);"></div>
                      <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                     <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#III" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                     <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#III" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                      <map name="III">
                         <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                      </map>
@@ -365,9 +365,9 @@ if ($detect->isMobile()) {?>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">4</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">5</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                      </div>
-                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/II.png&quot;);"></div>
+                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/II.png&quot;);"></div>
                      <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                     <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#II" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                     <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#II" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                      <map name="II">
                         <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                      </map>
@@ -383,9 +383,9 @@ if ($detect->isMobile()) {?>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">2</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">2</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                      </div>
-                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/I.png&quot;);"></div>
+                     <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/I.png&quot;);"></div>
                      <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                     <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#I" style="top: 0px; left: 0px; width: 100px; height: 48px;">
+                     <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#I" style="top: 0px; left: 0px; width: 100px; height: 48px;">
                      <map name="I">
                         <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                      </map>
@@ -414,14 +414,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Flaming Hot" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/2746.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Flaming Hot" src="/images/m-common/assets/images/casino/300x200/2746.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/egt.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Flaming Hot </a>
@@ -429,14 +429,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="40 Burning Hot 6 Reels" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/6461.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="40 Burning Hot 6 Reels" src="/images/m-common/assets/images/casino/300x200/6461.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/egt.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> 40 Burning Hot 6 Reels </a>
@@ -444,14 +444,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="20 Super Hot Egypt Quest" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/10890.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="20 Super Hot Egypt Quest" src="/images/m-common/assets/images/casino/300x200/10890.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/egt.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/egt.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> 20 Super Hot Egypt Quest </a>
@@ -459,14 +459,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Gates of Olympus 1000™" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Gates of Olympus 1000™" src="/images/m-common/assets/images/casino/300x200/26163.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Gates of Olympus 1000™ </a>
@@ -474,14 +474,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Sugar Rush" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/20053.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Sugar Rush" src="/images/m-common/assets/images/casino/300x200/20053.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Sugar Rush </a>
@@ -489,14 +489,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="TNT Bonanza" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="TNT Bonanza" src="/images/m-common/assets/images/casino/300x200/22321.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> TNT Bonanza </a>
@@ -504,14 +504,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="King Cobra" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/23381.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="King Cobra" src="/images/m-common/assets/images/casino/300x200/23381.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/booming_games.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> King Cobra </a>
@@ -519,14 +519,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Sweet Bonanza" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Sweet Bonanza" src="/images/m-common/assets/images/casino/300x200/8888.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Sweet Bonanza </a>
@@ -534,14 +534,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Sweet Bonanza Xmas" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8870.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Sweet Bonanza Xmas" src="/images/m-common/assets/images/casino/300x200/8870.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Sweet Bonanza Xmas </a>
@@ -549,14 +549,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Wisdom of Athena™" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24361.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Wisdom of Athena™" src="/images/m-common/assets/images/casino/300x200/24361.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Wisdom of Athena™ </a>
@@ -564,14 +564,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Starlight Princess 1000™" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/25414.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Starlight Princess 1000™" src="/images/m-common/assets/images/casino/300x200/25414.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Starlight Princess 1000™ </a>
@@ -579,14 +579,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Gold Party™" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/17737.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Gold Party™" src="/images/m-common/assets/images/casino/300x200/17737.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Gold Party™ </a>
@@ -594,14 +594,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Big Bass Amazon Xtreme™" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24336.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Big Bass Amazon Xtreme™" src="/images/m-common/assets/images/casino/300x200/24336.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Big Bass Amazon Xtreme™ </a>
@@ -609,14 +609,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="John Hunter and the Tomb of the Scarab Queen" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/8877.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="John Hunter and the Tomb of the Scarab Queen" src="/images/m-common/assets/images/casino/300x200/8877.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> John Hunter and the Tomb of the Scarab Queen </a>
@@ -624,14 +624,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Forge of Olympus™" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/24755.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Forge of Olympus™" src="/images/m-common/assets/images/casino/300x200/24755.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Forge of Olympus™ </a>
@@ -639,14 +639,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Sweet Bonanza Dice" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/21925.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Sweet Bonanza Dice" src="/images/m-common/assets/images/casino/300x200/21925.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Sweet Bonanza Dice </a>
@@ -654,14 +654,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Wild West Gold" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/9633.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Wild West Gold" src="/images/m-common/assets/images/casino/300x200/9633.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Wild West Gold </a>
@@ -669,14 +669,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Barn Festival" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19400.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Barn Festival" src="/images/m-common/assets/images/casino/300x200/19400.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Barn Festival </a>
@@ -684,14 +684,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Wild Wild Riches Megaways" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/22541.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Wild Wild Riches Megaways" src="/images/m-common/assets/images/casino/300x200/22541.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Wild Wild Riches Megaways </a>
@@ -699,14 +699,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Fruit Party" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/9632.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Fruit Party" src="/images/m-common/assets/images/casino/300x200/9632.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Fruit Party </a>
@@ -714,14 +714,14 @@ if ($detect->isMobile()) {?>
                   <div class="col s4 game-card ng-star-inserted">
                      <div class="card-image">
                         <a href="javascript:;">
-                           <img class="game-img" alt="Big Bass Splash" src="//v3.pronetstatic.com/m-common/assets/images/casino/300x200/19982.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                           <img class="game-img" alt="Big Bass Splash" src="/images/m-common/assets/images/casino/300x200/19982.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                            <span class="inf">
                               <!----><!----><!---->
                            </span>
                            <app-user-favorite classes="fvrt-lnk left">
                               <!---->
                            </app-user-favorite>
-                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="//v3.pronetstatic.com/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
+                           <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vendor-img" src="/images/m-common/assets/images/casino/32x32/pragmatic_play.png"></span></span>
                         </a>
                      </div>
                      <a href="javascript:;" class="game-name"> Big Bass Splash </a>

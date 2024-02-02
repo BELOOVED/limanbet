@@ -5387,9 +5387,9 @@ if ($detect->isMobile()) {?>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">5</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">6</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         </div>
-                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/IV.png&quot;);"></div>
+                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/IV.png&quot;);"></div>
                         <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                        <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#IV" style="top: -1.5px; left: -1.5px; width: 335px; height: 48px;">
+                        <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#IV" style="top: -1.5px; left: -1.5px; width: 335px; height: 48px;">
                         <map name="IV">
                            <area shape="poly" href="javascript: void(0);" coords="0,0,335,0,335,48,0,48">
                         </map>
@@ -5407,9 +5407,9 @@ if ($detect->isMobile()) {?>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">4</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">3</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         </div>
-                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/III.png&quot;);"></div>
+                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/III.png&quot;);"></div>
                         <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                        <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#III" style="top: -1.5px; left: -1.5px; width: 296px; height: 48px;">
+                        <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#III" style="top: -1.5px; left: -1.5px; width: 296px; height: 48px;">
                         <map name="III">
                            <area shape="poly" href="javascript: void(0);" coords="0,0,296,0,296,48,0,48">
                         </map>
@@ -5427,9 +5427,9 @@ if ($detect->isMobile()) {?>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">4</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">5</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         </div>
-                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/II.png&quot;);"></div>
+                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/II.png&quot;);"></div>
                         <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                        <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#II" style="top: -1.5px; left: -1.5px; width: 257px; height: 48px;">
+                        <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#II" style="top: -1.5px; left: -1.5px; width: 257px; height: 48px;">
                         <map name="II">
                            <area shape="poly" href="javascript: void(0);" coords="0,0,257,0,257,48,0,48">
                         </map>
@@ -5445,9 +5445,9 @@ if ($detect->isMobile()) {?>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">2</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                            <div class="com-egt-jackpot-html-numbers" style="display: block; line-height: 44px;"><span class="com-egt-jackpot-html-digit"><span class="com-egt-jackpot-html-old" style="height: 44px;">2</span><span class="com-egt-jackpot-html-new" style="height: 44px;"></span></span></div>
                         </div>
-                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;//v3.pronetstatic.com/common/assets/images/egt/img/I.png&quot;);"></div>
+                        <div class="com-egt-jackpot-html-level" width="41" height="41" style="left: -21.5px; top: 1.5px; width: 41px; height: 41px; background-image: url(&quot;/images/common/assets/images/egt/img/I.png&quot;);"></div>
                         <div class="com-egt-jackpot-html-currency" style="line-height: 12px; font-size: 8px;"><span class="com-egt-jackpot-html-currencyText" style="padding-top: 6px;">TRY</span></div>
-                        <img src="//v3.pronetstatic.com/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#I" style="top: -1.5px; left: -1.5px; width: 218px; height: 48px;">
+                        <img src="/images/common/assets/images/egt/img/dummy.png" class="com-egt-jackpot-html-dummyImg" usemap="#I" style="top: -1.5px; left: -1.5px; width: 218px; height: 48px;">
                         <map name="I">
                            <area shape="poly" href="javascript: void(0);" coords="0,0,218,0,218,48,0,48">
                         </map>
@@ -5532,27 +5532,27 @@ if ($detect->isMobile()) {?>
                                        <ul class="splide__list" id="splide06-list" style="transform: translateX(-1560px);">
                                           <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 780px;" aria-hidden="true" tabindex="-1">
                                              <div class="panel_galery_content" style="display: none;"></div>
-                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" aria-rowindex="0" class="" srcset="" src="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
+                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https:/images//limanbet/images/news/172992-large.jpeg" aria-rowindex="0" class="" srcset="" src="https:/images//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
                                           </li>
                                           <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 780px;">
                                              <div class="panel_galery_content" style="display: none;"></div>
-                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" aria-rowindex="1" class="" srcset="" src="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
+                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https:/images//limanbet/images/news/172992-large.jpeg" aria-rowindex="1" class="" srcset="" src="https:/images//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
                                           </li>
                                           <li class="splide__slide panel_gallery_item is-active is-visible" id="splide06-slide01" style="width: 780px;" aria-hidden="false" tabindex="0">
                                              <div class="panel_galery_content" style="display: none;"></div>
-                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" aria-rowindex="0" class="" srcset="" src="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" style=""></a>
+                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https:/images//limanbet/images/news/172992-large.jpeg" aria-rowindex="0" class="" srcset="" src="https:/images//limanbet/images/news/172992-large.jpeg" style=""></a>
                                           </li>
                                           <li class="splide__slide panel_gallery_item" id="splide06-slide02" style="width: 780px;" aria-hidden="true" tabindex="-1">
                                              <div class="panel_galery_content" style="display: none;"></div>
-                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" aria-rowindex="1" class="" srcset="" src="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" style=""></a>
+                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https:/images//limanbet/images/news/172992-large.jpeg" aria-rowindex="1" class="" srcset="" src="https:/images//limanbet/images/news/172992-large.jpeg" style=""></a>
                                           </li>
                                           <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 780px;">
                                              <div class="panel_galery_content" style="display: none;"></div>
-                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" aria-rowindex="0" class="" srcset="" src="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
+                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https:/images//limanbet/images/news/172992-large.jpeg" aria-rowindex="0" class="" srcset="" src="https:/images//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
                                           </li>
                                           <li class="splide__slide panel_gallery_item splide__slide--clone" style="width: 780px;">
                                              <div class="panel_galery_content" style="display: none;"></div>
-                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" aria-rowindex="1" class="" srcset="" src="https://v3.pronetstatic.com//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
+                                             <!----><!----><a class="panel_slide_cover no_link"><img data-splide-lazy="https:/images//limanbet/images/news/172992-large.jpeg" aria-rowindex="1" class="" srcset="" src="https:/images//limanbet/images/news/172992-large.jpeg" style="display: none;"><span class="splide__spinner"></span></a>
                                           </li>
                                        </ul>
                                     </div>
@@ -7556,7 +7556,7 @@ if ($detect->isMobile()) {?>
                                           <a href="javascript:;" class="team-name truncate ng-star-inserted">
                                              <span class="item" title="Bayern Munich">
                                                 <app-teams-logo>
-                                                   <!----><img class="team-tshirt ng-star-inserted" src="//v3.pronetstatic.com/common/assets/images/uniform-red.png"><!----><!---->
+                                                   <!----><img class="team-tshirt ng-star-inserted" src="/images/common/assets/images/uniform-red.png"><!----><!---->
                                                 </app-teams-logo>
                                                 <div class="text truncate"> Bayern Munich </div>
                                              </span>
@@ -8334,11 +8334,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Fast Fruits DoubleMax" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24446.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Fast Fruits DoubleMax" src="/images/common/assets/images/casino/300x200/24446.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8355,11 +8355,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Blue Panther" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/17358.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Blue Panther" src="/images/common/assets/images/casino/300x200/17358.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8376,11 +8376,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="10,001 Nights Megaways" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/20251.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="10,001 Nights Megaways" src="/images/common/assets/images/casino/300x200/20251.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8397,11 +8397,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Limanbet Roulette" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/25559.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Limanbet Roulette" src="/images/common/assets/images/casino/300x200/25559.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8418,11 +8418,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Million Vegas" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24805.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Million Vegas" src="/images/common/assets/images/casino/300x200/24805.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_rake.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_rake.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8439,11 +8439,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Mega Greatest Catch" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/20440.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Mega Greatest Catch" src="/images/common/assets/images/casino/300x200/20440.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/evoplay.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/evoplay.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8460,11 +8460,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Raptor Doublemax" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/16873.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Raptor Doublemax" src="/images/common/assets/images/casino/300x200/16873.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8481,11 +8481,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Elysian Jackpots" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/22490.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Elysian Jackpots" src="/images/common/assets/images/casino/300x200/22490.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8502,11 +8502,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Maracana Jackpot" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/22639.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Maracana Jackpot" src="/images/common/assets/images/casino/300x200/22639.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/espresso_games.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/espresso_games.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8523,11 +8523,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Million 777" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/17571.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Million 777" src="/images/common/assets/images/casino/300x200/17571.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_rake.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_rake.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8544,11 +8544,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Demi Gods IV" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/15133.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Demi Gods IV" src="/images/common/assets/images/casino/300x200/15133.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8565,11 +8565,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Super 5 Stars" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/17612.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Super 5 Stars" src="/images/common/assets/images/casino/300x200/17612.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_rake.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_rake.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8586,11 +8586,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Majestic King" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/15169.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Majestic King" src="/images/common/assets/images/casino/300x200/15169.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8607,11 +8607,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Ugliest Catch" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/25323.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Ugliest Catch" src="/images/common/assets/images/casino/300x200/25323.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/nolimit_oss.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/nolimit_oss.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8628,11 +8628,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Mega Greatest Catch Bonus Buy" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21509.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Mega Greatest Catch Bonus Buy" src="/images/common/assets/images/casino/300x200/21509.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/evoplay.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/evoplay.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8649,11 +8649,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Inferno  Diamonds" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/22581.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Inferno  Diamonds" src="/images/common/assets/images/casino/300x200/22581.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8670,11 +8670,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Vikings Go Berzerk" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/16784.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Vikings Go Berzerk" src="/images/common/assets/images/casino/300x200/16784.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8691,11 +8691,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Jingle Ways Megaways" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/20727.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Jingle Ways Megaways" src="/images/common/assets/images/casino/300x200/20727.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8712,11 +8712,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Hell Hot 100" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/14707.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Hell Hot 100" src="/images/common/assets/images/casino/300x200/14707.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/endorphina.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/endorphina.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8733,11 +8733,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Pop  And  Drop" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24276.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Pop  And  Drop" src="/images/common/assets/images/casino/300x200/24276.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8754,11 +8754,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Balloon" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/13475.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Balloon" src="/images/common/assets/images/casino/300x200/13475.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8775,11 +8775,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Cricket X" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/19420.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Cricket X" src="/images/common/assets/images/casino/300x200/19420.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8796,11 +8796,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="JetX" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/13477.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="JetX" src="/images/common/assets/images/casino/300x200/13477.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -8817,11 +8817,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Mahjong Ways" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/7209.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Mahjong Ways" src="/images/common/assets/images/casino/300x200/7209.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/pgsoft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/pgsoft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -8838,11 +8838,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Wild Bounty Showdown" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21257.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Wild Bounty Showdown" src="/images/common/assets/images/casino/300x200/21257.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/pgsoft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/pgsoft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -8859,11 +8859,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Treasures of Aztec" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/11255.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Treasures of Aztec" src="/images/common/assets/images/casino/300x200/11255.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/pgsoft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/pgsoft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -9816,11 +9816,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Fast Fruits DoubleMax" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24446.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Fast Fruits DoubleMax" src="/images/common/assets/images/casino/300x200/24446.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9837,11 +9837,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Blue Panther" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/17358.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Blue Panther" src="/images/common/assets/images/casino/300x200/17358.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9858,11 +9858,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="10,001 Nights Megaways" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/20251.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="10,001 Nights Megaways" src="/images/common/assets/images/casino/300x200/20251.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9879,11 +9879,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Limanbet Roulette" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/25559.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Limanbet Roulette" src="/images/common/assets/images/casino/300x200/25559.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9900,11 +9900,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Million Vegas" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24805.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Million Vegas" src="/images/common/assets/images/casino/300x200/24805.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_rake.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_rake.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9921,11 +9921,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Mega Greatest Catch" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/20440.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Mega Greatest Catch" src="/images/common/assets/images/casino/300x200/20440.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/evoplay.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/evoplay.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9942,11 +9942,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Raptor Doublemax" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/16873.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Raptor Doublemax" src="/images/common/assets/images/casino/300x200/16873.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9963,11 +9963,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Elysian Jackpots" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/22490.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Elysian Jackpots" src="/images/common/assets/images/casino/300x200/22490.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -9984,11 +9984,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Maracana Jackpot" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/22639.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Maracana Jackpot" src="/images/common/assets/images/casino/300x200/22639.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/espresso_games.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/espresso_games.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10005,11 +10005,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Million 777" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/17571.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Million 777" src="/images/common/assets/images/casino/300x200/17571.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_rake.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_rake.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10026,11 +10026,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Demi Gods IV" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/15133.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Demi Gods IV" src="/images/common/assets/images/casino/300x200/15133.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10047,11 +10047,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Super 5 Stars" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/17612.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Super 5 Stars" src="/images/common/assets/images/casino/300x200/17612.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_rake.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_rake.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10068,11 +10068,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Majestic King" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/15169.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Majestic King" src="/images/common/assets/images/casino/300x200/15169.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/spinomenal.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/spinomenal.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10089,11 +10089,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Ugliest Catch" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/25323.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Ugliest Catch" src="/images/common/assets/images/casino/300x200/25323.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/nolimit_oss.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/nolimit_oss.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10110,11 +10110,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Mega Greatest Catch Bonus Buy" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21509.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Mega Greatest Catch Bonus Buy" src="/images/common/assets/images/casino/300x200/21509.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/evoplay.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/evoplay.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10131,11 +10131,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Inferno  Diamonds" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/22581.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Inferno  Diamonds" src="/images/common/assets/images/casino/300x200/22581.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10152,11 +10152,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Vikings Go Berzerk" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/16784.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Vikings Go Berzerk" src="/images/common/assets/images/casino/300x200/16784.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/yggdrasil_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10173,11 +10173,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Jingle Ways Megaways" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/20727.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Jingle Ways Megaways" src="/images/common/assets/images/casino/300x200/20727.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/red_tiger_oss.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10194,11 +10194,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Hell Hot 100" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/14707.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Hell Hot 100" src="/images/common/assets/images/casino/300x200/14707.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/endorphina.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/endorphina.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10215,11 +10215,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Pop  And  Drop" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/24276.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Pop  And  Drop" src="/images/common/assets/images/casino/300x200/24276.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/fugaso_lcky.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10236,11 +10236,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Balloon" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/13475.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Balloon" src="/images/common/assets/images/casino/300x200/13475.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10257,11 +10257,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Cricket X" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/19420.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Cricket X" src="/images/common/assets/images/casino/300x200/19420.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10278,11 +10278,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="JetX" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/13477.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="JetX" src="/images/common/assets/images/casino/300x200/13477.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/smart_soft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/smart_soft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><a href="javascript:;" class="btn free ng-star-inserted"> Zevkine Oyna </a><!---->
@@ -10299,11 +10299,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Mahjong Ways" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/7209.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Mahjong Ways" src="/images/common/assets/images/casino/300x200/7209.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/pgsoft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/pgsoft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -10320,11 +10320,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Wild Bounty Showdown" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/21257.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Wild Bounty Showdown" src="/images/common/assets/images/casino/300x200/21257.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/pgsoft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/pgsoft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -10341,11 +10341,11 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="csn-crd ng-star-inserted" style="">
                                                    <div class="crd-img">
-                                                      <img class="gm-img" alt="Treasures of Aztec" src="//v3.pronetstatic.com/common/assets/images/casino/300x200/11255.jpg"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif">
+                                                      <img class="gm-img" alt="Treasures of Aztec" src="/images/common/assets/images/casino/300x200/11255.jpg"><img alt="" class="gm-img loading" src="/images/common/assets/images/loading.gif">
                                                       <span class="inf">
                                                          <!----><span class="popular ng-star-inserted">Popüler</span><!---->
                                                       </span>
-                                                      <div class="vndr"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/common/assets/images/casino/32x32/pgsoft.png"></div>
+                                                      <div class="vndr"><img alt="" class="vndr-lg" src="/images/common/assets/images/casino/32x32/pgsoft.png"></div>
                                                       <div class="hvr-inf ng-star-inserted">
                                                          <div class="v-a">
                                                             <a href="javascript:;" class="btn real"> Gerçek Oyun </a><!---->
@@ -11218,7 +11218,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1764 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11233,7 +11233,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11248,7 +11248,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1958 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11263,7 +11263,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1956 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11278,7 +11278,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1871 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11293,7 +11293,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11308,7 +11308,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1572 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11323,7 +11323,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1869 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11338,7 +11338,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-412 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11353,7 +11353,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11368,7 +11368,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-264 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11383,7 +11383,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11397,7 +11397,7 @@ if ($detect->isMobile()) {?>
                                              <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
                                                 <div class="fix-payments ng-star-inserted">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-icon icon-finance100x33-8"></span>
                                                 </div>
@@ -11416,7 +11416,7 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="fix-payments ng-star-inserted">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-icon icon-cepbank100x33"></span>
                                                 </div>
@@ -11435,7 +11435,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1651 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11450,7 +11450,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1945 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11465,7 +11465,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1576 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11480,7 +11480,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1764 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11495,7 +11495,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1219 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11510,7 +11510,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1958 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11525,7 +11525,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1956 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11540,7 +11540,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1871 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11555,7 +11555,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1423 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11570,7 +11570,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="//v3.pronetstatic.com/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1572 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11585,7 +11585,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1869 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11600,7 +11600,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-412 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11615,7 +11615,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-521 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11630,7 +11630,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-264 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11645,7 +11645,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-672 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11659,7 +11659,7 @@ if ($detect->isMobile()) {?>
                                              <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
                                                 <div class="fix-payments ng-star-inserted">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-icon icon-finance100x33-8"></span>
                                                 </div>
@@ -11678,7 +11678,7 @@ if ($detect->isMobile()) {?>
                                                 <!---->
                                                 <div class="fix-payments ng-star-inserted">
                                                    <payment-icon>
-                                                      <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" hidden="" class="hide"><img src="//v3.pronetstatic.com/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
                                                    </payment-icon>
                                                    <span class="pymnt-icon icon-cepbank100x33"></span>
                                                 </div>
@@ -11697,7 +11697,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1651 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11712,7 +11712,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1945 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11727,7 +11727,7 @@ if ($detect->isMobile()) {?>
                                                 <!----><!---->
                                                 <div class="flex-container">
                                                    <payment-icon class="ng-star-inserted">
-                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="//v3.pronetstatic.com/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
+                                                      <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
                                                    </payment-icon>
                                                    <span class="icon-finance100x33-1576 pymnt-icon ng-star-inserted"></span><!----><!----><!----><!---->
                                                 </div>
@@ -11827,7 +11827,7 @@ if ($detect->isMobile()) {?>
                      <div class="modul-content">
                         <!---->
                         <div class="csn-crd">
-                           <div class="crd-img"><img alt="" class="gm-img loading" src="//v3.pronetstatic.com/common/assets/images/egt_games_tumb.jpg"></div>
+                           <div class="crd-img"><img alt="" class="gm-img loading" src="/images/common/assets/images/egt_games_tumb.jpg"></div>
                         </div>
                      </div>
                   </div>
@@ -11853,19 +11853,19 @@ if ($detect->isMobile()) {?>
                            <div class="c_g_g_title">Populer Oyunlar</div>
                            <div class="row c_g_wrapper mt-1 no-gutters">
                               <a href="tr/games/casino/detail/normal/10717" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/10717.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/casino/300x200/10717.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                               <a href="tr/games/livecasino/detail/normal/11370/801-TRY" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/livecasino/300x200/11370.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/livecasino/300x200/11370.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                               <a href="tr/games/casino/detail/normal/8888" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/8888.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/casino/300x200/8888.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                               <a href="/tr/games/casino/detail/normal/7787" class="col-6  c_g_w_i p-1 m-0">
-                                 <img src="https://v3.pronetstatic.com/common/assets/images/casino/300x200/7787.jpg" class="cgwi_img">
+                                 <img src="https:/images/common/assets/images/casino/300x200/7787.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
                            </div>

@@ -21,11 +21,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="5Bet" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13117.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="5Bet" src="/images/m-common/assets/images/livecasino/300x200/13117.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -38,11 +38,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="War Of Elements" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13116.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="War Of Elements" src="/images/m-common/assets/images/livecasino/300x200/13116.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -55,11 +55,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="Black Jack" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/17527.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="Black Jack" src="/images/m-common/assets/images/livecasino/300x200/17527.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -72,11 +72,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="Lucky6" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13122.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="Lucky6" src="/images/m-common/assets/images/livecasino/300x200/13122.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -89,11 +89,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="1Bet" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13121.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="1Bet" src="/images/m-common/assets/images/livecasino/300x200/13121.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -106,11 +106,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="Poker" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13114.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="Poker" src="/images/m-common/assets/images/livecasino/300x200/13114.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -123,11 +123,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="Keno" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13120.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="Keno" src="/images/m-common/assets/images/livecasino/300x200/13120.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -140,11 +140,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="Wheelbet" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13113.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="Wheelbet" src="/images/m-common/assets/images/livecasino/300x200/13113.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -157,11 +157,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="7Bet" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/13118.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="7Bet" src="/images/m-common/assets/images/livecasino/300x200/13118.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">
@@ -174,11 +174,11 @@ if ($detect->isMobile()) {?>
                      <div class="col s4 game-card ng-star-inserted">
                         <div class="card-image">
                            <a href="javascript:;">
-                              <img class="game-img" alt="Fast Keno" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/300x200/23518.jpg"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/m-common/assets/images/loading.gif">
+                              <img class="game-img" alt="Fast Keno" src="/images/m-common/assets/images/livecasino/300x200/23518.jpg"><img alt="" class="game-img loading" src="/images/m-common/assets/images/loading.gif">
                               <div class="inf">
                                  <!----><!---->
                               </div>
-                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="//v3.pronetstatic.com/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
+                              <span class="vendor-wrap"><span class="pg-icons"><img alt="" class="vndr-lg" src="/images/m-common/assets/images/livecasino/32x32/undefined.png"></span></span>
                            </a>
                         </div>
                         <a href="javascript:;" class="game-name">

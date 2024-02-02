@@ -22,56 +22,56 @@ if ($detect->isMobile()) {?>
                               <div class="row">
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/world-cup">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-world-cup.jpg" alt="Dünya Kupası"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-world-cup.jpg" alt="Dünya Kupası"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Dünya Kupası </div>
                                     </a>
                                  </div>
                                  <!----><!---->
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/bundesliga">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-bundesliga.jpg" alt="Sanal Bundesliga"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-bundesliga.jpg" alt="Sanal Bundesliga"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Sanal Bundesliga </div>
                                     </a>
                                  </div>
                                  <!----><!---->
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/league-mode">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-league-mode.jpg" alt="Futbol Lig Mod"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-league-mode.jpg" alt="Futbol Lig Mod"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Futbol Lig Mod </div>
                                     </a>
                                  </div>
                                  <!----><!---->
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/basketball">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-basketball.jpg" alt="Sanal NBA"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-basketball.jpg" alt="Sanal NBA"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Sanal NBA </div>
                                     </a>
                                  </div>
                                  <!----><!---->
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/euro-cup">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-euro-cup.jpg" alt="Avrupa Kupası"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-euro-cup.jpg" alt="Avrupa Kupası"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Avrupa Kupası </div>
                                     </a>
                                  </div>
                                  <!----><!---->
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/nations-cup">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-nations-cup.jpg" alt="Futbol Nations Cup"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-nations-cup.jpg" alt="Futbol Nations Cup"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Futbol Nations Cup </div>
                                     </a>
                                  </div>
                                  <!----><!---->
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/champions-cup">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-champions-cup.jpg" alt="Şampiyonlar Kupası"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-champions-cup.jpg" alt="Şampiyonlar Kupası"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Şampiyonlar Kupası </div>
                                     </a>
                                  </div>
                                  <!----><!---->
                                  <div class="col s4 game-card ng-star-inserted">
                                     <a href="/tr/bet/virtuals/betradar/asian-cup">
-                                       <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-asian-cup.jpg" alt="Asian Kupası"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                       <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-asian-cup.jpg" alt="Asian Kupası"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                        <div class="game-name"> Asian Kupası </div>
                                     </a>
                                  </div>
@@ -97,97 +97,97 @@ if ($detect->isMobile()) {?>
                                        <!---->
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10163.jpg" alt="World Cup"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10163.jpg" alt="World Cup"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> World Cup </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10187.jpg" alt="World Cup - ondemand"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10187.jpg" alt="World Cup - ondemand"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> World Cup - ondemand </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10423.jpg" alt="Turkey League"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10423.jpg" alt="Turkey League"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Turkey League </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10177.jpg" alt="England League"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10177.jpg" alt="England League"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> England League </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10191.jpg" alt="England League - ondemand"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10191.jpg" alt="England League - ondemand"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> England League - ondemand </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10281.jpg" alt="Germany League"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10281.jpg" alt="Germany League"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Germany League </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10284.jpg" alt="Germany League - ondemand"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10284.jpg" alt="Germany League - ondemand"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Germany League - ondemand </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10203.jpg" alt="Horses 6"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10203.jpg" alt="Horses 6"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Horses 6 </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10206.jpg" alt="Horses 6 - On Demand"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10206.jpg" alt="Horses 6 - On Demand"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Horses 6 - On Demand </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10159.jpg" alt="Spin2Win"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10159.jpg" alt="Spin2Win"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Spin2Win </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10450.jpg" alt="Don´t drop the ball"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10450.jpg" alt="Don´t drop the ball"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Don´t drop the ball </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10451.jpg" alt="Final Fist"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10451.jpg" alt="Final Fist"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Final Fist </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10447.jpg" alt="Meteoroid"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10447.jpg" alt="Meteoroid"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Meteoroid </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10448.jpg" alt="Bank Run"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10448.jpg" alt="Bank Run"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Bank Run </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10455.jpg" alt="Fire Crash"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10455.jpg" alt="Fire Crash"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> Fire Crash </div>
                                           </a>
                                        </div>
                                        <div class="col s4 game-card ng-star-inserted">
                                           <a href="javascript:;">
-                                             <div class="card-image"><img class="game-img" src="//v3.pronetstatic.com/common/assets/images/virtuals/virtual-10446.jpg" alt="MMA - On Demand"><img alt="" class="game-img loading" src="//v3.pronetstatic.com/common/assets/images/loading.gif"></div>
+                                             <div class="card-image"><img class="game-img" src="/images/common/assets/images/virtuals/virtual-10446.jpg" alt="MMA - On Demand"><img alt="" class="game-img loading" src="/images/common/assets/images/loading.gif"></div>
                                              <div class="game-name"> MMA - On Demand </div>
                                           </a>
                                        </div>
