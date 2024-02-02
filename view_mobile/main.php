@@ -5085,7 +5085,6 @@
             <!---->
          </div>
          <!----><!----><!----><!---->
-         <div id="jpf-container" class="ng-star-inserted" style="display: block;"><iframe name="jpf-container" id="jpf-container-iframe" width="100%" height="100%" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" src="https://static.lgio.net/jpf-widget/html/index.html?sign=eyJhbGciOiJIUzI1NiJ9.eyJhcGlLZXkiOiJKalBMWmtGTyIsImV4cCI6MTc0NDYwMzYwMCwiaWF0IjoxNTgzMDY3NjAwLCJ1c2VyIjp7Imd1ZXN0Ijp0cnVlfSwianRpIjoiamFja3BvdC13aWRnZXQifQ.zACcWq7fsHl2jqafPNiCXG0B-giStQfuMVRKkbXxqRU%0D%0A&amp;redirectUrl=https%3A%2F%2Fm.limanbet569.com%2Ftr%2Fgames%2Fbingo%2F9427&amp;origin=https://m.limanbet569.com"></iframe></div>
          <!---->
       </main>
    </app-main-page>
