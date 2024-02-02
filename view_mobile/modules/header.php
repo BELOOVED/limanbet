@@ -47,27 +47,27 @@
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Thin),url('Roboto-Thin.6d65b184a6e7ec1168a8.woff2') format("woff2"),url('Roboto-Thin.d6bafa3f0914cd99f24d.woff') format("woff");
+         src: local(Roboto Thin),url('/gereksiz/Roboto-Thin.6d65b184a6e7ec1168a8.woff2') format("woff2"),url('/gereksiz/Roboto-Thin.d6bafa3f0914cd99f24d.woff') format("woff");
          font-weight: 100;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Light),url('Roboto-Light.2779fd7b61b8c0881450.woff2') format("woff2"),url('Roboto-Light.921e9835e9ccca418d58.woff') format("woff");
+         src: local(Roboto Light),url('/gereksiz/Roboto-Light.2779fd7b61b8c0881450.woff2') format("woff2"),url('/gereksiz/Roboto-Light.921e9835e9ccca418d58.woff') format("woff");
          font-weight: 300;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Regular),url('Roboto-Regular.8eecbdb33568c54ed0c5.woff2') format("woff2"),url('Roboto-Regular.373cdbfb31c85a6c6a68.woff') format("woff");
+         src: local(Roboto Regular),url('/gereksiz/Roboto-Regular.8eecbdb33568c54ed0c5.woff2') format("woff2"),url('/gereksiz/Roboto-Regular.373cdbfb31c85a6c6a68.woff') format("woff");
          font-weight: 400;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Medium),url('Roboto-Medium.04fd4291fe3fcd9c35ef.woff2') format("woff2"),url('Roboto-Medium.4b7975525822804fc8f9.woff') format("woff");
+         src: local(Roboto Medium),url('/gereksiz/Roboto-Medium.04fd4291fe3fcd9c35ef.woff2') format("woff2"),url('/gereksiz/Roboto-Medium.4b7975525822804fc8f9.woff') format("woff");
          font-weight: 500;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Bold),url('Roboto-Bold.2341c0db3906a1704c75.woff2') format("woff2"),url('Roboto-Bold.d9545f104095a12fde1d.woff') format("woff");
+         src: local(Roboto Bold),url('/gereksiz/Roboto-Bold.2341c0db3906a1704c75.woff2') format("woff2"),url('/gereksiz/Roboto-Bold.d9545f104095a12fde1d.woff') format("woff");
          font-weight: 700;
          }
          html {
@@ -277,7 +277,7 @@
          grid-row: 2;
          align-self: center;
          justify-self: center;
-         background: url('/headerbg.de9a3d998ee4c0ff031d.png') !important;
+         background: url('/gereksiz//headerbg.de9a3d998ee4c0ff031d.png') !important;
          box-shadow: 1px 1px 20px #333 !important;
          border-radius: 20px !important;
          color: #fff !important;
