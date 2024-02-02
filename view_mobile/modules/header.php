@@ -237,9 +237,7 @@
       </noscript>
       <link rel="canonical" href="https://m.limanbet569.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.limanbet569.com/en">
-      <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript">
-         $.ajax({url:"https://pfcdn.b-cdn.net/assets/app.js",dataType:"script",tryCount:0,retryLimit:3,cache:!0,error:function(t,e,r){if(1!=window.panelFront){window.localStorage.getItem("customerCode"),t.status;if(this.tryCount++,this.tryCount<=this.retryLimit){var n=this;return void setTimeout(function(){$.ajax(n)},400)}}},success:function(){$("body").append('<bet-master merchant="pn35" language="tr"></bet-master>')}});
-      </script><script type="text/javascript"></script>
+      <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript"></script>
       <link rel="stylesheet" href="https://pfcdn.b-cdn.net/assets/pn35.css">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
       <style type="text/css">.marquee-text-wrap{overflow:hidden}.marquee-text-content{width:100000px}.marquee-text-text{-webkit-animation-name:marquee-text-animation;animation-name:marquee-text-animation;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;float:left}.marquee-text-paused .marquee-text-text{-webkit-animation-play-state:paused;animation-play-state:paused}@-webkit-keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}</style>

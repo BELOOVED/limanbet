@@ -1285,15 +1285,7 @@
             </panel-ticker>
          </div>
          <div class="ng-star-inserted">
-            <script type="text/javascript">
-               $(document).ready(function(){ 
-               
-               $.get("https://api.cdnroot.net/api/lmnv2/home/getHomeM.php", function(data) {
-               $("#bosbos").html(data);
-               }); 
-               
-               }); 
-            </script>
+            
          </div>
          <div class="ng-star-inserted"></div>
          <!----><!---->

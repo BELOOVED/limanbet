@@ -76,15 +76,7 @@
                         <div extroutelink="" id="m_footer-for-setup">
                         </div>
                         <div>
-                           <script type="text/javascript" src="https://c89816a9-6377-45ee-9276-aa6684453eae.snippet.antillephone.com/apg-seal.js"></script><script type="text/javascript"></script><script type="text/javascript">var sealCDN = setInterval(function(){
-                              if(typeof apg_c89816a9_6377_45ee_9276_aa6684453eae !== 'undefined'){
-                                clearInterval(sealCDN);
-                                setTimeout(function(){
-                                  apg_c89816a9_6377_45ee_9276_aa6684453eae.init();
-                                })
-                              }
-                              },50);
-                           </script>
+                           
                         </div>
                         <div>
                            <style type="text/css">
