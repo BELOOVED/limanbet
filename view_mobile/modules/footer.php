@@ -9,15 +9,15 @@
                      </app-static-inner-content>
                      <div class="footer-menu">
                         <ul class="links">
-                           <li><a href="/tr/contents/about-us">Şirket Hakkında</a></li>
-                           <li><a href="/tr/contents/about-us-gen-terms-cond">Genel Şartlar ve Kurallar</a></li>
-                           <li><a href="/tr/contents/about-us-responsible-gaming">Sorumlu Oyun</a></li>
-                           <li><a href="/tr/contents/about-us-privacy-policy">Gizlilik Politikası</a></li>
-                           <li><a href="/tr/contents/about-us-terms-of-use">Kullanım Kuralları</a></li>
-                           <li><a href="/tr/contents/support-rules">Kurallar</a></li>
-                           <li><a href="/tr/contents/about-us-contact">Bize Ulaşın</a></li>
-                           <li><a href="/tr/contents/promotions-general-rules">Genel Bonus Kuralları</a></li>
-                           <li><a href="/tr/contents/cashout-content">Bahis Bozdur</a></li>
+                           <li><a href="about-us">Şirket Hakkında</a></li>
+                           <li><a href="about-us-gen-terms-cond">Genel Şartlar ve Kurallar</a></li>
+                           <li><a href="about-us-responsible-gaming">Sorumlu Oyun</a></li>
+                           <li><a href="about-us-privacy-policy">Gizlilik Politikası</a></li>
+                           <li><a href="about-us-terms-of-use">Kullanım Kuralları</a></li>
+                           <li><a href="support-rules">Kurallar</a></li>
+                           <li><a href="about-us-contact">Bize Ulaşın</a></li>
+                           <li><a href="promotions-general-rules">Genel Bonus Kuralları</a></li>
+                           <li><a href="cashout-content">Bahis Bozdur</a></li>
                            <!---->
                         </ul>
                      </div>
@@ -142,7 +142,7 @@
                <div class="modal-content">
                   <div>
                      <p>
-                        <a href="/tr/contents/promotions">
+                        <a href="promotions">
                            <!-- <img src="https://cdnliman.b-cdn.net/other/popup_envoy.jpg" />  !-->
                            <img src="https://liman.cdnroot.blog/other/popup.jpg?id=01" style="    height: 100%;
                               width: 100%;">
