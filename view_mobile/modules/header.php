@@ -7,9 +7,10 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet preload" as="style">
       <link rel="shortcut icon" href="favicon.ico">
-      <script async="" src="https://static.lgio.net/jp-f.js?v=1706872696211"></script><script>window.prerenderReady = false;</script>
+      <script async="" src="https://static.lgio.net/jp-f.js?v=1706718982481"></script><script>window.prerenderReady = false;</script>
+      <link rel="manifest" href="manifest.webmanifest">
       <meta name="theme-color" content="#222">
-      <!-- <style>
+      <style>
          @import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap&subset=latin,latin-ext);
          /**
          * Owl Carousel v2.3.4
@@ -46,27 +47,27 @@
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Thin),url('/gereksiz/Roboto-Thin.6d65b184a6e7ec1168a8.woff2') format("woff2"),url('/gereksiz/Roboto-Thin.d6bafa3f0914cd99f24d.woff') format("woff");
+         src: local(Roboto Thin),url('Roboto-Thin.6d65b184a6e7ec1168a8.woff2') format("woff2"),url('Roboto-Thin.d6bafa3f0914cd99f24d.woff') format("woff");
          font-weight: 100;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Light),url('/gereksiz/Roboto-Light.2779fd7b61b8c0881450.woff2') format("woff2"),url('/gereksiz/Roboto-Light.921e9835e9ccca418d58.woff') format("woff");
+         src: local(Roboto Light),url('Roboto-Light.2779fd7b61b8c0881450.woff2') format("woff2"),url('Roboto-Light.921e9835e9ccca418d58.woff') format("woff");
          font-weight: 300;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Regular),url('/gereksiz/Roboto-Regular.8eecbdb33568c54ed0c5.woff2') format("woff2"),url('/gereksiz/Roboto-Regular.373cdbfb31c85a6c6a68.woff') format("woff");
+         src: local(Roboto Regular),url('Roboto-Regular.8eecbdb33568c54ed0c5.woff2') format("woff2"),url('Roboto-Regular.373cdbfb31c85a6c6a68.woff') format("woff");
          font-weight: 400;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Medium),url('/gereksiz/Roboto-Medium.04fd4291fe3fcd9c35ef.woff2') format("woff2"),url('/gereksiz/Roboto-Medium.4b7975525822804fc8f9.woff') format("woff");
+         src: local(Roboto Medium),url('Roboto-Medium.04fd4291fe3fcd9c35ef.woff2') format("woff2"),url('Roboto-Medium.4b7975525822804fc8f9.woff') format("woff");
          font-weight: 500;
          }
          @font-face {
          font-family: "Roboto";
-         src: local(Roboto Bold),url('/gereksiz/Roboto-Bold.2341c0db3906a1704c75.woff2') format("woff2"),url('/gereksiz/Roboto-Bold.d9545f104095a12fde1d.woff') format("woff");
+         src: local(Roboto Bold),url('Roboto-Bold.2341c0db3906a1704c75.woff2') format("woff2"),url('Roboto-Bold.d9545f104095a12fde1d.woff') format("woff");
          font-weight: 700;
          }
          html {
@@ -211,7 +212,7 @@
          /* checkbox */
          /* switch */
          /* loader */
-         /* modul */
+         /* modul *
          /* modal */
          /* range start */
          /* range end */
@@ -224,20 +225,16 @@
          /* Popüler Events End */
          /* Promoted Events Start */
          /* Promoted Events End */
-      </style> -->
-      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.css" />
-      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
-      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.css" />
-      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
-      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.css" />
-      <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.min.css" />
+      </style>
       <link rel="stylesheet" href="/assets/css/2.css" media="all" onload="this.media='all'">
       <noscript>
          <link rel="stylesheet" href="/assets/css/2.css">
       </noscript>
-      <link rel="canonical" href="https://m.limanbet569.com/tr">
-      <link rel="alternate" hreflang="en" href="https://m.limanbet569.com/en">
-      <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript"></script>
+      <link rel="canonical" href="https://m.<?=$main['sitelink']?>.com/tr">
+      <link rel="alternate" hreflang="en" href="https://m.<?=$main['sitelink']?>.com/en">
+      <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript">
+         $.ajax({url:"https://pfcdn.b-cdn.net/assets/app.js",dataType:"script",tryCount:0,retryLimit:3,cache:!0,error:function(t,e,r){if(1!=window.panelFront){window.localStorage.getItem("customerCode"),t.status;if(this.tryCount++,this.tryCount<=this.retryLimit){var n=this;return void setTimeout(function(){$.ajax(n)},400)}}},success:function(){$("body").append('<bet-master merchant="pn35" language="tr"></bet-master>')}});
+      </script><script type="text/javascript"></script>
       <link rel="stylesheet" href="https://pfcdn.b-cdn.net/assets/pn35.css">
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
       <style type="text/css">.marquee-text-wrap{overflow:hidden}.marquee-text-content{width:100000px}.marquee-text-text{-webkit-animation-name:marquee-text-animation;animation-name:marquee-text-animation;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;float:left}.marquee-text-paused .marquee-text-text{-webkit-animation-play-state:paused;animation-play-state:paused}@-webkit-keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes marquee-text-animation{0%{-webkit-transform:translateX(0);transform:translateX(0)}to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}</style>
@@ -245,54 +242,58 @@
       <style type="text/css">.vue-slider-marks{position:relative;width:100%;height:100%}.vue-slider-mark{position:absolute;z-index:1}.vue-slider-ltr .vue-slider-mark,.vue-slider-rtl .vue-slider-mark{width:0;height:100%;top:50%}.vue-slider-ltr .vue-slider-mark-step,.vue-slider-rtl .vue-slider-mark-step{top:0}.vue-slider-ltr .vue-slider-mark-label,.vue-slider-rtl .vue-slider-mark-label{top:100%;margin-top:10px}.vue-slider-ltr .vue-slider-mark{-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.vue-slider-ltr .vue-slider-mark-step{left:0}.vue-slider-ltr .vue-slider-mark-label{left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.vue-slider-rtl .vue-slider-mark{-webkit-transform:translate(50%,-50%);transform:translate(50%,-50%)}.vue-slider-rtl .vue-slider-mark-step{right:0}.vue-slider-rtl .vue-slider-mark-label{right:50%;-webkit-transform:translateX(50%);transform:translateX(50%)}.vue-slider-btt .vue-slider-mark,.vue-slider-ttb .vue-slider-mark{width:100%;height:0;left:50%}.vue-slider-btt .vue-slider-mark-step,.vue-slider-ttb .vue-slider-mark-step{left:0}.vue-slider-btt .vue-slider-mark-label,.vue-slider-ttb .vue-slider-mark-label{left:100%;margin-left:10px}.vue-slider-btt .vue-slider-mark{-webkit-transform:translate(-50%,50%);transform:translate(-50%,50%)}.vue-slider-btt .vue-slider-mark-step{top:0}.vue-slider-btt .vue-slider-mark-label{top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.vue-slider-ttb .vue-slider-mark{-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.vue-slider-ttb .vue-slider-mark-step{bottom:0}.vue-slider-ttb .vue-slider-mark-label{bottom:50%;-webkit-transform:translateY(50%);transform:translateY(50%)}.vue-slider-mark-label,.vue-slider-mark-step{position:absolute}</style>
       <style type="text/css">.vue-slider{position:relative;-webkit-box-sizing:content-box;box-sizing:content-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;display:block;-webkit-tap-highlight-color:rgba(0,0,0,0)}.vue-slider-rail{position:relative;width:100%;height:100%;-webkit-transition-property:width,height,left,right,top,bottom;transition-property:width,height,left,right,top,bottom}.vue-slider-process{position:absolute;z-index:1}</style>
       <style type="text/css">.panel_drawer .opened{right:0 !important;} .splide__arrow--next{right: 5em;} .splide__arrow--prev{left: 5em;}</style>
-      <style>.owl-theme[_ngcontent-vly-c77] { display: block; }</style>
-
-      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
-      <!-- Add the slick-theme.css if you want default styling -->
-      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
-
+      <style>.owl-theme[_ngcontent-fxd-c77] { display: block; }</style>
       <script type="text/javascript"  src="/assets/js/script.js"></script>
-      <script type="text/javascript"  src="/assets/js/app.js"></script>
-    
-
-      <script>
-         let logged = <?= $us['id'] ? 'true' : 'false' ?>;
-         let locate = <?= intval($main['location']) ?>;
-         let phone_status = <?= intval($main['phone_status']) ?>;
-         let passport_status = <?= intval($main['passport_status']) ?>;
-      </script>
-      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-       <style>
-         .hidden{
-         display: none !important;
-         }
-      </style>
-      
-      <style>
-         div:where(.swal2-container).swal2-center>.swal2-popup {
-         grid-column: 2;
-         grid-row: 2;
-         align-self: center;
-         justify-self: center;
-         background: url('/gereksiz//headerbg.de9a3d998ee4c0ff031d.png') !important;
-         box-shadow: 1px 1px 20px #333 !important;
-         border-radius: 20px !important;
-         color: #fff !important;
-         }
-         div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
-         border: 0;
-         border-radius: 0.25em;
-         background: initial;
-         background-color: #ebb058 !important;
-         color: #fff !important;
-         font-size: 1em;
-         }
-         div:where(.swal2-icon).swal2-warning {
-         border-color: #ebb058 !important;
-         color: #ebb058 !important;
-         }
-      </style>
+            <script type="text/javascript"  src="/assets/js/app.js"></script>
+			 
+            <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+            <!-- Add the slick-theme.css if you want default styling -->
+            <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
+            <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+            <script>
+               let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+               let locate = <?= intval($main['location']) ?>;
+               let phone_status = <?= intval($main['phone_status']) ?>;
+               let passport_status = <?= intval($main['passport_status']) ?>;
+            </script>
+            <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+             <style>
+               .hidden{
+               display: none !important;
+               }
+            </style>
+            <style>
+               .hidden{
+               display: none;
+               }
+               .sidePanel-holder-bc{
+               z-index: 10000;
+               }
+            </style>
+            <style>
+               div:where(.swal2-container).swal2-center>.swal2-popup {
+               grid-column: 2;
+               grid-row: 2;
+               align-self: center;
+               justify-self: center;
+               background: url('/headerbg.de9a3d998ee4c0ff031d.png') !important;
+               box-shadow: 1px 1px 20px #333 !important;
+               border-radius: 20px !important;
+               color: #fff !important;
+               }
+               div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
+               border: 0;
+               border-radius: 0.25em;
+               background: initial;
+               background-color: #ebb058 !important;
+               color: #fff !important;
+               font-size: 1em;
+               }
+               div:where(.swal2-icon).swal2-warning {
+               border-color: #ebb058 !important;
+               color: #ebb058 !important;
+               }
+            </style>
    </head>
    <body id="trader-limanbet" class="platform-pg page-main">
       <div class="bm_topup">
