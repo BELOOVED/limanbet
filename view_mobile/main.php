@@ -85,7 +85,7 @@
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
                <div id="sync1" class="owl-carousel owl-theme">
                   
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg">
+                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"></div>
                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
                       
@@ -146,8 +146,8 @@
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
                         
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
-                        </div>
-                     </div>
+                        
+                     
                   </div>
                   <div class="owl-nav">
                      <div class="owl-prev">
