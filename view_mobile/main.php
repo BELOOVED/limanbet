@@ -86,9 +86,9 @@
                <div id="sync1" class="owl-carousel owl-theme">
                   
                      
-                           <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></a></div>
+                           <div class="item"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></div>
                         
-                           <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></a></div>
+                           <div class="item"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></div>
                         
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
                         
@@ -116,7 +116,7 @@
                         
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
                         
-                           <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></a></div>
+                           <div class="item"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></div>
                         
                         
                   <div class="owl-nav">
