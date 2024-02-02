@@ -332,7 +332,7 @@
                <div id="left-menu" class="side-nav" style="transform: translateX(-100%);">
                   <div class="side-nav-header">
                      <div class="top-logo"><a routerlink="/" class="logo" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a></div>
-                     <div class="top-icon" onclick="closemodal1()"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
+                     <div class="top-icon" onclick="closemenu1()"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
                   </div>
                   <div class="input-field search-one-input">
                      <app-search-autocomplete>
@@ -420,10 +420,217 @@
                   </div>
                </div>
             </app-sidebar>
+            <?php if(isset($us['id'])) {?>
+<app-user-sidebar>
+   <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(0px);">
+      <div class="side-nav-header">
+         <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
+         <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
+      </div>
+      <div class="login-menu ng-star-inserted">
+         <div class="user-name">
+            <div class="profile">
+               <!----><span class="text"> <?=$us['login']?></span>
+               <div class="number"> 2022046625030<?=$us['id']?> </div>
+               <!---->
+            </div>
+            <div class="info">
+               <div class="balance"><a href="javascript:;" class="flex-item"><i class="fa fa-money foot-icon"></i><span class="text truncate"><span><?=$us['balance']?><span class="currency-symbol"> ₺</span></span></span></a></div>
+            </div>
+            <div class="flex-container info">
+               <div class="deposit flex-item"><a href="/deposit"> Para Yatırma </a></div>
+               <!---->
+            </div>
+            <!---->
+            <div class="withdrawable">
+               <a><span><i aria-hidden="true" class="fa fa-credit-card"></i> Bekleyen Çekim </span><span class="currency"> 0.00 ₺ </span></a><a><span><i aria-hidden="true" class="fa fa-credit-card"></i> Bakiye </span><span class="currency"> 0.70 ₺ </span></a><a class="ng-star-inserted"><span><i aria-hidden="true" class="fa fa-gift"></i> Bonus miktarı </span><span class="currency"> 0.00 ₺ </span></a><!----><a class="ng-star-inserted"><span><i aria-hidden="true" class="fa fa-credit-card"></i> Klas Poker </span><span class="currency"> 0.00 ₺ </span></a><!----><!---->
+               <button class="btn-show-more-less ng-star-inserted">
+                  Daha fazla göster<!----><!---->
+               </button>
+               <!----><!----><!----><!---->
+            </div>
+            <div class="balance-management ng-star-inserted"><a href="/transfer"> Bakiye yönetimi </a></div>
+            <!---->
+            <div class="history-cashout"><a href="/history"> Geçmiş / Bahis Bozdur </a></div>
+         </div>
+         <ul class="sidenav-menu">
+            <li class="no-padding ng-star-inserted">
+               <ul materialize="collapsible" data-collapsible="accordion" class="collapsible collapsible-accordion">
+                  <li class="active">
+                     <a class="collapsible-header active"><i class="pg-icons fa fa-user"></i><span class="flex-item text">Hesabım </span><i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
+                     <div class="collapsible-body" style="display: block;">
+                        <ul>
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/deposit" class="ng-star-inserted">
+                                 Para Yatırma <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/withdraw" class="ng-star-inserted">
+                                 Para Çekme <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/transfer" class="ng-star-inserted">
+                                 Transfer <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/promotions" class="ng-star-inserted">
+                                 Bonus Detaylarım <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/messages" class="ng-star-inserted">
+                                 Mesajlar <span class="message-count ng-star-inserted">21</span><!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!---->
+                        </ul>
+                     </div>
+                  </li>
+               </ul>
+            </li>
+            <li class="no-padding ng-star-inserted">
+               <ul materialize="collapsible" data-collapsible="accordion" class="collapsible collapsible-accordion">
+                  <li class="active">
+                     <a class="collapsible-header active"><i class="pg-icons fa fa-line-chart"></i><span class="flex-item text">İşlemler </span><i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
+                     <div class="collapsible-body" style="display: block;">
+                        <ul>
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/history" class="ng-star-inserted">
+                                 Bahis Geçmişi <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/financialhistory" class="ng-star-inserted">
+                                 Finans Geçmişim <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/bonushistory" class="ng-star-inserted">
+                                 Bonus Hareketlerim <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/casinohistory" class="ng-star-inserted">
+                                 Casinopro Geçmişi <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/freespinhistory" class="ng-star-inserted">
+                                 Freespin Detayları <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/goldenhistory" class="ng-star-inserted">
+                                 Golden Race Hesap Hrk. Raporu <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/gamehistory" class="ng-star-inserted">
+                                 UltraPlay Hesap Hrk. Raporu <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!----><!----><!---->
+                        </ul>
+                     </div>
+                  </li>
+               </ul>
+            </li>
+            <li class="no-padding ng-star-inserted">
+               <ul materialize="collapsible" data-collapsible="accordion" class="collapsible collapsible-accordion">
+                  <li class="active">
+                     <a class="collapsible-header active"><i class="pg-icons fa fa-user-plus"></i><span class="flex-item text">Kullanıcı Hareketleri </span><i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
+                     <div class="collapsible-body" style="display: block;">
+                        <ul>
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/account" class="ng-star-inserted">
+                                 Kişisel ve Hesap Bilgilerim <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/changepassword" class="ng-star-inserted">
+                                 Şifremi Değiştir <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/betlimit" class="ng-star-inserted">
+                                 Bahis Limitlendirme <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!----><!----><!----><!---->
+                           <li class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/2fa" class="ng-star-inserted">
+                                 İki adımlı doğrulama <!---->
+                              </a>
+                              <!---->
+                           </li>
+                           <!----><!----><!----><!----><!---->
+                        </ul>
+                     </div>
+                  </li>
+               </ul>
+            </li>
+            <!---->
+            <li class="language no-padding">
+               <app-language>
+                  <ul materialize="collapsible" data-collapsible="accordion" class="collapsible collapsible-accordion">
+                     <li>
+                        <a class="collapsible-header"><i class="fa fa-globe pg-icons left"></i><span class="flex-item text">TURKEY</span><i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a>
+                        <div class="collapsible-body">
+                           <ul>
+                              <li class="ng-star-inserted"><a href="javascript:;" class="flex-container"><i class="country icon-32xTUR"></i><span class="flex-item text">TURKEY</span></a></li>
+                              <!---->
+                              <li class="ng-star-inserted"><a href="javascript:;" class="flex-container"><i class="country icon-32xGBRF"></i><span class="flex-item text">English</span></a></li>
+                              <!----><!---->
+                           </ul>
+                        </div>
+                     </li>
+                  </ul>
+               </app-language>
+            </li>
+            <li><a class="logout-btn" href="javascript:;" onclick="logOut()"><i class="fa fa-sign-out pg-icons"></i> Çıkış Yap </a></li>
+         </ul>
+      </div>
+      <!----><!---->
+   </div>
+   <div id="BalanceModal" materialize="modal" class="modal modal-md" style="z-index: 1021;">
+      <!---->
+   </div>
+</app-user-sidebar>
+            <?php }else{?>   
             <app-user-sidebar>
                <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(100%);">
                   <div class="side-nav-header">
-                     <div class="top-icon"  onclick="closemodal2()"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
+                     <div class="top-icon"  onclick="closemenu2()"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
                      <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="/assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
                   </div>
                   <!---->
@@ -461,6 +668,7 @@
                   <!---->
                </div>
             </app-user-sidebar>
+            <?php }?>
             <div id="allCnt">
                <app-static-inner-content contentcode="m_header_content_area">
                   <!---->
