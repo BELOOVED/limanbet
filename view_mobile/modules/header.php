@@ -311,7 +311,7 @@
                <header id="hdr-c" class="navbar-fixed">
                   <nav>
                      <div class="nav-wrapper">
-                        <a routerlink="/" class="logo logo-out" href="/"><img src="views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
+                        <a routerlink="/" class="logo logo-out" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
                      </div>
                   </nav>
                   <app-static-inner-content contentcode="m_header-static">
@@ -325,7 +325,7 @@
             <app-sidebar>
                <div id="left-menu" class="side-nav" style="transform: translateX(-100%);">
                   <div class="side-nav-header">
-                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img src="views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a></div>
+                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a></div>
                      <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
                   </div>
                   <div class="input-field search-one-input">
@@ -430,7 +430,7 @@
                <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(100%);">
                   <div class="side-nav-header">
                      <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
-                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
+                     <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="/assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
                   </div>
                   <!---->
                   <div class="logout-menu">
