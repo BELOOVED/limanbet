@@ -231,9 +231,9 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
 <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.css" />
 <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.min.css" />
-      <link rel="stylesheet" href="https://m.limanbet569.com/styles.4d11d26fe1cd39fe64ec.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/2.css" media="all" onload="this.media='all'">
       <noscript>
-         <link rel="stylesheet" href="https://m.limanbet569.com/styles.4d11d26fe1cd39fe64ec.css">
+         <link rel="stylesheet" href="/assets/css/2.css">
       </noscript>
       <link rel="canonical" href="https://m.limanbet569.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.limanbet569.com/en">

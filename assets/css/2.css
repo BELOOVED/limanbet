@@ -1629,13 +1629,17 @@ input[type=range]:focus::-ms-fill-upper{background:#ccc}
 .tap-target-wrapper.open{visibility:visible;transition:visibility 0s}
 .tap-target-wrapper.open .tap-target{transform:scale(1);opacity:.95;transition:transform 0.3s cubic-bezier(0.42, 0, 0.58, 1),opacity 0.3s cubic-bezier(0.42, 0, 0.58, 1)}
 .tap-target-wrapper.open .tap-target-wave::before{transform:scale(1)}
-.tap-target-wrapper.open .tap-target-wave::after{visibility:visible;animation:pulse-animation 1s cubic-bezier(0.24, 0, 0.38, 1) infinite;transition:opacity .3s, transform .3s, visibility 0s 1s}
+.tap-target-wrapper.open .tap-target-wave::after{visibility:visible;animation:pulse-animation 1s cubic-bezier(0.24, 0, 0.38, 1) infinite;transition:opacity .3s,
+ transform .3s,
+ visibility 0s 1s}
 .tap-target{position:absolute;font-size:1rem;border-radius:50%;background-color:#ee6e73;box-shadow:0 20px 20px 0 rgba(0,0,0,0.14),0 10px 50px 0 rgba(0,0,0,0.12),0 30px 10px -20px rgba(0,0,0,0.2);width:100%;height:100%;opacity:0;transform:scale(0);transition:transform 0.3s cubic-bezier(0.42, 0, 0.58, 1),opacity 0.3s cubic-bezier(0.42, 0, 0.58, 1)}
 .tap-target-content{position:relative;display:table-cell}
 .tap-target-wave{position:absolute;border-radius:50%;z-index:10001}
 .tap-target-wave::before,.tap-target-wave::after{content:'';display:block;position:absolute;width:100%;height:100%;border-radius:50%;background-color:#ffffff}
 .tap-target-wave::before{transform:scale(0);transition:transform .3s}
-.tap-target-wave::after{visibility:hidden;transition:opacity .3s, transform .3s, visibility 0s;z-index:-1}
+.tap-target-wave::after{visibility:hidden;transition:opacity .3s,
+ transform .3s,
+ visibility 0s;z-index:-1}
 .tap-target-origin{top:50%;left:50%;transform:translate(-50%, -50%);z-index:10002;position:absolute !important}
 .tap-target-origin:not(.btn):not(.btn-large),.tap-target-origin:not(.btn):not(.btn-large):hover{background:none}
 @media only screen and (max-width: 600px){.tap-target,.tap-target-wrapper{width:600px;height:600px}}
@@ -4013,610 +4017,610 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   -moz-osx-font-smoothing: grayscale;
 }
 .sport-types-155:before {
-  content: "";
+  content: "î¥º";
 }
 .sport-types-308:before {
-  content: "";
+  content: "î¥»";
 }
 .sport-types-betcup-tahmin:before {
-  content: "";
+  content: "î§‰";
 }
 .sport-types-2525:before {
-  content: "";
+  content: "î§ˆ";
 }
 .sport-types-worldcup-22:before {
-  content: "";
+  content: "î§‡";
 }
 .sport-types-aviator:before {
-  content: "";
+  content: "î§†";
 }
 .sport-types-betcup-ball:before {
-  content: "";
+  content: "î§‚";
 }
 .sport-types-betcup-lucky:before {
-  content: "";
+  content: "î§ƒ";
 }
 .sport-types-betcup-slot:before {
-  content: "";
+  content: "î§„";
 }
 .sport-types-betcup-sword:before {
-  content: "";
+  content: "î§…";
 }
 .sport-types-ct-bg:before {
-  content: "";
+  content: "î§";
 }
 .sport-types-live-menu:before {
-  content: "";
+  content: "î§€";
 }
 .sport-types-10112:before {
-  content: "";
+  content: "î¦¥";
 }
 .sport-types-10156:before {
-  content: "";
+  content: "î¦¦";
 }
 .sport-types-10159:before {
-  content: "";
+  content: "î¦§";
 }
 .sport-types-10163:before {
-  content: "";
+  content: "î¦¨";
 }
 .sport-types-10173:before {
-  content: "";
+  content: "î¦©";
 }
 .sport-types-10185:before {
-  content: "";
+  content: "î¦ª";
 }
 .sport-types-10186:before {
-  content: "";
+  content: "î¦«";
 }
 .sport-types-10187:before {
-  content: "";
+  content: "î¦¬";
 }
 .sport-types-10192:before {
-  content: "";
+  content: "î¦­";
 }
 .sport-types-10193:before {
-  content: "";
+  content: "î¦®";
 }
 .sport-types-10194:before {
-  content: "";
+  content: "î¦¯";
 }
 .sport-types-10206:before {
-  content: "";
+  content: "î¦°";
 }
 .sport-types-10207:before {
-  content: "";
+  content: "î¦±";
 }
 .sport-types-10279:before {
-  content: "";
+  content: "î¦²";
 }
 .sport-types-10281:before {
-  content: "";
+  content: "î¦³";
 }
 .sport-types-10284:before {
-  content: "";
+  content: "î¦´";
 }
 .sport-types-10288:before {
-  content: "";
+  content: "î¦µ";
 }
 .sport-types-10289:before {
-  content: "";
+  content: "î¦¶";
 }
 .sport-types-10290:before {
-  content: "";
+  content: "î¦·";
 }
 .sport-types-10291:before {
-  content: "";
+  content: "î¦¸";
 }
 .sport-types-10300:before {
-  content: "";
+  content: "î¦¹";
 }
 .sport-types-10301:before {
-  content: "";
+  content: "î¦º";
 }
 .sport-types-10303:before {
-  content: "";
+  content: "î¦»";
 }
 .sport-types-10304:before {
-  content: "";
+  content: "î¦¼";
 }
 .sport-types-10305:before {
-  content: "";
+  content: "î¦½";
 }
 .sport-types-10306:before {
-  content: "";
+  content: "î¦¾";
 }
 .sport-types-10307:before {
-  content: "";
+  content: "î¦¿";
 }
 .sport-types-mainmenu-casino-icon:before {
-  content: "";
+  content: "î¦¤";
 }
 .sport-types-crown:before {
-  content: "";
+  content: "î¦£";
 }
 .sport-types-10299:before {
-  content: "";
+  content: "î¦™";
 }
 .sport-types-10311:before {
-  content: "";
+  content: "î¦š";
 }
 .sport-types-10312:before {
-  content: "";
+  content: "î¦›";
 }
 .sport-types-10400:before {
-  content: "";
+  content: "î¦œ";
 }
 .sport-types-10402:before {
-  content: "";
+  content: "î¦";
 }
 .sport-types-10403:before {
-  content: "";
+  content: "î¦ž";
 }
 .sport-types-10404:before {
-  content: "";
+  content: "î¦Ÿ";
 }
 .sport-types-10405:before {
-  content: "";
+  content: "î¦ ";
 }
 .sport-types-10406:before {
-  content: "";
+  content: "î¦¡";
 }
 .sport-types-10407:before {
-  content: "";
+  content: "î¦¢";
 }
 .sport-types-10100:before {
-  content: "";
+  content: "î¦†";
 }
 .sport-types-10105:before {
-  content: "";
+  content: "î¦‡";
 }
 .sport-types-10110:before {
-  content: "";
+  content: "î¦ˆ";
 }
 .sport-types-10111:before {
-  content: "";
+  content: "î¦‰";
 }
 .sport-types-10114:before {
-  content: "";
+  content: "î¦Š";
 }
 .sport-types-10158:before {
-  content: "";
+  content: "î¦‹";
 }
 .sport-types-10166:before {
-  content: "";
+  content: "î¦Œ";
 }
 .sport-types-10172:before {
-  content: "";
+  content: "î¦";
 }
 .sport-types-10174:before {
-  content: "";
+  content: "î¦Ž";
 }
 .sport-types-10175:before {
-  content: "";
+  content: "î¦";
 }
 .sport-types-10176:before {
-  content: "";
+  content: "î¦";
 }
 .sport-types-10177:before {
-  content: "";
+  content: "î¦‘";
 }
 .sport-types-10179:before {
-  content: "";
+  content: "î¦’";
 }
 .sport-types-10189:before {
-  content: "";
+  content: "î¦“";
 }
 .sport-types-10190:before {
-  content: "";
+  content: "î¦”";
 }
 .sport-types-10191:before {
-  content: "";
+  content: "î¦•";
 }
 .sport-types-10203:before {
-  content: "";
+  content: "î¦–";
 }
 .sport-types-10282:before {
-  content: "";
+  content: "î¦—";
 }
 .sport-types-100163:before {
-  content: "";
+  content: "î¦˜";
 }
 .sport-types-80:before {
-  content: "";
+  content: "î¦‚";
 }
 .sport-types-961:before {
-  content: "";
+  content: "î¦ƒ";
 }
 .sport-types-1371:before {
-  content: "";
+  content: "î¦„";
 }
 .sport-types-178:before {
-  content: "";
+  content: "î¦…";
 }
 .sport-types-76:before {
-  content: "";
+  content: "î¥¼";
 }
 .sport-types-77:before {
-  content: "";
+  content: "î¥½";
 }
 .sport-types-83:before {
-  content: "";
+  content: "î¥¾";
 }
 .sport-types-84:before {
-  content: "";
+  content: "î¥¿";
 }
 .sport-types-182:before {
-  content: "";
+  content: "î¦€";
 }
 .sport-types-183:before {
-  content: "";
+  content: "î¦";
 }
 .sport-types-284:before {
-  content: "";
+  content: "î¥¹";
 }
 .sport-types-1:before {
-  content: "";
+  content: "î¤€";
 }
 .sport-types-2:before {
-  content: "";
+  content: "î¤";
 }
 .sport-types-3:before {
-  content: "";
+  content: "î¤‚";
 }
 .sport-types-4:before {
-  content: "";
+  content: "î¤ƒ";
 }
 .sport-types-5:before {
-  content: "";
+  content: "î¤„";
 }
 .sport-types-6:before {
-  content: "";
+  content: "î¤…";
 }
 .sport-types-7:before {
-  content: "";
+  content: "î¤†";
 }
 .sport-types-8:before {
-  content: "";
+  content: "î¤‡";
 }
 .sport-types-9:before {
-  content: "";
+  content: "î¤ˆ";
 }
 .sport-types-10:before {
-  content: "";
+  content: "î¤‰";
 }
 .sport-types-11:before {
-  content: "";
+  content: "î¤Š";
 }
 .sport-types-12:before {
-  content: "";
+  content: "î¤‹";
 }
 .sport-types-13:before {
-  content: "";
+  content: "î¤Œ";
 }
 .sport-types-14:before {
-  content: "";
+  content: "î¤";
 }
 .sport-types-15:before {
-  content: "";
+  content: "î¤Ž";
 }
 .sport-types-16:before {
-  content: "";
+  content: "î¤";
 }
 .sport-types-17:before {
-  content: "";
+  content: "î¤";
 }
 .sport-types-18:before {
-  content: "";
+  content: "î¤‘";
 }
 .sport-types-19:before {
-  content: "";
+  content: "î¤’";
 }
 .sport-types-20:before {
-  content: "";
+  content: "î¤“";
 }
 .sport-types-21:before {
-  content: "";
+  content: "î¤”";
 }
 .sport-types-22:before {
-  content: "";
+  content: "î¤•";
 }
 .sport-types-23:before {
-  content: "";
+  content: "î¤–";
 }
 .sport-types-24:before {
-  content: "";
+  content: "î¤—";
 }
 .sport-types-25:before {
-  content: "";
+  content: "î¤˜";
 }
 .sport-types-26:before {
-  content: "";
+  content: "î¤™";
 }
 .sport-types-27:before {
-  content: "";
+  content: "î¤š";
 }
 .sport-types-28:before {
-  content: "";
+  content: "î¤›";
 }
 .sport-types-29:before {
-  content: "";
+  content: "î¤œ";
 }
 .sport-types-30:before {
-  content: "";
+  content: "î¤";
 }
 .sport-types-31:before {
-  content: "";
+  content: "î¤ž";
 }
 .sport-types-32:before {
-  content: "";
+  content: "î¤Ÿ";
 }
 .sport-types-33:before {
-  content: "";
+  content: "î¤ ";
 }
 .sport-types-34:before {
-  content: "";
+  content: "î¤¡";
 }
 .sport-types-35:before {
-  content: "";
+  content: "î¤¢";
 }
 .sport-types-36:before {
-  content: "";
+  content: "î¤£";
 }
 .sport-types-37:before {
-  content: "";
+  content: "î¤¤";
 }
 .sport-types-38:before {
-  content: "";
+  content: "î¤¥";
 }
 .sport-types-39:before {
-  content: "";
+  content: "î¤¦";
 }
 .sport-types-40:before {
-  content: "";
+  content: "î¤§";
 }
 .sport-types-43:before {
-  content: "";
+  content: "î¤¨";
 }
 .sport-types-44:before {
-  content: "";
+  content: "î¤©";
 }
 .sport-types-45:before {
-  content: "";
+  content: "î¤ª";
 }
 .sport-types-46:before {
-  content: "";
+  content: "î¤«";
 }
 .sport-types-47:before {
-  content: "";
+  content: "î¤¬";
 }
 .sport-types-48:before {
-  content: "";
+  content: "î¤­";
 }
 .sport-types-49:before {
-  content: "";
+  content: "î¤®";
 }
 .sport-types-50:before {
-  content: "";
+  content: "î¤¯";
 }
 .sport-types-51:before {
-  content: "";
+  content: "î¤°";
 }
 .sport-types-52:before {
-  content: "";
+  content: "î¤±";
 }
 .sport-types-54:before {
-  content: "";
+  content: "î¤²";
 }
 .sport-types-56:before {
-  content: "";
+  content: "î¤³";
 }
 .sport-types-57:before {
-  content: "";
+  content: "î¤´";
 }
 .sport-types-60:before {
-  content: "";
+  content: "î¤µ";
 }
 .sport-types-61:before {
-  content: "";
+  content: "î¤¶";
 }
 .sport-types-62:before {
-  content: "";
+  content: "î¤·";
 }
 .sport-types-64:before {
-  content: "";
+  content: "î¤¸";
 }
 .sport-types-71:before {
-  content: "";
+  content: "î¤¹";
 }
 .sport-types-72:before {
-  content: "";
+  content: "î¤º";
 }
 .sport-types-75:before {
-  content: "";
+  content: "î¤»";
 }
 .sport-types-78:before {
-  content: "";
+  content: "î¤¼";
 }
 .sport-types-79:before {
-  content: "";
+  content: "î¤½";
 }
 .sport-types-81:before {
-  content: "";
+  content: "î¤¾";
 }
 .sport-types-82:before {
-  content: "";
+  content: "î¤¿";
 }
 .sport-types-85:before {
-  content: "";
+  content: "î¥€";
 }
 .sport-types-86:before {
-  content: "";
+  content: "î¥";
 }
 .sport-types-87:before {
-  content: "";
+  content: "î¥‚";
 }
 .sport-types-90:before {
-  content: "";
+  content: "î¥ƒ";
 }
 .sport-types-96:before {
-  content: "";
+  content: "î¥„";
 }
 .sport-types-98:before {
-  content: "";
+  content: "î¥…";
 }
 .sport-types-99:before {
-  content: "";
+  content: "î¥†";
 }
 .sport-types-102:before {
-  content: "";
+  content: "î¥‡";
 }
 .sport-types-103:before {
-  content: "";
+  content: "î¥ˆ";
 }
 .sport-types-104:before {
-  content: "";
+  content: "î¥‰";
 }
 .sport-types-105:before {
-  content: "";
+  content: "î¥Š";
 }
 .sport-types-106:before {
-  content: "";
+  content: "î¥‹";
 }
 .sport-types-107:before {
-  content: "";
+  content: "î¥Œ";
 }
 .sport-types-109:before {
-  content: "";
+  content: "î¥";
 }
 .sport-types-110:before {
-  content: "";
+  content: "î¥Ž";
 }
 .sport-types-111:before {
-  content: "";
+  content: "î¥";
 }
 .sport-types-112:before {
-  content: "";
+  content: "î¥";
 }
 .sport-types-113:before {
-  content: "";
+  content: "î¥‘";
 }
 .sport-types-114:before {
-  content: "";
+  content: "î¥’";
 }
 .sport-types-115:before {
-  content: "";
+  content: "î¥“";
 }
 .sport-types-116:before {
-  content: "";
+  content: "î¥”";
 }
 .sport-types-117:before {
-  content: "";
+  content: "î¥•";
 }
 .sport-types-118:before {
-  content: "";
+  content: "î¥–";
 }
 .sport-types-121:before {
-  content: "";
+  content: "î¥—";
 }
 .sport-types-125:before {
-  content: "";
+  content: "î¥˜";
 }
 .sport-types-127:before {
-  content: "";
+  content: "î¥™";
 }
 .sport-types-128:before {
-  content: "";
+  content: "î¥š";
 }
 .sport-types-129:before {
-  content: "";
+  content: "î¥›";
 }
 .sport-types-131:before {
-  content: "";
+  content: "î¥œ";
 }
 .sport-types-134:before {
-  content: "";
+  content: "î¥";
 }
 .sport-types-135:before {
-  content: "";
+  content: "î¥ž";
 }
 .sport-types-136:before {
-  content: "";
+  content: "î¥Ÿ";
 }
 .sport-types-137:before {
-  content: "";
+  content: "î¥ ";
 }
 .sport-types-139:before {
-  content: "";
+  content: "î¥¡";
 }
 .sport-types-147:before {
-  content: "";
+  content: "î¥¢";
 }
 .sport-types-148:before {
-  content: "";
+  content: "î¥£";
 }
 .sport-types-153:before {
-  content: "";
+  content: "î¥¤";
 }
 .sport-types-158:before {
-  content: "";
+  content: "î¥¥";
 }
 .sport-types-161:before {
-  content: "";
+  content: "î¥¦";
 }
 .sport-types-163:before {
-  content: "";
+  content: "î¥§";
 }
 .sport-types-164:before {
-  content: "";
+  content: "î¥¨";
 }
 .sport-types-166:before {
-  content: "";
+  content: "î¥©";
 }
 .sport-types-190:before {
-  content: "";
+  content: "î¥ª";
 }
 .sport-types-191:before {
-  content: "";
+  content: "î¥«";
 }
 .sport-types-270:before {
-  content: "";
+  content: "î¥¬";
 }
 .sport-types-285:before {
-  content: "";
+  content: "î¥­";
 }
 .sport-types-1000:before {
-  content: "";
+  content: "î¥®";
 }
 .sport-types-1001:before {
-  content: "";
+  content: "î¥¯";
 }
 .sport-types-1002:before {
-  content: "";
+  content: "î¥°";
 }
 .sport-types-1003:before {
-  content: "";
+  content: "î¥±";
 }
 .sport-types-1004:before {
-  content: "";
+  content: "î¥²";
 }
 .sport-types-1005:before {
-  content: "";
+  content: "î¥³";
 }
 .sport-types-beton:before {
-  content: "";
+  content: "î¥´";
 }
 .sport-types-bingo:before {
-  content: "";
+  content: "î¥µ";
 }
 .sport-types-e-sports2:before {
-  content: "";
+  content: "î¥¶";
 }
 .sport-types-e-sports3:before {
-  content: "";
+  content: "î¥·";
 }
 .sport-types-wc:before {
-  content: "";
+  content: "î¥¸";
 }
 /* list btn start */
 .list-btn-cont .list-btn {
@@ -4785,7 +4789,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 .breadcrumbs-cont .breadcrumb:before {
   margin: 0;
-  content: "";
+  content: "ï„‘";
   font-family: "FontAwesome";
   margin: 0 10px;
   font-size: 5px;
@@ -4840,10 +4844,10 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
   text-align: center;
 }
 .filter-toggle-btn.active i::before {
-  content: "";
+  content: "ï…¡";
 }
 .filter-toggle-btn i::before {
-  content: "";
+  content: "ï… ";
 }
 .filter-toggle-btn i {
   font-size: 14px;
@@ -6159,7 +6163,7 @@ body.platform-st .confirm-area .btn-group {
   color: inherit;
 }
 .bet-btn[disabled] .bet-btn-odd::before, .bet-btn.disabled .bet-btn-odd::before, .bet-btn.disabled-btn .bet-btn-odd::before {
-  content: "";
+  content: "ï€£";
   font-family: "FontAwesome";
   font-size: 12px;
   margin-right: 6px;
@@ -7130,7 +7134,7 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
   grid-row-end: 5;
   grid-column-start: 4;
 }
-/* Popüler Events Start */
+/* PopÃ¼ler Events Start */
 .populer-events .populer-events-contaner .slide-btn {
   display: block;
   height: 30px;
@@ -7148,7 +7152,7 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
 .populer-events .show-more-games {
   display: none;
 }
-/* Popüler Events End */
+/* PopÃ¼ler Events End */
 /* Promoted Events Start */
 .promoted-event .fixture-container .match-content:first-child {
   border-top: 1px solid #42495c;
@@ -7157,7 +7161,7 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
   padding: 10px 0;
 }
 /* Promoted Events End */
-/* lig ve maç kartı start */
+/* lig ve maÃ§ kartÄ± start */
 .card-league-modul {
   margin: 15px;
   border-radius: 15px;
@@ -7410,8 +7414,8 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
   width: 100%;
   text-align: center;
 }
-/* lig ve maç kartı end */
-/* Hazır kupon start */
+/* lig ve maÃ§ kartÄ± end */
+/* HazÄ±r kupon start */
 .ready-coupon .btn-winnings {
   display: block;
   margin: 10px;
@@ -7447,7 +7451,7 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
 .ready-coupon .fixture-container .match-content .team-line {
   margin: 0 5px;
 }
-/* Hazır kupon end */
+/* HazÄ±r kupon end */
 .modul-accordion.populer-events .game-card {
   padding: 0 2px !important;
   margin: 0;
@@ -9167,7 +9171,7 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
 .bet-slip-master .bet-slip .coupon-container .coupon .match-rate.rate-up-small::after {
   font-family: "FontAwesome";
   font-weight: 900;
-  content: "";
+  content: "ï„‚";
   color: #39b54a;
   margin-left: 5px;
 }
@@ -9180,7 +9184,7 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
 .bet-slip-master .bet-slip .coupon-container .coupon .match-rate.rate-down-small::before {
   font-family: "FontAwesome";
   font-weight: 900;
-  content: "";
+  content: "ï„ƒ";
   color: #e7353c;
   margin-right: 5px;
 }
@@ -12121,286 +12125,286 @@ app-confirm-promt .footer-btn-grp .disagree-btn {
   -moz-osx-font-smoothing: grayscale;
 }
 .slots:before {
-  content: "";
+  content: "î¥";
 }
 .chip:before {
-  content: "";
+  content: "î¥‹";
 }
 .clover:before {
-  content: "";
+  content: "î¥Œ";
 }
 .cherry:before {
-  content: "";
+  content: "î¥";
 }
 .cards-fill:before {
-  content: "";
+  content: "î¥Ž";
 }
 .dice-3:before {
-  content: "";
+  content: "î¥";
 }
 .newbadge:before {
-  content: "";
+  content: "î¥";
 }
 .luck:before {
-  content: "";
+  content: "î¥‘";
 }
 .cards:before {
-  content: "";
+  content: "î¥’";
 }
 .pokertable:before {
-  content: "";
+  content: "î¥“";
 }
 .dice-2:before {
-  content: "";
+  content: "î¥”";
 }
 .crown:before {
-  content: "";
+  content: "î¥•";
 }
 .diamond:before {
-  content: "";
+  content: "î¥–";
 }
 .whistle:before {
-  content: "";
+  content: "î¥—";
 }
 .medal:before {
-  content: "";
+  content: "î¥˜";
 }
 .dice:before {
-  content: "";
+  content: "î¥™";
 }
 .world:before {
-  content: "";
+  content: "î¥š";
 }
 .best-collection:before {
-  content: "";
+  content: "î¥›";
 }
 .bitcoin:before {
-  content: "";
+  content: "î¥œ";
 }
 .spades:before {
-  content: "";
+  content: "î¥Š";
 }
 .poker-chips:before {
-  content: "";
+  content: "î¤™";
 }
 .roulette:before {
-  content: "";
+  content: "î¤›";
 }
 .virtualgames:before {
-  content: "";
+  content: "î¤½";
 }
 .slot-machine:before {
-  content: "";
+  content: "î¥ˆ";
 }
 .soccer-shoe:before {
-  content: "";
+  content: "î¥‰";
 }
 .play-in:before {
-  content: "";
+  content: "î¥†";
 }
 .play-out:before {
-  content: "";
+  content: "î¥‡";
 }
 .scoreboard:before {
-  content: "";
+  content: "î¥…";
 }
 .red-card:before {
-  content: "";
+  content: "î¥ƒ";
 }
 .yellow-card:before {
-  content: "";
+  content: "î¥„";
 }
 .corner-icon:before {
-  content: "";
+  content: "î¥‚";
 }
 .gambling-montenegro:before {
-  content: "";
+  content: "î¥";
 }
 .over18:before {
-  content: "";
+  content: "î¤¹";
 }
 .gamcare:before {
-  content: "";
+  content: "î¤º";
 }
 .star:before {
-  content: "";
+  content: "î¤»";
 }
 .star-o:before {
-  content: "";
+  content: "î¤¼";
 }
 .chevron-right:before {
-  content: "";
+  content: "î¤¾";
 }
 .chevron-down:before {
-  content: "";
+  content: "î¤¿";
 }
 .chevron-up:before {
-  content: "";
+  content: "î¥€";
 }
 .statistics:before {
-  content: "";
+  content: "î¤¸";
 }
 .livebetting:before {
-  content: "";
+  content: "î¤·";
 }
 .stream-icon:before {
-  content: "";
+  content: "î¤ˆ";
 }
 .field-pitch:before {
-  content: "";
+  content: "î¤¶";
 }
 .resize-two-in:before {
-  content: "";
+  content: "î¤‰";
 }
 .resize-two:before {
-  content: "";
+  content: "î¤µ";
 }
 .top-leagues:before {
-  content: "";
+  content: "î¤";
 }
 .champions-league:before {
-  content: "";
+  content: "î¤‚";
 }
 .serie-a:before {
-  content: "";
+  content: "î¤ƒ";
 }
 .bundesliga:before {
-  content: "";
+  content: "î¤„";
 }
 .ligue-1:before {
-  content: "";
+  content: "î¤…";
 }
 .premier-league:before {
-  content: "";
+  content: "î¤†";
 }
 .la-liga:before {
-  content: "";
+  content: "î¤€";
 }
 .super-toto-turkey:before {
-  content: "";
+  content: "î¤Š";
 }
 .world-cup-2018:before {
-  content: "";
+  content: "î¤‹";
 }
 .blank:before {
-  content: "";
+  content: "î¤‡";
 }
 .soccer:before {
-  content: "";
+  content: "î¤´";
 }
 .basketball:before {
-  content: "";
+  content: "î¤Œ";
 }
 .tennis:before {
-  content: "";
+  content: "î¤";
 }
 .ice-hockey:before {
-  content: "";
+  content: "î¤Ž";
 }
 .motorsport:before {
-  content: "";
+  content: "î¤";
 }
 .volleyball:before {
-  content: "";
+  content: "î¤";
 }
 .american-football:before {
-  content: "";
+  content: "î¤‘";
 }
 .rugby:before {
-  content: "";
+  content: "î¤’";
 }
 .futsal:before {
-  content: "";
+  content: "î¤“";
 }
 .handball:before {
-  content: "";
+  content: "î¤”";
 }
 .snooker:before {
-  content: "";
+  content: "î¤•";
 }
 .baseball:before {
-  content: "";
+  content: "î¤–";
 }
 .boxing:before {
-  content: "";
+  content: "î¤—";
 }
 .mma:before {
-  content: "";
+  content: "î¤˜";
 }
 .golf:before {
-  content: "";
+  content: "î¤š";
 }
 .winter-sports:before {
-  content: "";
+  content: "î¤œ";
 }
 .table-tennis:before {
-  content: "";
+  content: "î¤";
 }
 .waterpolo:before {
-  content: "";
+  content: "î¤ž";
 }
 .darts:before {
-  content: "";
+  content: "î¤Ÿ";
 }
 .beach-volleyball:before {
-  content: "";
+  content: "î¤ ";
 }
 .beach-soccer:before {
-  content: "";
+  content: "î¤¡";
 }
 .squash:before {
-  content: "";
+  content: "î¤¢";
 }
 .sailing:before {
-  content: "";
+  content: "î¤£";
 }
 .bowls:before {
-  content: "";
+  content: "î¤¤";
 }
 .aussie_rules:before {
-  content: "";
+  content: "î¤¥";
 }
 .olympics:before {
-  content: "";
+  content: "î¤¦";
 }
 .curling:before {
-  content: "";
+  content: "î¤§";
 }
 .floorball:before {
-  content: "";
+  content: "î¤¨";
 }
 .bandy:before {
-  content: "";
+  content: "î¤©";
 }
 .fantasy:before {
-  content: "";
+  content: "î¤ª";
 }
 .badminton:before {
-  content: "";
+  content: "î¤«";
 }
 .pesapallo:before {
-  content: "";
+  content: "î¤¬";
 }
 .league-of-legends:before {
-  content: "";
+  content: "î¤­";
 }
 .specials:before {
-  content: "";
+  content: "î¤®";
 }
 .counter-strike:before {
-  content: "";
+  content: "î¤¯";
 }
 .field-hockey:before {
-  content: "";
+  content: "î¤°";
 }
 .starcraft:before {
-  content: "";
+  content: "î¤±";
 }
 .fencing:before {
-  content: "";
+  content: "î¤²";
 }
 .soccer-special:before {
-  content: "";
+  content: "î¤³";
 }
 @font-face {
   font-family: "untitled-font-1";
@@ -12440,7 +12444,7 @@ app-confirm-promt .footer-btn-grp .disagree-btn {
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  content: "󩀁" !important;
+  content: "ó©€" !important;
 }
 .news-carousel {
   margin-bottom: 15px;
@@ -15157,7 +15161,7 @@ app-fast-bet-widget .collapsed-caret {
   width: 100%;
 }
 .field-label.required:after {
-  content: "";
+  content: "ï©";
   font-family: FontAwesome;
   font-size: 10px;
   margin: 0 5px;
@@ -15167,7 +15171,7 @@ app-fast-bet-widget .collapsed-caret {
   top: 3px;
 }
 .required-icon:after {
-  content: "";
+  content: "ï©";
   font-family: FontAwesome;
   font-size: 10px;
   margin: 0 5px;
@@ -17401,7 +17405,7 @@ button.deposit {
   height: 20px !important;
 }
 .page-fixture-detail .tips-mobile-container .right-arrow:after, .page-fixture-detail .tips-mobile-container .left-arrow:after, .page-live-detail .tips-mobile-container .right-arrow:after, .page-live-detail .tips-mobile-container .left-arrow:after {
-  content: "";
+  content: "ï„";
   color: #000;
   background-color: rgba(255, 255, 255, 0.85);
   position: absolute;
@@ -17424,7 +17428,7 @@ button.deposit {
   text-align: center;
 }
 .page-fixture-detail .tips-mobile-container .left-arrow:after, .page-fixture-detail .tips-mobile-container .left-arrow[_ngcontent-acd-c22]:after, .page-live-detail .tips-mobile-container .left-arrow:after, .page-live-detail .tips-mobile-container .left-arrow[_ngcontent-acd-c22]:after {
-  content: "";
+  content: "ï„";
 }
 .today-events-options {
   background-color: transparent;
@@ -21038,7 +21042,7 @@ input:read-only, textarea:read-only, select:read-only {
   background: #c38a41;
   color: #fff;
 }
-/* Hazır kupon start */
+/* HazÄ±r kupon start */
 .ready-coupon .btn-winnings {
   background-color: #d5a960;
   color: #fff;
@@ -21135,7 +21139,7 @@ input:read-only, textarea:read-only, select:read-only {
 .ready-coupon .tabs {
   border-color: #262626;
 }
-/* Hazır kupon end */
+/* HazÄ±r kupon end */
 .close-page {
   background-color: #333;
   color: #fff;
@@ -21813,7 +21817,7 @@ table.liveCalendar tbody tr a .title {
 .payment-form-container .selection-title {
   color: #fff;
 }
-/* Popüler Events Start */
+/* PopÃ¼ler Events Start */
 .populer-events .populer-events-contaner .fixture-container .match-content:first-child {
   border-top-color: #262626;
 }
@@ -21823,7 +21827,7 @@ table.liveCalendar tbody tr a .title {
 .populer-events.modul-accordion .game-card .game-name {
   background-color: transparent;
 }
-/* Popüler Events End */
+/* PopÃ¼ler Events End */
 /* Promoted Events Start */
 .promoted-event .fixture-container .match-content:first-child {
   border-top-color: #262626;
