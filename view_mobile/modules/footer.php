@@ -254,17 +254,21 @@
       <div class="drag-target" data-sidenav="user-menu" style="touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); right: 0px;"></div>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
       <script>
-      function openmenu(tabId) {
+      function openmenu1() {
          closemenu1();
          closemenu2();
 
-       if(tabId == 'menusq'){
          $("#left-menu").css('transform','translateX(0%)');
-       }else if(tabId == 'menusw'){
+       
+   }
+   function openmenu2() {
+         closemenu1();
+         closemenu2();
+
          $("#user-menu").css('transform','translateX(100%)');
        }
        
-   }
+   
    function closemenu1() {
       $("#left-menu").css('transform','translateX(-100%)');
    }

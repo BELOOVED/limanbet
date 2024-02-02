@@ -317,7 +317,7 @@
                <header id="hdr-c" class="navbar-fixed">
                   <nav>
                      <div class="nav-wrapper">
-                        <a routerlink="/" class="logo logo-out" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" onclick="openmenu('menusq')" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" onclick="openmenu('menusw')" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
+                        <a routerlink="/" class="logo logo-out" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" onclick="openmenu1()" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" onclick="openmenu2()" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
                      </div>
                   </nav>
                   <app-static-inner-content contentcode="m_header-static">
