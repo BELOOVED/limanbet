@@ -4,7 +4,7 @@
       <title></title>
       <base href="/">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet preload">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet preload" as="style">
       <link rel="shortcut icon" href="favicon.ico">
       <script async="" src="https://static.lgio.net/jp-f.js?v=1706872696211"></script><script>window.prerenderReady = false;</script>
       <link rel="manifest" href="manifest.webmanifest">
