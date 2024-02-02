@@ -1096,7 +1096,7 @@
                                  </div>
                                  <?php }else{?>
                                  <div class="hdr-usr-mn right">
-                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="assets//assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!---->
+                                    <a target="_blank" class="viptv" href="https://rdrxl.live/redir"><img src="/assets/views/trader/limanbet/assets/images/logo_tv.png" alt=""></a><!---->
                                     <div class="logout-menu right">
                                        <a href="javascript:;" onclick="openmodal('sgn-mdl' , 'none')" class="login-btn"> Giriş </a><!----><a href="/signup"  class="register-btn"><i class="fa fa-user-plus"></i> Üye Ol </a>
                                     </div>
@@ -1140,7 +1140,7 @@
                                  <?php }?>
                               </div>
                               <div id="menu-wrapper" class="hdr-top clear">
-                                 <a name="logo" class="lg-cntr left" href="/tr"><img src="assets//assets/views/trader/limanbet/assets/images/logo.png" class="lg" alt="limanbet"></a>
+                                 <a name="logo" class="lg-cntr left" href="/tr"><img src="/assets/views/trader/limanbet/assets/images/logo.png" class="lg" alt="limanbet"></a>
                                  <div class="mn-menu-wrapper">
                                  <div class="mn-menu left">
                                        <ul data-element="mn-cont" class="clear">

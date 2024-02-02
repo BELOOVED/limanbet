@@ -1629,13 +1629,17 @@ input[type=range]:focus::-ms-fill-upper{background:#ccc}
 .tap-target-wrapper.open{visibility:visible;transition:visibility 0s}
 .tap-target-wrapper.open .tap-target{transform:scale(1);opacity:.95;transition:transform 0.3s cubic-bezier(0.42, 0, 0.58, 1),opacity 0.3s cubic-bezier(0.42, 0, 0.58, 1)}
 .tap-target-wrapper.open .tap-target-wave::before{transform:scale(1)}
-.tap-target-wrapper.open .tap-target-wave::after{visibility:visible;animation:pulse-animation 1s cubic-bezier(0.24, 0, 0.38, 1) infinite;transition:opacity .3s, transform .3s, visibility 0s 1s}
+.tap-target-wrapper.open .tap-target-wave::after{visibility:visible;animation:pulse-animation 1s cubic-bezier(0.24, 0, 0.38, 1) infinite;transition:opacity .3s,
+ transform .3s,
+ visibility 0s 1s}
 .tap-target{position:absolute;font-size:1rem;border-radius:50%;background-color:#ee6e73;box-shadow:0 20px 20px 0 rgba(0,0,0,0.14),0 10px 50px 0 rgba(0,0,0,0.12),0 30px 10px -20px rgba(0,0,0,0.2);width:100%;height:100%;opacity:0;transform:scale(0);transition:transform 0.3s cubic-bezier(0.42, 0, 0.58, 1),opacity 0.3s cubic-bezier(0.42, 0, 0.58, 1)}
 .tap-target-content{position:relative;display:table-cell}
 .tap-target-wave{position:absolute;border-radius:50%;z-index:10001}
 .tap-target-wave::before,.tap-target-wave::after{content:'';display:block;position:absolute;width:100%;height:100%;border-radius:50%;background-color:#ffffff}
 .tap-target-wave::before{transform:scale(0);transition:transform .3s}
-.tap-target-wave::after{visibility:hidden;transition:opacity .3s, transform .3s, visibility 0s;z-index:-1}
+.tap-target-wave::after{visibility:hidden;transition:opacity .3s,
+ transform .3s,
+ visibility 0s;z-index:-1}
 .tap-target-origin{top:50%;left:50%;transform:translate(-50%, -50%);z-index:10002;position:absolute !important}
 .tap-target-origin:not(.btn):not(.btn-large),.tap-target-origin:not(.btn):not(.btn-large):hover{background:none}
 @media only screen and (max-width: 600px){.tap-target,.tap-target-wrapper{width:600px;height:600px}}
@@ -18773,7 +18777,7 @@ header .register-btn-head {
   white-space: nowrap;
 }
 .page-footer .footer-payment i {
-  background: url("/views/trader/limanbet/assets/images/footer-images.png") center left no-repeat;
+  background: url("/assets/views/trader/limanbet/assets/images/footer-images.png") center left no-repeat;
   display: inline-block;
   margin: 0 5px;
 }
@@ -18842,7 +18846,7 @@ header .register-btn-head {
   margin-bottom: 10px;
 }
 .page-footer .footer-partner i {
-  background: url("/views/trader/limanbet/assets/images/vendor-logo.png") center left no-repeat;
+  background: url("/assets/views/trader/limanbet/assets/images/vendor-logo.png") center left no-repeat;
   display: inline-block;
   margin: 0 5px;
 }
