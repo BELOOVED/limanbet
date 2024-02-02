@@ -83,104 +83,42 @@
                <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/owl.carousel.min.js"></script>
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.carousel.min.css">
                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.3/assets/owl.theme.default.min.css">
-               <div id="sync1" class="owl-carousel owl-theme owl-loaded owl-drag">
-                  <div class="owl-stage-outer">
-                     <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 2s ease 0s; width: 16306px;">
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264521-liman-mobil-bannerlar-900x500px-18.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152939-liman-mobil-bannerlar-900x500px-10.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152968-liman-mobil-bannerlar-900x500px-05.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
+               <div id="sync1" class="owl-carousel owl-theme">
+                  
+                     
                            <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></a></div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></a></div>
-                        </div>
-                        <div class="owl-item active" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1702308369-liman-mobil-bannerlar-900x500px-3.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152841-liman-mobil-bannerlar-900x500px-12.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1647947484-liman-mobil-bannerlar-900x500px-08.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698705654-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152907-liman-mobil-bannerlar-900x500px-16.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264527-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1684264521-liman-mobil-bannerlar-900x500px-18.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152939-liman-mobil-bannerlar-900x500px-10.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152968-liman-mobil-bannerlar-900x500px-05.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698747025-liman-mobil-bannerlar-900x500px-1.jpg"> </div>
-                        </div>
-                        <div class="owl-item" style="width: 526px;">
+                        
                            <div class="item"><a href="/tr/pages/shop" target="_blank"><img src="https://liman.cdnroot.blog/other/limanmobilepuan.jpg"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><a href="/tr/games/casino" target="_blank"><img src="https://api.cdnroot.blog/api/other/jackpot/limanm.php"></a></div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1706796026-liman-mobil-900x500px-9.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1702308369-liman-mobil-bannerlar-900x500px-3.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152841-liman-mobil-bannerlar-900x500px-12.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1647947484-liman-mobil-bannerlar-900x500px-08.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1698705654-liman-mobil-bannerlar-900x500px.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152927-liman-mobil-bannerlar-900x500px-13.jpg"> </div>
-                        </div>
-                        <div class="owl-item cloned" style="width: 526px;">
-                           <div class="item"><img src="https://liman.cdnroot.blog/home/m/1642152985-liman-mobil-bannerlar-900x500px-01.jpg"> </div>
-                        </div>
-                     </div>
-                  </div>
+                        
+                        
                   <div class="owl-nav">
                      <div class="owl-prev">
                         <svg width="100%" height="100%" viewBox="0 0 11 20">
@@ -222,18 +160,9 @@
                   </div>
                </div>
                <script>
-                  $(document).ready(function() {
-                  
-                  
-                  var interval = setInterval(function(){
-                  
-                  console.log("aa");
-                  
-                  
-                  if (typeof $("#sync1").owlCarousel === 'function') {
-                  console.log('loaded');
+               $(document).ready(function() {
                   $("#sync1").owlCarousel({
-                  items : 1,
+                  items: 1,
                   nav: true,
                   autoplay: true,
                   dots: false,
@@ -243,20 +172,11 @@
                   touchDrag: true,
                   mouseDrag: true,
                   margin: 0,
-                  responsiveRefreshRate : 700,
-                  navText: ['<svg width="100%" height="100%" viewBox="0 0 11 20"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M9.554,1.001l-8.607,8.607l8.607,8.606"></path></svg>','<svg width="100%" height="100%" viewBox="0 0 11 20" version="1.1"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M1.054,18.214l8.606,-8.606l-8.606,-8.607"></path></svg>'],
+                  responsiveRefreshRate: 700,
+                  navText: ['<svg width="100%" height="100%" viewBox="0 0 11 20"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M9.554,1.001l-8.607,8.607l8.607,8.606"></path></svg>', '<svg width="100%" height="100%" viewBox="0 0 11 20" version="1.1"><path style="fill:none;stroke-width: 1px;stroke: #fff;" d="M1.054,18.214l8.606,-8.606l-8.606,-8.607"></path></svg>'],
                   });
-                  clearInterval(interval);
-                  
-                  }
-                  
-                               }, 10);
-                  
-                  
-                  
-                  
-                  });
-               </script>
+               });
+            </script>
             </div>
             <panel-ticker height="40px" ticker="4" vce-ready="">
                <div id="ticker_4" class="bmm ticker_cover mobile_ticker marquee_ticker" style="height: 40px;">
