@@ -7,9 +7,8 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet preload" as="style">
       <link rel="shortcut icon" href="favicon.ico">
       <script async="" src="https://static.lgio.net/jp-f.js?v=1706872696211"></script><script>window.prerenderReady = false;</script>
-      <link rel="manifest" href="manifest.webmanifest">
       <meta name="theme-color" content="#222">
-      <style>
+      <!-- <style>
          @import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap&subset=latin,latin-ext);
          /**
          * Owl Carousel v2.3.4
@@ -224,17 +223,17 @@
          /* Popüler Events End */
          /* Promoted Events Start */
          /* Promoted Events End */
-      </style>
+      </style> -->
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.css" />
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.css" />
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.css" />
       <link rel="stylesheet" type="text/css" href="https://cdn.tutorialjinni.com/OwlCarousel2/2.3.4/assets/owl.theme.green.min.css" />
-      <!-- <link rel="stylesheet" href="/assets/css/2.css" media="all" onload="this.media='all'"> -->
-      <!-- <noscript> -->
-         <!-- <link rel="stylesheet" href="/assets/css/2.css"> -->
-      <!-- </noscript> -->
+      <link rel="stylesheet" href="/assets/css/2.css" media="all" onload="this.media='all'">
+      <noscript>
+         <link rel="stylesheet" href="/assets/css/2.css">
+      </noscript>
       <link rel="canonical" href="https://m.limanbet569.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.limanbet569.com/en">
       <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript"></script>
