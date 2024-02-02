@@ -8,6 +8,7 @@
       <link rel="shortcut icon" href="favicon.ico">
       <script async="" src="https://static.lgio.net/jp-f.js?v=1706872696211"></script><script>window.prerenderReady = false;</script>
       <link rel="manifest" href="manifest.webmanifest">
+      <link rel="stylesheet" href="https://pfcdn.b-cdn.net/assets/pn35.css">
       <meta name="theme-color" content="#222">
       <style>
          @import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap&subset=latin,latin-ext);
