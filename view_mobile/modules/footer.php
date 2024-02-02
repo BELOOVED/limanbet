@@ -145,7 +145,7 @@
                   <a href="javascript:;" class="btn dont-show-again secondary-color right cookies-btn">Anladım </a>
                </div>
             </div>
-            <div id="mdl-on-enter" materialize="modal" class="modal open" style="z-index: 1033; display: block; opacity: 1; transform: scaleX(1); top: 10%;">
+            <div id="mdl-on-enter" materialize="modal" class="modal" style="z-index: 1033; display: none; opacity: 1; transform: scaleX(1); top: 10%;">
                <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><br>
                <div class="modal-content">
                   <div>
