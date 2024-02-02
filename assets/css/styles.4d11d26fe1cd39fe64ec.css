@@ -34,7 +34,7 @@
 .owl-carousel .owl-item .owl-lazy:not([src]),.owl-carousel .owl-item .owl-lazy[src^=""]{max-height:0}
 .owl-carousel .owl-item img.owl-lazy{transform-style:preserve-3d}
 .owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}
-.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url('owl.video.play.7f01b07148f205f6e825.png') no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}
+.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url('/gereksiz/owl.video.play.7f01b07148f205f6e825.png') no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}
 .owl-carousel .owl-video-play-icon:hover{transform:scale(1.3,1.3)}
 .owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}
 .owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;background-size:contain;transition:opacity .4s ease}
@@ -352,8 +352,8 @@
 .iti__flag.iti__za{height:14px;background-position:-5588px 0}
 .iti__flag.iti__zm{height:14px;background-position:-5610px 0}
 .iti__flag.iti__zw{height:10px;background-position:-5632px 0}
-.iti__flag{height:15px;box-shadow:0 0 1px 0 #888;background-image:url('flags.007b2705c0a8f69dfdf6.png');background-repeat:no-repeat;background-color:#dbdbdb;background-position:20px 0}
-@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi){.iti__flag{background-image:url('flags@2x.9d5328fb490cddd43f66.png')}}
+.iti__flag{height:15px;box-shadow:0 0 1px 0 #888;background-image:url('/gereksiz/flags.007b2705c0a8f69dfdf6.png');background-repeat:no-repeat;background-color:#dbdbdb;background-position:20px 0}
+@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi){.iti__flag{background-image:url('/gereksiz/flags@2x.9d5328fb490cddd43f66.png')}}
 .iti__flag.iti__np{background-color:transparent}
 /*!
  * Materialize v0.100.2 (http://materializecss.com)
@@ -1149,11 +1149,11 @@ nav .input-field label.active i{color:#fff}
 .navbar-fixed{position:relative;height:56px;z-index:997}
 .navbar-fixed nav{position:fixed}
 @media only screen and (min-width: 601px){nav.nav-extended .nav-wrapper{min-height:64px}nav,nav .nav-wrapper i,nav a.button-collapse,nav a.button-collapse i{height:64px;line-height:64px}.navbar-fixed{height:64px}}
-@font-face{font-family:"Roboto";src:local(Roboto Thin),url('Roboto-Thin.6d65b184a6e7ec1168a8.woff2') format("woff2"),url('Roboto-Thin.d6bafa3f0914cd99f24d.woff') format("woff");font-weight:100}
-@font-face{font-family:"Roboto";src:local(Roboto Light),url('Roboto-Light.2779fd7b61b8c0881450.woff2') format("woff2"),url('Roboto-Light.921e9835e9ccca418d58.woff') format("woff");font-weight:300}
-@font-face{font-family:"Roboto";src:local(Roboto Regular),url('Roboto-Regular.8eecbdb33568c54ed0c5.woff2') format("woff2"),url('Roboto-Regular.373cdbfb31c85a6c6a68.woff') format("woff");font-weight:400}
-@font-face{font-family:"Roboto";src:local(Roboto Medium),url('Roboto-Medium.04fd4291fe3fcd9c35ef.woff2') format("woff2"),url('Roboto-Medium.4b7975525822804fc8f9.woff') format("woff");font-weight:500}
-@font-face{font-family:"Roboto";src:local(Roboto Bold),url('Roboto-Bold.2341c0db3906a1704c75.woff2') format("woff2"),url('Roboto-Bold.d9545f104095a12fde1d.woff') format("woff");font-weight:700}
+@font-face{font-family:"Roboto";src:local(Roboto Thin),url('/gereksiz/Roboto-Thin.6d65b184a6e7ec1168a8.woff2') format("woff2"),url('/gereksiz/Roboto-Thin.d6bafa3f0914cd99f24d.woff') format("woff");font-weight:100}
+@font-face{font-family:"Roboto";src:local(Roboto Light),url('/gereksiz/Roboto-Light.2779fd7b61b8c0881450.woff2') format("woff2"),url('/gereksiz/Roboto-Light.921e9835e9ccca418d58.woff') format("woff");font-weight:300}
+@font-face{font-family:"Roboto";src:local(Roboto Regular),url('/gereksiz/Roboto-Regular.8eecbdb33568c54ed0c5.woff2') format("woff2"),url('/gereksiz/Roboto-Regular.373cdbfb31c85a6c6a68.woff') format("woff");font-weight:400}
+@font-face{font-family:"Roboto";src:local(Roboto Medium),url('/gereksiz/Roboto-Medium.04fd4291fe3fcd9c35ef.woff2') format("woff2"),url('/gereksiz/Roboto-Medium.4b7975525822804fc8f9.woff') format("woff");font-weight:500}
+@font-face{font-family:"Roboto";src:local(Roboto Bold),url('/gereksiz/Roboto-Bold.2341c0db3906a1704c75.woff2') format("woff2"),url('/gereksiz/Roboto-Bold.d9545f104095a12fde1d.woff') format("woff");font-weight:700}
 a{text-decoration:none}
 html{line-height:1.5;font-family:"Roboto", sans-serif;font-weight:normal;color:rgba(0,0,0,0.87)}
 @media only screen and (min-width: 0){html{font-size:14px}}
@@ -1771,7 +1771,7 @@ button.picker__today:focus,button.picker__clear:focus,button.picker__close:focus
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-@font-face{font-family:'FontAwesome';src:url('fontawesome-webfont.8b43027f47b20503057d.eot?v=4.7.0');src:url('fontawesome-webfont.8b43027f47b20503057d.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0') format('woff2'),url('fontawesome-webfont.f691f37e57f04c152e23.woff?v=4.7.0') format('woff'),url('fontawesome-webfont.1e59d2330b4c6deb84b3.ttf?v=4.7.0') format('truetype'),url('fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg?v=4.7.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
+@font-face{font-family:'FontAwesome';src:url('/gereksiz/fontawesome-webfont.8b43027f47b20503057d.eot?v=4.7.0');src:url('/gereksiz/fontawesome-webfont.8b43027f47b20503057d.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('/gereksiz/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0') format('woff2'),url('/gereksiz/fontawesome-webfont.f691f37e57f04c152e23.woff?v=4.7.0') format('woff'),url('/gereksiz/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf?v=4.7.0') format('truetype'),url('/gereksiz/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg?v=4.7.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
 .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .fa-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}
 .fa-2x{font-size:2em}
@@ -2640,1196 +2640,1196 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 <i class="icon icon-home"></i>
 */
 .icon-32xAUS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xWRLD {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -416px -449px;
   width: 32px;
   height: 32px;
 }
 .icon-32xFIN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNOR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSWE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xDEU {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xITA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xJPN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMEX {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xUSA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xAUT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xHRV {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCZE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xDNK {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xENG {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xEST {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xFRA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGRC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xISR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLVA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLTU {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPOL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRUS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSRB {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSVN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xESP {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xTUR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCHE,
 .icon-32xSWI {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCAN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBRA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xINTC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPRT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xHUN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xINTY {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSVK {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRGBY {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRGYU {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xALB {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xDZA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xAND {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xARG {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xARM {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xAZE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBHR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBLR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBEL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBOL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBIH {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBGR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCMR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCHL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCHN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCOL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCRI {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCYP {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xECU {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xEGY {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSLV {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xFRO {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGEO {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGHA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGTM {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xHND {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xHKG {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xISL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xIND {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xIDN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xIRN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xIRL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xJOR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xKAZ {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xKWT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLIE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLUX {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMKD {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMYS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMLT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMDA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMNE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMAR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNZL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNIR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xOMN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPAK {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPRY {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPER {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xQAT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xROU {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSMR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSAU {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSCO {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSGP {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xZAF {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xKOR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xTHA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xTUN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xUKR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xARE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xURY {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -191px;
   width: 32px;
   height: 32px;
 }
 .icon-32xUZB {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xVEN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xVNM {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xWAL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMEN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xFRML {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNSCR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRLLY {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xATP {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCHLL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -288px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xITFM {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -352px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xITFW {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -352px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xWTA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -352px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBIAT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -352px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCRSS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -352px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSKIJ {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCIV {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCHLW {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSEN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNLD {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xALPN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGIB {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xKEN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -384px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPHL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -384px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLBY {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -256px -384px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPAN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -352px -384px;
   width: 32px;
   height: 32px;
 }
 .icon-32xUGA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -384px -384px;
   width: 32px;
   height: 32px;
 }
 .icon-32xJAM {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -416px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xVTEN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -416px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLBN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -416px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSYR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -416px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNGA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCHAR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xZMB {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPSE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMOZ {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMAC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRWA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -192px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xETH {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -224px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMDV {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -320px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xAGO {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -352px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xVBAS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -416px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xWTAK {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xTZA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRLOL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xUFC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBWA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBLLT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xWMN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMSC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -448px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xELLR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -384px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSRLF {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -480px;
   width: 32px;
   height: 32px;
 }
 .icon-32xALPS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -480px;
   width: 32px;
   height: 31px;
 }
 .icon-32xCROS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xCSGO {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xDOTA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xELEC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xESKG {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -128px;
   width: 32px;
   height: 32px;
 }
 .icon-32xESRL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -160px;
   width: 32px;
   height: 32px;
 }
 .icon-32xFORF {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -192px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGOLF {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -224px;
   width: 32px;
   height: 32px;
 }
 .icon-32xKOS {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -256px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMMAA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -288px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRAIN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -320px;
   width: 32px;
   height: 32px;
 }
 .icon-32xRUGB {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -352px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSMRL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -384px;
   width: 32px;
   height: 32px;
 }
 .icon-32xSPEC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -416px;
   width: 32px;
   height: 32px;
 }
 .icon-32xTENN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -512px -448px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBGD {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -512px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNPL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -512px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGBRF {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -512px;
   width: 32px;
   height: 32px;
 }
 .icon-32xCOG {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -544px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xLKA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -544px;
   width: 32px;
   height: 32px;
 }
 .icon-32xTPE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -480px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xBTN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -576px -64px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMDG {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -576px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xTJK {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -576px -32px;
   width: 32px;
   height: 32px;
 }
 .icon-32xZWE {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -576px -96px;
   width: 32px;
   height: 32px;
 }
 .icon-32xKGZ {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -576px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMOTR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -608px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xMNG {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -608px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLOLL {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -608px;
   width: 32px;
   height: 32px;
 }
 .icon-32xDOM {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -640px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xIRQ {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -640px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNIC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -672 0px;
   width: 32px;
   height: 32px;
 }
 .icon-32xBLZ {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -672px;
   width: 32px;
   height: 32px;
 }
 .icon-32xTWN {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -160px -672px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGUF {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -672px;
   width: 32px;
   height: 32px;
 }
 .icon-32xGMB {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -96px -672px;
   width: 32px;
   height: 32px;
 }
 .icon-32xFIFA {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -672px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNBA2 {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -128px -672px;
   width: 32px;
   height: 32px;
 }
 .icon-32xNER {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -704px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xBDI {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -704px;
   width: 32px;
   height: 32px;
 }
 .icon-32xLBR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -32px -704px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMRT {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -64px -704px;
   width: 32px;
   height: 32px;
 }
 .icon-32xPRI {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -736px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xCRC {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -736px;
   width: 32px;
   height: 32px;
 }
 .icon-32xMMR {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: -768px 0;
   width: 32px;
   height: 32px;
 }
 .icon-32xKHM {
-  background-image: url('flags-32.f4dac84a8d89bed7d6e1.png');
+  background-image: url('/gereksiz/flags-32.f4dac84a8d89bed7d6e1.png');
   background-position: 0 -768px;
   width: 32px;
   height: 32px;
 }
 .vtoflags {
-  background: url('vto-flags.548cf8cc0c6c353428a7.png') no-repeat top left;
+  background: url('/gereksiz/vto-flags.548cf8cc0c6c353428a7.png') no-repeat top left;
   width: 18px;
   height: 11px;
   margin: 3px 3px 0px 3px;
@@ -3997,7 +3997,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 }
 @font-face {
   font-family: "sport-types";
-  src: url('sport-types.99f2bc5e67462f4f3c82.woff') format("woff");
+  src: url('/gereksiz/sport-types.99f2bc5e67462f4f3c82.woff') format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -8204,163 +8204,163 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
   color: black !important;
 }
 .icon-footer-image-1 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -52px -122px;
   width: 56px;
   height: 16px;
 }
 .icon-footer-image-10 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -92px -140px;
   width: 45px;
   height: 16px;
 }
 .icon-footer-image-11 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -108px -122px;
   width: 50px;
   height: 16px;
 }
 .icon-footer-image-12 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -131px -86px;
   width: 60px;
   height: 16px;
 }
 .icon-footer-image-13 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -106px -16px;
   width: 85px;
   height: 16px;
 }
 .icon-footer-image-14 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -46px -140px;
   width: 46px;
   height: 16px;
 }
 .icon-footer-image-2 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -65px -106px;
   width: 63px;
   height: 16px;
 }
 .icon-footer-image-3 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -106px;
   width: 65px;
   height: 16px;
 }
 .icon-footer-image-4 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -137px -140px;
   width: 44px;
   height: 16px;
 }
 .icon-footer-image-5 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -89px -54px;
   width: 89px;
   height: 16px;
 }
 .icon-footer-image-6 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -70px;
   width: 89px;
   height: 16px;
 }
 .icon-footer-image-65 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -54px;
   width: 89px;
   height: 16px;
 }
 .icon-footer-image-66 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -86px;
   width: 69px;
   height: 20px;
 }
 .icon-footer-image-7 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -42px -157px;
   width: 40px;
   height: 16px;
 }
 .icon-footer-image-8 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -157px;
   width: 42px;
   height: 16px;
 }
 .icon-footer-image-9 {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -158px -122px;
   width: 27px;
   height: 16px;
 }
 .icon-footer-image-partner_betgames {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -35px;
   width: 89px;
   height: 19px;
 }
 .icon-footer-image-partner_betsoft {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -140px;
   width: 46px;
   height: 17px;
 }
 .icon-footer-image-partner_evolution {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -173px;
   width: 102px;
   height: 20px;
 }
 .icon-footer-image-partner_ezugi {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -122px;
   width: 52px;
   height: 18px;
 }
 .icon-footer-image-partner_klas {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -89px -70px;
   width: 93px;
   height: 14px;
 }
 .icon-footer-image-partner_livegames {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 -16px;
   width: 106px;
   height: 19px;
 }
 .icon-footer-image-partner_luckystreak {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -82px -157px;
   width: 28px;
   height: 15px;
 }
 .icon-footer-image-partner_netent {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -128px -106px;
   width: 63px;
   height: 15px;
 }
 .icon-footer-image-partner_pronetgaming {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: 0 0;
   width: 193px;
   height: 16px;
 }
 .icon-footer-image-partner_xpro {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -89px -35px;
   width: 99px;
   height: 16px;
 }
 .icon-footer-image-partner_sportingtech {
-  background-image: url('footerImages.03523fe761f58a000213.png');
+  background-image: url('/gereksiz/footerImages.03523fe761f58a000213.png');
   background-position: -193px 0;
   width: 97px;
   height: 20px;
@@ -12105,7 +12105,7 @@ app-confirm-promt .footer-btn-grp .disagree-btn {
 }
 @font-face {
   font-family: "icomoon";
-  src: url('icomoon.f6a9b873c72c721aae07.woff') format("woff");
+  src: url('/gereksiz/icomoon.f6a9b873c72c721aae07.woff') format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -12408,7 +12408,7 @@ app-confirm-promt .footer-btn-grp .disagree-btn {
 }
 @font-face {
   font-family: "untitled-font-1";
-  src: url('tiktok.2c57a5ec4b120fb713e5.woff') format("woff");
+  src: url('/gereksiz/tiktok.2c57a5ec4b120fb713e5.woff') format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -12428,7 +12428,7 @@ app-confirm-promt .footer-btn-grp .disagree-btn {
 }
 @font-face {
   font-family: "untitled-font-1";
-  src: url('xlogo.dd72a56aff8d7a042e9b.woff') format("woff");
+  src: url('/gereksiz/xlogo.dd72a56aff8d7a042e9b.woff') format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -12523,7 +12523,7 @@ body {
   position: relative;
   text-align: center;
   z-index: 1;
-  background: url('bg.2b688740a57cc048c7fd.jpg') repeat-x;
+  background: url('/gereksiz/bg.2b688740a57cc048c7fd.jpg') repeat-x;
   background-size: contain;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../images/egt-jackpot-banner/img/bg.jpg", sizingMethod="scale");
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/egt-jackpot-banner/img/bg.jpg', sizingMethod='scale')";
@@ -12537,7 +12537,7 @@ body {
 #com-egt-jackpot-html-jackpotBanner .com-egt-jackpot-html-logo {
   float: none;
   display: none;
-  background: url('logo.2776caf74ab3fc0db6c3.png') no-repeat center center;
+  background: url('/gereksiz/logo.2776caf74ab3fc0db6c3.png') no-repeat center center;
   border: 0;
   background-size: contain;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../img/logo.png", sizingMethod="scale");
@@ -12707,7 +12707,7 @@ body {
   display: inline-block;
   width: 100%;
   margin: 5px auto 10px auto;
-  background: url('logoPopup.f525e7fc8ea52a8bf86c.png') no-repeat center center;
+  background: url('/gereksiz/logoPopup.f525e7fc8ea52a8bf86c.png') no-repeat center center;
   background-size: contain;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/img/logoPopup.png", sizingMethod="scale");
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/logoPopup.png', sizingMethod='scale')";
@@ -13002,19 +13002,19 @@ body {
   margin-bottom: 10px;
 }
 .fugaso-jackpot-container .jackpot-item.jackpot-logo {
-  background-image: url('fugaso-logo.8fc5c1cc866becbedb19.png');
+  background-image: url('/gereksiz/fugaso-logo.8fc5c1cc866becbedb19.png');
   height: 70px;
   width: 200px;
   flex: auto;
 }
 .fugaso-jackpot-container .jackpot-item.jackpot-box {
-  background-image: url('fugaso-box.206018d78c90cc272329.png');
+  background-image: url('/gereksiz/fugaso-box.206018d78c90cc272329.png');
   height: 100px;
   width: 200px;
   flex: auto;
 }
 .fugaso-jackpot-container .jackpot-item.fugaso-logo {
-  background-image: url('fugaso.2932d768fa60de3ab875.png');
+  background-image: url('/gereksiz/fugaso.2932d768fa60de3ab875.png');
   height: 100px;
   width: 200px;
   flex: auto;
@@ -13035,16 +13035,16 @@ body {
   margin-bottom: 5px;
 }
 .fugaso-jackpot-container .jackpot-item .title.mini-title {
-  background-image: url('mini_jackpot.a5999801f50ad6e4c91a.png');
+  background-image: url('/gereksiz/mini_jackpot.a5999801f50ad6e4c91a.png');
 }
 .fugaso-jackpot-container .jackpot-item .title.midi-title {
-  background-image: url('midi_jackpot.f6da7651200b05fec08e.png');
+  background-image: url('/gereksiz/midi_jackpot.f6da7651200b05fec08e.png');
 }
 .fugaso-jackpot-container .jackpot-item .title.maxi-title {
-  background-image: url('maxi_jackpot.3d6cc0c80b14ad58ce39.png');
+  background-image: url('/gereksiz/maxi_jackpot.3d6cc0c80b14ad58ce39.png');
 }
 .fugaso-jackpot-container .jackpot-item .jackpot-border {
-  background-image: url('border.a12a7db8fe627fd150ab.png');
+  background-image: url('/gereksiz/border.a12a7db8fe627fd150ab.png');
   height: 40px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -18568,7 +18568,7 @@ header.navbar-fixed {
   height: 48px;
 }
 header nav {
-  background: url('head-bg.06af868834f65f4ead76.png');
+  background: url('/gereksiz/head-bg.06af868834f65f4ead76.png');
   color: #fff;
   box-shadow: none;
   height: 48px;
