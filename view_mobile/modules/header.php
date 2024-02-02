@@ -225,9 +225,9 @@
          /* Promoted Events Start */
          /* Promoted Events End */
       </style>
-      <link rel="stylesheet" href="styles.4d11d26fe1cd39fe64ec.css" media="all" onload="this.media='all'">
+      <link rel="stylesheet" href="https://m.limanbet569.com/styles.4d11d26fe1cd39fe64ec.css" media="all" onload="this.media='all'">
       <noscript>
-         <link rel="stylesheet" href="styles.4d11d26fe1cd39fe64ec.css">
+         <link rel="stylesheet" href="https://m.limanbet569.com/styles.4d11d26fe1cd39fe64ec.css">
       </noscript>
       <link rel="canonical" href="https://m.limanbet569.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.limanbet569.com/en">
