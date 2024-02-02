@@ -7,6 +7,7 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet preload" as="style">
       <link rel="shortcut icon" href="favicon.ico">
       <script async="" src="https://static.lgio.net/jp-f.js?v=1706872696211"></script><script>window.prerenderReady = false;</script>
+      <link rel="stylesheet" href="/assets/css/styles.4d11d26fe1cd39fe64ec.css" media="all" onload="this.media='all'">
       <link rel="manifest" href="manifest.webmanifest">
       <meta name="theme-color" content="#222">
       <style>
