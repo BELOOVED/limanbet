@@ -275,10 +275,7 @@
    function closemenu2() {
       $("#user-menu").css('transform','translateX(0%)');
    }
-   function openmenu2(tabId) {
-       $('.tl_my_acc_cont_content').addClass('hidden');
-       $('.' + tabId).removeClass('hidden');
-   }
+  
       function openmodal(contentId, menuId) {
           $("body").css('overflow','hidden');
           $("#" + contentId).addClass("open");
@@ -340,7 +337,7 @@ function loginorp1ay(){
 });
 }
 <?php }else{?>
-   function loginorp1ay(){
+   function loginorplay(){
       openmodal('sgn-mdl', 'none')
    }
    <?php }?>
