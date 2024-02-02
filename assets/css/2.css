@@ -8177,7 +8177,7 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("//v3.pronetstatic.com/m-common/assets/images/binarybg.jpg") top center no-repeat;
+  background: url("/images/m-common/assets/images/binarybg.jpg") top center no-repeat;
   height: 700px;
   width: 100%;
   background-size: cover;
@@ -18568,7 +18568,7 @@ header.navbar-fixed {
   height: 48px;
 }
 header nav {
-  background: url('head-bg.06af868834f65f4ead76.png');
+  background: url('/head-bg.06af868834f65f4ead76.png');
   color: #fff;
   box-shadow: none;
   height: 48px;
@@ -18777,7 +18777,7 @@ header .register-btn-head {
   white-space: nowrap;
 }
 .page-footer .footer-payment i {
-  background: url("/views/trader/limanbet/assets/images/footer-images.png") center left no-repeat;
+  background: url("/assets/trader/limanbet/assets/images/footer-images.png") center left no-repeat;
   display: inline-block;
   margin: 0 5px;
 }
@@ -18846,7 +18846,7 @@ header .register-btn-head {
   margin-bottom: 10px;
 }
 .page-footer .footer-partner i {
-  background: url("/views/trader/limanbet/assets/images/vendor-logo.png") center left no-repeat;
+  background: url("/assets/trader/limanbet/assets/images/vendor-logo.png") center left no-repeat;
   display: inline-block;
   margin: 0 5px;
 }
