@@ -637,7 +637,7 @@
                   <div class="logout-menu">
                      <div class="title">
                         <h5>Giriş yapın veya kayıt olun!</h5>
-                        <a routerlinkactive="active" class="btn login-btn" href="/tr/authentication/signin"> Giriş </a><a href="javascript:;" class="btn register-btn"> Üye Ol </a>
+                        <a routerlinkactive="active" class="btn login-btn" href="/login"> Giriş </a><a href="/signup" class="btn register-btn"> Üye Ol </a>
                      </div>
                      <div class="logout-menu-bottom">
                         <ul class="sidenav-menu">
