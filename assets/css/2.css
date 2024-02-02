@@ -12105,7 +12105,7 @@ app-confirm-promt .footer-btn-grp .disagree-btn {
 }
 @font-face {
   font-family: "icomoon";
-  src: url('icomoon.f6a9b873c72c721aae07.woff') format("woff");
+  src: url('/icomoon.f6a9b873c72c721aae07.woff') format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -12125,286 +12125,286 @@ app-confirm-promt .footer-btn-grp .disagree-btn {
   -moz-osx-font-smoothing: grayscale;
 }
 .slots:before {
-  content: "î¥";
+  content: "";
 }
 .chip:before {
-  content: "î¥‹";
+  content: "";
 }
 .clover:before {
-  content: "î¥Œ";
+  content: "";
 }
 .cherry:before {
-  content: "î¥";
+  content: "";
 }
 .cards-fill:before {
-  content: "î¥Ž";
+  content: "";
 }
 .dice-3:before {
-  content: "î¥";
+  content: "";
 }
 .newbadge:before {
-  content: "î¥";
+  content: "";
 }
 .luck:before {
-  content: "î¥‘";
+  content: "";
 }
 .cards:before {
-  content: "î¥’";
+  content: "";
 }
 .pokertable:before {
-  content: "î¥“";
+  content: "";
 }
 .dice-2:before {
-  content: "î¥”";
+  content: "";
 }
 .crown:before {
-  content: "î¥•";
+  content: "";
 }
 .diamond:before {
-  content: "î¥–";
+  content: "";
 }
 .whistle:before {
-  content: "î¥—";
+  content: "";
 }
 .medal:before {
-  content: "î¥˜";
+  content: "";
 }
 .dice:before {
-  content: "î¥™";
+  content: "";
 }
 .world:before {
-  content: "î¥š";
+  content: "";
 }
 .best-collection:before {
-  content: "î¥›";
+  content: "";
 }
 .bitcoin:before {
-  content: "î¥œ";
+  content: "";
 }
 .spades:before {
-  content: "î¥Š";
+  content: "";
 }
 .poker-chips:before {
-  content: "î¤™";
+  content: "";
 }
 .roulette:before {
-  content: "î¤›";
+  content: "";
 }
 .virtualgames:before {
-  content: "î¤½";
+  content: "";
 }
 .slot-machine:before {
-  content: "î¥ˆ";
+  content: "";
 }
 .soccer-shoe:before {
-  content: "î¥‰";
+  content: "";
 }
 .play-in:before {
-  content: "î¥†";
+  content: "";
 }
 .play-out:before {
-  content: "î¥‡";
+  content: "";
 }
 .scoreboard:before {
-  content: "î¥…";
+  content: "";
 }
 .red-card:before {
-  content: "î¥ƒ";
+  content: "";
 }
 .yellow-card:before {
-  content: "î¥„";
+  content: "";
 }
 .corner-icon:before {
-  content: "î¥‚";
+  content: "";
 }
 .gambling-montenegro:before {
-  content: "î¥";
+  content: "";
 }
 .over18:before {
-  content: "î¤¹";
+  content: "";
 }
 .gamcare:before {
-  content: "î¤º";
+  content: "";
 }
 .star:before {
-  content: "î¤»";
+  content: "";
 }
 .star-o:before {
-  content: "î¤¼";
+  content: "";
 }
 .chevron-right:before {
-  content: "î¤¾";
+  content: "";
 }
 .chevron-down:before {
-  content: "î¤¿";
+  content: "";
 }
 .chevron-up:before {
-  content: "î¥€";
+  content: "";
 }
 .statistics:before {
-  content: "î¤¸";
+  content: "";
 }
 .livebetting:before {
-  content: "î¤·";
+  content: "";
 }
 .stream-icon:before {
-  content: "î¤ˆ";
+  content: "";
 }
 .field-pitch:before {
-  content: "î¤¶";
+  content: "";
 }
 .resize-two-in:before {
-  content: "î¤‰";
+  content: "";
 }
 .resize-two:before {
-  content: "î¤µ";
+  content: "";
 }
 .top-leagues:before {
-  content: "î¤";
+  content: "";
 }
 .champions-league:before {
-  content: "î¤‚";
+  content: "";
 }
 .serie-a:before {
-  content: "î¤ƒ";
+  content: "";
 }
 .bundesliga:before {
-  content: "î¤„";
+  content: "";
 }
 .ligue-1:before {
-  content: "î¤…";
+  content: "";
 }
 .premier-league:before {
-  content: "î¤†";
+  content: "";
 }
 .la-liga:before {
-  content: "î¤€";
+  content: "";
 }
 .super-toto-turkey:before {
-  content: "î¤Š";
+  content: "";
 }
 .world-cup-2018:before {
-  content: "î¤‹";
+  content: "";
 }
 .blank:before {
-  content: "î¤‡";
+  content: "";
 }
 .soccer:before {
-  content: "î¤´";
+  content: "";
 }
 .basketball:before {
-  content: "î¤Œ";
+  content: "";
 }
 .tennis:before {
-  content: "î¤";
+  content: "";
 }
 .ice-hockey:before {
-  content: "î¤Ž";
+  content: "";
 }
 .motorsport:before {
-  content: "î¤";
+  content: "";
 }
 .volleyball:before {
-  content: "î¤";
+  content: "";
 }
 .american-football:before {
-  content: "î¤‘";
+  content: "";
 }
 .rugby:before {
-  content: "î¤’";
+  content: "";
 }
 .futsal:before {
-  content: "î¤“";
+  content: "";
 }
 .handball:before {
-  content: "î¤”";
+  content: "";
 }
 .snooker:before {
-  content: "î¤•";
+  content: "";
 }
 .baseball:before {
-  content: "î¤–";
+  content: "";
 }
 .boxing:before {
-  content: "î¤—";
+  content: "";
 }
 .mma:before {
-  content: "î¤˜";
+  content: "";
 }
 .golf:before {
-  content: "î¤š";
+  content: "";
 }
 .winter-sports:before {
-  content: "î¤œ";
+  content: "";
 }
 .table-tennis:before {
-  content: "î¤";
+  content: "";
 }
 .waterpolo:before {
-  content: "î¤ž";
+  content: "";
 }
 .darts:before {
-  content: "î¤Ÿ";
+  content: "";
 }
 .beach-volleyball:before {
-  content: "î¤ ";
+  content: "";
 }
 .beach-soccer:before {
-  content: "î¤¡";
+  content: "";
 }
 .squash:before {
-  content: "î¤¢";
+  content: "";
 }
 .sailing:before {
-  content: "î¤£";
+  content: "";
 }
 .bowls:before {
-  content: "î¤¤";
+  content: "";
 }
 .aussie_rules:before {
-  content: "î¤¥";
+  content: "";
 }
 .olympics:before {
-  content: "î¤¦";
+  content: "";
 }
 .curling:before {
-  content: "î¤§";
+  content: "";
 }
 .floorball:before {
-  content: "î¤¨";
+  content: "";
 }
 .bandy:before {
-  content: "î¤©";
+  content: "";
 }
 .fantasy:before {
-  content: "î¤ª";
+  content: "";
 }
 .badminton:before {
-  content: "î¤«";
+  content: "";
 }
 .pesapallo:before {
-  content: "î¤¬";
+  content: "";
 }
 .league-of-legends:before {
-  content: "î¤­";
+  content: "";
 }
 .specials:before {
-  content: "î¤®";
+  content: "";
 }
 .counter-strike:before {
-  content: "î¤¯";
+  content: "";
 }
 .field-hockey:before {
-  content: "î¤°";
+  content: "";
 }
 .starcraft:before {
-  content: "î¤±";
+  content: "";
 }
 .fencing:before {
-  content: "î¤²";
+  content: "";
 }
 .soccer-special:before {
-  content: "î¤³";
+  content: "";
 }
 @font-face {
   font-family: "untitled-font-1";
