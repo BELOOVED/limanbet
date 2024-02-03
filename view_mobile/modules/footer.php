@@ -324,7 +324,7 @@ function islemkisiti(){
 
 }
 <?php if(isset($us['id'])){?>
-function loginorp1ay(){
+function loginorplay(){
    Swal.fire({
     title: 'Hata!',
     icon: 'error',
