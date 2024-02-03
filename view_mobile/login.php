@@ -8,26 +8,26 @@ if ($detect->isMobile()) {?>
          <div class="login-page">
             <div class="filter-toggle"><a class="register-close"><i class="fa fa-times"></i></a></div>
             <!----><!---->
-            <form novalidate="" class="login-form clear ng-untouched ng-pristine ng-invalid">
+            <form novalidate="" class="login-form clear ng-untouched ng-pristine ng-invalid" id="login_form" action="javascript:;">
                <div class="title">
                   <h5>Hesabınıza giriş yapınız</h5>
                </div>
                <!----><!---->
                <div class="input-field">
-                  <input type="text" required="" autocapitalize="none" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="Kullanıcı adı" id="username"><!----><!---->
+                  <input type="text" required="" autocapitalize="none" name="login" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="Kullanıcı adı" id="username"><!----><!---->
                </div>
                <!----><!----><!---->
                <div class="input-field password">
-                  <input formcontrolname="password" id="password" type="password" required="" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="Şifreniz">
+                  <input formcontrolname="password" id="password" type="password" name="password" required="" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="Şifreniz">
                   <password-eye el="password"><a class="btn password-eye toogle-btn"><i class="fa fa-eye show"></i><i class="fa fa-eye-slash dont-show"></i></a></password-eye>
                   <!---->
                </div>
-               <!----><!----><button class="btn login-btn"> Giriş Yap </button><!----><!---->
+               <!----><!----><button onclick="logIn()" type="submit" class="btn login-btn"> Giriş Yap </button><!----><!---->
             </form>
             <!---->
             <div class="flex-container btn-group"><a class="forgot-pass" href="/tr/authentication/forgot-password"> Şifremi Unuttum? </a><a class="forgot-username" href="/tr/authentication/forgot-username"> Kullanıcı adını unuttum? </a></div>
             <div class="flex-container btn-group btn-register"><a href="javascript:;" class="register-btn flex-item"><span>Hesabınız yok mu?</span> Yeni hesap oluştur </a></div>
-            <!----><a class="contact-support" href="https://lc.chat/now/8806331"><i class="fa fa-comments left"></i> Canlı Destek </a><!----><!----><!---->
+            <!----><a class="contact-support" href="javascript:;" onclick="maximizeTawkToWidget()"><i class="fa fa-comments left"></i> Canlı Destek </a><!----><!----><!---->
          </div>
       </app-signin>
       <!---->
