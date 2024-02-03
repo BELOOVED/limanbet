@@ -334,7 +334,7 @@ function loginorp1ay(){
 }
 <?php }else{?>
    function loginorplay(){
-      openmodal('sgn-mdl', 'none')
+      window.location.href= '/login';
    }
    <?php }?>
    function maximizeTawkToWidget() {
