@@ -659,7 +659,7 @@
                                  </ul>
                               </app-language>
                            </li>
-                           <li><a class="support" href="//m.limanbet569.com/tr/contents/support-faq"><i class="fa fa-comments pg-icons"></i> SSS (Sıkca Sorulan Sorular) <i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a></li>
+                           <li><a class="support" href="/support-faq"><i class="fa fa-comments pg-icons"></i> SSS (Sıkca Sorulan Sorular) <i class="pg-icons material-icons right arrow">keyboard_arrow_right</i></a></li>
                         </ul>
                      </div>
                   </div>
