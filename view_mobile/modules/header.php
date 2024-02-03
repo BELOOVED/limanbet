@@ -275,7 +275,7 @@
          grid-row: 2;
          align-self: center;
          justify-self: center;
-         background: url('/gereksiz//headerbg.de9a3d998ee4c0ff031d.png') !important;
+         background: url('/headerbg.de9a3d998ee4c0ff031d.png') !important;
          box-shadow: 1px 1px 20px #333 !important;
          border-radius: 20px !important;
          color: #fff !important;

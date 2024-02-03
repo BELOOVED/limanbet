@@ -1,6 +1,6 @@
 <?php
 if ($detect->isMobile()) {?>
-<main>
+<main  onclick="loginorp1ay()">
    <router-outlet></router-outlet>
    <static-content class="ng-star-inserted">
       <!---->
