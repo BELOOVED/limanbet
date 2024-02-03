@@ -7702,7 +7702,6 @@ body.page-today-events div.tdy-evnts .modul-accordion .modul-header i.country {
   left: 0;
   z-index: 5;
   border-radius: 10px;
-  height: 100%;
 }
 .game-card .card-image img.game-img.loading {
   position: relative;
@@ -20458,7 +20457,6 @@ header .register-btn-head {
 .game-card .card-image img.game-img {
   border-radius: 0 0px 0 0;
   position: absolute;
-  height: 100% !important;
 }
 .game-card .card-image img.game-img.loading {
   border-radius: 0 0px 0 0;
