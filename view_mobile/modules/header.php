@@ -678,7 +678,14 @@
                   <div class="bottom-fixed-controls">
                      <div class="bottom-fixed-wrapper flex-container">
                         <a href="/livesports" routerlinkactive="active" class="flex-item truncate"><i class="material-icons foot-icon">ondemand_video</i><span class="text"> Canlı Bahis </span></a><a routerlinkactive="active" class="flex-item truncate" href="/livecasino"><i class="icon cards-fill foot-icon"></i><span class="text"> Canlı Casino </span></a><!---->
-                        <a id="bslpb" href="javascript:;" class="button-collapse right-sidebar coupon">
+                        <a id="bslpb" 
+                        <?php if(isset($us['id'])) {?>
+                        href="/deposit"
+                        <?php }else{?>
+                           href="/login"
+                        
+                           <?php }?>
+                           class="button-collapse right-sidebar coupon">
                            <i aria-hidden="true" class="fa fa-plus"></i>
                            <span class="count-wrapper">
                               <!---->
