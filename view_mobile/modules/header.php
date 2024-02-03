@@ -677,14 +677,14 @@
                <app-bottom-menu>
                   <div class="bottom-fixed-controls">
                      <div class="bottom-fixed-wrapper flex-container">
-                        <a href="/tr/bet/live" routerlinkactive="active" class="flex-item truncate"><i class="material-icons foot-icon">ondemand_video</i><span class="text"> Canlı Bahis </span></a><a routerlinkactive="active" class="flex-item truncate" href="/tr/games/livecasino"><i class="icon cards-fill foot-icon"></i><span class="text"> Canlı Casino </span></a><!---->
+                        <a href="/livesports" routerlinkactive="active" class="flex-item truncate"><i class="material-icons foot-icon">ondemand_video</i><span class="text"> Canlı Bahis </span></a><a routerlinkactive="active" class="flex-item truncate" href="/livecasino"><i class="icon cards-fill foot-icon"></i><span class="text"> Canlı Casino </span></a><!---->
                         <a id="bslpb" href="javascript:;" class="button-collapse right-sidebar coupon">
                            <i aria-hidden="true" class="fa fa-plus"></i>
                            <span class="count-wrapper">
                               <!---->
                            </span>
                         </a>
-                        <!----><a routerlinkactive="active" class="flex-item truncate" href="/tr/games/casino"><i class="icon cherry foot-icon"></i><span class="text"> Casino </span></a><!----><a target="_blank" class="flex-item truncate" href="https://lc.chat/now/8806331"><i class="material-icons foot-icon">mode_comment</i><span class="text"> Destek </span></a><!---->
+                        <!----><a routerlinkactive="active" class="flex-item truncate" href="/casino"><i class="icon cherry foot-icon"></i><span class="text"> Casino </span></a><!----><a class="flex-item truncate" href="javascript:;" onclick="maximizeTawkToWidget()"><i class="material-icons foot-icon">mode_comment</i><span class="text"> Destek </span></a><!---->
                      </div>
                   </div>
                   <div id="BalanceModal" materialize="modal" class="modal modal-md" style="z-index: 1041;">
