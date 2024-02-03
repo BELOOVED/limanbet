@@ -10,7 +10,7 @@ if ($detect->isMobile()) {?>
                <div class="breadcrumb-wrapper flex-container">
                   <div class="breadcrumbs-cont flex-container flex-item">
                      <history-back-button><a class="breadcrumb"><i></i></a></history-back-button>
-                     <a href="/tr/bet/sports" class="breadcrumb">Sporlar </a><!----><!----><!---->
+                     <a  class="breadcrumb">Sporlar </a><!----><!----><!---->
                   </div>
                   <!---->
                   <div class="filter-toggle"><a href="javascript:;" class="filter-toggle-btn"><i class="fa fa-filter"></i></a></div>
@@ -27,7 +27,7 @@ if ($detect->isMobile()) {?>
                   <div accordion="" class="modul-accordion sports">
                      <div class="modul-content">
                         <div class="list-btn-cont">
-                           <a href="/tr/bet/sports/football" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text truncate">Futbol</span><span class="count">1388</span></a><!----><!----><a href="/tr/bet/sports/e-football" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text truncate">e-Futbol</span><span class="count">12</span></a><!----><!----><a href="/tr/bet/sports/basketball" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text truncate">Basketbol</span><span class="count">428</span></a><!----><!----><a href="/tr/bet/sports/ice-hockey" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text truncate">Buz Hokeyi</span><span class="count">224</span></a><!----><!----><a href="/tr/bet/sports/tennis" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text truncate">Tenis</span><span class="count">203</span></a><!----><!----><a href="/tr/bet/sports/volleyball" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text truncate">Voleybol</span><span class="count">98</span></a><!----><!----><a href="/tr/bet/sports/snooker" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text truncate">Snooker</span><span class="count">9</span></a><!----><!----><a href="/tr/bet/sports/american-football" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-16 svg-font-icons"></i><span class="flex-item text truncate">Amerikan Futbolu</span><span class="count">85</span></a><!----><!----><a href="/tr/bet/sports/handball" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text truncate">Hentbol</span><span class="count">116</span></a><!----><!----><a href="/tr/bet/sports/baseball" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text truncate">Beyzbol</span><span class="count">97</span></a><!----><!----><a href="/tr/bet/sports/aussie-rules" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-13 svg-font-icons"></i><span class="flex-item text truncate">Avustralya Futbolu</span><span class="count">24</span></a><!----><!----><a href="/tr/bet/sports/futsal" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-29 svg-font-icons"></i><span class="flex-item text truncate">Salon Futbolu</span><span class="count">1</span></a><!----><!----><a href="/tr/bet/sports/golf" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-9 svg-font-icons"></i><span class="flex-item text truncate">Golf</span><span class="count">109</span></a><!----><!----><a href="/tr/bet/sports/rugby" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-12 svg-font-icons"></i><span class="flex-item text truncate">Ragbi</span><span class="count">132</span></a><!----><!----><a href="/tr/bet/sports/dart" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text truncate">Dart</span><span class="count">46</span></a><!----><!----><a href="/tr/bet/sports/table-tennis" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text truncate">Masa Tenisi</span><span class="count">216</span></a><!----><!----><a href="/tr/bet/sports/cricket" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text truncate">Kriket</span><span class="count">19</span></a><!----><!----><a href="/tr/bet/sports/badminton" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-31 svg-font-icons"></i><span class="flex-item text truncate">Badminton</span><span class="count">40</span></a><!----><!----><a href="/tr/bet/sports/cycling" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-17 svg-font-icons"></i><span class="flex-item text truncate">Bisiklet</span><span class="count">5</span></a><!----><!----><a href="/tr/bet/sports/boxing" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-10 svg-font-icons"></i><span class="flex-item text truncate">Boks</span><span class="count">84</span></a><!----><!----><a href="/tr/bet/sports/mma" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-117 svg-font-icons"></i><span class="flex-item text truncate">MMA</span><span class="count">70</span></a><!----><!----><a href="/tr/bet/sports/biathlon" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-44 svg-font-icons"></i><span class="flex-item text truncate">Biatlon</span><span class="count">15</span></a><!----><!----><a href="/tr/bet/sports/bandy" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-15 svg-font-icons"></i><span class="flex-item text truncate">Bandy</span><span class="count">4</span></a><!----><!----><a href="/tr/bet/sports/olympics" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-30 svg-font-icons"></i><span class="flex-item text truncate">Olimpiyat Oyunları</span><span class="count">1</span></a><!----><!----><a href="/tr/bet/sports/gaelic-football" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-135 svg-font-icons"></i><span class="flex-item text truncate">Gal Futbolu</span><span class="count">5</span></a><!----><!----><a href="/tr/bet/sports/gaelic-hurling" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-136 svg-font-icons"></i><span class="flex-item text truncate">Hurling</span><span class="count">1</span></a><!----><!----><a href="/tr/bet/sports/speedway" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-131 svg-font-icons"></i><span class="flex-item text truncate">Speedway</span><span class="count">1</span></a><!----><!----><a href="/tr/bet/sports/specials" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-18 svg-font-icons"></i><span class="flex-item text truncate">Özel Bahisler</span><span class="count">36</span></a><!----><!----><a href="/tr/bet/sports/floorball" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-7 svg-font-icons"></i><span class="flex-item text truncate">Floorball</span><span class="count">2</span></a><!----><!----><a href="/tr/bet/sports/waterpolo" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-26 svg-font-icons"></i><span class="flex-item text truncate">Sutopu</span><span class="count">22</span></a><!----><!----><a href="/tr/bet/sports/stock-car-racing" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-191 svg-font-icons"></i><span class="flex-item text truncate">Stok Araba Yarışı</span><span class="count">59</span></a><!----><!----><a href="/tr/bet/sports/indy-racing" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-129 svg-font-icons"></i><span class="flex-item text truncate">Indy Yarışı</span><span class="count">9</span></a><!----><!----><a href="/tr/bet/sports/ski-jumping" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-48 svg-font-icons"></i><span class="flex-item text truncate">Kayakla Atlama</span><span class="count">2</span></a><!----><!----><a href="/tr/bet/sports/cross-country" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-46 svg-font-icons"></i><span class="flex-item text truncate">Kros Kayak</span><span class="count">2</span></a><!----><!----><a href="/tr/bet/sports/squash" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-37 svg-font-icons"></i><span class="flex-item text truncate">Squash</span><span class="count">15</span></a><!----><!----><a href="/tr/bet/sports/alpine-skiing" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-43 svg-font-icons"></i><span class="flex-item text truncate">Alp Disiplini</span><span class="count">2</span></a><!----><!----><a href="/tr/bet/sports/formula-1" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-40 svg-font-icons"></i><span class="flex-item text truncate">Formula 1</span><span class="count">48</span></a><!----><!----><a href="/tr/bet/sports/formula-e" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-142 svg-font-icons"></i><span class="flex-item text truncate">Formula E</span><span class="count">2</span></a><!----><!----><a href="/tr/bet/sports/lacrosse" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-39 svg-font-icons"></i><span class="flex-item text truncate">Lakros</span><span class="count">2</span></a><!----><!----><a href="/tr/bet/sports/motorcycle-racing" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-190 svg-font-icons"></i><span class="flex-item text truncate">Motorsiklet Yarışı</span><span class="count">1</span></a><!----><!----><!---->
+                           <a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text truncate">Futbol</span><span class="count">1388</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text truncate">e-Futbol</span><span class="count">12</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text truncate">Basketbol</span><span class="count">428</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text truncate">Buz Hokeyi</span><span class="count">224</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text truncate">Tenis</span><span class="count">203</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text truncate">Voleybol</span><span class="count">98</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text truncate">Snooker</span><span class="count">9</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-16 svg-font-icons"></i><span class="flex-item text truncate">Amerikan Futbolu</span><span class="count">85</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text truncate">Hentbol</span><span class="count">116</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text truncate">Beyzbol</span><span class="count">97</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-13 svg-font-icons"></i><span class="flex-item text truncate">Avustralya Futbolu</span><span class="count">24</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-29 svg-font-icons"></i><span class="flex-item text truncate">Salon Futbolu</span><span class="count">1</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-9 svg-font-icons"></i><span class="flex-item text truncate">Golf</span><span class="count">109</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-12 svg-font-icons"></i><span class="flex-item text truncate">Ragbi</span><span class="count">132</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text truncate">Dart</span><span class="count">46</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text truncate">Masa Tenisi</span><span class="count">216</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text truncate">Kriket</span><span class="count">19</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-31 svg-font-icons"></i><span class="flex-item text truncate">Badminton</span><span class="count">40</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-17 svg-font-icons"></i><span class="flex-item text truncate">Bisiklet</span><span class="count">5</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-10 svg-font-icons"></i><span class="flex-item text truncate">Boks</span><span class="count">84</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-117 svg-font-icons"></i><span class="flex-item text truncate">MMA</span><span class="count">70</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-44 svg-font-icons"></i><span class="flex-item text truncate">Biatlon</span><span class="count">15</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-15 svg-font-icons"></i><span class="flex-item text truncate">Bandy</span><span class="count">4</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-30 svg-font-icons"></i><span class="flex-item text truncate">Olimpiyat Oyunları</span><span class="count">1</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-135 svg-font-icons"></i><span class="flex-item text truncate">Gal Futbolu</span><span class="count">5</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-136 svg-font-icons"></i><span class="flex-item text truncate">Hurling</span><span class="count">1</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-131 svg-font-icons"></i><span class="flex-item text truncate">Speedway</span><span class="count">1</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-18 svg-font-icons"></i><span class="flex-item text truncate">Özel Bahisler</span><span class="count">36</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-7 svg-font-icons"></i><span class="flex-item text truncate">Floorball</span><span class="count">2</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-26 svg-font-icons"></i><span class="flex-item text truncate">Sutopu</span><span class="count">22</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-191 svg-font-icons"></i><span class="flex-item text truncate">Stok Araba Yarışı</span><span class="count">59</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-129 svg-font-icons"></i><span class="flex-item text truncate">Indy Yarışı</span><span class="count">9</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-48 svg-font-icons"></i><span class="flex-item text truncate">Kayakla Atlama</span><span class="count">2</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-46 svg-font-icons"></i><span class="flex-item text truncate">Kros Kayak</span><span class="count">2</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-37 svg-font-icons"></i><span class="flex-item text truncate">Squash</span><span class="count">15</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-43 svg-font-icons"></i><span class="flex-item text truncate">Alp Disiplini</span><span class="count">2</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-40 svg-font-icons"></i><span class="flex-item text truncate">Formula 1</span><span class="count">48</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-142 svg-font-icons"></i><span class="flex-item text truncate">Formula E</span><span class="count">2</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-39 svg-font-icons"></i><span class="flex-item text truncate">Lakros</span><span class="count">2</span></a><!----><!----><a  class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-190 svg-font-icons"></i><span class="flex-item text truncate">Motorsiklet Yarışı</span><span class="count">1</span></a><!----><!----><!---->
                         </div>
                      </div>
                   </div>
@@ -194,19 +194,19 @@ if ($detect->isMobile()) {?>
                      <div class="modul-content">
                         <div class="sport lsb-bm">
                            <ul class="m1">
-                              <li class="ng-star-inserted"><a class="flex-container" title="Süper Lig" href="/tr/bet/fixture-detail/football/turkiye/super-lig-23-24"><i class="country icon-32xTUR"></i><span class="text flex-item">Süper Lig</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="d4529748-8c8e-7416-4698-66148d827312"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="UEFA Şampiyonlar Ligi" href="/tr/bet/fixture-detail/football/international-clubs/uefa-champions-league-23-24"><i class="country icon-32xWRLD"></i><span class="text flex-item">UEFA Şampiyonlar Ligi</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="b380d62a-7f4b-0f7e-ed88-be19fdab7bd6"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="UEFA Avrupa Ligi" href="/tr/bet/fixture-detail/football/international-clubs/uefa-europa-league-23-24"><i class="country icon-32xWRLD"></i><span class="text flex-item">UEFA Avrupa Ligi</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="13d8975c-6602-2f0b-fdd5-b4955d4dba95"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="UEFA Avrupa Konferans Ligi" href="/tr/bet/fixture-detail/football/international-clubs/uefa-europa-conference-league-23-24"><i class="country icon-32xWRLD"></i><span class="text flex-item">UEFA Avrupa Konferans Ligi</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="d0cce30e-2986-d2f8-0d89-97e270bab75e"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="Premier Lig" href="/tr/bet/fixture-detail/football/england/premier-league-23-24"><i class="country icon-32xENG"></i><span class="text flex-item">Premier Lig</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="ebc011cc-7bb9-d68b-fcc1-7d2555d2f4e7"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="LaLiga" href="/tr/bet/fixture-detail/football/spain/laliga-23-24"><i class="country icon-32xESP"></i><span class="text flex-item">LaLiga</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="33d77899-8207-475e-785c-5bb4cc479940"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="Bundesliga" href="/tr/bet/fixture-detail/football/germany/bundesliga-23-24"><i class="country icon-32xDEU"></i><span class="text flex-item">Bundesliga</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="90b448c6-b255-7034-d205-643b039e49e6"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="Serie A" href="/tr/bet/fixture-detail/football/italy/serie-a-23-24"><i class="country icon-32xITA"></i><span class="text flex-item">Serie A</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="25e6229b-f0c7-9343-cb0f-9eb0fdc29086"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="Lig 1" href="/tr/bet/fixture-detail/football/france/ligue-1-23-24"><i class="country icon-32xFRA"></i><span class="text flex-item">Lig 1</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="b839a83c-39a8-6e6d-2771-60ba655c7552"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="Eredivisie" href="/tr/bet/fixture-detail/football/netherlands/eredivisie-23-24"><i class="country icon-32xNLD"></i><span class="text flex-item">Eredivisie</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="e830a9fa-5d8b-cb19-2026-fa6e64b727ce"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="Primeira Lig" href="/tr/bet/fixture-detail/football/portugal/liga-portugal-23-24"><i class="country icon-32xPRT"></i><span class="text flex-item">Primeira Lig</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="a73676b6-f634-b856-09d0-bc8fe856b533"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="NBA" href="/tr/bet/fixture-detail/basketball/usa/nba-23-24"><i class="country icon-32xUSA"></i><span class="text flex-item">NBA</span><i materialize="tooltip" class="pg-icons sport-types-2 st-font-icons" data-tooltip="Basketbol" data-tooltip-id="3d31888a-7a20-417a-f673-ad293a4faecd"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" title="Euroleague" href="/tr/bet/fixture-detail/basketball/international/euroleague-23-24"><i class="country icon-32xWRLD"></i><span class="text flex-item">Euroleague</span><i materialize="tooltip" class="pg-icons sport-types-2 st-font-icons" data-tooltip="Basketbol" data-tooltip-id="aa8c250c-3716-b4ad-30c5-8029f3cd6b07"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Süper Lig" ><i class="country icon-32xTUR"></i><span class="text flex-item">Süper Lig</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="d4529748-8c8e-7416-4698-66148d827312"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="UEFA Şampiyonlar Ligi" ><i class="country icon-32xWRLD"></i><span class="text flex-item">UEFA Şampiyonlar Ligi</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="b380d62a-7f4b-0f7e-ed88-be19fdab7bd6"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="UEFA Avrupa Ligi" ><i class="country icon-32xWRLD"></i><span class="text flex-item">UEFA Avrupa Ligi</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="13d8975c-6602-2f0b-fdd5-b4955d4dba95"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="UEFA Avrupa Konferans Ligi" ><i class="country icon-32xWRLD"></i><span class="text flex-item">UEFA Avrupa Konferans Ligi</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="d0cce30e-2986-d2f8-0d89-97e270bab75e"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Premier Lig" ><i class="country icon-32xENG"></i><span class="text flex-item">Premier Lig</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="ebc011cc-7bb9-d68b-fcc1-7d2555d2f4e7"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="LaLiga" ><i class="country icon-32xESP"></i><span class="text flex-item">LaLiga</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="33d77899-8207-475e-785c-5bb4cc479940"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Bundesliga" ><i class="country icon-32xDEU"></i><span class="text flex-item">Bundesliga</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="90b448c6-b255-7034-d205-643b039e49e6"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Serie A" ><i class="country icon-32xITA"></i><span class="text flex-item">Serie A</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="25e6229b-f0c7-9343-cb0f-9eb0fdc29086"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Lig 1" ><i class="country icon-32xFRA"></i><span class="text flex-item">Lig 1</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="b839a83c-39a8-6e6d-2771-60ba655c7552"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Eredivisie" ><i class="country icon-32xNLD"></i><span class="text flex-item">Eredivisie</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="e830a9fa-5d8b-cb19-2026-fa6e64b727ce"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Primeira Lig" ><i class="country icon-32xPRT"></i><span class="text flex-item">Primeira Lig</span><i materialize="tooltip" class="pg-icons sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="a73676b6-f634-b856-09d0-bc8fe856b533"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="NBA" ><i class="country icon-32xUSA"></i><span class="text flex-item">NBA</span><i materialize="tooltip" class="pg-icons sport-types-2 st-font-icons" data-tooltip="Basketbol" data-tooltip-id="3d31888a-7a20-417a-f673-ad293a4faecd"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" title="Euroleague" ><i class="country icon-32xWRLD"></i><span class="text flex-item">Euroleague</span><i materialize="tooltip" class="pg-icons sport-types-2 st-font-icons" data-tooltip="Basketbol" data-tooltip-id="aa8c250c-3716-b4ad-30c5-8029f3cd6b07"></i></a></li>
                               <!---->
                            </ul>
                         </div>
@@ -234,25 +234,25 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Uluslararası"><i class="country icon-32xWRLD"></i><span class="text flex-item">Uluslararası</span><span class="count">96</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Kupası 2026" href="/tr/bet/football/international/world-cup-2026"><span class="text flex-item">Dünya Kupası 2026</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Kupası 2026" ><span class="text flex-item">Dünya Kupası 2026</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Şampiyonası 2024" href="/tr/bet/football/international/uefa-euro-2024"><span class="text flex-item">Avrupa Şampiyonası 2024</span><span class="count">38</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Şampiyonası 2024" ><span class="text flex-item">Avrupa Şampiyonası 2024</span><span class="count">38</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ballon Dor 2024" href="/tr/bet/football/international/ballon-dor-2024"><span class="text flex-item">Ballon Dor 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ballon Dor 2024" ><span class="text flex-item">Ballon Dor 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Copa America 2024" href="/tr/bet/football/international/copa-america-2024"><span class="text flex-item">Copa America 2024</span><span class="count">25</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Copa America 2024" ><span class="text flex-item">Copa America 2024</span><span class="count">25</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Şampiyonası Elemeleri 2024" href="/tr/bet/football/international/uefa-euro-2024-qualification"><span class="text flex-item">Avrupa Şampiyonası Elemeleri 2024</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Şampiyonası Elemeleri 2024" ><span class="text flex-item">Avrupa Şampiyonası Elemeleri 2024</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Uluslararası Hazırlık Maçları 2024" href="/tr/bet/football/international/int-friendly-games-2024"><span class="text flex-item">Uluslararası Hazırlık Maçları 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Uluslararası Hazırlık Maçları 2024" ><span class="text flex-item">Uluslararası Hazırlık Maçları 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Kupası Elemeler,CONMEBOL 2025" href="/tr/bet/football/international/wc-qual-conmebol-2025"><span class="text flex-item">Dünya Kupası Elemeler,CONMEBOL 2025</span><span class="count">12</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Kupası Elemeler,CONMEBOL 2025" ><span class="text flex-item">Dünya Kupası Elemeler,CONMEBOL 2025</span><span class="count">12</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CONCACAF Uluslar Ligi 23/24" href="/tr/bet/football/international/concacaf-nations-league-23-24"><span class="text flex-item">CONCACAF Uluslar Ligi 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CONCACAF Uluslar Ligi 23/24" ><span class="text flex-item">CONCACAF Uluslar Ligi 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Afrika Uluslar Kupası" href="/tr/bet/football/international/africa-cup-of-nations-2023"><span class="text flex-item">Afrika Uluslar Kupası</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Afrika Uluslar Kupası" ><span class="text flex-item">Afrika Uluslar Kupası</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="AFC Asya Kupası" href="/tr/bet/football/international/afc-asian-cup-2023"><span class="text flex-item">AFC Asya Kupası</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="AFC Asya Kupası" ><span class="text flex-item">AFC Asya Kupası</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -260,11 +260,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Türkiye"><i class="country icon-32xTUR"></i><span class="text flex-item">Türkiye</span><span class="count">28</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 23/24" href="/tr/bet/football/turkiye/super-lig-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 23/24" ><span class="text flex-item">Süper Lig 23/24</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" href="/tr/bet/football/turkiye/1-lig-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" ><span class="text flex-item">1. Lig 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Türkiye Kupası 23/24" href="/tr/bet/football/turkiye/turkiye-kupasi-23-24"><span class="text flex-item">Türkiye Kupası 23/24</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Türkiye Kupası 23/24" ><span class="text flex-item">Türkiye Kupası 23/24</span><span class="count">8</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -272,19 +272,19 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İngiltere"><i class="country icon-32xENG"></i><span class="text flex-item">İngiltere</span><span class="count">92</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig 23/24" href="/tr/bet/football/england/premier-league-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count">19</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig 23/24" ><span class="text flex-item">Premier Lig 23/24</span><span class="count">19</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyona 23/24" href="/tr/bet/football/england/championship-23-24"><span class="text flex-item">Şampiyona 23/24</span><span class="count">22</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyona 23/24" ><span class="text flex-item">Şampiyona 23/24</span><span class="count">22</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 1 23/24" href="/tr/bet/football/england/league-one-23-24"><span class="text flex-item">Lig 1 23/24</span><span class="count">19</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 1 23/24" ><span class="text flex-item">Lig 1 23/24</span><span class="count">19</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 2 23/24" href="/tr/bet/football/england/league-two-23-24"><span class="text flex-item">Lig 2 23/24</span><span class="count">19</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 2 23/24" ><span class="text flex-item">Lig 2 23/24</span><span class="count">19</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Federasyon Kupası 23/24" href="/tr/bet/football/england/fa-cup-23-24"><span class="text flex-item">Federasyon Kupası 23/24</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Federasyon Kupası 23/24" ><span class="text flex-item">Federasyon Kupası 23/24</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="İngiltere Lig Kupası 23/24" href="/tr/bet/football/england/efl-cup-23-24"><span class="text flex-item">İngiltere Lig Kupası 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="İngiltere Lig Kupası 23/24" ><span class="text flex-item">İngiltere Lig Kupası 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Football League Trophy 23/24" href="/tr/bet/football/england/efl-trophy-23-24"><span class="text flex-item">Football League Trophy 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Football League Trophy 23/24" ><span class="text flex-item">Football League Trophy 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -292,17 +292,17 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İspanya"><i class="country icon-32xESP"></i><span class="text flex-item">İspanya</span><span class="count">89</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="LaLiga 23/24" href="/tr/bet/football/spain/laliga-23-24"><span class="text flex-item">LaLiga 23/24</span><span class="count">28</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="LaLiga 23/24" ><span class="text flex-item">LaLiga 23/24</span><span class="count">28</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Copa del Rey 23/24" href="/tr/bet/football/spain/copa-del-rey-23-24"><span class="text flex-item">Copa del Rey 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Copa del Rey 23/24" ><span class="text flex-item">Copa del Rey 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="LaLiga 2 23/24" href="/tr/bet/football/spain/laliga-2-23-24"><span class="text flex-item">LaLiga 2 23/24</span><span class="count">12</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="LaLiga 2 23/24" ><span class="text flex-item">LaLiga 2 23/24</span><span class="count">12</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Segunda Federacion 23/24" href="/tr/bet/football/spain/segunda-federacion-23-24"><span class="text flex-item">Segunda Federacion 23/24</span><span class="count">20</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Segunda Federacion 23/24" ><span class="text flex-item">Segunda Federacion 23/24</span><span class="count">20</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig, Bayanlar 23/24" href="/tr/bet/football/spain/primera-division-women-23-24"><span class="text flex-item">Premier Lig, Bayanlar 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig, Bayanlar 23/24" ><span class="text flex-item">Premier Lig, Bayanlar 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Primera Federacion 23/24" href="/tr/bet/football/spain/primera-federacion-23-24"><span class="text flex-item">Primera Federacion 23/24</span><span class="count">19</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Primera Federacion 23/24" ><span class="text flex-item">Primera Federacion 23/24</span><span class="count">19</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -310,15 +310,15 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Almanya"><i class="country icon-32xDEU"></i><span class="text flex-item">Almanya</span><span class="count">53</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga 23/24" href="/tr/bet/football/germany/bundesliga-23-24"><span class="text flex-item">Bundesliga 23/24</span><span class="count">25</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga 23/24" ><span class="text flex-item">Bundesliga 23/24</span><span class="count">25</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="2. Bundesliga 23/24" href="/tr/bet/football/germany/2-bundesliga-23-24"><span class="text flex-item">2. Bundesliga 23/24</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="2. Bundesliga 23/24" ><span class="text flex-item">2. Bundesliga 23/24</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="3. Lig 23/24" href="/tr/bet/football/germany/3-liga-23-24"><span class="text flex-item">3. Lig 23/24</span><span class="count">12</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="3. Lig 23/24" ><span class="text flex-item">3. Lig 23/24</span><span class="count">12</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="DFB Pokal 23/24" href="/tr/bet/football/germany/dfb-pokal-23-24"><span class="text flex-item">DFB Pokal 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="DFB Pokal 23/24" ><span class="text flex-item">DFB Pokal 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!---->
-                                          <li class="ng-star-inserted"><a title="Virtual Football Bundesliga" class="flex-container league" href="/tr/bet/virtuals/betradar/bundesliga"><span class="text flex-item">Sanal Bundesliga</span></a></li>
+                                          <li class="ng-star-inserted"><a title="Virtual Football Bundesliga" class="flex-container league" ><span class="text flex-item">Sanal Bundesliga</span></a></li>
                                           <!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -326,15 +326,15 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Fransa"><i class="country icon-32xFRA"></i><span class="text flex-item">Fransa</span><span class="count">55</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ligue 1 23/24" href="/tr/bet/football/france/ligue-1-23-24"><span class="text flex-item">Ligue 1 23/24</span><span class="count">24</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ligue 1 23/24" ><span class="text flex-item">Ligue 1 23/24</span><span class="count">24</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ligue 2 23/24" href="/tr/bet/football/france/ligue-2-23-24"><span class="text flex-item">Ligue 2 23/24</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ligue 2 23/24" ><span class="text flex-item">Ligue 2 23/24</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Coupe de France 23/24" href="/tr/bet/football/france/coupe-de-france-23-24"><span class="text flex-item">Coupe de France 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Coupe de France 23/24" ><span class="text flex-item">Coupe de France 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ulusal 23/24" href="/tr/bet/football/france/national-23-24"><span class="text flex-item">Ulusal 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ulusal 23/24" ><span class="text flex-item">Ulusal 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 1,  Bayanlar 23/24" href="/tr/bet/football/france/division-1-women-23-24"><span class="text flex-item">Lig 1,  Bayanlar 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 1,  Bayanlar 23/24" ><span class="text flex-item">Lig 1,  Bayanlar 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -342,23 +342,23 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İtalya"><i class="country icon-32xITA"></i><span class="text flex-item">İtalya</span><span class="count">84</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie A 23/24" href="/tr/bet/football/italy/serie-a-23-24"><span class="text flex-item">Serie A 23/24</span><span class="count">25</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie A 23/24" ><span class="text flex-item">Serie A 23/24</span><span class="count">25</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie B 23/24" href="/tr/bet/football/italy/serie-b-23-24"><span class="text flex-item">Serie B 23/24</span><span class="count">12</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie B 23/24" ><span class="text flex-item">Serie B 23/24</span><span class="count">12</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Coppa Italia 23/24" href="/tr/bet/football/italy/coppa-italia-23-24"><span class="text flex-item">Coppa Italia 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Coppa Italia 23/24" ><span class="text flex-item">Coppa Italia 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie C, Grup A 23/24" href="/tr/bet/football/italy/serie-c-group-a-23-24"><span class="text flex-item">Serie C, Grup A 23/24</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie C, Grup A 23/24" ><span class="text flex-item">Serie C, Grup A 23/24</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie C, Grup B 23/24" href="/tr/bet/football/italy/serie-c-group-b-23-24"><span class="text flex-item">Serie C, Grup B 23/24</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie C, Grup B 23/24" ><span class="text flex-item">Serie C, Grup B 23/24</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie C, Grup C 23/24" href="/tr/bet/football/italy/serie-c-group-c-23-24"><span class="text flex-item">Serie C, Grup C 23/24</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie C, Grup C 23/24" ><span class="text flex-item">Serie C, Grup C 23/24</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie D,A Grubu 23/24" href="/tr/bet/football/italy/serie-d-girone-a-23-24"><span class="text flex-item">Serie D,A Grubu 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie D,A Grubu 23/24" ><span class="text flex-item">Serie D,A Grubu 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie D,B Grubu 23/24" href="/tr/bet/football/italy/serie-d-girone-b-23-24"><span class="text flex-item">Serie D,B Grubu 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie D,B Grubu 23/24" ><span class="text flex-item">Serie D,B Grubu 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie D,I Grubu 23/24" href="/tr/bet/football/italy/serie-d-girone-i-23-24"><span class="text flex-item">Serie D,I Grubu 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie D,I Grubu 23/24" ><span class="text flex-item">Serie D,I Grubu 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -366,13 +366,13 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Portekiz"><i class="country icon-32xPRT"></i><span class="text flex-item">Portekiz</span><span class="count">27</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Portugal 23/24" href="/tr/bet/football/portugal/liga-portugal-23-24"><span class="text flex-item">Liga Portugal 23/24</span><span class="count">12</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Portugal 23/24" ><span class="text flex-item">Liga Portugal 23/24</span><span class="count">12</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Taca de Portugal 23/24" href="/tr/bet/football/portugal/taca-de-portugal-23-24"><span class="text flex-item">Taca de Portugal 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Taca de Portugal 23/24" ><span class="text flex-item">Taca de Portugal 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="İkinci Lig 23/24" href="/tr/bet/football/portugal/liga-portugal-2-23-24"><span class="text flex-item">İkinci Lig 23/24</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="İkinci Lig 23/24" ><span class="text flex-item">İkinci Lig 23/24</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="U23 Şampiyonası 23/24" href="/tr/bet/football/portugal/u23-liga-revelacao-23-24"><span class="text flex-item">U23 Şampiyonası 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="U23 Şampiyonası 23/24" ><span class="text flex-item">U23 Şampiyonası 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -380,23 +380,23 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Uluslararası Kulüpler"><i class="country icon-32xWRLD"></i><span class="text flex-item">Uluslararası Kulüpler</span><span class="count">127</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Şampiyonlar Ligi 23/24" href="/tr/bet/football/international-clubs/uefa-champions-league-23-24"><span class="text flex-item">UEFA Şampiyonlar Ligi 23/24</span><span class="count">47</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Şampiyonlar Ligi 23/24" ><span class="text flex-item">UEFA Şampiyonlar Ligi 23/24</span><span class="count">47</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Avrupa Ligi 23/24" href="/tr/bet/football/international-clubs/uefa-europa-league-23-24"><span class="text flex-item">UEFA Avrupa Ligi 23/24</span><span class="count">25</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Avrupa Ligi 23/24" ><span class="text flex-item">UEFA Avrupa Ligi 23/24</span><span class="count">25</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Avrupa Konferans Ligi 23/24" href="/tr/bet/football/international-clubs/uefa-europa-conference-league-23-24"><span class="text flex-item">UEFA Avrupa Konferans Ligi 23/24</span><span class="count">25</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Avrupa Konferans Ligi 23/24" ><span class="text flex-item">UEFA Avrupa Konferans Ligi 23/24</span><span class="count">25</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kulüp Hazırlık Maçları 2024" href="/tr/bet/football/international-clubs/club-friendly-games-2024"><span class="text flex-item">Kulüp Hazırlık Maçları 2024</span><span class="count">15</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kulüp Hazırlık Maçları 2024" ><span class="text flex-item">Kulüp Hazırlık Maçları 2024</span><span class="count">15</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="AFC Şampiyonlar Ligi 23/24" href="/tr/bet/football/international-clubs/afc-champions-league-23-24"><span class="text flex-item">AFC Şampiyonlar Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="AFC Şampiyonlar Ligi 23/24" ><span class="text flex-item">AFC Şampiyonlar Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CAF Şampiyonlar Ligi 23/24" href="/tr/bet/football/international-clubs/caf-champions-league-23-24"><span class="text flex-item">CAF Şampiyonlar Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CAF Şampiyonlar Ligi 23/24" ><span class="text flex-item">CAF Şampiyonlar Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CAF Konfederasyon Kupası 23/24" href="/tr/bet/football/international-clubs/caf-confederations-cup-23-24"><span class="text flex-item">CAF Konfederasyon Kupası 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CAF Konfederasyon Kupası 23/24" ><span class="text flex-item">CAF Konfederasyon Kupası 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Şampiyonlar Ligi Bayanlar 23/24" href="/tr/bet/football/international-clubs/uefa-champions-league-women-23-24"><span class="text flex-item">UEFA Şampiyonlar Ligi Bayanlar 23/24</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="UEFA Şampiyonlar Ligi Bayanlar 23/24" ><span class="text flex-item">UEFA Şampiyonlar Ligi Bayanlar 23/24</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Atlantik Kupası 2024" href="/tr/bet/football/international-clubs/atlantic-cup-2024"><span class="text flex-item">Atlantik Kupası 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Atlantik Kupası 2024" ><span class="text flex-item">Atlantik Kupası 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -404,13 +404,13 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Hollanda"><i class="country icon-32xNLD"></i><span class="text flex-item">Hollanda</span><span class="count">40</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eredivisie 23/24" href="/tr/bet/football/netherlands/eredivisie-23-24"><span class="text flex-item">Eredivisie 23/24</span><span class="count">22</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eredivisie 23/24" ><span class="text flex-item">Eredivisie 23/24</span><span class="count">22</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eerste Divisie 23/24" href="/tr/bet/football/netherlands/eerste-divisie-23-24"><span class="text flex-item">Eerste Divisie 23/24</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eerste Divisie 23/24" ><span class="text flex-item">Eerste Divisie 23/24</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eredivisie,Kadınlar 23/24" href="/tr/bet/football/netherlands/eredivisie-women-23-24"><span class="text flex-item">Eredivisie,Kadınlar 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eredivisie,Kadınlar 23/24" ><span class="text flex-item">Eredivisie,Kadınlar 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="KNVB beker 23/24" href="/tr/bet/football/netherlands/knvb-beker-23-24"><span class="text flex-item">KNVB beker 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="KNVB beker 23/24" ><span class="text flex-item">KNVB beker 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -418,11 +418,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Yunanistan"><i class="country icon-32xGRC"></i><span class="text flex-item">Yunanistan</span><span class="count">30</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 1 23/24" href="/tr/bet/football/greece/super-league-23-24"><span class="text flex-item">Süper Lig 1 23/24</span><span class="count">17</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 1 23/24" ><span class="text flex-item">Süper Lig 1 23/24</span><span class="count">17</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Yunan Kupası 23/24" href="/tr/bet/football/greece/greece-cup-23-24"><span class="text flex-item">Yunan Kupası 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Yunan Kupası 23/24" ><span class="text flex-item">Yunan Kupası 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 2 23/24" href="/tr/bet/football/greece/super-league-2-23-24"><span class="text flex-item">Süper Lig 2 23/24</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 2 23/24" ><span class="text flex-item">Süper Lig 2 23/24</span><span class="count">10</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -430,11 +430,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Rusya"><i class="country icon-32xRUS"></i><span class="text flex-item">Rusya</span><span class="count">37</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig 23/24" href="/tr/bet/football/russia/premier-league-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count">32</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig 23/24" ><span class="text flex-item">Premier Lig 23/24</span><span class="count">32</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Rusya Kupası 23/24" href="/tr/bet/football/russia/russian-cup-23-24"><span class="text flex-item">Rusya Kupası 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Rusya Kupası 23/24" ><span class="text flex-item">Rusya Kupası 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ulusal Futbol Ligi 23/24" href="/tr/bet/football/russia/1-liga-23-24"><span class="text flex-item">Ulusal Futbol Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ulusal Futbol Ligi 23/24" ><span class="text flex-item">Ulusal Futbol Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -442,9 +442,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Avusturya"><i class="country icon-32xAUT"></i><span class="text flex-item">Avusturya</span><span class="count">14</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga 23/24" href="/tr/bet/football/austria/bundesliga-23-24"><span class="text flex-item">Bundesliga 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga 23/24" ><span class="text flex-item">Bundesliga 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ÖFB Stiegl Kupası 23/24" href="/tr/bet/football/austria/ofb-cup-23-24"><span class="text flex-item">ÖFB Stiegl Kupası 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ÖFB Stiegl Kupası 23/24" ><span class="text flex-item">ÖFB Stiegl Kupası 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -452,15 +452,15 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Danimarka"><i class="country icon-32xDNK"></i><span class="text flex-item">Danimarka</span><span class="count">27</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga 23/24" href="/tr/bet/football/denmark/superliga-23-24"><span class="text flex-item">Superliga 23/24</span><span class="count">16</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga 23/24" ><span class="text flex-item">Superliga 23/24</span><span class="count">16</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Danimarka Kupası 23/24" href="/tr/bet/football/denmark/dbu-pokalen-23-24"><span class="text flex-item">Danimarka Kupası 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Danimarka Kupası 23/24" ><span class="text flex-item">Danimarka Kupası 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1.Lig 23/24" href="/tr/bet/football/denmark/1-division-23-24"><span class="text flex-item">1.Lig 23/24</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1.Lig 23/24" ><span class="text flex-item">1.Lig 23/24</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="2nd Division Doğu 23/24" href="/tr/bet/football/denmark/2nd-division-23-24"><span class="text flex-item">2nd Division Doğu 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="2nd Division Doğu 23/24" ><span class="text flex-item">2nd Division Doğu 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kvindeligaen, Kadınlar 23/24" href="/tr/bet/football/denmark/kvindeligaen-women-23-24"><span class="text flex-item">Kvindeligaen, Kadınlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kvindeligaen, Kadınlar 23/24" ><span class="text flex-item">Kvindeligaen, Kadınlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -468,11 +468,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İsveç"><i class="country icon-32xSWE"></i><span class="text flex-item">İsveç</span><span class="count">20</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Allsvenskan 2024" href="/tr/bet/football/sweden/allsvenskan-2024"><span class="text flex-item">Allsvenskan 2024</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Allsvenskan 2024" ><span class="text flex-item">Allsvenskan 2024</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superettan 2024" href="/tr/bet/football/sweden/superettan-2024"><span class="text flex-item">Superettan 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superettan 2024" ><span class="text flex-item">Superettan 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="İsveç Kupası 23/24" href="/tr/bet/football/sweden/svenska-cup-23-24"><span class="text flex-item">İsveç Kupası 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="İsveç Kupası 23/24" ><span class="text flex-item">İsveç Kupası 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -486,7 +486,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Eadriatic League"><i class="country icon-32x"></i><span class="text flex-item">Eadriatic League</span><span class="count">8</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="eAdriatic League" href="/tr/bet/e-football/eadriatic-league/eadriatic-league"><span class="text flex-item">eAdriatic League</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="eAdriatic League" ><span class="text flex-item">eAdriatic League</span><span class="count">8</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -494,7 +494,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Gt Sports League"><i class="country icon-32x"></i><span class="text flex-item">Gt Sports League</span><span class="count">6</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="GT Leagues" href="/tr/bet/e-football/gt-sports-league/gt-leagues"><span class="text flex-item">GT Leagues</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="GT Leagues" ><span class="text flex-item">GT Leagues</span><span class="count">6</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -508,25 +508,25 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Uluslararası"><i class="country icon-32xWRLD"></i><span class="text flex-item">Uluslararası</span><span class="count">32</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Euroleague 23/24" href="/tr/bet/basketball/international/euroleague-23-24"><span class="text flex-item">Euroleague 23/24</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Euroleague 23/24" ><span class="text flex-item">Euroleague 23/24</span><span class="count">6</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Ligi 23/24" href="/tr/bet/basketball/international/champions-league-23-24"><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Ligi 23/24" ><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Alpe Adria Kupası 23/24" href="/tr/bet/basketball/international/alpe-adria-cup-23-24"><span class="text flex-item">Alpe Adria Kupası 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Alpe Adria Kupası 23/24" ><span class="text flex-item">Alpe Adria Kupası 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="United League 23/24" href="/tr/bet/basketball/international/united-league-23-24"><span class="text flex-item">United League 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="United League 23/24" ><span class="text flex-item">United League 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Kupası 23/24" href="/tr/bet/basketball/international/eurocup-23-24"><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Kupası 23/24" ><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Estonian-Latvian League 23/24" href="/tr/bet/basketball/international/estonian-latvian-league-23-24"><span class="text flex-item">Estonian-Latvian League 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Estonian-Latvian League 23/24" ><span class="text flex-item">Estonian-Latvian League 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Aba Liga 2 23/24" href="/tr/bet/basketball/international/aba-liga-2-23-24"><span class="text flex-item">Aba Liga 2 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Aba Liga 2 23/24" ><span class="text flex-item">Aba Liga 2 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Kupası 23/24" href="/tr/bet/basketball/international/europe-cup-23-24"><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avrupa Kupası 23/24" ><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count">6</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="European North Basketball League 23/24" href="/tr/bet/basketball/international/european-north-basketball-league-23-24"><span class="text flex-item">European North Basketball League 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="European North Basketball League 23/24" ><span class="text flex-item">European North Basketball League 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Doğu Asya Süper Ligi 23/24" href="/tr/bet/basketball/international/east-asia-super-league-23-24"><span class="text flex-item">Doğu Asya Süper Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Doğu Asya Süper Ligi 23/24" ><span class="text flex-item">Doğu Asya Süper Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -534,7 +534,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Türkiye"><i class="country icon-32xTUR"></i><span class="text flex-item">Türkiye</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 23/24" href="/tr/bet/basketball/turkiye/super-lig-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 23/24" ><span class="text flex-item">Süper Lig 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -542,23 +542,23 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="ABD"><i class="country icon-32xUSA"></i><span class="text flex-item">ABD</span><span class="count">119</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBA 23/24" href="/tr/bet/basketball/usa/nba-23-24"><span class="text flex-item">NBA 23/24</span><span class="count">54</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBA 23/24" ><span class="text flex-item">NBA 23/24</span><span class="count">54</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="WNBA 2024" href="/tr/bet/basketball/usa/wnba-2024"><span class="text flex-item">WNBA 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="WNBA 2024" ><span class="text flex-item">WNBA 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA, Normal Sezon 23/24" href="/tr/bet/basketball/usa/ncaa-regular-season-23-24"><span class="text flex-item">NCAA, Normal Sezon 23/24</span><span class="count">55</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA, Normal Sezon 23/24" ><span class="text flex-item">NCAA, Normal Sezon 23/24</span><span class="count">55</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Women, Normal Sezon 23/24" href="/tr/bet/basketball/usa/ncaa-women-regular-season-23-24"><span class="text flex-item">NCAA Women, Normal Sezon 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Women, Normal Sezon 23/24" ><span class="text flex-item">NCAA Women, Normal Sezon 23/24</span><span class="count">3</span></a></li>
                                           <!---->
-                                          <li class="ng-star-inserted"><a title="Virtual Football Bundesliga" class="flex-container league" href="/tr/bet/virtuals/betradar/basketball"><span class="text flex-item">Sanal NBA</span></a></li>
+                                          <li class="ng-star-inserted"><a title="Virtual Football Bundesliga" class="flex-container league" ><span class="text flex-item">Sanal NBA</span></a></li>
                                           <!----><!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBA Yıldızlar Maçı 2024" href="/tr/bet/basketball/usa/nba-all-star-game-2024"><span class="text flex-item">NBA Yıldızlar Maçı 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBA Yıldızlar Maçı 2024" ><span class="text flex-item">NBA Yıldızlar Maçı 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Division I Ulusal Şampiyonası 2024" href="/tr/bet/basketball/usa/ncaa-division-i-national-championship-2024"><span class="text flex-item">NCAA Division I Ulusal Şampiyonası 2024</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Division I Ulusal Şampiyonası 2024" ><span class="text flex-item">NCAA Division I Ulusal Şampiyonası 2024</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Division I Ulusal Şampiyonası, Kadınlar 23/24" href="/tr/bet/basketball/usa/ncaa-division-i-national-championship-women-23-24"><span class="text flex-item">NCAA Division I Ulusal Şampiyonası, Kadınlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Division I Ulusal Şampiyonası, Kadınlar 23/24" ><span class="text flex-item">NCAA Division I Ulusal Şampiyonası, Kadınlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBA Draftı 2024" href="/tr/bet/basketball/usa/nba-draft-2024"><span class="text flex-item">NBA Draftı 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBA Draftı 2024" ><span class="text flex-item">NBA Draftı 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -566,7 +566,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İspanya"><i class="country icon-32xESP"></i><span class="text flex-item">İspanya</span><span class="count">10</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga ACB 23/24" href="/tr/bet/basketball/spain/liga-acb-23-24"><span class="text flex-item">Liga ACB 23/24</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga ACB 23/24" ><span class="text flex-item">Liga ACB 23/24</span><span class="count">10</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -574,9 +574,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Almanya"><i class="country icon-32xDEU"></i><span class="text flex-item">Almanya</span><span class="count">2</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="BBL 23/24" href="/tr/bet/basketball/germany/bbl-23-24"><span class="text flex-item">BBL 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="BBL 23/24" ><span class="text flex-item">BBL 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1st DBBL 23/24" href="/tr/bet/basketball/germany/1-dbbl-23-24"><span class="text flex-item">1st DBBL 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1st DBBL 23/24" ><span class="text flex-item">1st DBBL 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -584,9 +584,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Arjantin"><i class="country icon-32xARG"></i><span class="text flex-item">Arjantin</span><span class="count">8</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="LNB 23/24" href="/tr/bet/basketball/argentina/lnb-23-24"><span class="text flex-item">LNB 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="LNB 23/24" ><span class="text flex-item">LNB 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Argentina 23/24" href="/tr/bet/basketball/argentina/liga-argentina-23-24"><span class="text flex-item">Liga Argentina 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Argentina 23/24" ><span class="text flex-item">Liga Argentina 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -594,9 +594,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Avustralya"><i class="country icon-32xAUS"></i><span class="text flex-item">Avustralya</span><span class="count">11</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="WNBL 23/24" href="/tr/bet/basketball/australia/wnbl-23-24"><span class="text flex-item">WNBL 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="WNBL 23/24" ><span class="text flex-item">WNBL 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBL 23/24" href="/tr/bet/basketball/australia/nbl-23-24"><span class="text flex-item">NBL 23/24</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NBL 23/24" ><span class="text flex-item">NBL 23/24</span><span class="count">10</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -604,7 +604,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Brezilya"><i class="country icon-32xBRA"></i><span class="text flex-item">Brezilya</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Copa Super 8 2024" href="/tr/bet/basketball/brazil/copa-super-8-2024"><span class="text flex-item">Copa Super 8 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Copa Super 8 2024" ><span class="text flex-item">Copa Super 8 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -612,7 +612,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Çin"><i class="country icon-32xCHN"></i><span class="text flex-item">Çin</span><span class="count">5</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CBA 23/24" href="/tr/bet/basketball/china/cba-23-24"><span class="text flex-item">CBA 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CBA 23/24" ><span class="text flex-item">CBA 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -620,7 +620,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Hırvatístan"><i class="country icon-32xHRV"></i><span class="text flex-item">Hırvatístan</span><span class="count">4</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig 23/24" href="/tr/bet/basketball/croatia/premijer-liga-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Premier Lig 23/24" ><span class="text flex-item">Premier Lig 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -628,7 +628,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Çek Cumhuriyeti"><i class="country icon-32xCZE"></i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Cesky Pohar 23/24" href="/tr/bet/basketball/czech-republic/cesky-pohar-23-24"><span class="text flex-item">Cesky Pohar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Cesky Pohar 23/24" ><span class="text flex-item">Cesky Pohar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -636,7 +636,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Danimarka"><i class="country icon-32xDNK"></i><span class="text flex-item">Danimarka</span><span class="count">3</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Basketligaen 23/24" href="/tr/bet/basketball/denmark/basketligaen-23-24"><span class="text flex-item">Basketligaen 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Basketligaen 23/24" ><span class="text flex-item">Basketligaen 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -644,7 +644,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İngiltere"><i class="country icon-32xENG"></i><span class="text flex-item">İngiltere</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="BBL 23/24" href="/tr/bet/basketball/england/bbl-23-24"><span class="text flex-item">BBL 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="BBL 23/24" ><span class="text flex-item">BBL 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -652,7 +652,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Fransa"><i class="country icon-32xFRA"></i><span class="text flex-item">Fransa</span><span class="count">9</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pro A 23/24" href="/tr/bet/basketball/france/pro-a-23-24"><span class="text flex-item">Pro A 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pro A 23/24" ><span class="text flex-item">Pro A 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -660,7 +660,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Yunanistan"><i class="country icon-32xGRC"></i><span class="text flex-item">Yunanistan</span><span class="count">5</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="A1 23/24" href="/tr/bet/basketball/greece/a1-23-24"><span class="text flex-item">A1 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="A1 23/24" ><span class="text flex-item">A1 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -674,19 +674,19 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="ABD"><i class="country icon-32xUSA"></i><span class="text flex-item">ABD</span><span class="count">75</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NHL 23/24" href="/tr/bet/ice-hockey/usa/nhl-23-24"><span class="text flex-item">NHL 23/24</span><span class="count">51</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NHL 23/24" ><span class="text flex-item">NHL 23/24</span><span class="count">51</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Erkekler 23/24" href="/tr/bet/ice-hockey/usa/ncaa-regular-season-23-24"><span class="text flex-item">NCAA Erkekler 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Erkekler 23/24" ><span class="text flex-item">NCAA Erkekler 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ECHL 23/24" href="/tr/bet/ice-hockey/usa/echl-23-24"><span class="text flex-item">ECHL 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ECHL 23/24" ><span class="text flex-item">ECHL 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="AHL 23/24" href="/tr/bet/ice-hockey/usa/ahl-23-24"><span class="text flex-item">AHL 23/24</span><span class="count">16</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="AHL 23/24" ><span class="text flex-item">AHL 23/24</span><span class="count">16</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Lig I Ulusal Şampiyona 2024" href="/tr/bet/ice-hockey/usa/ncaa-division-i-national-championship-2024"><span class="text flex-item">NCAA Lig I Ulusal Şampiyona 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Lig I Ulusal Şampiyona 2024" ><span class="text flex-item">NCAA Lig I Ulusal Şampiyona 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Lig I Ulusal Şampiyona, Kadınlar 2024" href="/tr/bet/ice-hockey/usa/ncaa-division-i-national-championship-women-2024"><span class="text flex-item">NCAA Lig I Ulusal Şampiyona, Kadınlar 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Lig I Ulusal Şampiyona, Kadınlar 2024" ><span class="text flex-item">NCAA Lig I Ulusal Şampiyona, Kadınlar 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="PWHL, Women 2024" href="/tr/bet/ice-hockey/usa/pwhl-women-2024"><span class="text flex-item">PWHL, Women 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="PWHL, Women 2024" ><span class="text flex-item">PWHL, Women 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -694,11 +694,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Rusya"><i class="country icon-32xRUS"></i><span class="text flex-item">Rusya</span><span class="count">14</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="KHL 23/24" href="/tr/bet/ice-hockey/russia/khl-23-24"><span class="text flex-item">KHL 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="KHL 23/24" ><span class="text flex-item">KHL 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="MHL 23/24" href="/tr/bet/ice-hockey/russia/mhl-23-24"><span class="text flex-item">MHL 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="MHL 23/24" ><span class="text flex-item">MHL 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="VHL 23/24" href="/tr/bet/ice-hockey/russia/vhl-23-24"><span class="text flex-item">VHL 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="VHL 23/24" ><span class="text flex-item">VHL 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -706,11 +706,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Kanada"><i class="country icon-32xCAN"></i><span class="text flex-item">Kanada</span><span class="count">12</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Qmjhl 23/24" href="/tr/bet/ice-hockey/canada/quebec-major-junior-hockey-league-23-24"><span class="text flex-item">Qmjhl 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Qmjhl 23/24" ><span class="text flex-item">Qmjhl 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="WHL 23/24" href="/tr/bet/ice-hockey/canada/whl-23-24"><span class="text flex-item">WHL 23/24</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="WHL 23/24" ><span class="text flex-item">WHL 23/24</span><span class="count">6</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="OHL 23/24" href="/tr/bet/ice-hockey/canada/ohl-23-24"><span class="text flex-item">OHL 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="OHL 23/24" ><span class="text flex-item">OHL 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -718,11 +718,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Uluslararası"><i class="country icon-32xWRLD"></i><span class="text flex-item">Uluslararası</span><span class="count">3</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Şampiyonası 2024" href="/tr/bet/ice-hockey/international/world-championship-2024"><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Şampiyonası 2024" ><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Hokey Ligi 23/24" href="/tr/bet/ice-hockey/international/champions-hockey-league-23-24"><span class="text flex-item">Şampiyonlar Hokey Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Hokey Ligi 23/24" ><span class="text flex-item">Şampiyonlar Hokey Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Alps Hokey Ligi 23/24" href="/tr/bet/ice-hockey/international/alps-hockey-league-23-24"><span class="text flex-item">Alps Hokey Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Alps Hokey Ligi 23/24" ><span class="text flex-item">Alps Hokey Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -730,9 +730,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Finlandiya"><i class="country icon-32xFIN"></i><span class="text flex-item">Finlandiya</span><span class="count">4</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liiga 23/24" href="/tr/bet/ice-hockey/finland/liiga-23-24"><span class="text flex-item">Liiga 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liiga 23/24" ><span class="text flex-item">Liiga 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Mestis 23/24" href="/tr/bet/ice-hockey/finland/mestis-23-24"><span class="text flex-item">Mestis 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Mestis 23/24" ><span class="text flex-item">Mestis 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -740,9 +740,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İsveç"><i class="country icon-32xSWE"></i><span class="text flex-item">İsveç</span><span class="count">22</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Hockey Allsvenskan 23/24" href="/tr/bet/ice-hockey/sweden/allsvenskan-23-24"><span class="text flex-item">Hockey Allsvenskan 23/24</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Hockey Allsvenskan 23/24" ><span class="text flex-item">Hockey Allsvenskan 23/24</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="HockeyEttan 23/24" href="/tr/bet/ice-hockey/sweden/hockeyettan-23-24"><span class="text flex-item">HockeyEttan 23/24</span><span class="count">14</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="HockeyEttan 23/24" ><span class="text flex-item">HockeyEttan 23/24</span><span class="count">14</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -750,7 +750,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Beyaz Rusya"><i class="country icon-32xBLR"></i><span class="text flex-item">Beyaz Rusya</span><span class="count">3</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Extraliga 23/24" href="/tr/bet/ice-hockey/belarus/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Extraliga 23/24" ><span class="text flex-item">Extraliga 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -758,7 +758,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Avusturya"><i class="country icon-32xAUT"></i><span class="text flex-item">Avusturya</span><span class="count">6</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="EHL 23/24" href="/tr/bet/ice-hockey/austria/ice-hockey-league-23-24"><span class="text flex-item">EHL 23/24</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="EHL 23/24" ><span class="text flex-item">EHL 23/24</span><span class="count">6</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -766,9 +766,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Çek Cumhuriyeti"><i class="country icon-32xCZE"></i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">16</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Extraliga 23/24" href="/tr/bet/ice-hockey/czech-republic/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Extraliga 23/24" ><span class="text flex-item">Extraliga 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" href="/tr/bet/ice-hockey/czech-republic/1-liga-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" ><span class="text flex-item">1. Lig 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -776,7 +776,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Danimarka"><i class="country icon-32xDNK"></i><span class="text flex-item">Danimarka</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superisligaen 23/24" href="/tr/bet/ice-hockey/denmark/superisligaen-23-24"><span class="text flex-item">Superisligaen 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superisligaen 23/24" ><span class="text flex-item">Superisligaen 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -784,7 +784,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Almanya"><i class="country icon-32xDEU"></i><span class="text flex-item">Almanya</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Del 23/24" href="/tr/bet/ice-hockey/germany/del-23-24"><span class="text flex-item">Del 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Del 23/24" ><span class="text flex-item">Del 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -792,7 +792,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Kazakistan"><i class="country icon-32xKAZ"></i><span class="text flex-item">Kazakistan</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pro Hokey Ligi 23/24" href="/tr/bet/ice-hockey/kazakhstan/pro-hockey-league-23-24"><span class="text flex-item">Pro Hokey Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pro Hokey Ligi 23/24" ><span class="text flex-item">Pro Hokey Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -800,7 +800,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Letonya"><i class="country icon-32xLVA"></i><span class="text flex-item">Letonya</span><span class="count">4</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Litvanya Hokey Ligi 23/24" href="/tr/bet/ice-hockey/latvia/latvian-hockey-league-23-24"><span class="text flex-item">Litvanya Hokey Ligi 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Litvanya Hokey Ligi 23/24" ><span class="text flex-item">Litvanya Hokey Ligi 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -808,9 +808,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Norveç"><i class="country icon-32xNOR"></i><span class="text flex-item">Norveç</span><span class="count">4</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1st Division 23/24" href="/tr/bet/ice-hockey/norway/1st-division-23-24"><span class="text flex-item">1st Division 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1st Division 23/24" ><span class="text flex-item">1st Division 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eliteserien 23/24" href="/tr/bet/ice-hockey/norway/eliteserien-23-24"><span class="text flex-item">Eliteserien 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eliteserien 23/24" ><span class="text flex-item">Eliteserien 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -818,7 +818,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Polonya"><i class="country icon-32xPOL"></i><span class="text flex-item">Polonya</span><span class="count">3</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Polonya Hokey Ligi 23/24" href="/tr/bet/ice-hockey/poland/polska-hokej-liga-23-24"><span class="text flex-item">Polonya Hokey Ligi 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Polonya Hokey Ligi 23/24" ><span class="text flex-item">Polonya Hokey Ligi 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -832,19 +832,19 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="ATP"><i class="country icon-32xTENN"></i><span class="text flex-item">ATP</span><span class="count">21</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Amerika Açık Erkekler Tekler 2024" href="/tr/bet/tennis/atp/us-open-men-singles-2024"><span class="text flex-item">Amerika Açık Erkekler Tekler 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Amerika Açık Erkekler Tekler 2024" ><span class="text flex-item">Amerika Açık Erkekler Tekler 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Wimbledon Tek Erkekler 2024" href="/tr/bet/tennis/atp/wimbledon-men-singles-2024"><span class="text flex-item">Wimbledon Tek Erkekler 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Wimbledon Tek Erkekler 2024" ><span class="text flex-item">Wimbledon Tek Erkekler 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Fransa Açık Erkekler Tekler 2024" href="/tr/bet/tennis/atp/french-open-men-singles-2024"><span class="text flex-item">Fransa Açık Erkekler Tekler 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Fransa Açık Erkekler Tekler 2024" ><span class="text flex-item">Fransa Açık Erkekler Tekler 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avustralya Açık Erkekler Tekler 2025" href="/tr/bet/tennis/atp/australian-open-men-singles-2025"><span class="text flex-item">Avustralya Açık Erkekler Tekler 2025</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avustralya Açık Erkekler Tekler 2025" ><span class="text flex-item">Avustralya Açık Erkekler Tekler 2025</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Montpellier, Fransa Erkekler Çiftler 2024" href="/tr/bet/tennis/atp/atp-montpellier-france-men-doubles-2024"><span class="text flex-item">ATP Montpellier, Fransa Erkekler Çiftler 2024</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Montpellier, Fransa Erkekler Çiftler 2024" ><span class="text flex-item">ATP Montpellier, Fransa Erkekler Çiftler 2024</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Montpellier, Fransa Erkekler Tekler 2024" href="/tr/bet/tennis/atp/atp-montpellier-france-men-singles-2024"><span class="text flex-item">ATP Montpellier, Fransa Erkekler Tekler 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Montpellier, Fransa Erkekler Tekler 2024" ><span class="text flex-item">ATP Montpellier, Fransa Erkekler Tekler 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Grand Slam 2024" href="/tr/bet/tennis/atp/grand-slam-2024"><span class="text flex-item">Grand Slam 2024</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Grand Slam 2024" ><span class="text flex-item">Grand Slam 2024</span><span class="count">7</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -852,23 +852,23 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="WTA"><i class="country icon-32xTENN"></i><span class="text flex-item">WTA</span><span class="count">40</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Amerika Açık Kadınlar Tekler 2024" href="/tr/bet/tennis/wta/us-open-women-singles-2024"><span class="text flex-item">Amerika Açık Kadınlar Tekler 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Amerika Açık Kadınlar Tekler 2024" ><span class="text flex-item">Amerika Açık Kadınlar Tekler 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Fransa Açık Kadınlar Tekler 2024" href="/tr/bet/tennis/wta/french-open-women-singles-2024"><span class="text flex-item">Fransa Açık Kadınlar Tekler 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Fransa Açık Kadınlar Tekler 2024" ><span class="text flex-item">Fransa Açık Kadınlar Tekler 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avustralya Açık Kadınlar Tekler 2025" href="/tr/bet/tennis/wta/australian-open-women-singles-2025"><span class="text flex-item">Avustralya Açık Kadınlar Tekler 2025</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Avustralya Açık Kadınlar Tekler 2025" ><span class="text flex-item">Avustralya Açık Kadınlar Tekler 2025</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Wimbledon Kadınlar Tekler 2024" href="/tr/bet/tennis/wta/wimbledon-women-singles-2024"><span class="text flex-item">Wimbledon Kadınlar Tekler 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Wimbledon Kadınlar Tekler 2024" ><span class="text flex-item">Wimbledon Kadınlar Tekler 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Linz, Avusturya Kadınlar Tekler 2024" href="/tr/bet/tennis/wta/wta-linz-austria-women-singles-2024"><span class="text flex-item">WTA Linz, Avusturya Kadınlar Tekler 2024</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Linz, Avusturya Kadınlar Tekler 2024" ><span class="text flex-item">WTA Linz, Avusturya Kadınlar Tekler 2024</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Linz, Avusturya Kadınlar Çiftler 2024" href="/tr/bet/tennis/wta/wta-linz-austria-women-doubles-2024"><span class="text flex-item">WTA Linz, Avusturya Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Linz, Avusturya Kadınlar Çiftler 2024" ><span class="text flex-item">WTA Linz, Avusturya Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Grand Slam 2024" href="/tr/bet/tennis/wta/grand-slam-2024"><span class="text flex-item">Grand Slam 2024</span><span class="count">12</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Grand Slam 2024" ><span class="text flex-item">Grand Slam 2024</span><span class="count">12</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Hua Hin, Tayland Kadınlar Çiftler 2024" href="/tr/bet/tennis/wta/wta-hua-hin-thailand-women-doubles-2024"><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Hua Hin, Tayland Kadınlar Çiftler 2024" ><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024" href="/tr/bet/tennis/wta/wta-hua-hin-thailand-women-singles-2024"><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Tekler 2024</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024" ><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Tekler 2024</span><span class="count">9</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -876,23 +876,23 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="ITF Erkekler"><i class="country icon-32xTENN"></i><span class="text flex-item">ITF Erkekler</span><span class="count">70</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Mısır F1, Erkekler Tekler 2024" href="/tr/bet/tennis/itf-men/itf-egypt-f1-men-singles-2024"><span class="text flex-item">ITF Mısır F1, Erkekler Tekler 2024</span><span class="count">15</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Mısır F1, Erkekler Tekler 2024" ><span class="text flex-item">ITF Mısır F1, Erkekler Tekler 2024</span><span class="count">15</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Mısır F1, Erkekler Çiftler 2024" href="/tr/bet/tennis/itf-men/itf-egypt-f1-men-doubles-2024"><span class="text flex-item">ITF Mısır F1, Erkekler Çiftler 2024</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Mısır F1, Erkekler Çiftler 2024" ><span class="text flex-item">ITF Mısır F1, Erkekler Çiftler 2024</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye F4, Erkekler Tekler 2024" href="/tr/bet/tennis/itf-men/itf-turkey-f4-men-singles-2024"><span class="text flex-item">ITF Türkiye F4, Erkekler Tekler 2024</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye F4, Erkekler Tekler 2024" ><span class="text flex-item">ITF Türkiye F4, Erkekler Tekler 2024</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye F4, Erkekler Çiftler 2024" href="/tr/bet/tennis/itf-men/itf-turkey-f4-men-doubles-2024"><span class="text flex-item">ITF Türkiye F4, Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye F4, Erkekler Çiftler 2024" ><span class="text flex-item">ITF Türkiye F4, Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus F5, Erkekler Tekler 2024" href="/tr/bet/tennis/itf-men/itf-tunisia-f5-men-singles-2024"><span class="text flex-item">ITF Tunus F5, Erkekler Tekler 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus F5, Erkekler Tekler 2024" ><span class="text flex-item">ITF Tunus F5, Erkekler Tekler 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus F5, Erkekler Çiftler 2024" href="/tr/bet/tennis/itf-men/itf-tunisia-f5-men-doubles-2024"><span class="text flex-item">ITF Tunus F5, Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus F5, Erkekler Çiftler 2024" ><span class="text flex-item">ITF Tunus F5, Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus F6, Erkekler Tekler 2024" href="/tr/bet/tennis/itf-men/itf-tunisia-f6-men-singles-2024"><span class="text flex-item">ITF Tunus F6, Erkekler Tekler 2024</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus F6, Erkekler Tekler 2024" ><span class="text flex-item">ITF Tunus F6, Erkekler Tekler 2024</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Fransa F3, Erkekler Tekler 2024" href="/tr/bet/tennis/itf-men/itf-france-f3-men-singles-2024"><span class="text flex-item">ITF Fransa F3, Erkekler Tekler 2024</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Fransa F3, Erkekler Tekler 2024" ><span class="text flex-item">ITF Fransa F3, Erkekler Tekler 2024</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Fransa F3, Erkekler Çiftler 2024" href="/tr/bet/tennis/itf-men/itf-france-f3-men-doubles-2024"><span class="text flex-item">ITF Fransa F3, Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Fransa F3, Erkekler Çiftler 2024" ><span class="text flex-item">ITF Fransa F3, Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -900,31 +900,31 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="ITF Kadınlar"><i class="country icon-32xTENN"></i><span class="text flex-item">ITF Kadınlar</span><span class="count">105</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Mısır 01A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-egypt-01a-women-singles-2024"><span class="text flex-item">ITF Mısır 01A, Kadınlar Tekler 2024</span><span class="count">14</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Mısır 01A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF Mısır 01A, Kadınlar Tekler 2024</span><span class="count">14</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye 04A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-turkey-04a-women-singles-2024"><span class="text flex-item">ITF Türkiye 04A, Kadınlar Tekler 2024</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye 04A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF Türkiye 04A, Kadınlar Tekler 2024</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye 04A, Kadınlar Çiftler 2024" href="/tr/bet/tennis/itf-women/itf-turkey-04a-women-doubles-2024"><span class="text flex-item">ITF Türkiye 04A, Kadınlar Çiftler 2024</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Türkiye 04A, Kadınlar Çiftler 2024" ><span class="text flex-item">ITF Türkiye 04A, Kadınlar Çiftler 2024</span><span class="count">5</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus 05A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-tunisia-05a-women-singles-2024"><span class="text flex-item">ITF Tunus 05A, Kadınlar Tekler 2024</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus 05A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF Tunus 05A, Kadınlar Tekler 2024</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus 05A, Kadınlar Çiftler 2024" href="/tr/bet/tennis/itf-women/itf-tunisia-05a-women-doubles-2024"><span class="text flex-item">ITF Tunus 05A, Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Tunus 05A, Kadınlar Çiftler 2024" ><span class="text flex-item">ITF Tunus 05A, Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Fransa 05A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-france-05a-women-singles-2024"><span class="text flex-item">ITF Fransa 05A, Kadınlar Tekler 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Fransa 05A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF Fransa 05A, Kadınlar Tekler 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Portekiz 02A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-portugal-02a-women-singles-2024"><span class="text flex-item">ITF Portekiz 02A, Kadınlar Tekler 2024</span><span class="count">11</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Portekiz 02A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF Portekiz 02A, Kadınlar Tekler 2024</span><span class="count">11</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Avustralya 01A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-australia-01a-women-singles-2024"><span class="text flex-item">ITF Avustralya 01A, Kadınlar Tekler 2024</span><span class="count">10</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Avustralya 01A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF Avustralya 01A, Kadınlar Tekler 2024</span><span class="count">10</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Avustralya 01A, Kadınlar Çiftler 2024" href="/tr/bet/tennis/itf-women/itf-australia-01a-women-doubles-2024"><span class="text flex-item">ITF Avustralya 01A, Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Avustralya 01A, Kadınlar Çiftler 2024" ><span class="text flex-item">ITF Avustralya 01A, Kadınlar Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Hindistan 03A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-india-03a-women-singles-2024"><span class="text flex-item">ITF Hindistan 03A, Kadınlar Tekler 2024</span><span class="count">13</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Hindistan 03A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF Hindistan 03A, Kadınlar Tekler 2024</span><span class="count">13</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Hindistan 03A, Kadınlar Çiftler 2024" href="/tr/bet/tennis/itf-women/itf-india-03a-women-doubles-2024"><span class="text flex-item">ITF Hindistan 03A, Kadınlar Çiftler 2024</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF Hindistan 03A, Kadınlar Çiftler 2024" ><span class="text flex-item">ITF Hindistan 03A, Kadınlar Çiftler 2024</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF ABD 05A, Kadınlar Tekler 2024" href="/tr/bet/tennis/itf-women/itf-usa-05a-women-singles-2024"><span class="text flex-item">ITF ABD 05A, Kadınlar Tekler 2024</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF ABD 05A, Kadınlar Tekler 2024" ><span class="text flex-item">ITF ABD 05A, Kadınlar Tekler 2024</span><span class="count">5</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF ABD 05A, Kadınlar Çiftler 2024" href="/tr/bet/tennis/itf-women/itf-usa-05a-women-doubles-2024"><span class="text flex-item">ITF ABD 05A, Kadınlar Çiftler 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ITF ABD 05A, Kadınlar Çiftler 2024" ><span class="text flex-item">ITF ABD 05A, Kadınlar Çiftler 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -932,21 +932,21 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Challenger"><i class="country icon-32xTENN"></i><span class="text flex-item">Challenger</span><span class="count">55</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Cleveland, ABD Erkekler Tekler 2024" href="/tr/bet/tennis/challenger/atp-challenger-cleveland-usa-men-singles-2024"><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Tekler 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Cleveland, ABD Erkekler Tekler 2024" ><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Tekler 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Cleveland, ABD Erkekler Çiftler 2024" href="/tr/bet/tennis/challenger/atp-challenger-cleveland-usa-men-doubles-2024"><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Çiftler 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Cleveland, ABD Erkekler Çiftler 2024" ><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Çiftler 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Piracicaba, Brazil Men Singles 2024" href="/tr/bet/tennis/challenger/atp-challenger-piracicaba-brazil-men-singles-2024"><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Singles 2024</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Piracicaba, Brazil Men Singles 2024" ><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Singles 2024</span><span class="count">5</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Piracicaba, Brazil Men Doubles 2024" href="/tr/bet/tennis/challenger/atp-challenger-piracicaba-brazil-men-doubles-2024"><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Doubles 2024</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Piracicaba, Brazil Men Doubles 2024" ><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Doubles 2024</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Koblenz, Almanya Erkekler Tekler 2024" href="/tr/bet/tennis/challenger/atp-challenger-koblenz-germany-men-singles-2024"><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Tekler 2024</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Koblenz, Almanya Erkekler Tekler 2024" ><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Tekler 2024</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Koblenz, Almanya Erkekler Çiftler 2024" href="/tr/bet/tennis/challenger/atp-challenger-koblenz-germany-men-doubles-2024"><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Koblenz, Almanya Erkekler Çiftler 2024" ><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Çiftler 2024</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Burnie, Avustralya Erkekler Tekler 2024" href="/tr/bet/tennis/challenger/atp-challenger-burnie-australia-men-singles-2024"><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Tekler 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Burnie, Avustralya Erkekler Tekler 2024" ><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Tekler 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Burnie, Avustralya Erkekler Çiftler 2024" href="/tr/bet/tennis/challenger/atp-challenger-burnie-australia-men-doubles-2024"><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Çiftler 2024</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ATP Challenger Burnie, Avustralya Erkekler Çiftler 2024" ><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Çiftler 2024</span><span class="count">6</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -954,7 +954,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Simulated Reality"><i class="country icon-32xTENN"></i><span class="text flex-item">Simulated Reality</span><span class="count">8</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="SRL Winter Invitational Belem, BRA 2024" href="/tr/bet/tennis/simulated-reality/srl-winter-invitational-belem-bra-2024"><span class="text flex-item">SRL Winter Invitational Belem, BRA 2024</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="SRL Winter Invitational Belem, BRA 2024" ><span class="text flex-item">SRL Winter Invitational Belem, BRA 2024</span><span class="count">8</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -962,7 +962,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Simulated Reality Women"><i class="country icon-32xTENN"></i><span class="text flex-item">Simulated Reality Women</span><span class="count">8</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="SRL Winter Invitational Upper Hutt, NZL, Women" href="/tr/bet/tennis/simulated-reality-women/srl-winter-invitational-upper-hutt-nzl-women"><span class="text flex-item">SRL Winter Invitational Upper Hutt, NZL, Women</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="SRL Winter Invitational Upper Hutt, NZL, Women" ><span class="text flex-item">SRL Winter Invitational Upper Hutt, NZL, Women</span><span class="count">8</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -976,17 +976,17 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Uluslararası"><i class="country icon-32xWRLD"></i><span class="text flex-item">Uluslararası</span><span class="count">14</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kadınlar Şampiyonlar Ligi 23/24" href="/tr/bet/volleyball/international/cev-champions-league-women-23-24"><span class="text flex-item">Kadınlar Şampiyonlar Ligi 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kadınlar Şampiyonlar Ligi 23/24" ><span class="text flex-item">Kadınlar Şampiyonlar Ligi 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Şampiyonlar Ligi 23/24" href="/tr/bet/volleyball/international/champions-league-23-24"><span class="text flex-item">CEV Şampiyonlar Ligi 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Şampiyonlar Ligi 23/24" ><span class="text flex-item">CEV Şampiyonlar Ligi 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Challenge Cup 23/24" href="/tr/bet/volleyball/international/cev-challenge-cup-23-24"><span class="text flex-item">CEV Challenge Cup 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Challenge Cup 23/24" ><span class="text flex-item">CEV Challenge Cup 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Kupası 23/24" href="/tr/bet/volleyball/international/cev-cup-23-24"><span class="text flex-item">CEV Kupası 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Kupası 23/24" ><span class="text flex-item">CEV Kupası 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Kupası,Bayanlar 23/24" href="/tr/bet/volleyball/international/cev-cup-women-23-24"><span class="text flex-item">CEV Kupası,Bayanlar 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CEV Kupası,Bayanlar 23/24" ><span class="text flex-item">CEV Kupası,Bayanlar 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Challange Kupası Bayanlar 23/24" href="/tr/bet/volleyball/international/challenge-cup-women-23-24"><span class="text flex-item">Challange Kupası Bayanlar 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Challange Kupası Bayanlar 23/24" ><span class="text flex-item">Challange Kupası Bayanlar 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -994,7 +994,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Fransa"><i class="country icon-32xFRA"></i><span class="text flex-item">Fransa</span><span class="count">2</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig A 23/24" href="/tr/bet/volleyball/france/ligue-a-23-24"><span class="text flex-item">Lig A 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig A 23/24" ><span class="text flex-item">Lig A 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1002,11 +1002,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Rusya"><i class="country icon-32xRUS"></i><span class="text flex-item">Rusya</span><span class="count">20</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga 23/24" href="/tr/bet/volleyball/russia/superliga-23-24"><span class="text flex-item">Superliga 23/24</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga 23/24" ><span class="text flex-item">Superliga 23/24</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pro League" href="/tr/bet/volleyball/russia/pro-league"><span class="text flex-item">Pro League</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pro League" ><span class="text flex-item">Pro League</span><span class="count">5</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga, Kadınlar 23/24" href="/tr/bet/volleyball/russia/superliga-women-23-24"><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga, Kadınlar 23/24" ><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1014,7 +1014,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Arjantin"><i class="country icon-32xARG"></i><span class="text flex-item">Arjantin</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Argentina A1 23/24" href="/tr/bet/volleyball/argentina/liga-argentina-23-24"><span class="text flex-item">Liga Argentina A1 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Argentina A1 23/24" ><span class="text flex-item">Liga Argentina A1 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1022,7 +1022,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Belçika"><i class="country icon-32xBEL"></i><span class="text flex-item">Belçika</span><span class="count">3</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" href="/tr/bet/volleyball/belgium/liga-heren-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" ><span class="text flex-item">1. Lig 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1030,9 +1030,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Brezilya"><i class="country icon-32xBRA"></i><span class="text flex-item">Brezilya</span><span class="count">9</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 23/24" href="/tr/bet/volleyball/brazil/superliga-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Süper Lig 23/24" ><span class="text flex-item">Süper Lig 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga, Kadınlar 23/24" href="/tr/bet/volleyball/brazil/superliga-women-23-24"><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga, Kadınlar 23/24" ><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count">6</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1040,7 +1040,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Çin"><i class="country icon-32xCHN"></i><span class="text flex-item">Çin</span><span class="count">4</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="China Volleyball League 23/24" href="/tr/bet/volleyball/china/china-volleyball-league-23-24"><span class="text flex-item">China Volleyball League 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="China Volleyball League 23/24" ><span class="text flex-item">China Volleyball League 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1048,9 +1048,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Almanya"><i class="country icon-32xDEU"></i><span class="text flex-item">Almanya</span><span class="count">2</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1.Bundesliga Bayanlar 23/24" href="/tr/bet/volleyball/germany/1st-bundesliga-women-23-24"><span class="text flex-item">1.Bundesliga Bayanlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1.Bundesliga Bayanlar 23/24" ><span class="text flex-item">1.Bundesliga Bayanlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1st Bundesliga 23/24" href="/tr/bet/volleyball/germany/1st-bundesliga-23-24"><span class="text flex-item">1st Bundesliga 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1st Bundesliga 23/24" ><span class="text flex-item">1st Bundesliga 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1058,7 +1058,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Yunanistan"><i class="country icon-32xGRC"></i><span class="text flex-item">Yunanistan</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pre League, Women 23/24" href="/tr/bet/volleyball/greece/pre-league-women-23-24"><span class="text flex-item">Pre League, Women 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Pre League, Women 23/24" ><span class="text flex-item">Pre League, Women 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1066,7 +1066,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İran"><i class="country icon-32xIRN"></i><span class="text flex-item">İran</span><span class="count">2</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Super League 23/24" href="/tr/bet/volleyball/iran/super-league-23-24"><span class="text flex-item">Super League 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Super League 23/24" ><span class="text flex-item">Super League 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1074,13 +1074,13 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İtalya"><i class="country icon-32xITA"></i><span class="text flex-item">İtalya</span><span class="count">6</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie A Bayanlar 23/24" href="/tr/bet/volleyball/italy/serie-a1-women-23-24"><span class="text flex-item">Serie A Bayanlar 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie A Bayanlar 23/24" ><span class="text flex-item">Serie A Bayanlar 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superlega 23/24" href="/tr/bet/volleyball/italy/superlega-23-24"><span class="text flex-item">Superlega 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superlega 23/24" ><span class="text flex-item">Superlega 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie A2 23/24" href="/tr/bet/volleyball/italy/serie-a2-23-24"><span class="text flex-item">Serie A2 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Serie A2 23/24" ><span class="text flex-item">Serie A2 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Coppa Italia A2, Women 2024" href="/tr/bet/volleyball/italy/coppa-italia-a2-women-2024"><span class="text flex-item">Coppa Italia A2, Women 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Coppa Italia A2, Women 2024" ><span class="text flex-item">Coppa Italia A2, Women 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1088,7 +1088,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Hollanda"><i class="country icon-32xNLD"></i><span class="text flex-item">Hollanda</span><span class="count">4</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eredivisie 23/24" href="/tr/bet/volleyball/netherlands/eredivisie-23-24"><span class="text flex-item">Eredivisie 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eredivisie 23/24" ><span class="text flex-item">Eredivisie 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1096,11 +1096,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Polonya"><i class="country icon-32xPOL"></i><span class="text flex-item">Polonya</span><span class="count">7</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Siatkowki, Kadınlar 23/24" href="/tr/bet/volleyball/poland/liga-siatkowki-women-23-24"><span class="text flex-item">Liga Siatkowki, Kadınlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Siatkowki, Kadınlar 23/24" ><span class="text flex-item">Liga Siatkowki, Kadınlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Polonya Kupası, Kadınlar 23/24" href="/tr/bet/volleyball/poland/puchar-polski-women-23-24"><span class="text flex-item">Polonya Kupası, Kadınlar 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Polonya Kupası, Kadınlar 23/24" ><span class="text flex-item">Polonya Kupası, Kadınlar 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Liga 23/24" href="/tr/bet/volleyball/poland/1-liga-23-24"><span class="text flex-item">1. Liga 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Liga 23/24" ><span class="text flex-item">1. Liga 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1108,7 +1108,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Portekiz"><i class="country icon-32xPRT"></i><span class="text flex-item">Portekiz</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga A1 23/24" href="/tr/bet/volleyball/portugal/liga-a1-23-24"><span class="text flex-item">Liga A1 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga A1 23/24" ><span class="text flex-item">Liga A1 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1116,9 +1116,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Kore Cumhuriyeti"><i class="country icon-32xKOR"></i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">2</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="V Ligi 23/24" href="/tr/bet/volleyball/republic-of-korea/v-league-23-24"><span class="text flex-item">V Ligi 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="V Ligi 23/24" ><span class="text flex-item">V Ligi 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="V Ligi,Kadınlar 23/24" href="/tr/bet/volleyball/republic-of-korea/v-league-women-23-24"><span class="text flex-item">V Ligi,Kadınlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="V Ligi,Kadınlar 23/24" ><span class="text flex-item">V Ligi,Kadınlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1132,11 +1132,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Uluslararası"><i class="country icon-32xWRLD"></i><span class="text flex-item">Uluslararası</span><span class="count">7</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Şampiyonası 2024" href="/tr/bet/snooker/international/world-championship-2024"><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Dünya Şampiyonası 2024" ><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyona Ligi 2024" href="/tr/bet/snooker/international/championship-league-2024"><span class="text flex-item">Şampiyona Ligi 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyona Ligi 2024" ><span class="text flex-item">Şampiyona Ligi 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="German Masters 2024" href="/tr/bet/snooker/international/german-masters-2024"><span class="text flex-item">German Masters 2024</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="German Masters 2024" ><span class="text flex-item">German Masters 2024</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1150,7 +1150,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Kanada"><i class="country icon-32xCAN"></i><span class="text flex-item">Kanada</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="CFL 2024" href="/tr/bet/american-football/canada/cfl-2024"><span class="text flex-item">CFL 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="CFL 2024" ><span class="text flex-item">CFL 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1158,17 +1158,17 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="ABD"><i class="country icon-32xUSA"></i><span class="text flex-item">ABD</span><span class="count">56</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NFL 23/24" href="/tr/bet/american-football/usa/nfl-23-24"><span class="text flex-item">NFL 23/24</span><span class="count">50</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NFL 23/24" ><span class="text flex-item">NFL 23/24</span><span class="count">50</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NFL 24/25" href="/tr/bet/american-football/usa/nfl-24-25"><span class="text flex-item">NFL 24/25</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NFL 24/25" ><span class="text flex-item">NFL 24/25</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Ligi I, FBS Sezon Sonrası 24/25" href="/tr/bet/american-football/usa/ncaa-division-i-fbs-post-season-24-25"><span class="text flex-item">NCAA Ligi I, FBS Sezon Sonrası 24/25</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Ligi I, FBS Sezon Sonrası 24/25" ><span class="text flex-item">NCAA Ligi I, FBS Sezon Sonrası 24/25</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA, Normal Sezon 2024" href="/tr/bet/american-football/usa/ncaa-regular-season-2024"><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA, Normal Sezon 2024" ><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="East-West shrine maçı 2024" href="/tr/bet/american-football/usa/east-west-shrine-game-2024"><span class="text flex-item">East-West shrine maçı 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="East-West shrine maçı 2024" ><span class="text flex-item">East-West shrine maçı 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NFL Draftı 2024" href="/tr/bet/american-football/usa/nfl-draft-2024"><span class="text flex-item">NFL Draftı 2024</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NFL Draftı 2024" ><span class="text flex-item">NFL Draftı 2024</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1182,13 +1182,13 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Uluslararası"><i class="country icon-32xWRLD"></i><span class="text flex-item">Uluslararası</span><span class="count">27</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Ligi 23/24" href="/tr/bet/handball/international/champions-league-23-24"><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Ligi 23/24" ><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Hokey Ligi Bayanlar 23/24" href="/tr/bet/handball/international/champions-league-women-23-24"><span class="text flex-item">Şampiyonlar Hokey Ligi Bayanlar 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Şampiyonlar Hokey Ligi Bayanlar 23/24" ><span class="text flex-item">Şampiyonlar Hokey Ligi Bayanlar 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="EHF Avrupa Ligi 23/24" href="/tr/bet/handball/international/ehf-european-league-23-24"><span class="text flex-item">EHF Avrupa Ligi 23/24</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="EHF Avrupa Ligi 23/24" ><span class="text flex-item">EHF Avrupa Ligi 23/24</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Mol Liga, Women 23/24" href="/tr/bet/handball/international/mol-liga-women-23-24"><span class="text flex-item">Mol Liga, Women 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Mol Liga, Women 23/24" ><span class="text flex-item">Mol Liga, Women 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1196,9 +1196,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İspanya"><i class="country icon-32xESP"></i><span class="text flex-item">İspanya</span><span class="count">10</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Asobal 23/24" href="/tr/bet/handball/spain/liga-asobal-23-24"><span class="text flex-item">Liga Asobal 23/24</span><span class="count">9</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Liga Asobal 23/24" ><span class="text flex-item">Liga Asobal 23/24</span><span class="count">9</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Division De Honor, Kadınlar 23/24" href="/tr/bet/handball/spain/division-de-honor-fem-23-24"><span class="text flex-item">Division De Honor, Kadınlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Division De Honor, Kadınlar 23/24" ><span class="text flex-item">Division De Honor, Kadınlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1206,11 +1206,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Almanya"><i class="country icon-32xDEU"></i><span class="text flex-item">Almanya</span><span class="count">12</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="DHB Pokal 23/24" href="/tr/bet/handball/germany/dhb-pokal-23-24"><span class="text flex-item">DHB Pokal 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="DHB Pokal 23/24" ><span class="text flex-item">DHB Pokal 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga 23/24" href="/tr/bet/handball/germany/bundesliga-23-24"><span class="text flex-item">Bundesliga 23/24</span><span class="count">6</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga 23/24" ><span class="text flex-item">Bundesliga 23/24</span><span class="count">6</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga, Kadınlar 23/24" href="/tr/bet/handball/germany/bundesliga-women-23-24"><span class="text flex-item">Bundesliga, Kadınlar 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Bundesliga, Kadınlar 23/24" ><span class="text flex-item">Bundesliga, Kadınlar 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1218,9 +1218,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Danimarka"><i class="country icon-32xDNK"></i><span class="text flex-item">Danimarka</span><span class="count">12</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Handboldligaen 23/24" href="/tr/bet/handball/denmark/handboldligaen-23-24"><span class="text flex-item">Handboldligaen 23/24</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Handboldligaen 23/24" ><span class="text flex-item">Handboldligaen 23/24</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kvindeligaen 23/24" href="/tr/bet/handball/denmark/kvindeligaen-women-23-24"><span class="text flex-item">Kvindeligaen 23/24</span><span class="count">4</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Kvindeligaen 23/24" ><span class="text flex-item">Kvindeligaen 23/24</span><span class="count">4</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1228,7 +1228,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Çek Cumhuriyeti"><i class="country icon-32xCZE"></i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">5</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Extraliga 23/24" href="/tr/bet/handball/czech-republic/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count">5</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Extraliga 23/24" ><span class="text flex-item">Extraliga 23/24</span><span class="count">5</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1236,9 +1236,9 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Fransa"><i class="country icon-32xFRA"></i><span class="text flex-item">Fransa</span><span class="count">3</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lnh Starligue 23/24" href="/tr/bet/handball/france/lnh-division-1-23-24"><span class="text flex-item">Lnh Starligue 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lnh Starligue 23/24" ><span class="text flex-item">Lnh Starligue 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Fransa Kupası, Kadınlar 2024" href="/tr/bet/handball/france/coupe-de-france-women-2024"><span class="text flex-item">Fransa Kupası, Kadınlar 2024</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Fransa Kupası, Kadınlar 2024" ><span class="text flex-item">Fransa Kupası, Kadınlar 2024</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1246,7 +1246,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İsrail"><i class="country icon-32xISR"></i><span class="text flex-item">İsrail</span><span class="count">3</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 1 23/24" href="/tr/bet/handball/israel/division-1-23-24"><span class="text flex-item">Lig 1 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Lig 1 23/24" ><span class="text flex-item">Lig 1 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1254,11 +1254,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Norveç"><i class="country icon-32xNOR"></i><span class="text flex-item">Norveç</span><span class="count">17</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eliteserien 23/24" href="/tr/bet/handball/norway/eliteserien-23-24"><span class="text flex-item">Eliteserien 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eliteserien 23/24" ><span class="text flex-item">Eliteserien 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eliteserien Kadınlar 23/24" href="/tr/bet/handball/norway/eliteserien-women-23-24"><span class="text flex-item">Eliteserien Kadınlar 23/24</span><span class="count">7</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Eliteserien Kadınlar 23/24" ><span class="text flex-item">Eliteserien Kadınlar 23/24</span><span class="count">7</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" href="/tr/bet/handball/norway/1-division-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count">3</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="1. Lig 23/24" ><span class="text flex-item">1. Lig 23/24</span><span class="count">3</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1266,7 +1266,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Polonya"><i class="country icon-32xPOL"></i><span class="text flex-item">Polonya</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga Kadınlar 23/24" href="/tr/bet/handball/poland/superliga-women-23-24"><span class="text flex-item">Superliga Kadınlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Superliga Kadınlar 23/24" ><span class="text flex-item">Superliga Kadınlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1274,7 +1274,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Kore Cumhuriyeti"><i class="country icon-32xKOR"></i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">2</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Korea Handball League, Women 23/24" href="/tr/bet/handball/republic-of-korea/korea-handball-league-women-23-24"><span class="text flex-item">Korea Handball League, Women 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Korea Handball League, Women 23/24" ><span class="text flex-item">Korea Handball League, Women 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1282,7 +1282,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Romanya"><i class="country icon-32xROU"></i><span class="text flex-item">Romanya</span><span class="count">2</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ulusal Lig,Kadınlar 23/24" href="/tr/bet/handball/romania/liga-nationala-women-23-24"><span class="text flex-item">Ulusal Lig,Kadınlar 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Ulusal Lig,Kadınlar 23/24" ><span class="text flex-item">Ulusal Lig,Kadınlar 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1290,11 +1290,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="İsveç"><i class="country icon-32xSWE"></i><span class="text flex-item">İsveç</span><span class="count">11</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Handbollsligan 23/24" href="/tr/bet/handball/sweden/handbollsligan-23-24"><span class="text flex-item">Handbollsligan 23/24</span><span class="count">8</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Handbollsligan 23/24" ><span class="text flex-item">Handbollsligan 23/24</span><span class="count">8</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Allsvenskan 23/24" href="/tr/bet/handball/sweden/allsvenskan-23-24"><span class="text flex-item">Allsvenskan 23/24</span><span class="count">2</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Allsvenskan 23/24" ><span class="text flex-item">Allsvenskan 23/24</span><span class="count">2</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="Elitserien, Kadınlar 23/24" href="/tr/bet/handball/sweden/elitserien-women-23-24"><span class="text flex-item">Elitserien, Kadınlar 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="Elitserien, Kadınlar 23/24" ><span class="text flex-item">Elitserien, Kadınlar 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1308,11 +1308,11 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="ABD"><i class="country icon-32xUSA"></i><span class="text flex-item">ABD</span><span class="count">90</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="MLB 2024" href="/tr/bet/baseball/usa/mlb-2024"><span class="text flex-item">MLB 2024</span><span class="count">88</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="MLB 2024" ><span class="text flex-item">MLB 2024</span><span class="count">88</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Division I, Şampiyona 2024" href="/tr/bet/baseball/usa/ncaa-division-i-national-championship-2024"><span class="text flex-item">NCAA Division I, Şampiyona 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA Division I, Şampiyona 2024" ><span class="text flex-item">NCAA Division I, Şampiyona 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!---->
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA, Normal Sezon 2024" href="/tr/bet/baseball/usa/ncaa-regular-season-2024"><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NCAA, Normal Sezon 2024" ><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1320,7 +1320,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Japonya"><i class="country icon-32xJPN"></i><span class="text flex-item">Japonya</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="NPB 2024" href="/tr/bet/baseball/japan/npb-2024"><span class="text flex-item">NPB 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="NPB 2024" ><span class="text flex-item">NPB 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1328,7 +1328,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Avustralya"><i class="country icon-32xAUS"></i><span class="text flex-item">Avustralya</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="ABL 23/24" href="/tr/bet/baseball/australia/abl-23-24"><span class="text flex-item">ABL 23/24</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="ABL 23/24" ><span class="text flex-item">ABL 23/24</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1336,7 +1336,7 @@ if ($detect->isMobile()) {?>
                                     <li class="ng-star-inserted">
                                        <a href="javascript:;" class="flex-container" title="Kore Cumhuriyeti"><i class="country icon-32xKOR"></i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">1</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                        <ol class="m3">
-                                          <li class="ng-star-inserted"><a class="flex-container league" title="KBO Ligi 2024" href="/tr/bet/baseball/republic-of-korea/kbo-league-2024"><span class="text flex-item">KBO Ligi 2024</span><span class="count">1</span></a></li>
+                                          <li class="ng-star-inserted"><a class="flex-container league" title="KBO Ligi 2024" ><span class="text flex-item">KBO Ligi 2024</span><span class="count">1</span></a></li>
                                           <!----><!----><!----><!----><!----><!---->
                                        </ol>
                                     </li>
@@ -1373,7 +1373,7 @@ if ($detect->isMobile()) {?>
                         </div>
                      </li>
                      <!---->
-                     <li><a title="Detaylı Arama" href="/tr/bet/detail-search"><i class="fa fa-search-plus"></i></a></li>
+                     <li><a title="Detaylı Arama" ><i class="fa fa-search-plus"></i></a></li>
                      <!---->
                      <li>
                         <a href="javascript:;"><i class="fa fa-star-o"></i></a>
@@ -1390,19 +1390,19 @@ if ($detect->isMobile()) {?>
                         <div class="lsb-mm-dc">
                            <div class="lsb-mm-dh flex-container"><span class="text flex-item">Popüler Ligler</span></div>
                            <ul class="m2">
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/turkiye/super-lig-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Süper Lig 23/24</span><i class="country icon-32xTUR"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/international-clubs/uefa-champions-league-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">UEFA Şampiyonlar Ligi 23/24</span><i class="country icon-32xWRLD"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/international-clubs/uefa-europa-league-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">UEFA Avrupa Ligi 23/24</span><i class="country icon-32xWRLD"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/international-clubs/uefa-europa-conference-league-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">UEFA Avrupa Konferans Ligi 23/24</span><i class="country icon-32xWRLD"></i></a></li>
-                              <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/fixture-detail/football/england/premier-league-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Premier Lig 23/24</span><i class="country icon-32xENG"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/spain/laliga-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">LaLiga 23/24</span><i class="country icon-32xESP"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/germany/bundesliga-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Bundesliga 23/24</span><i class="country icon-32xDEU"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/italy/serie-a-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Serie A 23/24</span><i class="country icon-32xITA"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/france/ligue-1-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Ligue 1 23/24</span><i class="country icon-32xFRA"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/netherlands/eredivisie-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Eredivisie 23/24</span><i class="country icon-32xNLD"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/football/portugal/liga-portugal-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Liga Portugal 23/24</span><i class="country icon-32xPRT"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/basketball/usa/nba-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">NBA 23/24</span><i class="country icon-32xUSA"></i></a></li>
-                              <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/fixture-detail/basketball/international/euroleague-23-24"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Euroleague 23/24</span><i class="country icon-32xWRLD"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Süper Lig 23/24</span><i class="country icon-32xTUR"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">UEFA Şampiyonlar Ligi 23/24</span><i class="country icon-32xWRLD"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">UEFA Avrupa Ligi 23/24</span><i class="country icon-32xWRLD"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">UEFA Avrupa Konferans Ligi 23/24</span><i class="country icon-32xWRLD"></i></a></li>
+                              <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Premier Lig 23/24</span><i class="country icon-32xENG"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">LaLiga 23/24</span><i class="country icon-32xESP"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Bundesliga 23/24</span><i class="country icon-32xDEU"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Serie A 23/24</span><i class="country icon-32xITA"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Ligue 1 23/24</span><i class="country icon-32xFRA"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Eredivisie 23/24</span><i class="country icon-32xNLD"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Liga Portugal 23/24</span><i class="country icon-32xPRT"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">NBA 23/24</span><i class="country icon-32xUSA"></i></a></li>
+                              <li class="ng-star-inserted"><a class="flex-container" ><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Euroleague 23/24</span><i class="country icon-32xWRLD"></i></a></li>
                               <!---->
                            </ul>
                         </div>
@@ -1417,7 +1417,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Futbol</span><span class="count">43</span><i materialize="tooltip" class="sport-types-1 st-font-icons" data-tooltip="Futbol" data-tooltip-id="76282bed-3d49-9aa8-78cc-27fce1def443"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54937120">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Nottingham Forest - Arsenal FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1428,7 +1428,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54937115">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Fulham FC - Everton FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1439,7 +1439,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54937116">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Luton Town - Brighton &amp; Hove Albion FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1451,7 +1451,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55251598">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Coventry City - Bristol City</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1462,7 +1462,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55251599">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Leicester City FC - Swansea City</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1474,7 +1474,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55189203">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Oxford United - Portsmouth</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1486,7 +1486,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54734463">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Sutton United - Harrogate Town</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1498,7 +1498,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55238538">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Blackpool FC - Bolton Wanderers</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1509,7 +1509,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55305924">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Bradford City - Doncaster Rovers</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1520,7 +1520,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55470544">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Peterborough Utd. - Wimbledon</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1532,7 +1532,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54498479">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">St Pauli - Fortuna Düsseldorf</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1544,7 +1544,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718101">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">FC Winterthur - FC Basel 1893</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1555,7 +1555,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718103">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">BSC Young Boys - Yverdon Sport</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1567,7 +1567,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55530455">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">FC Wil 1900 - FC Schaffhausen</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1578,7 +1578,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55504916">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">FC Baden - FC Aarau</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1590,7 +1590,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718066">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">VC Westerlo - Cercle Brugge</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1601,7 +1601,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718067">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Club Brugge - KV Kortrijk</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1613,7 +1613,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54442783">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Livingston FC - Ross County</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1624,7 +1624,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55066093">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Aberdeen FC - FC Dundee</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1636,7 +1636,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54442782">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Elgin City FC - Clyde Bank</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1647,7 +1647,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54710104">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">East Fife - Spartans</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1659,7 +1659,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505864">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Rio Negro AM - Unidos Do Alvorada AM</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1671,7 +1671,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55342720">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Welling United - Hampton &amp; Richmond Borough FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1683,7 +1683,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55342719">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Hereford FC - South Shields</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1694,7 +1694,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55342727">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Chorley FC - Alfreton Town FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1705,7 +1705,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55343530">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Banbury United - Darlington</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1716,7 +1716,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55522926">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Scunthorpe - Tamworth</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1728,7 +1728,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/53743030">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Hull City - Wigan Athletic</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1740,7 +1740,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505871">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Alvechurch - Royston Town</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1752,7 +1752,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505874">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">FC United Of Manchester - Marine FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1764,7 +1764,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55429983">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Concord Rangers - Haringey Borough FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1775,7 +1775,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55429984">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Hastings United FC - Margate</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1786,7 +1786,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55429988">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Cheshunt FC - Potters Bar Town</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1797,7 +1797,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55429989">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Dulwich Hamlet - Wingate &amp; Finchley</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1808,7 +1808,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505858">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Enfield Town - Billericay Town</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1819,7 +1819,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505859">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Folkestone Invicta - Hornchurch</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1830,7 +1830,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505870">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Lewes - Carshalton Athletic</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1841,7 +1841,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568080">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Chatham Town - Hashtag United</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1853,7 +1853,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505873">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Heyes &amp; Yeading - Bracknell Town</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1864,7 +1864,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55566853">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Winchester City FC - Tiverton Town</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1876,7 +1876,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55366068">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Tottenham Hotspur FC - Bristol City</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1888,7 +1888,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55464352">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Beitar Jerusalem FC - Hapoel Petah Tikva FC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1900,7 +1900,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55569091">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Entente Sebkha - C. Moulaye M Barek</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1917,7 +1917,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Basketbol</span><span class="count">25</span><i materialize="tooltip" class="sport-types-2 st-font-icons" data-tooltip="Basketbol" data-tooltip-id="01d092d9-1566-2d17-376a-742f3c90b2a9"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/53741228">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">KK Crvena Zvezda Belgrade - Valencia Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1928,7 +1928,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/53743029">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Asvel Lyon Villeurbanne - Fenerbahçe Istanbul</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1939,7 +1939,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/53743032">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">FC Bayern Münich - Vitoria</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1950,7 +1950,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/53743035">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Olympiakos Piraeus - Alba Berlin</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1961,7 +1961,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/53743033">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Real Madrid - Maccabi Tel Aviv</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1973,7 +1973,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55337583">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Baskets Bonn - Riesen Ludwigsburg</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1985,7 +1985,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55337600">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Murcia - Promitheas Patras BC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -1997,7 +1997,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55452169">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Reyer Venezia - BC Prometey</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2008,7 +2008,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55452174">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Club Joventut Badalona - Hapoel Tel-Aviv</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2020,7 +2020,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718093">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Valencia BC - PF Schio</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2031,7 +2031,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55135858">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Basket Zaragoza 2002 - AZS UMCS Lublin</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2042,7 +2042,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55497581">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Asvel Feminin - Acs Sepsi Sic</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2054,7 +2054,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55452234">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Cb Avenida Salamanca - Uni Gyor</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2065,7 +2065,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55452326">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Virtus Pallacanestro Bologna - Basket Landes</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2076,7 +2076,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55497587">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">ESB Villeneuve Dascq - CCC Polkowice</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2088,7 +2088,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454179">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Asc Denain Voltaire Ph - Antibes Sharks</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2099,7 +2099,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454181">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Stade Rochelais - Alm Evreux Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2110,7 +2110,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454182">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Boulazac Basket Dordogne - Rouen Metropole Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2121,7 +2121,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454183">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">BC Gries-Souffel - Fos Provence Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2132,7 +2132,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454184">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Champagne Basketball - Hermine Nantes Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2143,7 +2143,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454185">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Elan Bearnais Pau Lacq Orthez - Orleans Loiret Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2154,7 +2154,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454187">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Poitiers Basket 86 - Aix Maurienne Savoie Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2165,7 +2165,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55454189">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">JA Vichy-Clermont - Lille Metropole Basket</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2177,7 +2177,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55565366">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kk Jedinstvo Bijelo Polje - Kk Studentski Centar Podgorica</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2189,7 +2189,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55505840">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Zkk Celje - Zkk Triglav Kranj</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2206,7 +2206,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Buz Hokeyi</span><span class="count">20</span><i materialize="tooltip" class="sport-types-4 st-font-icons" data-tooltip="Buz Hokeyi" data-tooltip-id="faed6214-12a1-2a25-f99f-23d658d6d716"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718075">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">MODO Hockey - Frolunda Hc</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2217,7 +2217,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718080">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Leksands IF - Skelleftea AIK</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2228,7 +2228,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718082">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Vaxjo Lakers HC - Lulea HF</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2239,7 +2239,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718083">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Orebro HK - Rogle BK</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2250,7 +2250,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718085">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">HV71 - Farjestads BK</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2261,7 +2261,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718087">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Linkopings HC - IK Oskarshamn</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2273,7 +2273,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718098">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Red Bulls Salzburg - Fehervar AV19</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2285,7 +2285,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55158183">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Grenoble Bruleurs de Loups - Spartiates de Marseille</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2297,7 +2297,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54693145">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Dusseldorfer Eg - Eisbaren Berlin</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2308,7 +2308,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54693146">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kolner Haie - Fischtown Pinguins</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2320,7 +2320,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55507226">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">IHK Sparta Sarpsborg U20 - Lorenskog IK U20</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2332,7 +2332,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55507143">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">HK Olimpija - HDD Jesenice</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2344,7 +2344,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718104">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">EHC Kloten - Geneve Servette HC</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2355,7 +2355,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718126">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">HC Fribourg-Gotteron - EV Zug</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2366,7 +2366,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54718128">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">SC Rapperswil-Jona Lakers - HC Lausanne</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2377,7 +2377,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54719039">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Scl Tigers Langnau - HC Davos</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2388,7 +2388,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54719040">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">HC Ambri-Piotta - HC Ajoie</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2399,7 +2399,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54719045">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Zsc Lions Zurich - HC Lugano</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2410,7 +2410,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54915620">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">SC Bern - EHC Biel</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2422,7 +2422,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55507139">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">HC Biasca Ticino Rockets - EHC Visp</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2439,7 +2439,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Tenis</span><span class="count">13</span><i materialize="tooltip" class="sport-types-5 st-font-icons" data-tooltip="Tenis" data-tooltip-id="f4dd289a-9423-4dfe-b317-c19bd9efb14a"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55594154">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Llamas Ruiz, Pablo - Gasquet, Richard</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2451,7 +2451,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55572359">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Burel, Clara - Kraus, Sinja </span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2463,7 +2463,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55596258">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Ryser, Valentina - Ponchet, Jessika</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2475,7 +2475,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55598664">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Herazo Gonzalez, Maria Fernanda - Daavettila, Sara</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2486,7 +2486,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55598666">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Ngounoue, Clervie - Montgomery, Robin</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2497,7 +2497,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55598660">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kessler, McCartney - Min, Grace</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2508,7 +2508,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55598665">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Contreras Gomez, Fernanda - Wolff, Vivian</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2520,7 +2520,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55598701">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kozlov, Stefan - Kirchheimer, Strong</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2531,7 +2531,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55598699">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Gerch, Lucas - Brady, Patrick</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2543,7 +2543,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55555675">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Torres, Juan Bautista - Reis Da Silva, Joao Lucas</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2554,7 +2554,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55616903">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Sanchez Izquierdo, Nikolas - Feldbausch, Kilian</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2565,7 +2565,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55616902">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Weis, Alexander - Gomez, Federico Agustin</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2576,7 +2576,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55616901">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Rodriguez Taverna, Santiago FA - Dutra Da Silva, Daniel</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2593,7 +2593,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Voleybol</span><span class="count">7</span><i materialize="tooltip" class="sport-types-23 st-font-icons" data-tooltip="Voleybol" data-tooltip-id="7af13c2a-201f-3b37-9657-e1a2a3b4773f"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55589215">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">KS Rzeszow - Vakifbank SK</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2605,7 +2605,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55497336">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Cv Guaguas - Vk Lvi Praha</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2617,7 +2617,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55427018">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Jedinstvo Stara Pazova - Nuc Volleyball</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2628,7 +2628,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55450479">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Vasas Obuda Budapest - S F Paris Saint-Cloud</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2640,7 +2640,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55585264">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Apollon Limassol - AEK Larnaca</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2652,7 +2652,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568109">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Noujoum Jounieh - Bouchrieh</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2664,7 +2664,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568127">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Budowlany Bialstok - GKS Wiezyca Stezyca</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2681,7 +2681,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Snooker</span><span class="count">4</span><i materialize="tooltip" class="sport-types-19 st-font-icons" data-tooltip="Snooker" data-tooltip-id="c88be38c-c311-0bd5-cf5c-1d8367de223d"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55560159">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Gilbert, David - Brown, Jordan</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2692,7 +2692,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55560160">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Perry, Joe - Zihao, Xing</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2703,7 +2703,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55600585">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Allen, Mark - Heathcote, Louis</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2714,7 +2714,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55602905">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Davies, Alfie - Fu, Marco</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2731,7 +2731,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Hentbol</span><span class="count">6</span><i materialize="tooltip" class="sport-types-6 st-font-icons" data-tooltip="Hentbol" data-tooltip-id="7049b7c0-c01a-02b0-6552-f7a2058ab15a"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/54714667">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">HSG Bensheim/Auerbach - Buxtehuder SV</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2743,7 +2743,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55507138">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Skanderborg Haandbold - Ikast Haandbold</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2755,7 +2755,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55507206">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Hoej Elite - EH Aalborg</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2767,7 +2767,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55507146">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kolbotn HC - HK Herulf Moss</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2779,7 +2779,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568117">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Rimbo HK - HK Silwing/Troja</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2790,7 +2790,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568102">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">AIK - Borlange HK</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2807,7 +2807,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Salon Futbolu</span><span class="count">4</span><i materialize="tooltip" class="sport-types-29 st-font-icons" data-tooltip="Salon Futbolu" data-tooltip-id="270b2de2-18ac-a2f4-6a32-36280efb948a"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55507155">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kmn Bronx Skofije - Oplotnica</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2818,7 +2818,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568103">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kmn Sevnica - Kmn Meteorplast</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2829,7 +2829,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568104">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Kmn Dobovec - Kmn Oplast Kobarid</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2840,7 +2840,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55568106">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">FK Dobrepolje - Siliko Futsal</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2857,7 +2857,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Masa Tenisi</span><span class="count">7</span><i materialize="tooltip" class="sport-types-20 st-font-icons" data-tooltip="Masa Tenisi" data-tooltip-id="035363dc-e22a-da71-a687-b661cb9d3ac9"></i></a>
                                  <ol class="m3">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55610068">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Krejci, Tomas - Priscak, Petr</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2868,7 +2868,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55599445">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Stapor, Dawid - Kociuba, Filip</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2880,7 +2880,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55618101">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Martinko, Jiri - Kosolosky, Olav</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2892,7 +2892,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55593388">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Strus, Piotr - Kowalczyk, Marcin</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2904,7 +2904,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55587630">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Vana, Lubomir - Kabelka, Jan</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2915,7 +2915,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55587636">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Vrabec, David - Krok, Lukas</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2926,7 +2926,7 @@ if ($detect->isMobile()) {?>
                                        </a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" href="/tr/bet/live/detail/55587641">
+                                       <a routerlinkactive="active" >
                                           <span class="f-row flex-container"><span class="match flex-item">Rusnak, Ales - Dzida, Jan</span><i class="material-icons fvrt-add">star_border</i></span>
                                           <span class="s-row flex-container">
                                              <span class="match-info flex-item ng-star-inserted">
@@ -2952,635 +2952,635 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">96</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/world-cup-2026"><span class="text flex-item">Dünya Kupası 2026</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Dünya Kupası 2026</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/uefa-euro-2024"><span class="text flex-item">Avrupa Şampiyonası 2024</span><span class="count right">38</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Avrupa Şampiyonası 2024</span><span class="count right">38</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/ballon-dor-2024"><span class="text flex-item">Ballon Dor 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ballon Dor 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/copa-america-2024"><span class="text flex-item">Copa America 2024</span><span class="count right">25</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Copa America 2024</span><span class="count right">25</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/international/uefa-euro-2024-qualification"><span class="text flex-item">Avrupa Şampiyonası Elemeleri 2024</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Avrupa Şampiyonası Elemeleri 2024</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/int-friendly-games-2024"><span class="text flex-item">Uluslararası Hazırlık Maçları 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Uluslararası Hazırlık Maçları 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/wc-qual-conmebol-2025"><span class="text flex-item">Dünya Kupası Elemeler,CONMEBOL 2025</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Dünya Kupası Elemeler,CONMEBOL 2025</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/concacaf-nations-league-23-24"><span class="text flex-item">CONCACAF Uluslar Ligi 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CONCACAF Uluslar Ligi 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/africa-cup-of-nations-2023"><span class="text flex-item">Afrika Uluslar Kupası</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Afrika Uluslar Kupası</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international/afc-asian-cup-2023"><span class="text flex-item">AFC Asya Kupası</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">AFC Asya Kupası</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Türkiye</span><span class="count">28</span><i class="country icon-32xTUR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/turkiye/super-lig-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 23/24</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/turkiye/1-lig-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. Lig 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/turkiye/turkiye-kupasi-23-24"><span class="text flex-item">Türkiye Kupası 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Türkiye Kupası 23/24</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İngiltere</span><span class="count">92</span><i class="country icon-32xENG"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england/premier-league-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">19</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">19</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england/championship-23-24"><span class="text flex-item">Şampiyona 23/24</span><span class="count right">22</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyona 23/24</span><span class="count right">22</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england/league-one-23-24"><span class="text flex-item">Lig 1 23/24</span><span class="count right">19</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lig 1 23/24</span><span class="count right">19</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england/league-two-23-24"><span class="text flex-item">Lig 2 23/24</span><span class="count right">19</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lig 2 23/24</span><span class="count right">19</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/england/fa-cup-23-24"><span class="text flex-item">Federasyon Kupası 23/24</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Federasyon Kupası 23/24</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england/efl-cup-23-24"><span class="text flex-item">İngiltere Lig Kupası 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">İngiltere Lig Kupası 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england/efl-trophy-23-24"><span class="text flex-item">Football League Trophy 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Football League Trophy 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İspanya</span><span class="count">89</span><i class="country icon-32xESP"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/spain/laliga-23-24"><span class="text flex-item">LaLiga 23/24</span><span class="count right">28</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">LaLiga 23/24</span><span class="count right">28</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/spain/copa-del-rey-23-24"><span class="text flex-item">Copa del Rey 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Copa del Rey 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/spain/laliga-2-23-24"><span class="text flex-item">LaLiga 2 23/24</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">LaLiga 2 23/24</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/spain/segunda-federacion-23-24"><span class="text flex-item">Segunda Federacion 23/24</span><span class="count right">20</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Segunda Federacion 23/24</span><span class="count right">20</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/spain/primera-division-women-23-24"><span class="text flex-item">Premier Lig, Bayanlar 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Premier Lig, Bayanlar 23/24</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/spain/primera-federacion-23-24"><span class="text flex-item">Primera Federacion 23/24</span><span class="count right">19</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Primera Federacion 23/24</span><span class="count right">19</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted" style="display: none;">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Almanya</span><span class="count">53</span><i class="country icon-32xDEU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/germany/bundesliga-23-24"><span class="text flex-item">Bundesliga 23/24</span><span class="count right">25</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bundesliga 23/24</span><span class="count right">25</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/germany/2-bundesliga-23-24"><span class="text flex-item">2. Bundesliga 23/24</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">2. Bundesliga 23/24</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/germany/3-liga-23-24"><span class="text flex-item">3. Lig 23/24</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">3. Lig 23/24</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/germany/dfb-pokal-23-24"><span class="text flex-item">DFB Pokal 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">DFB Pokal 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Fransa</span><span class="count">55</span><i class="country icon-32xFRA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/france/ligue-1-23-24"><span class="text flex-item">Ligue 1 23/24</span><span class="count right">24</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ligue 1 23/24</span><span class="count right">24</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/france/ligue-2-23-24"><span class="text flex-item">Ligue 2 23/24</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ligue 2 23/24</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/france/coupe-de-france-23-24"><span class="text flex-item">Coupe de France 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Coupe de France 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/france/national-23-24"><span class="text flex-item">Ulusal 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ulusal 23/24</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/france/division-1-women-23-24"><span class="text flex-item">Lig 1,  Bayanlar 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Lig 1,  Bayanlar 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İtalya</span><span class="count">84</span><i class="country icon-32xITA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/serie-a-23-24"><span class="text flex-item">Serie A 23/24</span><span class="count right">25</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie A 23/24</span><span class="count right">25</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/serie-b-23-24"><span class="text flex-item">Serie B 23/24</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie B 23/24</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/coppa-italia-23-24"><span class="text flex-item">Coppa Italia 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Coppa Italia 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/serie-c-group-a-23-24"><span class="text flex-item">Serie C, Grup A 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie C, Grup A 23/24</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/italy/serie-c-group-b-23-24"><span class="text flex-item">Serie C, Grup B 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Serie C, Grup B 23/24</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/serie-c-group-c-23-24"><span class="text flex-item">Serie C, Grup C 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie C, Grup C 23/24</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/serie-d-girone-a-23-24"><span class="text flex-item">Serie D,A Grubu 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie D,A Grubu 23/24</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/serie-d-girone-b-23-24"><span class="text flex-item">Serie D,B Grubu 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie D,B Grubu 23/24</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/italy/serie-d-girone-i-23-24"><span class="text flex-item">Serie D,I Grubu 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie D,I Grubu 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Portekiz</span><span class="count">27</span><i class="country icon-32xPRT"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/portugal/liga-portugal-23-24"><span class="text flex-item">Liga Portugal 23/24</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga Portugal 23/24</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/portugal/taca-de-portugal-23-24"><span class="text flex-item">Taca de Portugal 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Taca de Portugal 23/24</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/portugal/liga-portugal-2-23-24"><span class="text flex-item">İkinci Lig 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">İkinci Lig 23/24</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/portugal/u23-liga-revelacao-23-24"><span class="text flex-item">U23 Şampiyonası 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">U23 Şampiyonası 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası Kulüpler</span><span class="count">127</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/uefa-champions-league-23-24"><span class="text flex-item">UEFA Şampiyonlar Ligi 23/24</span><span class="count right">47</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UEFA Şampiyonlar Ligi 23/24</span><span class="count right">47</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/uefa-europa-league-23-24"><span class="text flex-item">UEFA Avrupa Ligi 23/24</span><span class="count right">25</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UEFA Avrupa Ligi 23/24</span><span class="count right">25</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/uefa-europa-conference-league-23-24"><span class="text flex-item">UEFA Avrupa Konferans Ligi 23/24</span><span class="count right">25</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UEFA Avrupa Konferans Ligi 23/24</span><span class="count right">25</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/club-friendly-games-2024"><span class="text flex-item">Kulüp Hazırlık Maçları 2024</span><span class="count right">15</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Kulüp Hazırlık Maçları 2024</span><span class="count right">15</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/international-clubs/afc-champions-league-23-24"><span class="text flex-item">AFC Şampiyonlar Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">AFC Şampiyonlar Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/caf-champions-league-23-24"><span class="text flex-item">CAF Şampiyonlar Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CAF Şampiyonlar Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/caf-confederations-cup-23-24"><span class="text flex-item">CAF Konfederasyon Kupası 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CAF Konfederasyon Kupası 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/uefa-champions-league-women-23-24"><span class="text flex-item">UEFA Şampiyonlar Ligi Bayanlar 23/24</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UEFA Şampiyonlar Ligi Bayanlar 23/24</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-clubs/atlantic-cup-2024"><span class="text flex-item">Atlantik Kupası 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Atlantik Kupası 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Hollanda</span><span class="count">40</span><i class="country icon-32xNLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/netherlands/eredivisie-23-24"><span class="text flex-item">Eredivisie 23/24</span><span class="count right">22</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eredivisie 23/24</span><span class="count right">22</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/netherlands/eerste-divisie-23-24"><span class="text flex-item">Eerste Divisie 23/24</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eerste Divisie 23/24</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/netherlands/eredivisie-women-23-24"><span class="text flex-item">Eredivisie,Kadınlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eredivisie,Kadınlar 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/netherlands/knvb-beker-23-24"><span class="text flex-item">KNVB beker 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">KNVB beker 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Yunanistan</span><span class="count">30</span><i class="country icon-32xGRC"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/greece/super-league-23-24"><span class="text flex-item">Süper Lig 1 23/24</span><span class="count right">17</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 1 23/24</span><span class="count right">17</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/greece/greece-cup-23-24"><span class="text flex-item">Yunan Kupası 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Yunan Kupası 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/greece/super-league-2-23-24"><span class="text flex-item">Süper Lig 2 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 2 23/24</span><span class="count right">10</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Rusya</span><span class="count">37</span><i class="country icon-32xRUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/russia/premier-league-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">32</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">32</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/russia/russian-cup-23-24"><span class="text flex-item">Rusya Kupası 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Rusya Kupası 23/24</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/russia/1-liga-23-24"><span class="text flex-item">Ulusal Futbol Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ulusal Futbol Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avusturya</span><span class="count">14</span><i class="country icon-32xAUT"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/austria/bundesliga-23-24"><span class="text flex-item">Bundesliga 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bundesliga 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/austria/ofb-cup-23-24"><span class="text flex-item">ÖFB Stiegl Kupası 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ÖFB Stiegl Kupası 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Danimarka</span><span class="count">27</span><i class="country icon-32xDNK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/denmark/superliga-23-24"><span class="text flex-item">Superliga 23/24</span><span class="count right">16</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superliga 23/24</span><span class="count right">16</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/denmark/dbu-pokalen-23-24"><span class="text flex-item">Danimarka Kupası 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Danimarka Kupası 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/denmark/1-division-23-24"><span class="text flex-item">1.Lig 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1.Lig 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/denmark/2nd-division-23-24"><span class="text flex-item">2nd Division Doğu 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">2nd Division Doğu 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/denmark/kvindeligaen-women-23-24"><span class="text flex-item">Kvindeligaen, Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Kvindeligaen, Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsveç</span><span class="count">20</span><i class="country icon-32xSWE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/sweden/allsvenskan-2024"><span class="text flex-item">Allsvenskan 2024</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Allsvenskan 2024</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/sweden/superettan-2024"><span class="text flex-item">Superettan 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superettan 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/sweden/svenska-cup-23-24"><span class="text flex-item">İsveç Kupası 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">İsveç Kupası 23/24</span><span class="count right">9</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsviçre</span><span class="count">15</span><i class="country icon-32xCHE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/switzerland/super-league-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 23/24</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/switzerland/challenge-league-23-24"><span class="text flex-item">Challange Ligi 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Challange Ligi 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Belçika</span><span class="count">14</span><i class="country icon-32xBEL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/belgium/challenger-pro-league-23-24"><span class="text flex-item">Challenger Pro League 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Challenger Pro League 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/belgium/pro-league-23-24"><span class="text flex-item">Pro League 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Pro League 23/24</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İskoçya</span><span class="count">36</span><i class="country icon-32xSCO"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/scotland/premiership-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">14</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">14</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/scotland/championship-23-24"><span class="text flex-item">Şampiyona 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyona 23/24</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/scotland/scottish-cup-23-24"><span class="text flex-item">İskoç Kupası 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">İskoç Kupası 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/scotland/league-1-23-24"><span class="text flex-item">Lig 1 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lig 1 23/24</span><span class="count right">6</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/scotland/league-2-23-24"><span class="text flex-item">Lig 2 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Lig 2 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/scotland/challenge-cup-23-24"><span class="text flex-item">Challange Kupası 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Challange Kupası 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Cezayir</span><span class="count">1</span><i class="country icon-32xDZA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/algeria/ligue-1-23-24"><span class="text flex-item">Lig 1 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lig 1 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Arjantin</span><span class="count">29</span><i class="country icon-32xARG"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/argentina/primera-nacional-2024"><span class="text flex-item">Primera Nacional 2024</span><span class="count right">15</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Primera Nacional 2024</span><span class="count right">15</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/argentina/copa-de-la-liga-2024"><span class="text flex-item">Copa de la Liga 2024</span><span class="count right">14</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Copa de la Liga 2024</span><span class="count right">14</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">30</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/australia/victoria-npl1-2024"><span class="text flex-item">NPL,Victoria 2024</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NPL,Victoria 2024</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/australia/a-league-23-24"><span class="text flex-item">A-Ligi 23/24</span><span class="count right">17</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">A-Ligi 23/24</span><span class="count right">17</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/australia/a-league-women-23-24"><span class="text flex-item">A-League, Women 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">A-League, Women 23/24</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Azerbaycan</span><span class="count">5</span><i class="country icon-32xAZE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/azerbaijan/premier-league-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/azerbaijan/azerbaijan-cup-23-24"><span class="text flex-item">Azerbeycan Kupası 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Azerbeycan Kupası 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Botsvana</span><span class="count">1</span><i class="country icon-32xBWA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/botswana/premier-league-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Brezilya</span><span class="count">63</span><i class="country icon-32xBRA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/brasileiro-serie-a-2024"><span class="text flex-item">Brasilero Serie A 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Brasilero Serie A 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/brasileiro-serie-b-2024"><span class="text flex-item">Brasilero Seri B 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Brasilero Seri B 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/carioca-2024"><span class="text flex-item">Carioca 2024</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Carioca 2024</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/catarinense-2024"><span class="text flex-item">Catarinense 2024</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Catarinense 2024</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/brazil/paraibano-2024"><span class="text flex-item">Paraibano 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Paraibano 2024</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/cearense-2024"><span class="text flex-item">Cearense 2024</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Cearense 2024</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/mineiro-2024"><span class="text flex-item">Mineiro 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Mineiro 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/paulista-serie-a1-2024"><span class="text flex-item">Paulista Serie A1 2024</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Paulista Serie A1 2024</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/copa-do-nordeste-2024"><span class="text flex-item">Copa do Nordeste 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Copa do Nordeste 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/paranaense-2024"><span class="text flex-item">Paranaense 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Paranaense 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/baiano-2024"><span class="text flex-item">Baiano, 1 Divisao 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Baiano, 1 Divisao 2024</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/gaucho-2024"><span class="text flex-item">Gaucho 2024</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Gaucho 2024</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/sergipano-2024"><span class="text flex-item">Sergipano 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Sergipano 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/copa-do-brasil-2024"><span class="text flex-item">Copa do Brasil 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Copa do Brasil 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/maranhense-2024"><span class="text flex-item">Maranhense 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Maranhense 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/paulista-serie-a2-2024"><span class="text flex-item">Paulista, Serie A2 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Paulista, Serie A2 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/paulista-serie-a3-2024"><span class="text flex-item">Paulista,Serie A3 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Paulista,Serie A3 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/mato-grossense-2024"><span class="text flex-item">Mato-Grossense 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Mato-Grossense 2024</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/piauiense-2024"><span class="text flex-item">Piauiense 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Piauiense 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/campeonato-capixaba-2024"><span class="text flex-item">Campeonato Capixaba 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Campeonato Capixaba 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/goiano-2024"><span class="text flex-item">Goiano, 1. Lig 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Goiano, 1. Lig 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/campeonato-tocantinense-2024"><span class="text flex-item">Campeonato Tocantinense 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Campeonato Tocantinense 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/brazil/supercopa-do-brasil-2024"><span class="text flex-item">Süperkupa Brezilya 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süperkupa Brezilya 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Bulgaristan</span><span class="count">9</span><i class="country icon-32xBGR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/bulgaria/parva-liga-23-24"><span class="text flex-item">Parva Liga 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Parva Liga 23/24</span><span class="count right">9</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Burundi</span><span class="count">1</span><i class="country icon-32xBDI"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/burundi/ligue-a-23-24"><span class="text flex-item">Ligue A 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ligue A 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kolombiya</span><span class="count">19</span><i class="country icon-32xCOL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/colombia/primera-a-apertura-2024"><span class="text flex-item">Primera A, Apertura 2024</span><span class="count right">15</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Primera A, Apertura 2024</span><span class="count right">15</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/colombia/primera-b-2024"><span class="text flex-item">Primera B 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Primera B 2024</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Hırvatístan</span><span class="count">6</span><i class="country icon-32xHRV"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/croatia/hnl-23-24"><span class="text flex-item">HNL 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">HNL 23/24</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kıbrıs Rum Kesimi</span><span class="count">12</span><i class="country icon-32xCYP"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/cyprus/1st-division-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. Lig 23/24</span><span class="count right">12</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">12</span><i class="country icon-32xCZE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/czech-republic/1-liga-23-24"><span class="text flex-item">1st Division 23/24</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1st Division 23/24</span><span class="count right">12</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">El Salvador</span><span class="count">2</span><i class="country icon-32xSLV"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/el-salvador/primera-division-reserves-clausura-2024"><span class="text flex-item">Primera Division, Reserves, Kapanış 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Primera Division, Reserves, Kapanış 2024</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İngiltere Amatör</span><span class="count">51</span><i class="country icon-32xENG"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england-amateur/national-league-south-23-24"><span class="text flex-item">Konferans Güney 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Konferans Güney 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england-amateur/national-league-north-23-24"><span class="text flex-item">Konferans Kuzey 23/24</span><span class="count right">17</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Konferans Kuzey 23/24</span><span class="count right">17</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england-amateur/the-fa-women-s-super-league-23-24"><span class="text flex-item">Federasyon Kadınlar Süper Ligi 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Federasyon Kadınlar Süper Ligi 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england-amateur/southern-football-league-premier-division-central-23-24"><span class="text flex-item">Southern League Premier Central 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Southern League Premier Central 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/football/england-amateur/northern-premier-league-premier-division-23-24"><span class="text flex-item">Northern Premier League 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Northern Premier League 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england-amateur/isthmian-league-pr-div-23-24"><span class="text flex-item">Isthmian Football Leag. 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Isthmian Football Leag. 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england-amateur/southern-league-premier-south-23-24"><span class="text flex-item">Southern League Premier South 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Southern League Premier South 23/24</span><span class="count right">6</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/england-amateur/u21-premier-league-cup-23-24"><span class="text flex-item">Premier Lig Kupası 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig Kupası 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Finlandiya</span><span class="count">10</span><i class="country icon-32xFIN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/finland/liigacup-2024"><span class="text flex-item">Lig Kupası 2024</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lig Kupası 2024</span><span class="count right">6</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/finland/ykkosliigacup-2024"><span class="text flex-item">Ykkosliigacup 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ykkosliigacup 2024</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Almanya Amatör</span><span class="count">23</span><i class="country icon-32xDEU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/germany-amateur/regionalliga-north-23-24"><span class="text flex-item">Bölgesel Ligi, Kuzey 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bölgesel Ligi, Kuzey 23/24</span><span class="count right">5</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/germany-amateur/regionalliga-west-23-24"><span class="text flex-item">Regionalliga Batı 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Regionalliga Batı 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/germany-amateur/regionalliga-northeast-23-24"><span class="text flex-item">Bölgesel Ligi Kuzeydoğu 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bölgesel Ligi Kuzeydoğu 23/24</span><span class="count right">9</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Cebelitarık</span><span class="count">1</span><i class="country icon-32xGIB"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/gibraltar/rock-cup-2024"><span class="text flex-item">Rock Kupası 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Rock Kupası 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Guatemala</span><span class="count">4</span><i class="country icon-32xGTM"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/guatemala/liga-nacional-clausura-2024"><span class="text flex-item">Liga Nacional, Kapanış 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga Nacional, Kapanış 2024</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Honduras</span><span class="count">1</span><i class="country icon-32xHND"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/honduras/liga-nacional-clausura-2024"><span class="text flex-item">Liga Nacional. Kapanış 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga Nacional. Kapanış 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Macaristan</span><span class="count">9</span><i class="country icon-32xHUN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/hungary/nb-i-23-24"><span class="text flex-item">NB I 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NB I 23/24</span><span class="count right">9</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Hindistan</span><span class="count">4</span><i class="country icon-32xIND"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/india/indian-super-league-23-24"><span class="text flex-item">Hindistan Süper Ligi 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Hindistan Süper Ligi 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası Gençlik Ligi</span><span class="count">2</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/international-youth/conmebol-pre-olympic-tournament-2024"><span class="text flex-item">CONMEBOL Olimpiyat Elemeleri Turnuvası 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CONMEBOL Olimpiyat Elemeleri Turnuvası 2024</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İrlanda</span><span class="count">2</span><i class="country icon-32xIRL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/ireland/premier-division-2024"><span class="text flex-item">Premier Lig 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/ireland/first-division-2024"><span class="text flex-item">Birinci Lig 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Birinci Lig 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsrail</span><span class="count">8</span><i class="country icon-32xISR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/israel/premier-league-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Meksika</span><span class="count">34</span><i class="country icon-32xMEX"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/mexico/liga-mx-clausura-2024"><span class="text flex-item">Liga MX, Kapanış 2024</span><span class="count right">16</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga MX, Kapanış 2024</span><span class="count right">16</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/mexico/liga-mx-women-clausura-2024"><span class="text flex-item">Liga MX, Kadınlar, Kapanış 2024</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga MX, Kadınlar, Kapanış 2024</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/mexico/liga-de-expansion-mx-clausura-2024"><span class="text flex-item">Liga de Expansion MX, Kapanış 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga de Expansion MX, Kapanış 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/mexico/u23-liga-mx-apertura-2024"><span class="text flex-item">U23 Liga MX, Açılış 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">U23 Liga MX, Açılış 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kuzey İrlanda</span><span class="count">2</span><i class="country icon-32xNIR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/northern-ireland/premiership-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/northern-ireland/championship-23-24"><span class="text flex-item">Şampiyonası 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyonası 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Norveç</span><span class="count">1</span><i class="country icon-32xNOR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/norway/eliteserien-2024"><span class="text flex-item">Eliteserien 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eliteserien 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Paraguay</span><span class="count">4</span><i class="country icon-32xPRY"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/paraguay/division-de-honor-apertura-2024"><span class="text flex-item">Division de Honor, Açılış 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Division de Honor, Açılış 2024</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Polonya</span><span class="count">8</span><i class="country icon-32xPOL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/poland/ekstraklasa-23-24"><span class="text flex-item">Ekstraklasa 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ekstraklasa 23/24</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Romanya</span><span class="count">11</span><i class="country icon-32xROU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/romania/superliga-23-24"><span class="text flex-item">Liga 1 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga 1 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/romania/liga-2-23-24"><span class="text flex-item">Liga 2 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga 2 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Suudi Arabistan</span><span class="count">4</span><i class="country icon-32xSAU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/saudi-arabia/saudi-pro-league-23-24"><span class="text flex-item">Saudi.Prof. Ligi 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Saudi.Prof. Ligi 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/saudi-arabia/division-1-23-24"><span class="text flex-item">1.Lig 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1.Lig 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Simulated Reality League</span><span class="count">5</span><i class="country icon-32xSMRL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/simulated-reality-league/spanish-laliga-srl-19-20"><span class="text flex-item">LaLiga SRL 21/22</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">LaLiga SRL 21/22</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/simulated-reality-league/premier-league-srl-19-20"><span class="text flex-item">Premier League SRL 21/22</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier League SRL 21/22</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Slovakya</span><span class="count">7</span><i class="country icon-32xSVK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/slovakia/superliga-23-24"><span class="text flex-item">Superliga 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superliga 23/24</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Slovenya</span><span class="count">1</span><i class="country icon-32xSVN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/slovenia/prvaliga-23-24"><span class="text flex-item">PrvaLiga 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">PrvaLiga 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Güney Afrika</span><span class="count">2</span><i class="country icon-32xZAF"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/south-africa/premiership-23-24"><span class="text flex-item">Premiership 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premiership 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/south-africa/championship-23-24"><span class="text flex-item">Championship 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Championship 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Türkiye Amatör</span><span class="count">18</span><i class="country icon-32xTUR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/turkiye-amateur/2-lig-23-24"><span class="text flex-item">2. Lig 23/24</span><span class="count right">16</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">2. Lig 23/24</span><span class="count right">16</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/turkiye-amateur/u19-elit-b-23-24"><span class="text flex-item">U19 Elit B 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">U19 Elit B 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/turkiye-amateur/u19-elit-a-23-24"><span class="text flex-item">U19 Elit A 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">U19 Elit A 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uruguay</span><span class="count">1</span><i class="country icon-32xURY"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/uruguay/supercopa-uruguaya-2024"><span class="text flex-item">Süperkupa Uruguay 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süperkupa Uruguay 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ABD</span><span class="count">3</span><i class="country icon-32xUSA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/usa/mls-2024"><span class="text flex-item">ABD MLS 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ABD MLS 2024</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/usa/mls-preseason-2024"><span class="text flex-item">MLS Sezon Öncesi 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">MLS Sezon Öncesi 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Galler</span><span class="count">5</span><i class="country icon-32xWAL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/football/wales/cymru-premier-23-24"><span class="text flex-item">Cymru Premier 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Cymru Premier 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -3596,14 +3596,14 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Eadriatic League</span><span class="count">8</span><i class="country icon-32x"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/e-football/eadriatic-league/eadriatic-league"><span class="text flex-item">eAdriatic League</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">eAdriatic League</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Gt Sports League</span><span class="count">6</span><i class="country icon-32x"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/e-football/gt-sports-league/gt-leagues"><span class="text flex-item">GT Leagues</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">GT Leagues</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -3619,240 +3619,240 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">32</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/euroleague-23-24"><span class="text flex-item">Euroleague 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Euroleague 23/24</span><span class="count right">6</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/champions-league-23-24"><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/alpe-adria-cup-23-24"><span class="text flex-item">Alpe Adria Kupası 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Alpe Adria Kupası 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/united-league-23-24"><span class="text flex-item">United League 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">United League 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/basketball/international/eurocup-23-24"><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count right">5</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/estonian-latvian-league-23-24"><span class="text flex-item">Estonian-Latvian League 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Estonian-Latvian League 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/aba-liga-2-23-24"><span class="text flex-item">Aba Liga 2 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Aba Liga 2 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/europe-cup-23-24"><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count right">6</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/european-north-basketball-league-23-24"><span class="text flex-item">European North Basketball League 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">European North Basketball League 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/international/east-asia-super-league-23-24"><span class="text flex-item">Doğu Asya Süper Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Doğu Asya Süper Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Türkiye</span><span class="count">1</span><i class="country icon-32xTUR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/turkiye/super-lig-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ABD</span><span class="count">119</span><i class="country icon-32xUSA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/usa/nba-23-24"><span class="text flex-item">NBA 23/24</span><span class="count right">54</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NBA 23/24</span><span class="count right">54</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/usa/wnba-2024"><span class="text flex-item">WNBA 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">WNBA 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/usa/ncaa-regular-season-23-24"><span class="text flex-item">NCAA, Normal Sezon 23/24</span><span class="count right">55</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA, Normal Sezon 23/24</span><span class="count right">55</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/usa/ncaa-women-regular-season-23-24"><span class="text flex-item">NCAA Women, Normal Sezon 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Women, Normal Sezon 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/basketball/usa/nba-all-star-game-2024"><span class="text flex-item">NBA Yıldızlar Maçı 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">NBA Yıldızlar Maçı 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/usa/ncaa-division-i-national-championship-2024"><span class="text flex-item">NCAA Division I Ulusal Şampiyonası 2024</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Division I Ulusal Şampiyonası 2024</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/usa/ncaa-division-i-national-championship-women-23-24"><span class="text flex-item">NCAA Division I Ulusal Şampiyonası, Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Division I Ulusal Şampiyonası, Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/usa/nba-draft-2024"><span class="text flex-item">NBA Draftı 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NBA Draftı 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İspanya</span><span class="count">10</span><i class="country icon-32xESP"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/spain/liga-acb-23-24"><span class="text flex-item">Liga ACB 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga ACB 23/24</span><span class="count right">10</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted" style="display: none;">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Almanya</span><span class="count">2</span><i class="country icon-32xDEU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/germany/bbl-23-24"><span class="text flex-item">BBL 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">BBL 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/germany/1-dbbl-23-24"><span class="text flex-item">1st DBBL 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1st DBBL 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Arjantin</span><span class="count">8</span><i class="country icon-32xARG"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/argentina/lnb-23-24"><span class="text flex-item">LNB 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">LNB 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/argentina/liga-argentina-23-24"><span class="text flex-item">Liga Argentina 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga Argentina 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">11</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/australia/wnbl-23-24"><span class="text flex-item">WNBL 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">WNBL 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/australia/nbl-23-24"><span class="text flex-item">NBL 23/24</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NBL 23/24</span><span class="count right">10</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Brezilya</span><span class="count">1</span><i class="country icon-32xBRA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/brazil/copa-super-8-2024"><span class="text flex-item">Copa Super 8 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Copa Super 8 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çin</span><span class="count">5</span><i class="country icon-32xCHN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/china/cba-23-24"><span class="text flex-item">CBA 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CBA 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Hırvatístan</span><span class="count">4</span><i class="country icon-32xHRV"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/croatia/premijer-liga-23-24"><span class="text flex-item">Premier Lig 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier Lig 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">1</span><i class="country icon-32xCZE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/czech-republic/cesky-pohar-23-24"><span class="text flex-item">Cesky Pohar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Cesky Pohar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Danimarka</span><span class="count">3</span><i class="country icon-32xDNK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/denmark/basketligaen-23-24"><span class="text flex-item">Basketligaen 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Basketligaen 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İngiltere</span><span class="count">1</span><i class="country icon-32xENG"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/england/bbl-23-24"><span class="text flex-item">BBL 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">BBL 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Fransa</span><span class="count">9</span><i class="country icon-32xFRA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/france/pro-a-23-24"><span class="text flex-item">Pro A 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Pro A 23/24</span><span class="count right">9</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Yunanistan</span><span class="count">5</span><i class="country icon-32xGRC"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/greece/a1-23-24"><span class="text flex-item">A1 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">A1 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İzlanda</span><span class="count">2</span><i class="country icon-32xISL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/iceland/urvalsdeild-women-23-24"><span class="text flex-item">Urvalsdeild, Kadınlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Urvalsdeild, Kadınlar 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Endonezya</span><span class="count">1</span><i class="country icon-32xIDN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/indonesia/ibl-2024"><span class="text flex-item">IBL 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">IBL 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İran</span><span class="count">1</span><i class="country icon-32xIRN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/iran/super-league-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsrail</span><span class="count">2</span><i class="country icon-32xISR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/israel/super-league-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/israel/national-league-23-24"><span class="text flex-item">Ulusal Lig 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ulusal Lig 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İtalya</span><span class="count">7</span><i class="country icon-32xITA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/italy/serie-a-23-24"><span class="text flex-item">Serie A 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie A 23/24</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Japonya</span><span class="count">20</span><i class="country icon-32xJPN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/japan/b1-league-23-24"><span class="text flex-item">B1 League 23/24</span><span class="count right">13</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">B1 League 23/24</span><span class="count right">13</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/japan/b2-league-23-24"><span class="text flex-item">B2 League 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">B2 League 23/24</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Litvanya</span><span class="count">6</span><i class="country icon-32xLTU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/lithuania/nkl-23-24"><span class="text flex-item">NKL 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NKL 23/24</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Filipinler</span><span class="count">1</span><i class="country icon-32xPHL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/philippines/pba-commissioner-cup-23-24"><span class="text flex-item">PBA,Komisyoner Kupası 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">PBA,Komisyoner Kupası 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Polonya</span><span class="count">9</span><i class="country icon-32xPOL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/poland/basket-liga-23-24"><span class="text flex-item">PLK 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">PLK 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/poland/1-liga-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. Lig 23/24</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">1</span><i class="country icon-32xKOR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/republic-of-korea/wkbl-23-24"><span class="text flex-item">WKBL 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">WKBL 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Slovakya</span><span class="count">1</span><i class="country icon-32xSVK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/slovakia/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Extraliga 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsveç</span><span class="count">1</span><i class="country icon-32xSWE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/sweden/sbl-23-24"><span class="text flex-item">SBL 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">SBL 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uruguay</span><span class="count">5</span><i class="country icon-32xURY"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/basketball/uruguay/lub-23-24"><span class="text flex-item">LUB 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">LUB 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -3868,146 +3868,146 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ABD</span><span class="count">75</span><i class="country icon-32xUSA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/usa/nhl-23-24"><span class="text flex-item">NHL 23/24</span><span class="count right">51</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NHL 23/24</span><span class="count right">51</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/usa/ncaa-regular-season-23-24"><span class="text flex-item">NCAA Erkekler 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Erkekler 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/usa/echl-23-24"><span class="text flex-item">ECHL 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ECHL 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/usa/ahl-23-24"><span class="text flex-item">AHL 23/24</span><span class="count right">16</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">AHL 23/24</span><span class="count right">16</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/ice-hockey/usa/ncaa-division-i-national-championship-2024"><span class="text flex-item">NCAA Lig I Ulusal Şampiyona 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">NCAA Lig I Ulusal Şampiyona 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/usa/ncaa-division-i-national-championship-women-2024"><span class="text flex-item">NCAA Lig I Ulusal Şampiyona, Kadınlar 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Lig I Ulusal Şampiyona, Kadınlar 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/usa/pwhl-women-2024"><span class="text flex-item">PWHL, Women 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">PWHL, Women 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Rusya</span><span class="count">14</span><i class="country icon-32xRUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/russia/khl-23-24"><span class="text flex-item">KHL 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">KHL 23/24</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/russia/mhl-23-24"><span class="text flex-item">MHL 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">MHL 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/russia/vhl-23-24"><span class="text flex-item">VHL 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">VHL 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kanada</span><span class="count">12</span><i class="country icon-32xCAN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/canada/quebec-major-junior-hockey-league-23-24"><span class="text flex-item">Qmjhl 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Qmjhl 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/canada/whl-23-24"><span class="text flex-item">WHL 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">WHL 23/24</span><span class="count right">6</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/canada/ohl-23-24"><span class="text flex-item">OHL 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">OHL 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">3</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/international/world-championship-2024"><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/international/champions-hockey-league-23-24"><span class="text flex-item">Şampiyonlar Hokey Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyonlar Hokey Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/international/alps-hockey-league-23-24"><span class="text flex-item">Alps Hokey Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Alps Hokey Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted" style="display: none;">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Finlandiya</span><span class="count">4</span><i class="country icon-32xFIN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/finland/liiga-23-24"><span class="text flex-item">Liiga 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liiga 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/finland/mestis-23-24"><span class="text flex-item">Mestis 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Mestis 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsveç</span><span class="count">22</span><i class="country icon-32xSWE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/sweden/allsvenskan-23-24"><span class="text flex-item">Hockey Allsvenskan 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Hockey Allsvenskan 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/sweden/hockeyettan-23-24"><span class="text flex-item">HockeyEttan 23/24</span><span class="count right">14</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">HockeyEttan 23/24</span><span class="count right">14</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Beyaz Rusya</span><span class="count">3</span><i class="country icon-32xBLR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/belarus/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Extraliga 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avusturya</span><span class="count">6</span><i class="country icon-32xAUT"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/austria/ice-hockey-league-23-24"><span class="text flex-item">EHL 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">EHL 23/24</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">16</span><i class="country icon-32xCZE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/czech-republic/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Extraliga 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/czech-republic/1-liga-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. Lig 23/24</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Danimarka</span><span class="count">1</span><i class="country icon-32xDNK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/denmark/superisligaen-23-24"><span class="text flex-item">Superisligaen 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superisligaen 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Almanya</span><span class="count">1</span><i class="country icon-32xDEU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/germany/del-23-24"><span class="text flex-item">Del 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Del 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kazakistan</span><span class="count">1</span><i class="country icon-32xKAZ"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/kazakhstan/pro-hockey-league-23-24"><span class="text flex-item">Pro Hokey Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Pro Hokey Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Letonya</span><span class="count">4</span><i class="country icon-32xLVA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/latvia/latvian-hockey-league-23-24"><span class="text flex-item">Litvanya Hokey Ligi 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Litvanya Hokey Ligi 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Norveç</span><span class="count">4</span><i class="country icon-32xNOR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/norway/1st-division-23-24"><span class="text flex-item">1st Division 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1st Division 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/norway/eliteserien-23-24"><span class="text flex-item">Eliteserien 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eliteserien 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Polonya</span><span class="count">3</span><i class="country icon-32xPOL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/poland/polska-hokej-liga-23-24"><span class="text flex-item">Polonya Hokey Ligi 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Polonya Hokey Ligi 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Slovakya</span><span class="count">14</span><i class="country icon-32xSVK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/slovakia/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Extraliga 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ice-hockey/slovakia/shl-23-24"><span class="text flex-item">SHL 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">SHL 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4023,131 +4023,131 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ATP</span><span class="count">21</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/atp/us-open-men-singles-2024"><span class="text flex-item">Amerika Açık Erkekler Tekler 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Amerika Açık Erkekler Tekler 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/atp/wimbledon-men-singles-2024"><span class="text flex-item">Wimbledon Tek Erkekler 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Wimbledon Tek Erkekler 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/atp/french-open-men-singles-2024"><span class="text flex-item">Fransa Açık Erkekler Tekler 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Fransa Açık Erkekler Tekler 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/atp/australian-open-men-singles-2025"><span class="text flex-item">Avustralya Açık Erkekler Tekler 2025</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Avustralya Açık Erkekler Tekler 2025</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/tennis/atp/atp-montpellier-france-men-doubles-2024"><span class="text flex-item">ATP Montpellier, Fransa Erkekler Çiftler 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">ATP Montpellier, Fransa Erkekler Çiftler 2024</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/atp/atp-montpellier-france-men-singles-2024"><span class="text flex-item">ATP Montpellier, Fransa Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Montpellier, Fransa Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/atp/grand-slam-2024"><span class="text flex-item">Grand Slam 2024</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Grand Slam 2024</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">WTA</span><span class="count">40</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/us-open-women-singles-2024"><span class="text flex-item">Amerika Açık Kadınlar Tekler 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Amerika Açık Kadınlar Tekler 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/french-open-women-singles-2024"><span class="text flex-item">Fransa Açık Kadınlar Tekler 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Fransa Açık Kadınlar Tekler 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/australian-open-women-singles-2025"><span class="text flex-item">Avustralya Açık Kadınlar Tekler 2025</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Avustralya Açık Kadınlar Tekler 2025</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/wimbledon-women-singles-2024"><span class="text flex-item">Wimbledon Kadınlar Tekler 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Wimbledon Kadınlar Tekler 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/tennis/wta/wta-linz-austria-women-singles-2024"><span class="text flex-item">WTA Linz, Avusturya Kadınlar Tekler 2024</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">WTA Linz, Avusturya Kadınlar Tekler 2024</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/wta-linz-austria-women-doubles-2024"><span class="text flex-item">WTA Linz, Avusturya Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">WTA Linz, Avusturya Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/grand-slam-2024"><span class="text flex-item">Grand Slam 2024</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Grand Slam 2024</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/wta-hua-hin-thailand-women-doubles-2024"><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/wta/wta-hua-hin-thailand-women-singles-2024"><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Tekler 2024</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">WTA Hua Hin, Tayland Kadınlar Tekler 2024</span><span class="count right">9</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ITF Erkekler</span><span class="count">70</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-egypt-f1-men-singles-2024"><span class="text flex-item">ITF Mısır F1, Erkekler Tekler 2024</span><span class="count right">15</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Mısır F1, Erkekler Tekler 2024</span><span class="count right">15</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-egypt-f1-men-doubles-2024"><span class="text flex-item">ITF Mısır F1, Erkekler Çiftler 2024</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Mısır F1, Erkekler Çiftler 2024</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-turkey-f4-men-singles-2024"><span class="text flex-item">ITF Türkiye F4, Erkekler Tekler 2024</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Türkiye F4, Erkekler Tekler 2024</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-turkey-f4-men-doubles-2024"><span class="text flex-item">ITF Türkiye F4, Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Türkiye F4, Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-tunisia-f5-men-singles-2024"><span class="text flex-item">ITF Tunus F5, Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">ITF Tunus F5, Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-tunisia-f5-men-doubles-2024"><span class="text flex-item">ITF Tunus F5, Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Tunus F5, Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-tunisia-f6-men-singles-2024"><span class="text flex-item">ITF Tunus F6, Erkekler Tekler 2024</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Tunus F6, Erkekler Tekler 2024</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-france-f3-men-singles-2024"><span class="text flex-item">ITF Fransa F3, Erkekler Tekler 2024</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Fransa F3, Erkekler Tekler 2024</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-men/itf-france-f3-men-doubles-2024"><span class="text flex-item">ITF Fransa F3, Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Fransa F3, Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ITF Kadınlar</span><span class="count">105</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-egypt-01a-women-singles-2024"><span class="text flex-item">ITF Mısır 01A, Kadınlar Tekler 2024</span><span class="count right">14</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Mısır 01A, Kadınlar Tekler 2024</span><span class="count right">14</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-turkey-04a-women-singles-2024"><span class="text flex-item">ITF Türkiye 04A, Kadınlar Tekler 2024</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Türkiye 04A, Kadınlar Tekler 2024</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-turkey-04a-women-doubles-2024"><span class="text flex-item">ITF Türkiye 04A, Kadınlar Çiftler 2024</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Türkiye 04A, Kadınlar Çiftler 2024</span><span class="count right">5</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-tunisia-05a-women-singles-2024"><span class="text flex-item">ITF Tunus 05A, Kadınlar Tekler 2024</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Tunus 05A, Kadınlar Tekler 2024</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-tunisia-05a-women-doubles-2024"><span class="text flex-item">ITF Tunus 05A, Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">ITF Tunus 05A, Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-france-05a-women-singles-2024"><span class="text flex-item">ITF Fransa 05A, Kadınlar Tekler 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Fransa 05A, Kadınlar Tekler 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-portugal-02a-women-singles-2024"><span class="text flex-item">ITF Portekiz 02A, Kadınlar Tekler 2024</span><span class="count right">11</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Portekiz 02A, Kadınlar Tekler 2024</span><span class="count right">11</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-australia-01a-women-singles-2024"><span class="text flex-item">ITF Avustralya 01A, Kadınlar Tekler 2024</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Avustralya 01A, Kadınlar Tekler 2024</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-australia-01a-women-doubles-2024"><span class="text flex-item">ITF Avustralya 01A, Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Avustralya 01A, Kadınlar Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-india-03a-women-singles-2024"><span class="text flex-item">ITF Hindistan 03A, Kadınlar Tekler 2024</span><span class="count right">13</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Hindistan 03A, Kadınlar Tekler 2024</span><span class="count right">13</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-india-03a-women-doubles-2024"><span class="text flex-item">ITF Hindistan 03A, Kadınlar Çiftler 2024</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF Hindistan 03A, Kadınlar Çiftler 2024</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-usa-05a-women-singles-2024"><span class="text flex-item">ITF ABD 05A, Kadınlar Tekler 2024</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF ABD 05A, Kadınlar Tekler 2024</span><span class="count right">5</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/itf-women/itf-usa-05a-women-doubles-2024"><span class="text flex-item">ITF ABD 05A, Kadınlar Çiftler 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ITF ABD 05A, Kadınlar Çiftler 2024</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted" style="display: none;">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Challenger</span><span class="count">55</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-cleveland-usa-men-singles-2024"><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-cleveland-usa-men-doubles-2024"><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Çiftler 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Challenger Cleveland, ABD Erkekler Çiftler 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-piracicaba-brazil-men-singles-2024"><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Singles 2024</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Singles 2024</span><span class="count right">5</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-piracicaba-brazil-men-doubles-2024"><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Doubles 2024</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Challenger Piracicaba, Brazil Men Doubles 2024</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-koblenz-germany-men-singles-2024"><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Tekler 2024</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Tekler 2024</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-koblenz-germany-men-doubles-2024"><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Challenger Koblenz, Almanya Erkekler Çiftler 2024</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-burnie-australia-men-singles-2024"><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Tekler 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/challenger/atp-challenger-burnie-australia-men-doubles-2024"><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Çiftler 2024</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ATP Challenger Burnie, Avustralya Erkekler Çiftler 2024</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Simulated Reality</span><span class="count">8</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/simulated-reality/srl-winter-invitational-belem-bra-2024"><span class="text flex-item">SRL Winter Invitational Belem, BRA 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">SRL Winter Invitational Belem, BRA 2024</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Simulated Reality Women</span><span class="count">8</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/tennis/simulated-reality-women/srl-winter-invitational-upper-hutt-nzl-women"><span class="text flex-item">SRL Winter Invitational Upper Hutt, NZL, Women</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">SRL Winter Invitational Upper Hutt, NZL, Women</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4163,172 +4163,172 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">14</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/international/cev-champions-league-women-23-24"><span class="text flex-item">Kadınlar Şampiyonlar Ligi 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Kadınlar Şampiyonlar Ligi 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/international/champions-league-23-24"><span class="text flex-item">CEV Şampiyonlar Ligi 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CEV Şampiyonlar Ligi 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/international/cev-challenge-cup-23-24"><span class="text flex-item">CEV Challenge Cup 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CEV Challenge Cup 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/international/cev-cup-23-24"><span class="text flex-item">CEV Kupası 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CEV Kupası 23/24</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/volleyball/international/cev-cup-women-23-24"><span class="text flex-item">CEV Kupası,Bayanlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">CEV Kupası,Bayanlar 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/international/challenge-cup-women-23-24"><span class="text flex-item">Challange Kupası Bayanlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Challange Kupası Bayanlar 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Fransa</span><span class="count">2</span><i class="country icon-32xFRA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/france/ligue-a-23-24"><span class="text flex-item">Lig A 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lig A 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Rusya</span><span class="count">20</span><i class="country icon-32xRUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/russia/superliga-23-24"><span class="text flex-item">Superliga 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superliga 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/russia/pro-league"><span class="text flex-item">Pro League</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Pro League</span><span class="count right">5</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/russia/superliga-women-23-24"><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Arjantin</span><span class="count">1</span><i class="country icon-32xARG"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/argentina/liga-argentina-23-24"><span class="text flex-item">Liga Argentina A1 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga Argentina A1 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted" style="display: none;">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Belçika</span><span class="count">3</span><i class="country icon-32xBEL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/belgium/liga-heren-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. Lig 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Brezilya</span><span class="count">9</span><i class="country icon-32xBRA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/brazil/superliga-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/brazil/superliga-women-23-24"><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superliga, Kadınlar 23/24</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çin</span><span class="count">4</span><i class="country icon-32xCHN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/china/china-volleyball-league-23-24"><span class="text flex-item">China Volleyball League 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">China Volleyball League 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Almanya</span><span class="count">2</span><i class="country icon-32xDEU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/germany/1st-bundesliga-women-23-24"><span class="text flex-item">1.Bundesliga Bayanlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1.Bundesliga Bayanlar 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/germany/1st-bundesliga-23-24"><span class="text flex-item">1st Bundesliga 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1st Bundesliga 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Yunanistan</span><span class="count">1</span><i class="country icon-32xGRC"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/greece/pre-league-women-23-24"><span class="text flex-item">Pre League, Women 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Pre League, Women 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İran</span><span class="count">2</span><i class="country icon-32xIRN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/iran/super-league-23-24"><span class="text flex-item">Super League 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Super League 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İtalya</span><span class="count">6</span><i class="country icon-32xITA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/italy/serie-a1-women-23-24"><span class="text flex-item">Serie A Bayanlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie A Bayanlar 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/italy/superlega-23-24"><span class="text flex-item">Superlega 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superlega 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/italy/serie-a2-23-24"><span class="text flex-item">Serie A2 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Serie A2 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/italy/coppa-italia-a2-women-2024"><span class="text flex-item">Coppa Italia A2, Women 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Coppa Italia A2, Women 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Hollanda</span><span class="count">4</span><i class="country icon-32xNLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/netherlands/eredivisie-23-24"><span class="text flex-item">Eredivisie 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eredivisie 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Polonya</span><span class="count">7</span><i class="country icon-32xPOL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/poland/liga-siatkowki-women-23-24"><span class="text flex-item">Liga Siatkowki, Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga Siatkowki, Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/poland/puchar-polski-women-23-24"><span class="text flex-item">Polonya Kupası, Kadınlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Polonya Kupası, Kadınlar 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/poland/1-liga-23-24"><span class="text flex-item">1. Liga 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. Liga 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Portekiz</span><span class="count">1</span><i class="country icon-32xPRT"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/portugal/liga-a1-23-24"><span class="text flex-item">Liga A1 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga A1 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">2</span><i class="country icon-32xKOR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/republic-of-korea/v-league-23-24"><span class="text flex-item">V Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">V Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/republic-of-korea/v-league-women-23-24"><span class="text flex-item">V Ligi,Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">V Ligi,Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Romanya</span><span class="count">1</span><i class="country icon-32xROU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/romania/div-1-women-23-24"><span class="text flex-item">Div 1, Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Div 1, Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Sırbistan</span><span class="count">2</span><i class="country icon-32xSRB"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/serbia/superliga-23-24"><span class="text flex-item">Superliga 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superliga 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Slovakya</span><span class="count">1</span><i class="country icon-32xSVK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/slovakia/extraliga-women-23-24"><span class="text flex-item">Extraliga, Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Extraliga, Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Slovenya</span><span class="count">3</span><i class="country icon-32xSVN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/slovenia/1-dol-23-24"><span class="text flex-item">1. DOL 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. DOL 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Türkiye</span><span class="count">3</span><i class="country icon-32xTUR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/turkiye/efeler-ligi-23-24"><span class="text flex-item">Efeler Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Efeler Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/volleyball/turkiye/sultanlar-ligi-women-23-24"><span class="text flex-item">Sultanlar Ligi, Kadınlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Sultanlar Ligi, Kadınlar 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4344,11 +4344,11 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">7</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/snooker/international/world-championship-2024"><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Dünya Şampiyonası 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/snooker/international/championship-league-2024"><span class="text flex-item">Şampiyona Ligi 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyona Ligi 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/snooker/international/german-masters-2024"><span class="text flex-item">German Masters 2024</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">German Masters 2024</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4364,24 +4364,24 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kanada</span><span class="count">1</span><i class="country icon-32xCAN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/american-football/canada/cfl-2024"><span class="text flex-item">CFL 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">CFL 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ABD</span><span class="count">56</span><i class="country icon-32xUSA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/american-football/usa/nfl-23-24"><span class="text flex-item">NFL 23/24</span><span class="count right">50</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NFL 23/24</span><span class="count right">50</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/american-football/usa/nfl-24-25"><span class="text flex-item">NFL 24/25</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NFL 24/25</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/american-football/usa/ncaa-division-i-fbs-post-season-24-25"><span class="text flex-item">NCAA Ligi I, FBS Sezon Sonrası 24/25</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Ligi I, FBS Sezon Sonrası 24/25</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/american-football/usa/ncaa-regular-season-2024"><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/american-football/usa/east-west-shrine-game-2024"><span class="text flex-item">East-West shrine maçı 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">East-West shrine maçı 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/american-football/usa/nfl-draft-2024"><span class="text flex-item">NFL Draftı 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NFL Draftı 2024</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4397,108 +4397,108 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">27</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/international/champions-league-23-24"><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/international/champions-league-women-23-24"><span class="text flex-item">Şampiyonlar Hokey Ligi Bayanlar 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyonlar Hokey Ligi Bayanlar 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/international/ehf-european-league-23-24"><span class="text flex-item">EHF Avrupa Ligi 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">EHF Avrupa Ligi 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/international/mol-liga-women-23-24"><span class="text flex-item">Mol Liga, Women 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Mol Liga, Women 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İspanya</span><span class="count">10</span><i class="country icon-32xESP"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/spain/liga-asobal-23-24"><span class="text flex-item">Liga Asobal 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Liga Asobal 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/spain/division-de-honor-fem-23-24"><span class="text flex-item">Division De Honor, Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Division De Honor, Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Almanya</span><span class="count">12</span><i class="country icon-32xDEU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/germany/dhb-pokal-23-24"><span class="text flex-item">DHB Pokal 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">DHB Pokal 23/24</span><span class="count right">4</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/germany/bundesliga-23-24"><span class="text flex-item">Bundesliga 23/24</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bundesliga 23/24</span><span class="count right">6</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/germany/bundesliga-women-23-24"><span class="text flex-item">Bundesliga, Kadınlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bundesliga, Kadınlar 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Danimarka</span><span class="count">12</span><i class="country icon-32xDNK"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/denmark/handboldligaen-23-24"><span class="text flex-item">Handboldligaen 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Handboldligaen 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/denmark/kvindeligaen-women-23-24"><span class="text flex-item">Kvindeligaen 23/24</span><span class="count right">4</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Kvindeligaen 23/24</span><span class="count right">4</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted" style="display: none;">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">5</span><i class="country icon-32xCZE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/czech-republic/extraliga-23-24"><span class="text flex-item">Extraliga 23/24</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Extraliga 23/24</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Fransa</span><span class="count">3</span><i class="country icon-32xFRA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/france/lnh-division-1-23-24"><span class="text flex-item">Lnh Starligue 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lnh Starligue 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/france/coupe-de-france-women-2024"><span class="text flex-item">Fransa Kupası, Kadınlar 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Fransa Kupası, Kadınlar 2024</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsrail</span><span class="count">3</span><i class="country icon-32xISR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/israel/division-1-23-24"><span class="text flex-item">Lig 1 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Lig 1 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Norveç</span><span class="count">17</span><i class="country icon-32xNOR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/norway/eliteserien-23-24"><span class="text flex-item">Eliteserien 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eliteserien 23/24</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/norway/eliteserien-women-23-24"><span class="text flex-item">Eliteserien Kadınlar 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Eliteserien Kadınlar 23/24</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/norway/1-division-23-24"><span class="text flex-item">1. Lig 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">1. Lig 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Polonya</span><span class="count">1</span><i class="country icon-32xPOL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/poland/superliga-women-23-24"><span class="text flex-item">Superliga Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Superliga Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">2</span><i class="country icon-32xKOR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/republic-of-korea/korea-handball-league-women-23-24"><span class="text flex-item">Korea Handball League, Women 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Korea Handball League, Women 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Romanya</span><span class="count">2</span><i class="country icon-32xROU"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/romania/liga-nationala-women-23-24"><span class="text flex-item">Ulusal Lig,Kadınlar 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ulusal Lig,Kadınlar 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsveç</span><span class="count">11</span><i class="country icon-32xSWE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/sweden/handbollsligan-23-24"><span class="text flex-item">Handbollsligan 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Handbollsligan 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/sweden/allsvenskan-23-24"><span class="text flex-item">Allsvenskan 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Allsvenskan 23/24</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/handball/sweden/elitserien-women-23-24"><span class="text flex-item">Elitserien, Kadınlar 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Elitserien, Kadınlar 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4514,32 +4514,32 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ABD</span><span class="count">90</span><i class="country icon-32xUSA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/baseball/usa/mlb-2024"><span class="text flex-item">MLB 2024</span><span class="count right">88</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">MLB 2024</span><span class="count right">88</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/baseball/usa/ncaa-division-i-national-championship-2024"><span class="text flex-item">NCAA Division I, Şampiyona 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Division I, Şampiyona 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/baseball/usa/ncaa-regular-season-2024"><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA, Normal Sezon 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Japonya</span><span class="count">1</span><i class="country icon-32xJPN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/baseball/japan/npb-2024"><span class="text flex-item">NPB 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NPB 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">1</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/baseball/australia/abl-23-24"><span class="text flex-item">ABL 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ABL 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">1</span><i class="country icon-32xKOR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/baseball/republic-of-korea/kbo-league-2024"><span class="text flex-item">KBO Ligi 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">KBO Ligi 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4555,7 +4555,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">20</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/aussie-rules/australia/afl-2024"><span class="text flex-item">AFL 2024</span><span class="count right">20</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">AFL 2024</span><span class="count right">20</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4571,32 +4571,32 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Erkekler</span><span class="count">97</span><i class="country icon-32xGOLF"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/us-masters-2024"><span class="text flex-item">US Masters 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">US Masters 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/pga-championship-2024"><span class="text flex-item">Pga Championship 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Pga Championship 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/the-us-open-2024"><span class="text flex-item">The US Open 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">The US Open 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/the-open-championship"><span class="text flex-item">The Open Championship</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">The Open Championship</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/golf/men/ryder-cup-2025"><span class="text flex-item">Ryder Cup 2025</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Ryder Cup 2025</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/at-t-pebble-beach-pro-am-2024"><span class="text flex-item">AT&amp;T Pebble Beach Pro-Am 2024</span><span class="count right">33</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">AT&amp;T Pebble Beach Pro-Am 2024</span><span class="count right">33</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/bahrain-championship-2024"><span class="text flex-item">Bahrain Championship 2024</span><span class="count right">56</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bahrain Championship 2024</span><span class="count right">56</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/the-panama-championship-2024"><span class="text flex-item">The Panama Championship 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">The Panama Championship 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/vic-open-2024"><span class="text flex-item">Vic Open 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Vic Open 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/men/liv-golf-invitational-tour-mayakoba-2024"><span class="text flex-item">LIV Golf Invitational Tour Mayakoba 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">LIV Golf Invitational Tour Mayakoba 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kadınlar</span><span class="count">1</span><i class="country icon-32xGOLF"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/golf/women/solheim-cup-2024"><span class="text flex-item">Solheim Cup 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Solheim Cup 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4612,34 +4612,34 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Ragbi Ligi</span><span class="count">31</span><i class="country icon-32xRUGB"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-league/nrl-premiership-2024"><span class="text flex-item">NRL 2024</span><span class="count right">18</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NRL 2024</span><span class="count right">18</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-league/super-league-2024"><span class="text flex-item">Süper Lig 2024</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 2024</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-league/rfl-challenge-cup-2024"><span class="text flex-item">RFL Challenge Kupası 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">RFL Challenge Kupası 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-league/rfl-championship-2024"><span class="text flex-item">RFL Şampiyonası 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">RFL Şampiyonası 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/rugby/rugby-league/world-club-series-2024"><span class="text flex-item">World Club Series 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">World Club Series 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Ragbi Birliği</span><span class="count">99</span><i class="country icon-32xRUGB"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-union/english-premiership-23-24"><span class="text flex-item">English Premiership 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">English Premiership 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-union/top-14-23-24"><span class="text flex-item">Top 14 23/24</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Top 14 23/24</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-union/world-cup-2027"><span class="text flex-item">Dünya Kupası 2027</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Dünya Kupası 2027</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-union/european-rugby-champions-cup-23-24"><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Avrupa Kupası 23/24</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/rugby/rugby-union/united-rugby-championship-23-24"><span class="text flex-item">United Rugby Championship 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">United Rugby Championship 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-union/six-nations-2024"><span class="text flex-item">Altı Uluslar 2024</span><span class="count right">78</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Altı Uluslar 2024</span><span class="count right">78</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/rugby/rugby-union/super-rugby-2024"><span class="text flex-item">Super Rugby 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Super Rugby 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4655,13 +4655,13 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">57</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/dart/international/pdc-world-championship-24-25"><span class="text flex-item">PDC Dünya Şampiyonası 24/25</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">PDC Dünya Şampiyonası 24/25</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/dart/international/premier-league-2024"><span class="text flex-item">Premier League 2024</span><span class="count right">23</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Premier League 2024</span><span class="count right">23</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/dart/international/the-masters-2024"><span class="text flex-item">Masters 2024</span><span class="count right">18</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Masters 2024</span><span class="count right">18</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/dart/international/modus-super-series"><span class="text flex-item">Modus Super Series</span><span class="count right">15</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Modus Super Series</span><span class="count right">15</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4677,16 +4677,16 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">45</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/table-tennis/international/tt-cup"><span class="text flex-item">TT Cup</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">TT Cup</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/table-tennis/international/tt-elite-series"><span class="text flex-item">TT Elite Series</span><span class="count right">33</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">TT Elite Series</span><span class="count right">33</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">155</span><i class="country icon-32xCZE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/table-tennis/czech-republic/czech-liga-pro"><span class="text flex-item">Czech Liga Pro</span><span class="count right">155</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Czech Liga Pro</span><span class="count right">155</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4702,54 +4702,54 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">4</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/australia/national-cricket-league-women-23-24"><span class="text flex-item">Ulusal Kriket Ligi, Kadınlar 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ulusal Kriket Ligi, Kadınlar 23/24</span><span class="count right">3</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/australia/marsh-one-day-cup-23-24"><span class="text flex-item">Marsh One-Day Cup 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Marsh One-Day Cup 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Bangladeş</span><span class="count">2</span><i class="country icon-32xBGD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/bangladesh/bangladesh-premier-league-2024"><span class="text flex-item">Bangladesh Premier League 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bangladesh Premier League 2024</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">6</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/international/world-cup-2027"><span class="text flex-item">World Cup 2027</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">World Cup 2027</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/international/test-series-the-ashes-25-26"><span class="text flex-item">Test Series The Ashes 25/26</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Test Series The Ashes 25/26</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/international/test-series-india-vs-england-2024"><span class="text flex-item">Test Series India vs. England 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Test Series India vs. England 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/international/t20-world-cup-2024"><span class="text flex-item">T20 World Cup 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">T20 World Cup 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/cricket/international/u19-world-cup-2024"><span class="text flex-item">U19 World Cup 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">U19 World Cup 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/international/odi-series-australia-vs-west-indies-2024"><span class="text flex-item">ODI Series Australia vs West Indies 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ODI Series Australia vs West Indies 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Yeni Zelanda</span><span class="count">3</span><i class="country icon-32xNZL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/new-zealand/ford-trophy-23-24"><span class="text flex-item">Ford Kupası 23/24</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ford Kupası 23/24</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted" style="display: none;">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Güney Afrika</span><span class="count">1</span><i class="country icon-32xZAF"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/south-africa/t20-league-2024"><span class="text flex-item">T20 League 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">T20 League 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">BAE</span><span class="count">3</span><i class="country icon-32xARE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cricket/united-arab-emirates/international-league-t20-2024"><span class="text flex-item">International League T20 2024</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">International League T20 2024</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4765,7 +4765,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">3</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/bowls/international/grand-prix-bowls"><span class="text flex-item">Bowling Grand Prix</span><span class="count right">3</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bowling Grand Prix</span><span class="count right">3</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4781,13 +4781,13 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">4</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cycling/international/tour-de-france"><span class="text flex-item">Tour de France</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Tour de France</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cycling/international/ronde-van-vlaanderen-tour-des-flandres"><span class="text flex-item">Ronde van Vlaanderen - Tour des Flandres</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Ronde van Vlaanderen - Tour des Flandres</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cycling/international/paris-roubaix"><span class="text flex-item">Paris-Roubaix</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Paris-Roubaix</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cycling/international/milano-sanremo"><span class="text flex-item">Milano-Sanremo</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Milano-Sanremo</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4803,7 +4803,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">68</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/boxing/international/international-matchups"><span class="text flex-item">Uluslararası Eşleşme</span><span class="count right">68</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Uluslararası Eşleşme</span><span class="count right">68</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4819,21 +4819,21 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">UFC</span><span class="count">71</span><i class="country icon-32xMMAA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-298-volkanovski-vs-topuria-2024"><span class="text flex-item">UFC 298: Volkanovski vs. Topuria 2024</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UFC 298: Volkanovski vs. Topuria 2024</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-299-o-malley-vs-vera-2-2024"><span class="text flex-item">UFC 299: O'Malley vs. Vera 2 2024</span><span class="count right">10</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UFC 299: O'Malley vs. Vera 2 2024</span><span class="count right">10</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-fight-night-hermansson-vs-pyfer-2024"><span class="text flex-item">UFC Fight Night: Hermansson vs. Pyfer 2024</span><span class="count right">13</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UFC Fight Night: Hermansson vs. Pyfer 2024</span><span class="count right">13</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-fight-night-dolidze-vs-imavov-2024"><span class="text flex-item">UFC Fight Night: Dolidze vs. Imavov 2024</span><span class="count right">13</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UFC Fight Night: Dolidze vs. Imavov 2024</span><span class="count right">13</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-fight-night-moreno-vs-royval-2-2024"><span class="text flex-item">UFC Fight Night: Moreno vs. Royval 2 2024</span><span class="count right">12</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">UFC Fight Night: Moreno vs. Royval 2 2024</span><span class="count right">12</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-300-2024"><span class="text flex-item">UFC 300 2024</span><span class="count right">9</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UFC 300 2024</span><span class="count right">9</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-fight-night-tuivasa-vs-tybura-2024"><span class="text flex-item">UFC Fight Night: Tuivasa vs. Tybura 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UFC Fight Night: Tuivasa vs. Tybura 2024</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/mma/ufc/ufc-fight-night-ribas-vs-namajunas-2024"><span class="text flex-item">UFC Fight Night: Ribas vs. Namajunas 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">UFC Fight Night: Ribas vs. Namajunas 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4849,32 +4849,32 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Biatlon Erkekler</span><span class="count">9</span><i class="country icon-32xBIAT"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon/biathlon-23-24"><span class="text flex-item">Biathlon 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Biathlon 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon/nove-mesto-na-morave-cze-4x7-5km-relay"><span class="text flex-item">Nove Mesto Na Morave (CZE), 4x7.5km Relay</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 4x7.5km Relay</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon/nove-mesto-na-morave-cze-12-5km-pursuit"><span class="text flex-item">Nove Mesto Na Morave (CZE), 12.5km Pursuit</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 12.5km Pursuit</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon/nove-mesto-na-morave-cze-10km-sprint"><span class="text flex-item">Nove Mesto Na Morave (CZE), 10km Sprint</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 10km Sprint</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/biathlon/biathlon/nove-mesto-na-morave-cze-15km-mass-start"><span class="text flex-item">Nove Mesto Na Morave (CZE), 15km Mass Start</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 15km Mass Start</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon/nove-mesto-na-morave-cze-20km-individual"><span class="text flex-item">Nove Mesto Na Morave (CZE), 20km Individual</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 20km Individual</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon/nove-mesto-na-morave-cze-mixed-relay"><span class="text flex-item">Nove Mesto Na Morave (CZE), Mixed Relay</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), Mixed Relay</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Biatlon Kadınlar</span><span class="count">6</span><i class="country icon-32xBIAT"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon-women/overall-women-biathlon-2023-24"><span class="text flex-item">Overall Women, Biathlon 2023/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Overall Women, Biathlon 2023/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon-women/nove-mesto-na-morave-cze-4x6km-relay"><span class="text flex-item">Nove Mesto Na Morave (CZE), 4x6km Relay</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 4x6km Relay</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon-women/nove-mesto-na-morave-cze-7-5km-sprint"><span class="text flex-item">Nove Mesto Na Morave (CZE), 7.5km Sprint</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 7.5km Sprint</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/biathlon/biathlon-women/nove-mesto-na-morave-cze-12-5km-mass-start"><span class="text flex-item">Nove Mesto Na Morave (CZE), 12.5km Mass Start</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nove Mesto Na Morave (CZE), 12.5km Mass Start</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4890,14 +4890,14 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Rusya</span><span class="count">7</span><i class="country icon-32xRUS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/bandy/russia/superliga-23-24"><span class="text flex-item">Süper Lig 23/24</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Süper Lig 23/24</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsveç</span><span class="count">2</span><i class="country icon-32xSWE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/bandy/sweden/elitserien-23-24"><span class="text flex-item">Elitserien 23/24</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Elitserien 23/24</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4913,7 +4913,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Özel</span><span class="count">1</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/olympics/specials/olympic-tournament-medals-2024"><span class="text flex-item">Olympic Tournament Medals 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Olympic Tournament Medals 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4929,7 +4929,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İrlanda</span><span class="count">5</span><i class="country icon-32xIRL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/gaelic-football/ireland/gaa-senior-championship-2024"><span class="text flex-item">Gaa Senior Championship 2024</span><span class="count right">5</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Gaa Senior Championship 2024</span><span class="count right">5</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4945,7 +4945,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İrlanda</span><span class="count">1</span><i class="country icon-32xIRL"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/gaelic-hurling/ireland/gaa-all-ireland-senior-championship-2024"><span class="text flex-item">Gaa Senior Championship 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Gaa Senior Championship 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4961,7 +4961,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">1</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/speedway/international/speedway-world-championship-2024"><span class="text flex-item">Speedway World Championship 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Speedway World Championship 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -4977,92 +4977,92 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Eğlence</span><span class="count">30</span><i class="country icon-32xSPEC"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-actor"><span class="text flex-item">Oscar - En İyi Erkek Oyuncu</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Erkek Oyuncu</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-actress"><span class="text flex-item">Oscar - En İyi Kadın Oyuncu</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Kadın Oyuncu</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-director"><span class="text flex-item">Oscar - En İyi Yönetmen</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Yönetmen</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-supporting-actor"><span class="text flex-item">Oscar - En İyi Yardımcı Erkek Oyuncu</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Yardımcı Erkek Oyuncu</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-supporting-actress"><span class="text flex-item">Oscar - En İyi Yardımcı Kadın Oyuncu</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Yardımcı Kadın Oyuncu</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-writing-adapted-screenplay"><span class="text flex-item">Oscar - En İyi Uyarlama Senaryo</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Uyarlama Senaryo</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-writing-original-screenplay"><span class="text flex-item">Oscar - En İyi Orijinal Senaryo</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Orijinal Senaryo</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-animated-feature-film"><span class="text flex-item">Oscar - En İyi Animasyon</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Animasyon</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-film-editing"><span class="text flex-item">Oscar - En İyi Düzenleme</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Düzenleme</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-music-original-score"><span class="text flex-item">Oscar - En İyi Orijinal Film Müziği</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Orijinal Film Müziği</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-costume-design"><span class="text flex-item">Oscar - En İyi Kostüm</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Kostüm</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-visual-effects"><span class="text flex-item">Oscar - En İyi Efekt</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Efekt</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-music-original-song"><span class="text flex-item">Oscar - En İyi Orijinal Şarkı</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Orijinal Şarkı</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-makeup-and-hairstyling"><span class="text flex-item">Oscar - En İyi Makyaj ve Saç</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Makyaj ve Saç</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-documentary-feature"><span class="text flex-item">Oscar - En İyi Belgesel Film</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Belgesel Film</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-live-action-short-film"><span class="text flex-item">Oscar - En İyi Canlı Aksiyon Kısa Film</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Canlı Aksiyon Kısa Film</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-documentary-short-subject"><span class="text flex-item">Oscar - Best Documentary Short Subject</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - Best Documentary Short Subject</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-animated-short-film"><span class="text flex-item">Oscar - En İyi Animasyon Kısa Film</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Animasyon Kısa Film</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/bafta-best-actor"><span class="text flex-item">Bafta - Best Actor</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bafta - Best Actor</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/bafta-best-director"><span class="text flex-item">Bafta - Best Director</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bafta - Best Director</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/bafta-best-supporting-actor"><span class="text flex-item">BAFTA - Best Supporting Actor</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">BAFTA - Best Supporting Actor</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/bafta-best-actress"><span class="text flex-item">Bafta - Best Actress</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bafta - Best Actress</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/bafta-best-film"><span class="text flex-item">Bafta - Best Film</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bafta - Best Film</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-picture"><span class="text flex-item">Oscar - Best Picture</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - Best Picture</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/big-brother-brazil"><span class="text flex-item">Big Brother Brazil</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Big Brother Brazil</span><span class="count right">2</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/bafta-best-supporting-actress"><span class="text flex-item">BAFTA - Best Supporting Actress</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">BAFTA - Best Supporting Actress</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-foreign-movie"><span class="text flex-item">Oscar - En İyi Yabancı Film</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - En İyi Yabancı Film</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/oscar-best-sound"><span class="text flex-item">Oscar - Best Sound</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Oscar - Best Sound</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/entertainment/dancing-on-ice"><span class="text flex-item">Dancing On Ice 2023</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Dancing On Ice 2023</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Müzik</span><span class="count">1</span><i class="country icon-32xSPEC"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/music/san-remo-festival"><span class="text flex-item">San Remo Festival</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">San Remo Festival</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Politika</span><span class="count">5</span><i class="country icon-32xSPEC"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/politics/presidential-election-winning-party"><span class="text flex-item">Başkanlık Seçimi - Kazanan Parti</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Başkanlık Seçimi - Kazanan Parti</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/politics/us-presidential-election-2024"><span class="text flex-item">ABD Başkanlık Seçimi 2024 </span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">ABD Başkanlık Seçimi 2024 </span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/politics/us-presidential-election-2024-democratic-preside"><span class="text flex-item">US Presidential Election 2024 - Democratic Preside</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">US Presidential Election 2024 - Democratic Preside</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/politics/us-presidential-election-2024-republican-preside"><span class="text flex-item">US Presidential Election 2024 - Republican Preside</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">US Presidential Election 2024 - Republican Preside</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/specials/politics/uk-politics-london-mayoral-election"><span class="text flex-item">UK Politics - London Mayoral Election</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">UK Politics - London Mayoral Election</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Spor</span><span class="count">1</span><i class="country icon-32xSPEC"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/specials/sports/bbc-sports-personality"><span class="text flex-item">BBC Yılın Sporcusu Ödülü</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">BBC Yılın Sporcusu Ödülü</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5078,7 +5078,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsveç</span><span class="count">1</span><i class="country icon-32xSWE"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/floorball/sweden/svenska-superligan-23-24"><span class="text flex-item">Svenska Superligan 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Svenska Superligan 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5094,20 +5094,20 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Macaristan</span><span class="count">1</span><i class="country icon-32xHUN"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/waterpolo/hungary/ob-i-23-24"><span class="text flex-item">OB I 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">OB I 23/24</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">18</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/waterpolo/international/champions-league-23-24"><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Şampiyonlar Ligi 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/waterpolo/international/len-champions-league-women-23-24"><span class="text flex-item">Len Champions League, Women 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Len Champions League, Women 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/waterpolo/international/world-championship-2024"><span class="text flex-item">FINA Dünya Şampiyonası 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">FINA Dünya Şampiyonası 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/waterpolo/international/world-championship-women-2024"><span class="text flex-item">World Championship, Women 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">World Championship, Women 2024</span><span class="count right">8</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5123,15 +5123,15 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Nascar</span><span class="count">55</span><i class="country icon-32xNSCR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/stock-car-racing/nascar/nascar-cup-series-2024"><span class="text flex-item">Nascar Cup Series 2024</span><span class="count right">39</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nascar Cup Series 2024</span><span class="count right">39</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/stock-car-racing/nascar/daytona"><span class="text flex-item">Daytona</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Daytona</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/stock-car-racing/nascar/los-angeles-california"><span class="text flex-item">Los Angeles, California</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Los Angeles, California</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/stock-car-racing/nascar/nascar-xfinity-series-2024"><span class="text flex-item">Nascar Xfinity Series 2024</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Nascar Xfinity Series 2024</span><span class="count right">7</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/stock-car-racing/nascar/nascar-camping-world-truck-series-2023"><span class="text flex-item">Nascar Camping World Truck Series 2023</span><span class="count right">7</span></a></li>
+                                    <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><span class="text flex-item">Nascar Camping World Truck Series 2023</span><span class="count right">7</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5147,9 +5147,9 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Indycar</span><span class="count">9</span><i class="country icon-32xMOTR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/indy-racing/indycar/indycar-2024"><span class="text flex-item">Indycar 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Indycar 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/indy-racing/indycar/indianapolis-500"><span class="text flex-item">Indianapolis 500</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Indianapolis 500</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5165,9 +5165,9 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Erkekler Bireysel Normal Tepe</span><span class="count">2</span><i class="country icon-32xSKIJ"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ski-jumping/ski-jumping/overall"><span class="text flex-item">Overall</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Overall</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/ski-jumping/ski-jumping/willingen-ger-hs-147"><span class="text flex-item">Willingen (GER), HS 147</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Willingen (GER), HS 147</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5183,9 +5183,9 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kayaklı Koşu Kadınlar</span><span class="count">2</span><i class="country icon-32xCROS"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cross-country/cross-country-women/canmore-can-sprint-f"><span class="text flex-item">Canmore (CAN), Sprint F</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Canmore (CAN), Sprint F</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/cross-country/cross-country-women/canmore-can-10-km-f"><span class="text flex-item">Canmore (CAN), 10 km F</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Canmore (CAN), 10 km F</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5201,9 +5201,9 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslar arası</span><span class="count">14</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/squash/international/the-sturbridge-capital-motor-city-open-2024"><span class="text flex-item">The Sturbridge Capital Motor City Open 2024</span><span class="count right">8</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">The Sturbridge Capital Motor City Open 2024</span><span class="count right">8</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/squash/international/bahl-and-gaynor-cincinnati-cup-women-2024"><span class="text flex-item">Bahl and Gaynor Cincinnati Cup, Women 2024</span><span class="count right">6</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bahl and Gaynor Cincinnati Cup, Women 2024</span><span class="count right">6</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5219,9 +5219,9 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Formula 1</span><span class="count">48</span><i class="country icon-32xFORF"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/formula-1/formula-1/formula-1-2024"><span class="text flex-item">Formula 1 2024</span><span class="count right">47</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Formula 1 2024</span><span class="count right">47</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/formula-1/formula-1/bahrain-grand-prix-2024"><span class="text flex-item">Bahrain Grand Prix 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Bahrain Grand Prix 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5237,7 +5237,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Formula E</span><span class="count">2</span><i class="country icon-32xMOTR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/formula-e/formula-e/formula-e-2024"><span class="text flex-item">Formula E 2024</span><span class="count right">2</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">Formula E 2024</span><span class="count right">2</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5253,9 +5253,9 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ABD</span><span class="count">2</span><i class="country icon-32xUSA"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/lacrosse/usa/national-lacrosse-league-regular-season-23-24"><span class="text flex-item">National Lacrosse League, Regular Season 23/24</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">National Lacrosse League, Regular Season 23/24</span><span class="count right">1</span></a></li>
                                     <!---->
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/lacrosse/usa/ncaa-division-i-national-championship-2024"><span class="text flex-item">NCAA Division I National Championship 2024</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">NCAA Division I National Championship 2024</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5271,7 +5271,7 @@ if ($detect->isMobile()) {?>
                               <li class="ng-star-inserted">
                                  <a href="javascript:;" class="flex-container"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Moto GP</span><span class="count">1</span><i class="country icon-32xMOTR"></i></a>
                                  <ol class="m3">
-                                    <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/motorcycle-racing/motogp/motogp-2023"><span class="text flex-item">MotoGP 2023</span><span class="count right">1</span></a></li>
+                                    <li class="ng-star-inserted"><a class="flex-container" ><span class="text flex-item">MotoGP 2023</span><span class="count right">1</span></a></li>
                                     <!----><!---->
                                  </ol>
                               </li>
@@ -5324,25 +5324,25 @@ if ($detect->isMobile()) {?>
                                  <li class="ng-star-inserted">
                                     <a href="javascript:;" class="flex-container ng-star-inserted"><span class="text flex-item">Golden Race Sanallar</span><i class="material-icons arrow">keyboard_arrow_right</i></a>
                                     <ul class="m3 ng-star-inserted">
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10163"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">World Cup</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">World Cup</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10187"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">World Cup - ondemand</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">World Cup - ondemand</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10423"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Turkey League</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Turkey League</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10177"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">England League</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">England League</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted" style="display: none;"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10191"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">England League - ondemand</span></a></li>
+                                       <li class="ng-star-inserted" style="display: none;"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">England League - ondemand</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10281"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Germany League</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Germany League</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10284"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Germany League - ondemand</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Germany League - ondemand</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10203"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Horses 6</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Horses 6</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10206"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Horses 6 - On Demand</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Horses 6 - On Demand</span></a></li>
                                        <!---->
-                                       <li class="ng-star-inserted"><a class="flex-container" href="/tr/bet/virtuals/golden-race/10159"><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Spin2Win</span></a></li>
+                                       <li class="ng-star-inserted"><a class="flex-container" ><i class="svg-font-icons sport-types-1 pg-icons"></i><span class="text flex-item">Spin2Win</span></a></li>
                                        <!----><!---->
                                        <li class="ng-star-inserted">
                                           <a href="javascript:;" class="flex-container justify-between all-less">
@@ -5372,7 +5372,7 @@ if ($detect->isMobile()) {?>
             <app-bet-main>
                <egt-jackpot-banner>
                   <div id="com-egt-jackpot-html-jackpotBanner" class="com-egt-jackpot-html-md" style="padding: 10px 0px; position: relative;">
-                     <a target="_blank" href="/tr/games/casino/egt" class="com-egt-jackpot-html-logo com-egt-jackpot-html-mobile" style="height: 48px;"></a>
+                     <a target="_blank"  class="com-egt-jackpot-html-logo com-egt-jackpot-html-mobile" style="height: 48px;"></a>
                      <div class="com-egt-jackpot-html-box com-egt-jackpot-html-IV com-egt-jackpot-html-equal" style="border-width: 2px; border-radius: 6px; border-style: solid; border-color: rgb(82, 77, 81); height: 48px; display: block; z-index: 30001;">
                         <div class="com-egt-jackpot-html-value">
                            <div class="com-egt-jackpot-html-numbers com-egt-jackpot-html-first"></div>
@@ -5414,7 +5414,7 @@ if ($detect->isMobile()) {?>
                            <area shape="poly" href="javascript: void(0);" coords="0,0,296,0,296,48,0,48">
                         </map>
                      </div>
-                     <a target="_blank" href="/tr/games/casino/egt" class="com-egt-jackpot-html-logo" style="height: 48px;"></a>
+                     <a target="_blank"  class="com-egt-jackpot-html-logo" style="height: 48px;"></a>
                      <div class="com-egt-jackpot-html-box com-egt-jackpot-html-II com-egt-jackpot-html-equal" style="border-width: 2px; border-radius: 6px; border-style: solid; border-color: rgb(82, 77, 81); height: 48px; display: block; z-index: 30001;">
                         <div class="com-egt-jackpot-html-value">
                            <div class="com-egt-jackpot-html-numbers com-egt-jackpot-html-first"></div>
@@ -5666,7 +5666,7 @@ if ($detect->isMobile()) {?>
                         <div class="modul-content">
                            <div class="liveOverview-container ng-star-inserted">
                               <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                                 <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/54937120">
+                                 <a class="first-content flex-container flex-item ng-star-inserted" >
                                     <div class="match flex-item flex-container">
                                        <span href="javascript:;" class="match-name left">
                                           <div class="match-info ng-star-inserted">
@@ -5744,14 +5744,14 @@ if ($detect->isMobile()) {?>
                                     <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                     <div class="other-container">
                                        <div class="other-title center-align"> Diğer </div>
-                                       <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/54937120">+471</a>
+                                       <a class="btn other-btn waves-effect waves-light" >+471</a>
                                     </div>
                                  </div>
                                  <!---->
                               </div>
                               <!----><!---->
                               <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                                 <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/54937115">
+                                 <a class="first-content flex-container flex-item ng-star-inserted" >
                                     <div class="match flex-item flex-container">
                                        <span href="javascript:;" class="match-name left">
                                           <div class="match-info ng-star-inserted">
@@ -5829,14 +5829,14 @@ if ($detect->isMobile()) {?>
                                     <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                     <div class="other-container">
                                        <div class="other-title center-align"> Diğer </div>
-                                       <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/54937115">+609</a>
+                                       <a class="btn other-btn waves-effect waves-light" >+609</a>
                                     </div>
                                  </div>
                                  <!---->
                               </div>
                               <!----><!---->
                               <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                                 <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/54937116">
+                                 <a class="first-content flex-container flex-item ng-star-inserted" >
                                     <div class="match flex-item flex-container">
                                        <span href="javascript:;" class="match-name left">
                                           <div class="match-info ng-star-inserted">
@@ -5914,14 +5914,14 @@ if ($detect->isMobile()) {?>
                                     <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                     <div class="other-container">
                                        <div class="other-title center-align"> Diğer </div>
-                                       <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/54937116">+611</a>
+                                       <a class="btn other-btn waves-effect waves-light" >+611</a>
                                     </div>
                                  </div>
                                  <!---->
                               </div>
                               <!----><!----><!---->
                               <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                                 <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55251598">
+                                 <a class="first-content flex-container flex-item ng-star-inserted" >
                                     <div class="match flex-item flex-container">
                                        <span href="javascript:;" class="match-name left">
                                           <div class="match-info ng-star-inserted">
@@ -5999,14 +5999,14 @@ if ($detect->isMobile()) {?>
                                     <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                     <div class="other-container">
                                        <div class="other-title center-align"> Diğer </div>
-                                       <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55251598">+597</a>
+                                       <a class="btn other-btn waves-effect waves-light" >+597</a>
                                     </div>
                                  </div>
                                  <!---->
                               </div>
                               <!----><!---->
                               <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                                 <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55251599">
+                                 <a class="first-content flex-container flex-item ng-star-inserted" >
                                     <div class="match flex-item flex-container">
                                        <span href="javascript:;" class="match-name left">
                                           <div class="match-info ng-star-inserted">
@@ -6084,13 +6084,13 @@ if ($detect->isMobile()) {?>
                                     <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                     <div class="other-container">
                                        <div class="other-title center-align"> Diğer </div>
-                                       <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55251599">+595</a>
+                                       <a class="btn other-btn waves-effect waves-light" >+595</a>
                                     </div>
                                  </div>
                                  <!---->
                               </div>
                               <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                              <div class="show-all-box ng-star-inserted"><span class="show-all-info">43 Canlı Futbol Karşılaşması </span><a routerlinkactive="active" class="btn show-all-btn" href="/tr/bet/live/170">Tümünü Göster</a></div>
+                              <div class="show-all-box ng-star-inserted"><span class="show-all-info">43 Canlı Futbol Karşılaşması </span><a routerlinkactive="active" class="btn show-all-btn" >Tümünü Göster</a></div>
                               <!---->
                            </div>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
@@ -6114,87 +6114,87 @@ if ($detect->isMobile()) {?>
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/e-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>14</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>14</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/basketball" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>2</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>2</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>6</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>6</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/virtuals" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate">Sanal Sporlar</span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate">Sanal Sporlar</span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/table-tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>24</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>24</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/football" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>20</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>20</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/e-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>14</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>14</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/basketball" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>2</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>2</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>6</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>6</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/virtuals" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate">Sanal Sporlar</span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate">Sanal Sporlar</span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/table-tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>24</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>24</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/football" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>20</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>20</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/e-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>14</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>14</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/basketball" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>2</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>2</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>6</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>6</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/virtuals" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate">Sanal Sporlar</span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-1 svg-font-icons"></i></span><span class="type truncate">Sanal Sporlar</span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-1 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/today-events/table-tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>24</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>24</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!----><!---->
@@ -10889,117 +10889,117 @@ if ($detect->isMobile()) {?>
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/olympics" class="href-item"><span class="icon"><i class="pg-icons sport-types-30 st-font-icons"></i></span><span class="type truncate"> Olimpiyat Oyunları <br><small>13</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-30 st-font-icons"></i></span><span class="type truncate"> Olimpiyat Oyunları <br><small>13</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/gaelic-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-135 st-font-icons"></i></span><span class="type truncate"> Gal Futbolu <br><small>66</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-135 st-font-icons"></i></span><span class="type truncate"> Gal Futbolu <br><small>66</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/gaelic-hurling" class="href-item"><span class="icon"><i class="pg-icons sport-types-136 st-font-icons"></i></span><span class="type truncate"> Hurling <br><small>17</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-136 st-font-icons"></i></span><span class="type truncate"> Hurling <br><small>17</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/speedway" class="href-item"><span class="icon"><i class="pg-icons sport-types-131 st-font-icons"></i></span><span class="type truncate"> Speedway <br><small>15</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-131 st-font-icons"></i></span><span class="type truncate"> Speedway <br><small>15</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/specials" class="href-item"><span class="icon"><i class="pg-icons sport-types-18 st-font-icons"></i></span><span class="type truncate"> Özel Bahisler <br><small>338</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-18 st-font-icons"></i></span><span class="type truncate"> Özel Bahisler <br><small>338</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/waterpolo" class="href-item"><span class="icon"><i class="pg-icons sport-types-26 st-font-icons"></i></span><span class="type truncate"> Sutopu <br><small>258</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-26 st-font-icons"></i></span><span class="type truncate"> Sutopu <br><small>258</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/stock-car-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-191 st-font-icons"></i></span><span class="type truncate"> Stok Araba Yarışı <br><small>315</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-191 st-font-icons"></i></span><span class="type truncate"> Stok Araba Yarışı <br><small>315</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/indy-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-129 st-font-icons"></i></span><span class="type truncate"> Indy Yarışı <br><small>68</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-129 st-font-icons"></i></span><span class="type truncate"> Indy Yarışı <br><small>68</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/ski-jumping" class="href-item"><span class="icon"><i class="pg-icons sport-types-48 st-font-icons"></i></span><span class="type truncate"> Kayakla Atlama <br><small>50</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-48 st-font-icons"></i></span><span class="type truncate"> Kayakla Atlama <br><small>50</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/cross-country" class="href-item"><span class="icon"><i class="pg-icons sport-types-46 st-font-icons"></i></span><span class="type truncate"> Kros Kayak <br><small>54</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-46 st-font-icons"></i></span><span class="type truncate"> Kros Kayak <br><small>54</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/formula-1" class="href-item"><span class="icon"><i class="pg-icons sport-types-40 st-font-icons"></i></span><span class="type truncate"> Formula 1 <br><small>157</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-40 st-font-icons"></i></span><span class="type truncate"> Formula 1 <br><small>157</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/formula-e" class="href-item"><span class="icon"><i class="pg-icons sport-types-142 st-font-icons"></i></span><span class="type truncate"> Formula E <br><small>33</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-142 st-font-icons"></i></span><span class="type truncate"> Formula E <br><small>33</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/lacrosse" class="href-item"><span class="icon"><i class="pg-icons sport-types-39 st-font-icons"></i></span><span class="type truncate"> Lakros <br><small>85</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-39 st-font-icons"></i></span><span class="type truncate"> Lakros <br><small>85</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/motorcycle-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-190 st-font-icons"></i></span><span class="type truncate"> Motorsiklet Yarışı <br><small>22</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-190 st-font-icons"></i></span><span class="type truncate"> Motorsiklet Yarışı <br><small>22</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/football" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>3146</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>3146</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/basketball" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>964</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>964</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/ice-hockey" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>592</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>592</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>378</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>378</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/volleyball" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>206</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>206</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/snooker" class="href-item"><span class="icon"><i class="pg-icons sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker <br><small>172</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker <br><small>172</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/american-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-16 st-font-icons"></i></span><span class="type truncate"> Amerikan Futbolu <br><small>419</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-16 st-font-icons"></i></span><span class="type truncate"> Amerikan Futbolu <br><small>419</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/handball" class="href-item"><span class="icon"><i class="pg-icons sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol <br><small>87</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol <br><small>87</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/baseball" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>872</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>872</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
@@ -11008,147 +11008,147 @@ if ($detect->isMobile()) {?>
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/golf" class="href-item"><span class="icon"><i class="pg-icons sport-types-9 st-font-icons"></i></span><span class="type truncate"> Golf <br><small>1662</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-9 st-font-icons"></i></span><span class="type truncate"> Golf <br><small>1662</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/rugby" class="href-item"><span class="icon"><i class="pg-icons sport-types-12 st-font-icons"></i></span><span class="type truncate"> Ragbi <br><small>1051</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-12 st-font-icons"></i></span><span class="type truncate"> Ragbi <br><small>1051</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/dart" class="href-item"><span class="icon"><i class="pg-icons sport-types-22 st-font-icons"></i></span><span class="type truncate"> Dart <br><small>248</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-22 st-font-icons"></i></span><span class="type truncate"> Dart <br><small>248</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/cricket" class="href-item"><span class="icon"><i class="pg-icons sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket <br><small>42</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket <br><small>42</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/cycling" class="href-item"><span class="icon"><i class="pg-icons sport-types-17 st-font-icons"></i></span><span class="type truncate"> Bisiklet <br><small>759</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-17 st-font-icons"></i></span><span class="type truncate"> Bisiklet <br><small>759</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/biathlon" class="href-item"><span class="icon"><i class="pg-icons sport-types-44 st-font-icons"></i></span><span class="type truncate"> Biatlon <br><small>380</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-44 st-font-icons"></i></span><span class="type truncate"> Biatlon <br><small>380</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/olympics" class="href-item"><span class="icon"><i class="pg-icons sport-types-30 st-font-icons"></i></span><span class="type truncate"> Olimpiyat Oyunları <br><small>13</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-30 st-font-icons"></i></span><span class="type truncate"> Olimpiyat Oyunları <br><small>13</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/gaelic-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-135 st-font-icons"></i></span><span class="type truncate"> Gal Futbolu <br><small>66</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-135 st-font-icons"></i></span><span class="type truncate"> Gal Futbolu <br><small>66</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/gaelic-hurling" class="href-item"><span class="icon"><i class="pg-icons sport-types-136 st-font-icons"></i></span><span class="type truncate"> Hurling <br><small>17</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-136 st-font-icons"></i></span><span class="type truncate"> Hurling <br><small>17</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/speedway" class="href-item"><span class="icon"><i class="pg-icons sport-types-131 st-font-icons"></i></span><span class="type truncate"> Speedway <br><small>15</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-131 st-font-icons"></i></span><span class="type truncate"> Speedway <br><small>15</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/specials" class="href-item"><span class="icon"><i class="pg-icons sport-types-18 st-font-icons"></i></span><span class="type truncate"> Özel Bahisler <br><small>338</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-18 st-font-icons"></i></span><span class="type truncate"> Özel Bahisler <br><small>338</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/waterpolo" class="href-item"><span class="icon"><i class="pg-icons sport-types-26 st-font-icons"></i></span><span class="type truncate"> Sutopu <br><small>258</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-26 st-font-icons"></i></span><span class="type truncate"> Sutopu <br><small>258</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/stock-car-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-191 st-font-icons"></i></span><span class="type truncate"> Stok Araba Yarışı <br><small>315</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-191 st-font-icons"></i></span><span class="type truncate"> Stok Araba Yarışı <br><small>315</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/indy-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-129 st-font-icons"></i></span><span class="type truncate"> Indy Yarışı <br><small>68</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-129 st-font-icons"></i></span><span class="type truncate"> Indy Yarışı <br><small>68</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/ski-jumping" class="href-item"><span class="icon"><i class="pg-icons sport-types-48 st-font-icons"></i></span><span class="type truncate"> Kayakla Atlama <br><small>50</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-48 st-font-icons"></i></span><span class="type truncate"> Kayakla Atlama <br><small>50</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/cross-country" class="href-item"><span class="icon"><i class="pg-icons sport-types-46 st-font-icons"></i></span><span class="type truncate"> Kros Kayak <br><small>54</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-46 st-font-icons"></i></span><span class="type truncate"> Kros Kayak <br><small>54</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/formula-1" class="href-item"><span class="icon"><i class="pg-icons sport-types-40 st-font-icons"></i></span><span class="type truncate"> Formula 1 <br><small>157</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-40 st-font-icons"></i></span><span class="type truncate"> Formula 1 <br><small>157</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/formula-e" class="href-item"><span class="icon"><i class="pg-icons sport-types-142 st-font-icons"></i></span><span class="type truncate"> Formula E <br><small>33</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-142 st-font-icons"></i></span><span class="type truncate"> Formula E <br><small>33</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/lacrosse" class="href-item"><span class="icon"><i class="pg-icons sport-types-39 st-font-icons"></i></span><span class="type truncate"> Lakros <br><small>85</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-39 st-font-icons"></i></span><span class="type truncate"> Lakros <br><small>85</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/motorcycle-racing" class="href-item"><span class="icon"><i class="pg-icons sport-types-190 st-font-icons"></i></span><span class="type truncate"> Motorsiklet Yarışı <br><small>22</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-190 st-font-icons"></i></span><span class="type truncate"> Motorsiklet Yarışı <br><small>22</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/football" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>3146</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>3146</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/basketball" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>964</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>964</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/ice-hockey" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>592</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>592</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/tennis" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>378</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>378</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/volleyball" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>206</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>206</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/snooker" class="href-item"><span class="icon"><i class="pg-icons sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker <br><small>172</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker <br><small>172</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/american-football" class="href-item"><span class="icon"><i class="pg-icons sport-types-16 st-font-icons"></i></span><span class="type truncate"> Amerikan Futbolu <br><small>419</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-16 st-font-icons"></i></span><span class="type truncate"> Amerikan Futbolu <br><small>419</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/handball" class="href-item"><span class="icon"><i class="pg-icons sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol <br><small>87</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol <br><small>87</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/baseball" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>872</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>872</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
@@ -11157,27 +11157,27 @@ if ($detect->isMobile()) {?>
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/golf" class="href-item"><span class="icon"><i class="pg-icons sport-types-9 st-font-icons"></i></span><span class="type truncate"> Golf <br><small>1662</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-9 st-font-icons"></i></span><span class="type truncate"> Golf <br><small>1662</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/rugby" class="href-item"><span class="icon"><i class="pg-icons sport-types-12 st-font-icons"></i></span><span class="type truncate"> Ragbi <br><small>1051</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-12 st-font-icons"></i></span><span class="type truncate"> Ragbi <br><small>1051</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/dart" class="href-item"><span class="icon"><i class="pg-icons sport-types-22 st-font-icons"></i></span><span class="type truncate"> Dart <br><small>248</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-22 st-font-icons"></i></span><span class="type truncate"> Dart <br><small>248</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/cricket" class="href-item"><span class="icon"><i class="pg-icons sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket <br><small>42</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket <br><small>42</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!---->
                                              <div class="owl-item ng-tns-c126-2 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 97.5px;">
-                                                <div class="events ng-star-inserted" style=""><a href="/tr/bet/antepost-events/cycling" class="href-item"><span class="icon"><i class="pg-icons sport-types-17 st-font-icons"></i></span><span class="type truncate"> Bisiklet <br><small>759</small></span></a></div>
+                                                <div class="events ng-star-inserted" style=""><a  class="href-item"><span class="icon"><i class="pg-icons sport-types-17 st-font-icons"></i></span><span class="type truncate"> Bisiklet <br><small>759</small></span></a></div>
                                                 <!----><!---->
                                              </div>
                                              <!----><!---->
@@ -11864,7 +11864,7 @@ if ($detect->isMobile()) {?>
                                  <img src="https:/images/common/assets/images/casino/300x200/8888.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
-                              <a href="/tr/games/casino/detail/normal/7787" class="col-6  c_g_w_i p-1 m-0">
+                              <a  class="col-6  c_g_w_i p-1 m-0">
                                  <img src="https:/images/common/assets/images/casino/300x200/7787.jpg" class="cgwi_img">
                                  <div class="c_g_w_i_btn"><i class="el-icon-video-play cgwi_btn_i"></i></div>
                               </a>
