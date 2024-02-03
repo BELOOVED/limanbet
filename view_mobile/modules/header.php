@@ -423,10 +423,10 @@
             </app-sidebar>
             <?php if(isset($us['id'])) {?>
 <app-user-sidebar>
-   <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(0px);">
+   <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(100%);">
       <div class="side-nav-header">
-         <div class="top-icon"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
-         <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
+         <div class="top-icon" onclick="closemenu2()"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
+         <div class="top-logo"><a routerlink="/" class="logo" href="/"><img class="lg" src="/assets/views/trader/limanbet/assets/images/logo.png" alt="limanbet"></a></div>
       </div>
       <div class="login-menu ng-star-inserted">
          <div class="user-name">
