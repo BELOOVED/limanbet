@@ -324,7 +324,7 @@ function islemkisiti(){
 
 }
 <?php if(isset($us['id'])){?>
-function loginorplay(){
+function loginorp1ay(){
    Swal.fire({
     title: 'Hata!',
     icon: 'error',
@@ -333,7 +333,7 @@ function loginorplay(){
 });
 }
 <?php }else{?>
-   function loginorplay(){
+   function loginorp1ay(){
       window.location.href= '/login';
    }
    <?php }?>
