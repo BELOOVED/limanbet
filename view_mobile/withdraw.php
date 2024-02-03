@@ -1,6 +1,6 @@
 <?php
 if ($detect->isMobile()) {?>
-<main>
+<main onclick="islemkisiti()">
    <router-outlet></router-outlet>
    <app-dashboard class="ng-star-inserted">
       <router-outlet></router-outlet>
@@ -34,19 +34,7 @@ if ($detect->isMobile()) {?>
                               <div id="bosbos">&nbsp;</div>
                            </div>
                            <div class="ng-star-inserted">
-                              <script type="text/javascript">
-                                 setTimeout(function(){
-                                     $(document).ready(function(){ 
-                                  
-                                   $.get("https://api.pandesk.net/api/lmnv2/deposit/withdrawM.php", function(data) {
-                                     $("#bosbos").html(data);
-                                   }); 
-                                  
-                                   
-                                 
-                                 }); 
-                                 },500);
-                              </script>
+                              
                            </div>
                            <div class="ng-star-inserted"></div>
                            <!----><!---->
