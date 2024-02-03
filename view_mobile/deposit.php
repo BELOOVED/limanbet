@@ -147,13 +147,13 @@ if ($detect->isMobile()) {?>
                                     var envoyAPI=envoyAPI||{},envoyUrl="https://envoysoft2.net/api",siteKey="ym0IFpRS",enVendor="p3";(function(){(function(f){var g=document.createElement("script"),h=document.getElementsByTagName("script");l=h.length,h=h[l-1],g.type="text/javascript",g.async=!0,g.src=f,h.parentNode.insertBefore(g,h)})(envoyUrl+"/api.1.0.min.js")})(envoyAPI||{});
                                  </script>
                                  <div id="paymentDep">
-                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit" id="envoygo" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/envoyhavale1.jpg"></a>
-                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoyqr-deposit" id="envoyqr" style="display: inline;"><img src="https://beluga.cdnroot.blog/deposit/mobile_envoyqr25.jpg"></a>
-                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit" id="envoygo" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/papara2.jpg"></a>
+                                    <a href="#" id="envoygo" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/envoyhavale1.jpg"></a>
+                                    <a href="#" id="envoyqr" style="display: inline;"><img src="https://beluga.cdnroot.blog/deposit/mobile_envoyqr25.jpg"></a>
+                                    <a href="#" id="envoygo" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/papara2.jpg"></a>
                                     <!--  <a href="https://cdn.pandestek.com/deposit/bannerlar-beluga2.png" class="envoygo" target="_blank"  style="display: inline;"><img src="https://cdn.pandestek.com/deposit/en/lmn_deposit_qr1.jpg "/></a> !-->
                                     <a id="open-btn" style="display: inline;"><img src="https://beluga.cdnroot.blog/deposit/oto_papara_m.jpg"></a>
-                                    <a href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/kredikart22.jpg"></a>
-                                    <a href="/tr/dashboard/payments/deposit-money/detail/softpay-deposit" id="upaycoins" target="_blank" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/724sistem.jpg"></a>
+                                    <a href="#" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/kredikart22.jpg"></a>
+                                    <a href="#" id="upaycoins" target="_blank" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/724sistem.jpg"></a>
                                     <!--<a href=" " id="envoyqr" class="parazula" target="_blank"  style="display: inline;"><img src="https://cdn.pandestek.com/deposit/parazulanew.jpg" ></a> !-->
                                  </div>
                                  <div style="clear:both;"></div>
@@ -315,7 +315,7 @@ if ($detect->isMobile()) {?>
                         <ul class="money-list-menu">
                            <!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="envoysoft-deposit" href="/tr/dashboard/payments/deposit-money/detail/envoysoft-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="envoysoft-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-412.png" width="100" height="33" class="envoysoft-deposit"><!---->
@@ -339,7 +339,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="envoyqr-deposit" href="/tr/dashboard/payments/deposit-money/detail/envoyqr-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="envoyqr-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı QR Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-521.png" width="100" height="33" class="envoyqr-deposit"><!---->
@@ -363,7 +363,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-deposit" href="/tr/dashboard/payments/deposit-money/detail/papara-form-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-264.png" width="100" height="33" class="papara-form-deposit"><!---->
@@ -387,7 +387,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-deposit" href="/tr/dashboard/payments/deposit-money/detail/upaycoins-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Youpaycoin Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-672.png" width="100" height="33" class="upaycoins-deposit"><!---->
@@ -411,7 +411,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" href="/tr/dashboard/payments/deposit-money/detail/bankTransfer">
+                              <a queryparamshandling="merge" class="flex-container" href="#">
                                  <div class="img-wrapper">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
@@ -436,7 +436,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" href="/tr/dashboard/payments/deposit-money/detail/mobileBank">
+                              <a queryparamshandling="merge" class="flex-container" href="#">
                                  <div class="img-wrapper">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=MOBILEBANK" width="100" height="33" hidden="" class="hide"><img src="/images/common/assets/images/payments/mobile-bank.png" width="100" height="33" class=""><!---->
@@ -459,7 +459,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="turbohavale-deposit" href="/tr/dashboard/payments/deposit-money/detail/turbohavale-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="turbohavale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Trend Havale Yatırım" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1651.png" width="100" height="33" class="turbohavale-deposit"><!---->
@@ -483,7 +483,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-fixturka-deposit" href="/tr/dashboard/payments/deposit-money/detail/scashmoney-fixturka-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-fixturka-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Fixturka Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1945.png" width="100" height="33" class="scashmoney-fixturka-deposit"><!---->
@@ -507,7 +507,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-papara-deposit" href="/tr/dashboard/payments/deposit-money/detail/scashmoney-papara-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1576.png" width="100" height="33" class="scashmoney-papara-deposit"><!---->
@@ -531,7 +531,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="tiktak-havale-deposit" href="/tr/dashboard/payments/deposit-money/detail/tiktak-havale-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="tiktak-havale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Tiktak Havale Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1764.png" width="100" height="33" class="tiktak-havale-deposit"><!---->
@@ -555,7 +555,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="softpay-deposit" href="/tr/dashboard/payments/deposit-money/detail/softpay-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="softpay-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Trink Havale" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1219.png" width="100" height="33" class="softpay-deposit"><!---->
@@ -579,7 +579,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-papara-deposit" href="/tr/dashboard/payments/deposit-money/detail/sistemnakit-papara-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1958.png" width="100" height="33" class="sistemnakit-papara-deposit"><!---->
@@ -603,7 +603,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-bank-deposit" href="/tr/dashboard/payments/deposit-money/detail/sistemnakit-bank-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-bank-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Sistem Nakit Bank Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1956.png" width="100" height="33" class="sistemnakit-bank-deposit"><!---->
@@ -627,7 +627,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="seripopy-deposit" href="/tr/dashboard/payments/deposit-money/detail/seripopy-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="seripopy-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
@@ -651,7 +651,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="safirhavale-deposit" href="/tr/dashboard/payments/deposit-money/detail/safirhavale-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="safirhavale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Safirhavale Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/deposit-1423.png" width="100" height="33" class="safirhavale-deposit"><!---->
@@ -675,7 +675,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-bank-transfer-deposit" href="/tr/dashboard/payments/deposit-money/detail/scashmoney-bank-transfer-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-bank-transfer-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=ScashMoney Bank Transfer Deposit" width="100" height="33" class="scashmoney-bank-transfer-deposit"><img hidden="" src="/images/common/assets/images/payments/deposit-1572.png" width="100" height="33" class="hide"><!---->
@@ -699,7 +699,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="starpay-papara-deposit" href="/tr/dashboard/payments/deposit-money/detail/starpay-papara-deposit">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="starpay-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1869.png" width="100" height="33" class="starpay-papara-deposit"><!---->

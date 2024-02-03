@@ -199,7 +199,7 @@ if ($detect->isMobile()) {?>
             <!---->
          </div>
          <div class="casino horizontal-slide-tabs flex-container main">
-            <div class="horizontal-slide-content flex-item"><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/livecasino"><span class="icon"><i class="icon cards-fill pg-icons"></i></span><span class="type truncate"> Canlı Casino </span></a><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/casino"><span class="icon"><i class="icon cherry pg-icons"></i></span><span class="type truncate"> Casino </span></a><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/virtuals"><span class="icon"><i class="fa fa-university pg-icons"></i></span><span class="type truncate"> Sanal Bahis </span></a></div>
+            <div class="horizontal-slide-content flex-item"><a routerlinkactive="active" class="horizontal-slide-tab" ><span class="icon"><i class="icon cards-fill pg-icons"></i></span><span class="type truncate"> Canlı Casino </span></a><a routerlinkactive="active" class="horizontal-slide-tab" ><span class="icon"><i class="icon cherry pg-icons"></i></span><span class="type truncate"> Casino </span></a><a routerlinkactive="active" class="horizontal-slide-tab" ><span class="icon"><i class="fa fa-university pg-icons"></i></span><span class="type truncate"> Sanal Bahis </span></a></div>
          </div>
       </app-tv-games>
       <!----><!---->

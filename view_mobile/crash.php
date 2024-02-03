@@ -310,7 +310,7 @@ if ($detect->isMobile()) {?>
             </app-category-container>
             <egt-jackpot-banner class="ng-star-inserted">
                <div id="com-egt-jackpot-html-jackpotBanner" style="padding: 10px 0px; position: relative;" class="com-egt-jackpot-html-xsm">
-                  <a target="_blank" href="/tr/games/casino/egt" class="com-egt-jackpot-html-logo com-egt-jackpot-html-mobile" style="height: 48px;"></a>
+                  <a target="_blank" href="#" class="com-egt-jackpot-html-logo com-egt-jackpot-html-mobile" style="height: 48px;"></a>
                   <div class="com-egt-jackpot-html-box com-egt-jackpot-html-IV com-egt-jackpot-html-equal" style="border-width: 2px; border-radius: 6px; border-style: solid; border-color: rgb(82, 77, 81); height: 48px; display: block;">
                      <div class="com-egt-jackpot-html-value">
                         <div class="com-egt-jackpot-html-numbers com-egt-jackpot-html-first"></div>
@@ -352,7 +352,7 @@ if ($detect->isMobile()) {?>
                         <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                      </map>
                   </div>
-                  <a target="_blank" href="/tr/games/casino/egt" class="com-egt-jackpot-html-logo" style="height: 48px;"></a>
+                  <a target="_blank" href="#" class="com-egt-jackpot-html-logo" style="height: 48px;"></a>
                   <div class="com-egt-jackpot-html-box com-egt-jackpot-html-II com-egt-jackpot-html-equal" style="border-width: 2px; border-radius: 6px; border-style: solid; border-color: rgb(82, 77, 81); height: 48px; display: block;">
                      <div class="com-egt-jackpot-html-value">
                         <div class="com-egt-jackpot-html-numbers com-egt-jackpot-html-first"></div>
@@ -739,7 +739,7 @@ if ($detect->isMobile()) {?>
          <!----><!----><!---->
          <div class="casino horizontal-slide-tabs flex-container main">
             <div class="horizontal-slide-content flex-item">
-               <a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/games/livecasino"><span class="icon"><i class="icon cards-fill pg-icons"></i></span><span class="type truncate"> Canlı Casino </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="/tr/games/tv-games"><span class="icon"><i class="pg-icons fa fa-television"></i></span><span class="type truncate"> TVBET </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="/tr/bet/virtuals"><span class="icon"><i class="fa fa-university pg-icons"></i></span><span class="type truncate"> Sanal Bahis </span></a>
+               <a routerlinkactive="active" class="horizontal-slide-tab" href="#"><span class="icon"><i class="icon cards-fill pg-icons"></i></span><span class="type truncate"> Canlı Casino </span></a><a routerlinkactive="active" class="horizontal-slide-tab ng-star-inserted" href="#"><span class="icon"><i class="pg-icons fa fa-television"></i></span><span class="type truncate"> TVBET </span></a><!----><a routerlinkactive="active" class="horizontal-slide-tab" href="#"><span class="icon"><i class="fa fa-university pg-icons"></i></span><span class="type truncate"> Sanal Bahis </span></a>
             </div>
          </div>
          <!---->
@@ -901,7 +901,7 @@ if ($detect->isMobile()) {?>
                   <div id="casino-right" class="col right-content s10">
                      <egt-jackpot-banner class="ng-star-inserted">
                         <div id="com-egt-jackpot-html-jackpotBanner" style="padding: 10px 0px; position: relative;" class="com-egt-jackpot-html-xsm">
-                           <a target="_blank" href="/tr/games/casino/egt" class="com-egt-jackpot-html-logo com-egt-jackpot-html-mobile" style="height: 48px;"></a>
+                           <a target="_blank" href="#" class="com-egt-jackpot-html-logo com-egt-jackpot-html-mobile" style="height: 48px;"></a>
                            <div class="com-egt-jackpot-html-box com-egt-jackpot-html-IV com-egt-jackpot-html-equal" style="border-width: 2px; border-radius: 6px; border-style: solid; border-color: rgb(82, 77, 81); height: 48px; display: block;">
                               <div class="com-egt-jackpot-html-value">
                                  <div class="com-egt-jackpot-html-numbers com-egt-jackpot-html-first"></div>
@@ -943,7 +943,7 @@ if ($detect->isMobile()) {?>
                                  <area shape="poly" href="javascript: void(0);" coords="0,0,100,0,100,48,0,48">
                               </map>
                            </div>
-                           <a target="_blank" href="/tr/games/casino/egt" class="com-egt-jackpot-html-logo" style="height: 48px;"></a>
+                           <a target="_blank" href="#" class="com-egt-jackpot-html-logo" style="height: 48px;"></a>
                            <div class="com-egt-jackpot-html-box com-egt-jackpot-html-II com-egt-jackpot-html-equal" style="border-width: 2px; border-radius: 6px; border-style: solid; border-color: rgb(82, 77, 81); height: 48px; display: block;">
                               <div class="com-egt-jackpot-html-value">
                                  <div class="com-egt-jackpot-html-numbers com-egt-jackpot-html-first"></div>

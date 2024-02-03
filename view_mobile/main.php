@@ -132,26 +132,26 @@
                <div class="main-button-content ng-scope">
                   <!-- ngIf: $root.currentTrader.wcOpen && isSpecialEventsOpen -->
                   <div class="flex-container">
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/tr/bet/sports"><i class="fa fa-list main-icons" aria-hidden="true"></i> Spor A-Z</a></div>
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/tr/bet/live"><i class="pg-icons material-icons main-icons">ondemand_video</i> Canlı Bahis</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="fa fa-list main-icons" aria-hidden="true"></i> Spor A-Z</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="pg-icons material-icons main-icons">ondemand_video</i> Canlı Bahis</a></div>
                   </div>
                   <div class="flex-container">
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/tr/games/livecasino/"><i class="icon cards-fill pg-icons" aria-hidden="true"></i> Canlı Casino</a></div>
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/tr/games/casino/"><i class="icon cherry pg-icons" aria-hidden="true"></i> Casino</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="icon cards-fill pg-icons" aria-hidden="true"></i> Canlı Casino</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="icon cherry pg-icons" aria-hidden="true"></i> Casino</a></div>
                   </div>
                   <div class="flex-container">
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/tr/bet/virtuals"><i class="fa fa-futbol-o main-icons" aria-hidden="true"></i> Sanal Bahis</a></div>
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" ui-sref="contents({pageUrl:'promotions'})" href="/tr/games/casino/category/529"><i class="fa fa-gamepad pg-icons"></i>Crash Games</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="fa fa-futbol-o main-icons" aria-hidden="true"></i> Sanal Bahis</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" ui-sref="contents({pageUrl:'promotions'})" href="#"><i class="fa fa-gamepad pg-icons"></i>Crash Games</a></div>
                   </div>
                   <div class="flex-container">
                      <!-- ngIf: isOpenPoker -->
-                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="/tr/games/poker" routerlinkactive="active"><i class="pg-icons icon chip"></i> Poker</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="#" routerlinkactive="active"><i class="pg-icons icon chip"></i> Poker</a></div>
                      <!-- end ngIf: isOpenPoker -->
-                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="/tr/games/bingo/1196" routerlinkactive="active"><i class="pg-icons icon spades"></i>  Canlı Tombala</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="#" routerlinkactive="active"><i class="pg-icons icon spades"></i>  Canlı Tombala</a></div>
                   </div>
                   <div class="flex-container">
                      <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" href="https://rdrxl.live/redir" target="_blank"><i class="material-icons main-icons" aria-hidden="true">tv</i>Canlı Tv</a></div>
-                     <div class="flex-item truncate"><a class="btn-large mar-5 main-button" routerlinkactive="active" href="/tr/contents/promotions"><i class="material-icons main-icons">redeem</i> <span class="truncate ng-binding"> Promosyonlar</span></a></div>
+                     <div class="flex-item truncate"><a class="btn-large mar-5 main-button" routerlinkactive="active" href="#"><i class="material-icons main-icons">redeem</i> <span class="truncate ng-binding"> Promosyonlar</span></a></div>
                      <!-- ngIf: isFifa20Enabled -->
                   </div>
                </div>
@@ -1412,7 +1412,7 @@
                                        </div>
                                     </div>
                                     <div class="match-content flex-container ng-star-inserted">
-                                       <a routerlinkactive="active" class="match-header flex-container" href="/tr/bet/live/detail/53807759">
+                                       <a routerlinkactive="active" class="match-header flex-container" href="#">
                                           <span class="match-title flex-item">
                                              <div class="team content-left">
                                                 <div class="team-content-left team-name">
@@ -1457,7 +1457,7 @@
                                     </div>
                                     <!----><!----><!----><!---->
                                     <div class="match-content flex-container ng-star-inserted">
-                                       <a routerlinkactive="active" class="match-header flex-container" href="/tr/bet/live/detail/55657974">
+                                       <a routerlinkactive="active" class="match-header flex-container" href="#">
                                           <span class="match-title flex-item">
                                              <div class="team content-left">
                                                 <div class="team-content-left team-name">
@@ -1502,7 +1502,7 @@
                                     </div>
                                     <!----><!---->
                                     <div class="match-content flex-container ng-star-inserted">
-                                       <a routerlinkactive="active" class="match-header flex-container" href="/tr/bet/live/detail/55652531">
+                                       <a routerlinkactive="active" class="match-header flex-container" href="#">
                                           <span class="match-title flex-item">
                                              <div class="team content-left">
                                                 <div class="team-content-left team-name">
@@ -1547,7 +1547,7 @@
                                     </div>
                                     <!----><!---->
                                     <div class="match-content flex-container ng-star-inserted">
-                                       <a routerlinkactive="active" class="match-header flex-container" href="/tr/bet/live/detail/55621581">
+                                       <a routerlinkactive="active" class="match-header flex-container" href="#">
                                           <span class="match-title flex-item">
                                              <div class="team content-left">
                                                 <div class="team-content-left team-name">
@@ -1592,7 +1592,7 @@
                                     </div>
                                     <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  </div>
-                                 <div class="ng-star-inserted"><a routerlinkactive="active" class="show-more-other" href="/tr/bet/live/170">Tümünü Göster</a></div>
+                                 <div class="ng-star-inserted"><a routerlinkactive="active" class="show-more-other" href="#">Tümünü Göster</a></div>
                                  <!---->
                               </div>
                            </div>
@@ -1609,7 +1609,7 @@
                         <div class="modul-header" hidden=""><span class="header-text"> Günün Maçları </span><i class="fa fa-chevron-right right"></i></div>
                         <div class="modul-content">
                            <div class="list-btn-cont">
-                              <a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/football"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Futbol</span><span class="count">151</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/e-football"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text">e-Futbol</span><span class="count">15</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/basketball"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text">Basketbol</span><span class="count">63</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/ice-hockey"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text">Buz Hokeyi</span><span class="count">106</span></a><a href="/tr/bet/virtuals" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Sanal Sporlar</span></a><!----><!----><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/tennis"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text">Tenis</span><span class="count">76</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/volleyball"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text">Voleybol</span><span class="count">19</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/snooker"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text">Snooker</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/handball"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text">Hentbol</span><span class="count">31</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/baseball"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text">Beyzbol</span><span class="count">2</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/futsal"><i class="pg-icons sport-types-29 svg-font-icons"></i><span class="flex-item text">Salon Futbolu</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/rugby"><i class="pg-icons sport-types-12 svg-font-icons"></i><span class="flex-item text">Ragbi</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/dart"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text">Dart</span><span class="count">19</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/table-tennis"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text">Masa Tenisi</span><span class="count">130</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/cricket"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text">Kriket</span><span class="count">5</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="/tr/bet/today-events/bandy"><i class="pg-icons sport-types-15 svg-font-icons"></i><span class="flex-item text">Bandy</span><span class="count">8</span></a><!----><!----><!----><!---->
+                              <a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Futbol</span><span class="count">151</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-137 svg-font-icons"></i><span class="flex-item text">e-Futbol</span><span class="count">15</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-2 svg-font-icons"></i><span class="flex-item text">Basketbol</span><span class="count">63</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-4 svg-font-icons"></i><span class="flex-item text">Buz Hokeyi</span><span class="count">106</span></a><a href="#" class="btn list-btn flex-container ng-star-inserted"><i class="pg-icons sport-types-1 svg-font-icons"></i><span class="flex-item text">Sanal Sporlar</span></a><!----><!----><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-5 svg-font-icons"></i><span class="flex-item text">Tenis</span><span class="count">76</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-23 svg-font-icons"></i><span class="flex-item text">Voleybol</span><span class="count">19</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-19 svg-font-icons"></i><span class="flex-item text">Snooker</span><span class="count">4</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-6 svg-font-icons"></i><span class="flex-item text">Hentbol</span><span class="count">31</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-3 svg-font-icons"></i><span class="flex-item text">Beyzbol</span><span class="count">2</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-29 svg-font-icons"></i><span class="flex-item text">Salon Futbolu</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-12 svg-font-icons"></i><span class="flex-item text">Ragbi</span><span class="count">3</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-22 svg-font-icons"></i><span class="flex-item text">Dart</span><span class="count">19</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-20 svg-font-icons"></i><span class="flex-item text">Masa Tenisi</span><span class="count">130</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-21 svg-font-icons"></i><span class="flex-item text">Kriket</span><span class="count">5</span></a><!----><!----><a class="btn list-btn flex-container ng-star-inserted" href="#"><i class="pg-icons sport-types-15 svg-font-icons"></i><span class="flex-item text">Bandy</span><span class="count">8</span></a><!----><!----><!----><!---->
                            </div>
                         </div>
                      </div>
@@ -1959,7 +1959,7 @@
                                  </div>
                                  <!----><!---->
                                  <div class="match-content flex-container ng-star-inserted">
-                                    <a class="match-header flex-container ng-star-inserted" href="/tr/bet/fixture-detail/55664816">
+                                    <a class="match-header flex-container ng-star-inserted" href="#">
                                        <div class="match-title flex-item">
                                           <div class="team content-left">
                                              <div class="team-content-left team-name ng-star-inserted">
@@ -2001,7 +2001,7 @@
                                     <!----><!----><!----><!---->
                                  </div>
                                  <div class="match-content flex-container ng-star-inserted">
-                                    <a class="match-header flex-container ng-star-inserted" href="/tr/bet/fixture-detail/55647905">
+                                    <a class="match-header flex-container ng-star-inserted" href="#">
                                        <div class="match-title flex-item">
                                           <div class="team content-left">
                                              <div class="team-content-left team-name ng-star-inserted">
@@ -2043,7 +2043,7 @@
                                     <!----><!----><!----><!---->
                                  </div>
                                  <div class="match-content flex-container ng-star-inserted">
-                                    <a class="match-header flex-container ng-star-inserted" href="/tr/bet/fixture-detail/55647904">
+                                    <a class="match-header flex-container ng-star-inserted" href="#">
                                        <div class="match-title flex-item">
                                           <div class="team content-left">
                                              <div class="team-content-left team-name ng-star-inserted">
@@ -2085,7 +2085,7 @@
                                     <!----><!----><!----><!---->
                                  </div>
                                  <div class="match-content flex-container ng-star-inserted">
-                                    <a class="match-header flex-container ng-star-inserted" href="/tr/bet/fixture-detail/55647907">
+                                    <a class="match-header flex-container ng-star-inserted" href="#">
                                        <div class="match-title flex-item">
                                           <div class="team content-left">
                                              <div class="team-content-left team-name ng-star-inserted">
@@ -2127,7 +2127,7 @@
                                     <!----><!----><!----><!---->
                                  </div>
                                  <div class="match-content flex-container ng-star-inserted">
-                                    <a class="match-header flex-container ng-star-inserted" href="/tr/bet/fixture-detail/55647906">
+                                    <a class="match-header flex-container ng-star-inserted" href="#">
                                        <div class="match-title flex-item">
                                           <div class="team content-left">
                                              <div class="team-content-left team-name ng-star-inserted">
@@ -2169,7 +2169,7 @@
                                     <!----><!----><!----><!---->
                                  </div>
                                  <div class="match-content flex-container ng-star-inserted">
-                                    <a class="match-header flex-container ng-star-inserted" href="/tr/bet/fixture-detail/55647933">
+                                    <a class="match-header flex-container ng-star-inserted" href="#">
                                        <div class="match-title flex-item">
                                           <div class="team content-left">
                                              <div class="team-content-left team-name ng-star-inserted">
@@ -2212,7 +2212,7 @@
                                  </div>
                                  <!---->
                               </div>
-                              <!----><a href="/tr/bet/today-events/football" class="show-more-other ng-star-inserted"> Daha Fazla Bahis </a><!----><!---->
+                              <!----><a href="#" class="show-more-other ng-star-inserted"> Daha Fazla Bahis </a><!----><!---->
                            </div>
                         </div>
                      </div>
@@ -2469,7 +2469,7 @@
             <app-popular-games class="ng-star-inserted">
                <!---->
                <div accordion="" class="modul-accordion populer-events ng-star-inserted">
-                  <div class="modul-header"><span class="header-text"> Casino </span><i class="fa fa-chevron-right right"></i><a class="show-more-games mar-right-10 right" href="/tr/games/casino">Daha Fazla Oyun Göster</a></div>
+                  <div class="modul-header"><span class="header-text"> Casino </span><i class="fa fa-chevron-right right"></i><a class="show-more-games mar-right-10 right" href="#">Daha Fazla Oyun Göster</a></div>
                   <div class="modul-content">
                      <owl-carousel-o _nghost-lmt-c77="">
                         <div _ngcontent-lmt-c77="" class="owl-carousel owl-theme owl-loaded owl-responsive owl-drag">
@@ -4858,7 +4858,7 @@
                   <div class="modul-header"><span class="header-text">En İyiler</span><i class="fa fa-chevron-right right"></i></div>
                   <div class="modul-content">
                      <div class="list-btn-cont">
-                        <a class="btn list-btn flex-container ng-star-inserted" title="Süper Lig" href="/tr/bet/sports/football/turkiye/super-lig-23-24"><i class="country icon-32xTUR pg-icons svg-font-icons"></i><span class="text flex-item">Süper Lig</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="UEFA Şampiyonlar Ligi" href="/tr/bet/sports/football/international-clubs/uefa-champions-league-23-24"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">UEFA Şampiyonlar Ligi</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="UEFA Avrupa Ligi" href="/tr/bet/sports/football/international-clubs/uefa-europa-league-23-24"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">UEFA Avrupa Ligi</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="UEFA Avrupa Konferans Ligi" href="/tr/bet/sports/football/international-clubs/uefa-europa-conference-league-23-24"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">UEFA Avrupa Konferans Ligi</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Premier Lig" href="/tr/bet/sports/football/england/premier-league-23-24"><i class="country icon-32xENG pg-icons svg-font-icons"></i><span class="text flex-item">Premier Lig</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="LaLiga" href="/tr/bet/sports/football/spain/laliga-23-24"><i class="country icon-32xESP pg-icons svg-font-icons"></i><span class="text flex-item">LaLiga</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Bundesliga" href="/tr/bet/sports/football/germany/bundesliga-23-24"><i class="country icon-32xDEU pg-icons svg-font-icons"></i><span class="text flex-item">Bundesliga</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Serie A" href="/tr/bet/sports/football/italy/serie-a-23-24"><i class="country icon-32xITA pg-icons svg-font-icons"></i><span class="text flex-item">Serie A</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Lig 1" href="/tr/bet/sports/football/france/ligue-1-23-24"><i class="country icon-32xFRA pg-icons svg-font-icons"></i><span class="text flex-item">Lig 1</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Eredivisie" href="/tr/bet/sports/football/netherlands/eredivisie-23-24"><i class="country icon-32xNLD pg-icons svg-font-icons"></i><span class="text flex-item">Eredivisie</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Primeira Lig" href="/tr/bet/sports/football/portugal/liga-portugal-23-24"><i class="country icon-32xPRT pg-icons svg-font-icons"></i><span class="text flex-item">Primeira Lig</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="NBA" href="/tr/bet/sports/basketball/usa/nba-23-24"><i class="country icon-32xUSA pg-icons svg-font-icons"></i><span class="text flex-item">NBA</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Euroleague" href="/tr/bet/sports/basketball/international/euroleague-23-24"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">Euroleague</span></a><!----><!---->
+                        <a class="btn list-btn flex-container ng-star-inserted" title="Süper Lig" href="#"><i class="country icon-32xTUR pg-icons svg-font-icons"></i><span class="text flex-item">Süper Lig</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="UEFA Şampiyonlar Ligi" href="#"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">UEFA Şampiyonlar Ligi</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="UEFA Avrupa Ligi" href="#"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">UEFA Avrupa Ligi</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="UEFA Avrupa Konferans Ligi" href="#"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">UEFA Avrupa Konferans Ligi</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Premier Lig" href="#"><i class="country icon-32xENG pg-icons svg-font-icons"></i><span class="text flex-item">Premier Lig</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="LaLiga" href="#"><i class="country icon-32xESP pg-icons svg-font-icons"></i><span class="text flex-item">LaLiga</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Bundesliga" href="#"><i class="country icon-32xDEU pg-icons svg-font-icons"></i><span class="text flex-item">Bundesliga</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Serie A" href="#"><i class="country icon-32xITA pg-icons svg-font-icons"></i><span class="text flex-item">Serie A</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Lig 1" href="#"><i class="country icon-32xFRA pg-icons svg-font-icons"></i><span class="text flex-item">Lig 1</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Eredivisie" href="#"><i class="country icon-32xNLD pg-icons svg-font-icons"></i><span class="text flex-item">Eredivisie</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Primeira Lig" href="#"><i class="country icon-32xPRT pg-icons svg-font-icons"></i><span class="text flex-item">Primeira Lig</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="NBA" href="#"><i class="country icon-32xUSA pg-icons svg-font-icons"></i><span class="text flex-item">NBA</span></a><!----><a class="btn list-btn flex-container ng-star-inserted" title="Euroleague" href="#"><i class="country icon-32xWRLD pg-icons svg-font-icons"></i><span class="text flex-item">Euroleague</span></a><!----><!---->
                      </div>
                   </div>
                </div>

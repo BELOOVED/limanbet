@@ -20,7 +20,7 @@ if ($detect->isMobile()) {?>
                <div class="otp ng-star-inserted">
                   <div class="field-cont">
                      <div class="radio-tabs flex-container">
-                        <a routerlink="." fragment="ga" class="btn radio-tab flex-item" href="/tr/dashboard/user-info/user-security#ga">Google Authenticator</a><a routerlink="." fragment="sms" class="btn radio-tab flex-item ng-star-inserted" href="/tr/dashboard/user-info/user-security#sms">SMS</a><!---->
+                        <a routerlink="." fragment="ga" class="btn radio-tab flex-item" href="#">Google Authenticator</a><a routerlink="." fragment="sms" class="btn radio-tab flex-item ng-star-inserted" href="#">SMS</a><!---->
                      </div>
                   </div>
                   <!----><!----><!---->

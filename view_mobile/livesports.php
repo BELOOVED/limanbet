@@ -29,117 +29,117 @@ if ($detect->isMobile()) {?>
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/210"><span class="icon"><i class="sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker (2) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker (2) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/207"><span class="icon"><i class="sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol (23) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol (23) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/167"><span class="icon"><i class="sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi (9) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi (9) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/223"><span class="icon"><i class="sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket (1) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket (1) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/live-calendar"><span class="icon"><i class="fa fa-calendar-o pg-icons"></i></span><span class="type truncate"> Takvim </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="fa fa-calendar-o pg-icons"></i></span><span class="type truncate"> Takvim </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a class="active" href="/tr/bet/live/0"><span class="icon"><i class="st-font-icons fa fa-globe"></i></span><span class="type truncate"> Hepsi </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a class="active" href="#"><span class="icon"><i class="st-font-icons fa fa-globe"></i></span><span class="type truncate"> Hepsi </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/170"><span class="icon"><i class="sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol (11) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol (11) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/282"><span class="icon"><i class="sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol (2) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol (2) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/188"><span class="icon"><i class="sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol (22) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol (22) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/190"><span class="icon"><i class="sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi (27) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi (27) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/168"><span class="icon"><i class="sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis (27) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis (27) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/201"><span class="icon"><i class="sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol (20) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol (20) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/210"><span class="icon"><i class="sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker (2) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-19 st-font-icons"></i></span><span class="type truncate"> Snooker (2) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/207"><span class="icon"><i class="sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol (23) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-6 st-font-icons"></i></span><span class="type truncate"> Hentbol (23) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/167"><span class="icon"><i class="sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi (9) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi (9) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/223"><span class="icon"><i class="sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket (1) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-21 st-font-icons"></i></span><span class="type truncate"> Kriket (1) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/live-calendar"><span class="icon"><i class="fa fa-calendar-o pg-icons"></i></span><span class="type truncate"> Takvim </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="fa fa-calendar-o pg-icons"></i></span><span class="type truncate"> Takvim </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a class="active" href="/tr/bet/live/0"><span class="icon"><i class="st-font-icons fa fa-globe"></i></span><span class="type truncate"> Hepsi </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a class="active" href="#"><span class="icon"><i class="st-font-icons fa fa-globe"></i></span><span class="type truncate"> Hepsi </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/170"><span class="icon"><i class="sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol (11) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol (11) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/282"><span class="icon"><i class="sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol (2) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol (2) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/188"><span class="icon"><i class="sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol (22) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol (22) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/190"><span class="icon"><i class="sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi (27) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi (27) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!---->
                               <div class="owl-item ng-tns-c78-7 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 131.5px;">
-                                 <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/168"><span class="icon"><i class="sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis (27) </span></a></div>
+                                 <div class="events ng-star-inserted" style=""><a href="#"><span class="icon"><i class="sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis (27) </span></a></div>
                                  <!----><!---->
                               </div>
                               <!----><!---->
@@ -182,7 +182,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/53764792">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -251,7 +251,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590637">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -320,7 +320,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55430338">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -389,7 +389,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55024102">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -435,7 +435,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55024103">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -481,7 +481,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55382209">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -550,7 +550,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588048">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -596,7 +596,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588056">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -665,7 +665,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55483300">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -734,7 +734,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529183">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -803,7 +803,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588057">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -875,7 +875,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55620609">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -944,7 +944,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55615891">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1014,7 +1014,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55450469">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1077,7 +1077,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55475142">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1140,7 +1140,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588049">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1203,7 +1203,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587726">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1258,7 +1258,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55181932">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1321,7 +1321,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55181934">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1355,7 +1355,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55474116">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1418,7 +1418,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55181933">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1481,7 +1481,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55613317">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1544,7 +1544,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529185">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1586,7 +1586,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529202">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1628,7 +1628,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55531188">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1670,7 +1670,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55533039">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1733,7 +1733,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529187">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1796,7 +1796,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55575328">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1838,7 +1838,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55577230">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1880,7 +1880,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587718">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1940,7 +1940,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588051">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -1982,7 +1982,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588058">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2024,7 +2024,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55625643">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2087,7 +2087,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587724">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2150,7 +2150,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588036">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2216,7 +2216,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/54717472">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2258,7 +2258,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55180583">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2300,7 +2300,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55180585">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2342,7 +2342,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55495509">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2405,7 +2405,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55180586">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2468,7 +2468,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587714">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2510,7 +2510,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588032">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2552,7 +2552,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587716">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2615,7 +2615,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588055">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2678,7 +2678,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/54718079">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2720,7 +2720,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/54718084">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2762,7 +2762,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/54718086">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2825,7 +2825,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588035">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2888,7 +2888,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590899">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2930,7 +2930,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590900">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -2972,7 +2972,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590904">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3035,7 +3035,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/54915761">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3098,7 +3098,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529197">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3140,7 +3140,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529199">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3182,7 +3182,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529196">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3224,7 +3224,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529200">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3287,7 +3287,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587728">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3350,7 +3350,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55572340">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3413,7 +3413,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529181">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3455,7 +3455,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529182">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3497,7 +3497,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588042">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3538,7 +3538,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55605769">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3603,7 +3603,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55552362">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3665,7 +3665,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55547856">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3724,7 +3724,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55572360">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3791,7 +3791,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55639567">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3858,7 +3858,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55616549">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3925,7 +3925,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55602890">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -3987,7 +3987,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55636317">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4033,7 +4033,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55617537">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4095,7 +4095,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55615529">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4141,7 +4141,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55615520">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4208,7 +4208,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55605846">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4254,7 +4254,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55608476">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4300,7 +4300,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55620717">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4367,7 +4367,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55609321">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4434,7 +4434,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55619568">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4480,7 +4480,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55620851">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4534,7 +4534,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55623123">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4580,7 +4580,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55605845">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4626,7 +4626,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55623121">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4672,7 +4672,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55608465">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4734,7 +4734,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55453390">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4801,7 +4801,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55552474">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4868,7 +4868,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55456157">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4935,7 +4935,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55551338">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -4981,7 +4981,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55638418">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5043,7 +5043,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55613322">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5089,7 +5089,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55548664">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5159,7 +5159,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55382198">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5224,7 +5224,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529212">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5289,7 +5289,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588865">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5333,7 +5333,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55608472">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5398,7 +5398,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590905">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5463,7 +5463,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55114821">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5525,7 +5525,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55625572">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5590,7 +5590,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588922">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5655,7 +5655,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55608471">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5720,7 +5720,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588890">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5785,7 +5785,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588919">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5850,7 +5850,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588889">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5915,7 +5915,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55625573">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -5959,7 +5959,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55625574">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6000,7 +6000,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55625575">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6062,7 +6062,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588841">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6106,7 +6106,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588852">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6150,7 +6150,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588888">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6191,7 +6191,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588892">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6235,7 +6235,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55588921">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6303,7 +6303,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55623134">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6347,7 +6347,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55625600">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6417,7 +6417,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55001262">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6486,7 +6486,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590714">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6554,7 +6554,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590712">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6621,7 +6621,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590674">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6686,7 +6686,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590665">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6732,7 +6732,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590668">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6778,7 +6778,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590677">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6824,7 +6824,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590897">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6880,7 +6880,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590685">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6926,7 +6926,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590687">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -6995,7 +6995,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590666">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7064,7 +7064,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590690">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7133,7 +7133,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590671">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7202,7 +7202,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590692">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7271,7 +7271,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55529190">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7317,7 +7317,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587692">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7386,7 +7386,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55586710">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7432,7 +7432,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55586718">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7478,7 +7478,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55586719">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7547,7 +7547,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590664">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7616,7 +7616,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590669">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7685,7 +7685,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55590684">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7754,7 +7754,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55587336">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7824,7 +7824,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55623077">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7866,7 +7866,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55632794">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7908,7 +7908,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55632796">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -7971,7 +7971,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55615696">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -8013,7 +8013,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55615697">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -8076,7 +8076,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55610620">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -8118,7 +8118,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55612215">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -8160,7 +8160,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55612258">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -8202,7 +8202,7 @@ if ($detect->isMobile()) {?>
                         </div>
                         <!----><!---->
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/55612565">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -8265,7 +8265,7 @@ if ($detect->isMobile()) {?>
                   <div class="modul-content ng-star-inserted">
                      <div class="fixture-container">
                         <div class="match-content flex-container ng-star-inserted">
-                           <a class="match-header flex-container" href="/tr/bet/live/detail/54851213">
+                           <a class="match-header flex-container" href="#">
                               <span class="match-title flex-item">
                                  <div class="team content-left">
                                     <div class="team-content-left team-name">
@@ -8359,7 +8359,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Uluslararası Kulüpler"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası Kulüpler</span><span class="count">7</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - Sokol Kazan - FC Kamaz Naberezhnye Chelny" href="/tr/bet/live/detail/55499493">
+                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - Sokol Kazan - FC Kamaz Naberezhnye Chelny" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Sokol Kazan - FC Kamaz Naberezhnye Chelny</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8373,7 +8373,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - Neman Grodno - Dinamo Minsk" href="/tr/bet/live/detail/55456194">
+                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - Neman Grodno - Dinamo Minsk" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Neman Grodno - Dinamo Minsk</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8387,7 +8387,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - SK Lisen B - TJ Start Brno" href="/tr/bet/live/detail/55456469">
+                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - SK Lisen B - TJ Start Brno" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">SK Lisen B - TJ Start Brno</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8401,7 +8401,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - FK Mlada Boleslav B - FK Dukla Prague B" href="/tr/bet/live/detail/55499504">
+                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - FK Mlada Boleslav B - FK Dukla Prague B" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">FK Mlada Boleslav B - FK Dukla Prague B</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8415,7 +8415,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - FK Motorlet Prague - FK Jablonec B" href="/tr/bet/live/detail/55499506">
+                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - FK Motorlet Prague - FK Jablonec B" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">FK Motorlet Prague - FK Jablonec B</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8429,7 +8429,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - SK Benesov - FA Povltavska" href="/tr/bet/live/detail/55533815">
+                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - SK Benesov - FA Povltavska" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">SK Benesov - FA Povltavska</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8443,7 +8443,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - FK Velke Mezirici - FC Slovan Rosice" href="/tr/bet/live/detail/55533816">
+                                       <a routerlinkactive="active" title="Kulüp Hazırlık Maçları 2024 - FK Velke Mezirici - FC Slovan Rosice" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">FK Velke Mezirici - FC Slovan Rosice</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8464,7 +8464,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Avustralya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">2</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="A-Ligi 23/24 - Cental Coast Mariners FC - Brisbane Roar FC" href="/tr/bet/live/detail/53665063">
+                                       <a routerlinkactive="active" title="A-Ligi 23/24 - Cental Coast Mariners FC - Brisbane Roar FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Cental Coast Mariners FC - Brisbane Roar FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8479,7 +8479,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Npl Night Series - Western Knights SC - Ecu Joondalup" href="/tr/bet/live/detail/55429944">
+                                       <a routerlinkactive="active" title="Npl Night Series - Western Knights SC - Ecu Joondalup" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Western Knights SC - Ecu Joondalup</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8500,7 +8500,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Bangladeş"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Bangladeş</span><span class="count">1</span><i class="country icon-32xBGD"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Premier Lig 23/24 - SHEIKH RUSSEL KC - Fortis FC" href="/tr/bet/live/detail/55451265">
+                                       <a routerlinkactive="active" title="Premier Lig 23/24 - SHEIKH RUSSEL KC - Fortis FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">SHEIKH RUSSEL KC - Fortis FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8521,7 +8521,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Kamboçya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kamboçya</span><span class="count">1</span><i class="country icon-32xKHM"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Premier League - Prey Veng - Nagaworld FC" href="/tr/bet/live/detail/55475675">
+                                       <a routerlinkactive="active" title="Premier League - Prey Veng - Nagaworld FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Prey Veng - Nagaworld FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8542,7 +8542,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Endonezya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Endonezya</span><span class="count">4</span><i class="country icon-32xIDN"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Liga 2 - Psim Yogyakarta - Semen Padang" href="/tr/bet/live/detail/55451270">
+                                       <a routerlinkactive="active" title="Liga 2 - Psim Yogyakarta - Semen Padang" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Psim Yogyakarta - Semen Padang</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8556,7 +8556,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Liga 2 - Persiba Balikpapan - Persijap Jepara" href="/tr/bet/live/detail/55452135">
+                                       <a routerlinkactive="active" title="Liga 2 - Persiba Balikpapan - Persijap Jepara" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Persiba Balikpapan - Persijap Jepara</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8570,7 +8570,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Liga 2 - Persekat Kabupaten Tegal - Persipura Jayapura" href="/tr/bet/live/detail/55524420">
+                                       <a routerlinkactive="active" title="Liga 2 - Persekat Kabupaten Tegal - Persipura Jayapura" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Persekat Kabupaten Tegal - Persipura Jayapura</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8585,7 +8585,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U20, Liga 1 - Persis Solo U20 - Bhayangkara Solo FC U20" href="/tr/bet/live/detail/55525433">
+                                       <a routerlinkactive="active" title="U20, Liga 1 - Persis Solo U20 - Bhayangkara Solo FC U20" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Persis Solo U20 - Bhayangkara Solo FC U20</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8606,7 +8606,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="İsrail"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">İsrail</span><span class="count">1</span><i class="country icon-32xISR"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Liga Bet North A - Maccabi Ironi Yafia - Maccabi Bnei Jadeidi-Makr" href="/tr/bet/live/detail/55496745">
+                                       <a routerlinkactive="active" title="Liga Bet North A - Maccabi Ironi Yafia - Maccabi Bnei Jadeidi-Makr" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Maccabi Ironi Yafia - Maccabi Bnei Jadeidi-Makr</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8627,7 +8627,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Simulated Reality League"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Simulated Reality League</span><span class="count">13</span><i class="country icon-32xSMRL"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Turkey Super Lig SRL 21/22 - Alanyaspor Srl - Pendikspor Srl" href="/tr/bet/live/detail/55482128">
+                                       <a routerlinkactive="active" title="Turkey Super Lig SRL 21/22 - Alanyaspor Srl - Pendikspor Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Alanyaspor Srl - Pendikspor Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8641,7 +8641,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Turkey Super Lig SRL 21/22 - Adana Demirspor Srl - Hatayspor Srl" href="/tr/bet/live/detail/55482431">
+                                       <a routerlinkactive="active" title="Turkey Super Lig SRL 21/22 - Adana Demirspor Srl - Hatayspor Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Adana Demirspor Srl - Hatayspor Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8656,7 +8656,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - UD Las Palmas Srl - Real Madrid Srl" href="/tr/bet/live/detail/55482104">
+                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - UD Las Palmas Srl - Real Madrid Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">UD Las Palmas Srl - Real Madrid Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8670,7 +8670,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - Real Sociedad Srl - Rayo Vallecano Srl" href="/tr/bet/live/detail/55482105">
+                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - Real Sociedad Srl - Rayo Vallecano Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Real Sociedad Srl - Rayo Vallecano Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8684,7 +8684,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - RCD Mallorca Srl - Real Betis Balompie Srl" href="/tr/bet/live/detail/55482106">
+                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - RCD Mallorca Srl - Real Betis Balompie Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">RCD Mallorca Srl - Real Betis Balompie Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8698,7 +8698,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - FC Barcelona Srl - Villarreal CF Srl" href="/tr/bet/live/detail/55482107">
+                                       <a routerlinkactive="active" title="LaLiga SRL 21/22 - FC Barcelona Srl - Villarreal CF Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">FC Barcelona Srl - Villarreal CF Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8713,7 +8713,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Serie A SRL 21/22 - Atalanta BC Srl - Udinese Calcio Srl" href="/tr/bet/live/detail/55480418">
+                                       <a routerlinkactive="active" title="Serie A SRL 21/22 - Atalanta BC Srl - Udinese Calcio Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Atalanta BC Srl - Udinese Calcio Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8727,7 +8727,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Serie A SRL 21/22 - Juventus Turin Srl - Empoli FC Srl" href="/tr/bet/live/detail/55480730">
+                                       <a routerlinkactive="active" title="Serie A SRL 21/22 - Juventus Turin Srl - Empoli FC Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Juventus Turin Srl - Empoli FC Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8741,7 +8741,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Serie A SRL 21/22 - AC Milan Srl - Bologna FC Srl" href="/tr/bet/live/detail/55480763">
+                                       <a routerlinkactive="active" title="Serie A SRL 21/22 - AC Milan Srl - Bologna FC Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">AC Milan Srl - Bologna FC Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8756,7 +8756,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - RKC Waalwijk Srl - Sparta Rotterdam Srl" href="/tr/bet/live/detail/55482114">
+                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - RKC Waalwijk Srl - Sparta Rotterdam Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">RKC Waalwijk Srl - Sparta Rotterdam Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8770,7 +8770,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - Excelsior Rotterdam Srl - FC Utrecht Srl" href="/tr/bet/live/detail/55482115">
+                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - Excelsior Rotterdam Srl - FC Utrecht Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Excelsior Rotterdam Srl - FC Utrecht Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8784,7 +8784,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - PSV Eindhoven Srl - Almere City FC Srl" href="/tr/bet/live/detail/55482116">
+                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - PSV Eindhoven Srl - Almere City FC Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">PSV Eindhoven Srl - Almere City FC Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8798,7 +8798,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - Heracles Almelo Srl - Ajax Amsterdam Srl" href="/tr/bet/live/detail/55482117">
+                                       <a routerlinkactive="active" title="Dutch Eredivisie Srl 19/20 - Heracles Almelo Srl - Ajax Amsterdam Srl" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Heracles Almelo Srl - Ajax Amsterdam Srl</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8819,7 +8819,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Güney Afrika"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Güney Afrika</span><span class="count">3</span><i class="country icon-32xZAF"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Premier League, Reserve - TS Galaxy FC Reserves - Royal AM Reserve" href="/tr/bet/live/detail/55473455">
+                                       <a routerlinkactive="active" title="Premier League, Reserve - TS Galaxy FC Reserves - Royal AM Reserve" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">TS Galaxy FC Reserves - Royal AM Reserve</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8833,7 +8833,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Premier League, Reserve - Golden Arrows Reserve - Sekhukhune United Reserve" href="/tr/bet/live/detail/55473461">
+                                       <a routerlinkactive="active" title="Premier League, Reserve - Golden Arrows Reserve - Sekhukhune United Reserve" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Golden Arrows Reserve - Sekhukhune United Reserve</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8847,7 +8847,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Premier League, Reserve - Amazulu Reserve - Chippa United FC Reserve" href="/tr/bet/live/detail/55473469">
+                                       <a routerlinkactive="active" title="Premier League, Reserve - Amazulu Reserve - Chippa United FC Reserve" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Amazulu Reserve - Chippa United FC Reserve</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8868,7 +8868,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Tayland"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Tayland</span><span class="count">8</span><i class="country icon-32xTHA"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Royal Thai Army FC - VRN Muangnont FC" href="/tr/bet/live/detail/55451274">
+                                       <a routerlinkactive="active" title="Thai League 3 - Royal Thai Army FC - VRN Muangnont FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Royal Thai Army FC - VRN Muangnont FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8882,7 +8882,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Prachinburi City FC - Pluak Daeng Rayong United FC" href="/tr/bet/live/detail/55451275">
+                                       <a routerlinkactive="active" title="Thai League 3 - Prachinburi City FC - Pluak Daeng Rayong United FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Prachinburi City FC - Pluak Daeng Rayong United FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8896,7 +8896,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Chamchuri United - Inter Bangkok" href="/tr/bet/live/detail/55451276">
+                                       <a routerlinkactive="active" title="Thai League 3 - Chamchuri United - Inter Bangkok" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Chamchuri United - Inter Bangkok</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8910,7 +8910,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Bfb Pattaya City - Saimit Kabin United FC" href="/tr/bet/live/detail/55451278">
+                                       <a routerlinkactive="active" title="Thai League 3 - Bfb Pattaya City - Saimit Kabin United FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Bfb Pattaya City - Saimit Kabin United FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8924,7 +8924,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Surin City - Suranaree Black Cat FC" href="/tr/bet/live/detail/55475672">
+                                       <a routerlinkactive="active" title="Thai League 3 - Surin City - Suranaree Black Cat FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Surin City - Suranaree Black Cat FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8938,7 +8938,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Rangsit University - Thonburi United" href="/tr/bet/live/detail/55475673">
+                                       <a routerlinkactive="active" title="Thai League 3 - Rangsit University - Thonburi United" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Rangsit University - Thonburi United</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8952,7 +8952,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Thapluang United - Kanchanaburi City FC" href="/tr/bet/live/detail/55524426">
+                                       <a routerlinkactive="active" title="Thai League 3 - Thapluang United - Kanchanaburi City FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Thapluang United - Kanchanaburi City FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8966,7 +8966,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thai League 3 - Assumption United - Rajpracha FC" href="/tr/bet/live/detail/55525429">
+                                       <a routerlinkactive="active" title="Thai League 3 - Assumption United - Rajpracha FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Assumption United - Rajpracha FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -8987,7 +8987,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Türkiye Amatör"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Türkiye Amatör</span><span class="count">9</span><i class="country icon-32xTUR"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U19 Elit B 23/24 - Altay - Bursaspor" href="/tr/bet/live/detail/55451264">
+                                       <a routerlinkactive="active" title="U19 Elit B 23/24 - Altay - Bursaspor" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Altay - Bursaspor</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9001,7 +9001,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U19 Elit B 23/24 - Bodrum FK U19 - Bandırmaspor" href="/tr/bet/live/detail/55451283">
+                                       <a routerlinkactive="active" title="U19 Elit B 23/24 - Bodrum FK U19 - Bandırmaspor" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Bodrum FK U19 - Bandırmaspor</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9015,7 +9015,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U19 Elit B 23/24 - Göztepe - Ankara Keçiörengücü" href="/tr/bet/live/detail/55451294">
+                                       <a routerlinkactive="active" title="U19 Elit B 23/24 - Göztepe - Ankara Keçiörengücü" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Göztepe - Ankara Keçiörengücü</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9030,7 +9030,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="1 - Eyupspor U19 - İstanbulspor AŞ" href="/tr/bet/live/detail/55451281">
+                                       <a routerlinkactive="active" title="1 - Eyupspor U19 - İstanbulspor AŞ" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Eyupspor U19 - İstanbulspor AŞ</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9044,7 +9044,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="1 - Trabzonspor - Fenerbahçe" href="/tr/bet/live/detail/55451285">
+                                       <a routerlinkactive="active" title="1 - Trabzonspor - Fenerbahçe" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Trabzonspor - Fenerbahçe</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9058,7 +9058,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="1 - Boluspor - Demir Grup Sivasspor" href="/tr/bet/live/detail/55451289">
+                                       <a routerlinkactive="active" title="1 - Boluspor - Demir Grup Sivasspor" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Boluspor - Demir Grup Sivasspor</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9072,7 +9072,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="1 - Konyaspor - Altınordu FK" href="/tr/bet/live/detail/55473452">
+                                       <a routerlinkactive="active" title="1 - Konyaspor - Altınordu FK" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Konyaspor - Altınordu FK</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9087,7 +9087,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="2 - İstanbul Başakşehir FK - Gazişehir Gaziantep FK" href="/tr/bet/live/detail/55451290">
+                                       <a routerlinkactive="active" title="2 - İstanbul Başakşehir FK - Gazişehir Gaziantep FK" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">İstanbul Başakşehir FK - Gazişehir Gaziantep FK</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9101,7 +9101,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="2 - Kayserispor - Galatasaray SK" href="/tr/bet/live/detail/55451304">
+                                       <a routerlinkactive="active" title="2 - Kayserispor - Galatasaray SK" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Kayserispor - Galatasaray SK</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9122,7 +9122,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Vietnam"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Vietnam</span><span class="count">3</span><i class="country icon-32xVNM"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U19 V-League - Pvf U19 - Luxury Ha Long U19" href="/tr/bet/live/detail/55451272">
+                                       <a routerlinkactive="active" title="U19 V-League - Pvf U19 - Luxury Ha Long U19" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Pvf U19 - Luxury Ha Long U19</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9136,7 +9136,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U19 V-League - Hong Linh Ha Tinh - Thanh Hoa U19" href="/tr/bet/live/detail/55524421">
+                                       <a routerlinkactive="active" title="U19 V-League - Hong Linh Ha Tinh - Thanh Hoa U19" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Hong Linh Ha Tinh - Thanh Hoa U19</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9150,7 +9150,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U19 V-League - Hoang Anh Gia Lai U19 - Kon Tum U19" href="/tr/bet/live/detail/55451273">
+                                       <a routerlinkactive="active" title="U19 V-League - Hoang Anh Gia Lai U19 - Kon Tum U19" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Hoang Anh Gia Lai U19 - Kon Tum U19</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9181,7 +9181,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Eadriatic League"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Eadriatic League</span><span class="count">2</span><i class="country icon-32xNO-ISO"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="eAdriatic League - Real Madrid (Matrix) - FC Bayern Munich (Leonardo)" href="/tr/bet/live/detail/55526461">
+                                       <a routerlinkactive="active" title="eAdriatic League - Real Madrid (Matrix) - FC Bayern Munich (Leonardo)" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Real Madrid (Matrix) - FC Bayern Munich (Leonardo)</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9195,7 +9195,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="eAdriatic League - Paris Saint Germain (Alexis) - FC Barcelona (Panther)" href="/tr/bet/live/detail/55526462">
+                                       <a routerlinkactive="active" title="eAdriatic League - Paris Saint Germain (Alexis) - FC Barcelona (Panther)" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Paris Saint Germain (Alexis) - FC Barcelona (Panther)</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9216,7 +9216,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Gt Sports League"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Gt Sports League</span><span class="count">4</span><i class="country icon-32xNO-ISO"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="GT Leagues - AS Roma (Socrates) - AC Milan (Mosquito)" href="/tr/bet/live/detail/55529319">
+                                       <a routerlinkactive="active" title="GT Leagues - AS Roma (Socrates) - AC Milan (Mosquito)" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">AS Roma (Socrates) - AC Milan (Mosquito)</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9230,7 +9230,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="GT Leagues - Bayer 04 Leverkusen (Venom) - Toulouse FC (Raul)" href="/tr/bet/live/detail/55530059">
+                                       <a routerlinkactive="active" title="GT Leagues - Bayer 04 Leverkusen (Venom) - Toulouse FC (Raul)" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Bayer 04 Leverkusen (Venom) - Toulouse FC (Raul)</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9244,7 +9244,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="GT Leagues - Juventus (Tongpo) - SSC Napoli (Professor)" href="/tr/bet/live/detail/55530078">
+                                       <a routerlinkactive="active" title="GT Leagues - Juventus (Tongpo) - SSC Napoli (Professor)" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Juventus (Tongpo) - SSC Napoli (Professor)</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9258,7 +9258,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="GT Leagues - Atalanta BC (Furious) - Sporting CP (Cruise)" href="/tr/bet/live/detail/55530132">
+                                       <a routerlinkactive="active" title="GT Leagues - Atalanta BC (Furious) - Sporting CP (Cruise)" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Atalanta BC (Furious) - Sporting CP (Cruise)</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9289,7 +9289,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Rusya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Rusya</span><span class="count">1</span><i class="country icon-32xRUS"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Vysshaya Liga, Women - Nadezhda-2 Orenburg - BC Unost Penza" href="/tr/bet/live/detail/55475699">
+                                       <a routerlinkactive="active" title="Vysshaya Liga, Women - Nadezhda-2 Orenburg - BC Unost Penza" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Nadezhda-2 Orenburg - BC Unost Penza</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9310,7 +9310,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Avustralya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">1</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="NBL 23/24 - SE Melbourne Phoenix - Perth Wildcats" href="/tr/bet/live/detail/53665057">
+                                       <a routerlinkactive="active" title="NBL 23/24 - SE Melbourne Phoenix - Perth Wildcats" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">SE Melbourne Phoenix - Perth Wildcats</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9331,7 +9331,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Tayvan"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Tayvan</span><span class="count">4</span><i class="country icon-32xTPE"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="SBL 2024 - Changhua Bll - Bank of Taiwan" href="/tr/bet/live/detail/55524406">
+                                       <a routerlinkactive="active" title="SBL 2024 - Changhua Bll - Bank of Taiwan" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Changhua Bll - Bank of Taiwan</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9346,7 +9346,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="P Ligi 23/24 - Taipei Fubon Braves - Formosa Taishin Dreamers" href="/tr/bet/live/detail/55452988">
+                                       <a routerlinkactive="active" title="P Ligi 23/24 - Taipei Fubon Braves - Formosa Taishin Dreamers" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Taipei Fubon Braves - Formosa Taishin Dreamers</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9361,7 +9361,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="University Basketball Association - National Taiwan University of Science And Technology - National Formosa University" href="/tr/bet/live/detail/55474603">
+                                       <a routerlinkactive="active" title="University Basketball Association - National Taiwan University of Science And Technology - National Formosa University" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">National Taiwan University of Science And Technology - National Formosa University</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9375,7 +9375,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="University Basketball Association - Chien Hsin University - National Taiwan Normal University" href="/tr/bet/live/detail/55474609">
+                                       <a routerlinkactive="active" title="University Basketball Association - Chien Hsin University - National Taiwan Normal University" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Chien Hsin University - National Taiwan Normal University</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9396,7 +9396,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Endonezya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Endonezya</span><span class="count">1</span><i class="country icon-32xIDN"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="IBL 2024 - Satya Wacana LBC Angsapura Salatiga - Pelita Jaya Basketball" href="/tr/bet/live/detail/55431129">
+                                       <a routerlinkactive="active" title="IBL 2024 - Satya Wacana LBC Angsapura Salatiga - Pelita Jaya Basketball" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Satya Wacana LBC Angsapura Salatiga - Pelita Jaya Basketball</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9417,7 +9417,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Japonya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Japonya</span><span class="count">1</span><i class="country icon-32xJPN"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="B3.league - Shinagawa City Club - Tokushima Gambarous" href="/tr/bet/live/detail/55452981">
+                                       <a routerlinkactive="active" title="B3.league - Shinagawa City Club - Tokushima Gambarous" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Shinagawa City Club - Tokushima Gambarous</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9438,7 +9438,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Kazakistan"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kazakistan</span><span class="count">1</span><i class="country icon-32xKAZ"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="National League, Women - Astana Tigers - Irtysh Pavlodar" href="/tr/bet/live/detail/55475700">
+                                       <a routerlinkactive="active" title="National League, Women - Astana Tigers - Irtysh Pavlodar" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Astana Tigers - Irtysh Pavlodar</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9459,7 +9459,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Kore Cumhuriyeti"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kore Cumhuriyeti</span><span class="count">1</span><i class="country icon-32xKOR"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="WKBL 23/24 - Incheon Shinhan Bank S-Birds - Asan Woori Bank Wibee" href="/tr/bet/live/detail/53665059">
+                                       <a routerlinkactive="active" title="WKBL 23/24 - Incheon Shinhan Bank S-Birds - Asan Woori Bank Wibee" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Incheon Shinhan Bank S-Birds - Asan Woori Bank Wibee</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9490,7 +9490,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Rusya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Rusya</span><span class="count">1</span><i class="country icon-32xRUS"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Nmhl (Mhl - B) - Angarskiy Yermak - Metallurg Vologda Oblast" href="/tr/bet/live/detail/55456173">
+                                       <a routerlinkactive="active" title="Nmhl (Mhl - B) - Angarskiy Yermak - Metallurg Vologda Oblast" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Angarskiy Yermak - Metallurg Vologda Oblast</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9511,7 +9511,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Kazakistan"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kazakistan</span><span class="count">2</span><i class="country icon-32xKAZ"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U20 League - Barys U20 - Aqtobe U20" href="/tr/bet/live/detail/55450518">
+                                       <a routerlinkactive="active" title="U20 League - Barys U20 - Aqtobe U20" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Barys U20 - Aqtobe U20</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9525,7 +9525,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U20 League - HC Temirtau U20 - Kulager U20" href="/tr/bet/live/detail/55524402">
+                                       <a routerlinkactive="active" title="U20 League - HC Temirtau U20 - Kulager U20" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">HC Temirtau U20 - Kulager U20</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9556,7 +9556,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="WTA"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">WTA</span><span class="count">4</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Avustralya Açık Kadınlar Tekler 2024 - Zheng, Qinwen - Sabalenka, Aryna" href="/tr/bet/live/detail/55162701">
+                                       <a routerlinkactive="active" title="Avustralya Açık Kadınlar Tekler 2024 - Zheng, Qinwen - Sabalenka, Aryna" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Zheng, Qinwen - Sabalenka, Aryna</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9571,7 +9571,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024 - Hesse, Amandine - Saville, Daria" href="/tr/bet/live/detail/55522863">
+                                       <a routerlinkactive="active" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024 - Hesse, Amandine - Saville, Daria" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Hesse, Amandine - Saville, Daria</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9585,7 +9585,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024 - Hontama, Mai - Sun, Lulu" href="/tr/bet/live/detail/55522859">
+                                       <a routerlinkactive="active" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024 - Hontama, Mai - Sun, Lulu" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Hontama, Mai - Sun, Lulu</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9599,7 +9599,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024 - Gadecki, Olivia - Preston, Taylah" href="/tr/bet/live/detail/55522858">
+                                       <a routerlinkactive="active" title="WTA Hua Hin, Tayland Kadınlar Tekler 2024 - Gadecki, Olivia - Preston, Taylah" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Gadecki, Olivia - Preston, Taylah</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9620,7 +9620,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="ITF Erkekler"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ITF Erkekler</span><span class="count">2</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="ITF Türkiye F3, Erkekler Tekler 2024 - Cretu, Cezar (2001) - Kırkın, Ergi" href="/tr/bet/live/detail/55521956">
+                                       <a routerlinkactive="active" title="ITF Türkiye F3, Erkekler Tekler 2024 - Cretu, Cezar (2001) - Kırkın, Ergi" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Cretu, Cezar (2001) - Kırkın, Ergi</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9634,7 +9634,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="ITF Türkiye F3, Erkekler Tekler 2024 - Ionel, Nicholas David - Minighini, Daniele" href="/tr/bet/live/detail/55522913">
+                                       <a routerlinkactive="active" title="ITF Türkiye F3, Erkekler Tekler 2024 - Ionel, Nicholas David - Minighini, Daniele" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Ionel, Nicholas David - Minighini, Daniele</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9655,7 +9655,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="ITF Kadınlar"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">ITF Kadınlar</span><span class="count">2</span><i class="country icon-32xTENN"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="ITF Türkiye 03A, Kadınlar Tekler 2024 - Prisacariu, Andreea - Lovric, Pia" href="/tr/bet/live/detail/55522911">
+                                       <a routerlinkactive="active" title="ITF Türkiye 03A, Kadınlar Tekler 2024 - Prisacariu, Andreea - Lovric, Pia" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Prisacariu, Andreea - Lovric, Pia</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9669,7 +9669,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="ITF Türkiye 03A, Kadınlar Tekler 2024 - Scilipoti, Sebastianna - Lazaro Garcia, Andrea" href="/tr/bet/live/detail/55522912">
+                                       <a routerlinkactive="active" title="ITF Türkiye 03A, Kadınlar Tekler 2024 - Scilipoti, Sebastianna - Lazaro Garcia, Andrea" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Scilipoti, Sebastianna - Lazaro Garcia, Andrea</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9700,7 +9700,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Rusya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Rusya</span><span class="count">1</span><i class="country icon-32xRUS"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Pro League - Legion - Enerdzhi" href="/tr/bet/live/detail/55525450">
+                                       <a routerlinkactive="active" title="Pro League - Legion - Enerdzhi" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Legion - Enerdzhi</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9721,7 +9721,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Çin"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çin</span><span class="count">1</span><i class="country icon-32xCHN"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Çin Voleybol Ligi, Kadınlar 23/24 - Shandong VC - Fujian VC" href="/tr/bet/live/detail/55430381">
+                                       <a routerlinkactive="active" title="Çin Voleybol Ligi, Kadınlar 23/24 - Shandong VC - Fujian VC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Shandong VC - Fujian VC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9742,7 +9742,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Tayvan"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Tayvan</span><span class="count">1</span><i class="country icon-32xTPE"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="TVL - Sdtv - Yunlin Mizuno" href="/tr/bet/live/detail/55453024">
+                                       <a routerlinkactive="active" title="TVL - Sdtv - Yunlin Mizuno" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Sdtv - Yunlin Mizuno</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9763,7 +9763,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Kazakistan"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Kazakistan</span><span class="count">1</span><i class="country icon-32xKAZ"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U21 National League - Alikhan Aktobe 2 U21 - Esil SK 2" href="/tr/bet/live/detail/55480351">
+                                       <a routerlinkactive="active" title="U21 National League - Alikhan Aktobe 2 U21 - Esil SK 2" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Alikhan Aktobe 2 U21 - Esil SK 2</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9784,7 +9784,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Tayland"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Tayland</span><span class="count">1</span><i class="country icon-32xTHA"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Thailand Volleyball League - Muangphon VC - Koh Kood Cabana" href="/tr/bet/live/detail/55480350">
+                                       <a routerlinkactive="active" title="Thailand Volleyball League - Muangphon VC - Koh Kood Cabana" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Muangphon VC - Koh Kood Cabana</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9805,7 +9805,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Uganda"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uganda</span><span class="count">1</span><i class="country icon-32xUGA"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="National Volleyball League, Women - Vvc - Nkumba- A" href="/tr/bet/live/detail/55535830">
+                                       <a routerlinkactive="active" title="National Volleyball League, Women - Vvc - Nkumba- A" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Vvc - Nkumba- A</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9836,7 +9836,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Avustralya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Avustralya</span><span class="count">1</span><i class="country icon-32xAUS"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="ABL 23/24 - Adelaide Giants - Melbourne Aces" href="/tr/bet/live/detail/55428950">
+                                       <a routerlinkactive="active" title="ABL 23/24 - Adelaide Giants - Melbourne Aces" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Adelaide Giants - Melbourne Aces</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9867,7 +9867,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Mongolia"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Mongolia</span><span class="count">1</span><i class="country icon-32xMNG"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Futsal League - Khaliun-Od FC - Kharaatsai FC" href="/tr/bet/live/detail/55479965">
+                                       <a routerlinkactive="active" title="Futsal League - Khaliun-Od FC - Kharaatsai FC" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Khaliun-Od FC - Kharaatsai FC</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9888,7 +9888,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Romanya"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Romanya</span><span class="count">1</span><i class="country icon-32xROU"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="U19 National Championship - ACS Soimii Simand U19 - CFR Timisoara U19" href="/tr/bet/live/detail/55533817">
+                                       <a routerlinkactive="active" title="U19 National Championship - ACS Soimii Simand U19 - CFR Timisoara U19" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">ACS Soimii Simand U19 - CFR Timisoara U19</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9919,7 +9919,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Uluslararası"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">6</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="TT Cup - Rolik, Jakub - Zeman, Radek" href="/tr/bet/live/detail/55533085">
+                                       <a routerlinkactive="active" title="TT Cup - Rolik, Jakub - Zeman, Radek" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Rolik, Jakub - Zeman, Radek</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9933,7 +9933,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="TT Cup - Marat, Filip - Semrad, Petr" href="/tr/bet/live/detail/55533086">
+                                       <a routerlinkactive="active" title="TT Cup - Marat, Filip - Semrad, Petr" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Marat, Filip - Semrad, Petr</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9947,7 +9947,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="TT Cup - Krezel, Andrzej - Witkowski, Tomasz" href="/tr/bet/live/detail/55533088">
+                                       <a routerlinkactive="active" title="TT Cup - Krezel, Andrzej - Witkowski, Tomasz" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Krezel, Andrzej - Witkowski, Tomasz</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9961,7 +9961,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="TT Cup - Malik, Mateusz - Kayque, Valois" href="/tr/bet/live/detail/55533087">
+                                       <a routerlinkactive="active" title="TT Cup - Malik, Mateusz - Kayque, Valois" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Malik, Mateusz - Kayque, Valois</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9976,7 +9976,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="TT Elite Series - Dosz, Adam - Braun, Josef" href="/tr/bet/live/detail/55525736">
+                                       <a routerlinkactive="active" title="TT Elite Series - Dosz, Adam - Braun, Josef" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Dosz, Adam - Braun, Josef</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -9990,7 +9990,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="TT Elite Series - Rudomina, Kamil - Swierczek, Damian" href="/tr/bet/live/detail/55525742">
+                                       <a routerlinkactive="active" title="TT Elite Series - Rudomina, Kamil - Swierczek, Damian" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Rudomina, Kamil - Swierczek, Damian</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10011,7 +10011,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Çek Cumhuriyeti"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Çek Cumhuriyeti</span><span class="count">4</span><i class="country icon-32xCZE"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Czech Liga Pro - Cermak, Vladimir - Rygl, Lukas" href="/tr/bet/live/detail/55520223">
+                                       <a routerlinkactive="active" title="Czech Liga Pro - Cermak, Vladimir - Rygl, Lukas" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Cermak, Vladimir - Rygl, Lukas</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10025,7 +10025,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Czech Liga Pro - Chalupnicek, Milan - Syroha, Michal" href="/tr/bet/live/detail/55521152">
+                                       <a routerlinkactive="active" title="Czech Liga Pro - Chalupnicek, Milan - Syroha, Michal" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Chalupnicek, Milan - Syroha, Michal</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10039,7 +10039,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Czech Liga Pro - Svoboda, Vaclav - Hons, Karel" href="/tr/bet/live/detail/55521221">
+                                       <a routerlinkactive="active" title="Czech Liga Pro - Svoboda, Vaclav - Hons, Karel" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Svoboda, Vaclav - Hons, Karel</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10053,7 +10053,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Czech Liga Pro - Vavrecka, Radomir - Chovanec, Pavel" href="/tr/bet/live/detail/55521532">
+                                       <a routerlinkactive="active" title="Czech Liga Pro - Vavrecka, Radomir - Chovanec, Pavel" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Vavrecka, Radomir - Chovanec, Pavel</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10084,7 +10084,7 @@ if ($detect->isMobile()) {?>
                                  <a href="javascript:;" class="flex-container ng-star-inserted" title="Uluslararası"><i class="material-icons arrow">keyboard_arrow_right</i><span class="text flex-item">Uluslararası</span><span class="count">5</span><i class="country icon-32xWRLD"></i></a>
                                  <ol class="m3 ng-star-inserted">
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Indonesian Masters, Women Doubles 2024 - Liu S S / Tan N - Mayasari L T / Sugiarto R" href="/tr/bet/live/detail/55521981">
+                                       <a routerlinkactive="active" title="Indonesian Masters, Women Doubles 2024 - Liu S S / Tan N - Mayasari L T / Sugiarto R" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Liu S S / Tan N - Mayasari L T / Sugiarto R</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10099,7 +10099,7 @@ if ($detect->isMobile()) {?>
                                     </li>
                                     <!----><!----><!----><!----><!----><!---->
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Finnsson K D / Hardardottir D - Rasmussen P O / Moesgaard S" href="/tr/bet/live/detail/55533770">
+                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Finnsson K D / Hardardottir D - Rasmussen P O / Moesgaard S" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Finnsson K D / Hardardottir D - Rasmussen P O / Moesgaard S</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10113,7 +10113,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Titov O / Kantemyr Y - Stoffelen T / Loos M" href="/tr/bet/live/detail/55533771">
+                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Titov O / Kantemyr Y - Stoffelen T / Loos M" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Titov O / Kantemyr Y - Stoffelen T / Loos M</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10127,7 +10127,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Ivancic M / Polanc P - Klindt B I / Lemming S" href="/tr/bet/live/detail/55535893">
+                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Ivancic M / Polanc P - Klindt B I / Lemming S" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Ivancic M / Polanc P - Klindt B I / Lemming S</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10141,7 +10141,7 @@ if ($detect->isMobile()) {?>
                                        <!----></a>
                                     </li>
                                     <li class="ng-star-inserted">
-                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Johannesson D / Arnadottir S - Stephen E / Hubscher A" href="/tr/bet/live/detail/55533772">
+                                       <a routerlinkactive="active" title="Iceland International 2020, Mixed, Doubles - Johannesson D / Arnadottir S - Stephen E / Hubscher A" href="#">
                                           <span class="f-row flex-container">
                                              <span class="match flex-item">Johannesson D / Arnadottir S - Stephen E / Hubscher A</span>
                                              <app-live-favorite classes="material-icons fvrt-add">
@@ -10181,7 +10181,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Sokol Kazan - FC Kamaz Naberezhnye Chelny" href="/tr/bet/live/detail/55499493"><span>Sokol Kazan <br> FC Kamaz Naberezhnye Chelny</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Sokol Kazan - FC Kamaz Naberezhnye Chelny" href="#"><span>Sokol Kazan <br> FC Kamaz Naberezhnye Chelny</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10200,7 +10200,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Neman Grodno - Dinamo Minsk" href="/tr/bet/live/detail/55456194"><span>Neman Grodno <br> Dinamo Minsk</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Neman Grodno - Dinamo Minsk" href="#"><span>Neman Grodno <br> Dinamo Minsk</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10219,7 +10219,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="SK Lisen B - TJ Start Brno" href="/tr/bet/live/detail/55456469"><span>SK Lisen B <br> TJ Start Brno</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="SK Lisen B - TJ Start Brno" href="#"><span>SK Lisen B <br> TJ Start Brno</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10238,7 +10238,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="FK Mlada Boleslav B - FK Dukla Prague B" href="/tr/bet/live/detail/55499504"><span>FK Mlada Boleslav B <br> FK Dukla Prague B</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="FK Mlada Boleslav B - FK Dukla Prague B" href="#"><span>FK Mlada Boleslav B <br> FK Dukla Prague B</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10257,7 +10257,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="FK Motorlet Prague - FK Jablonec B" href="/tr/bet/live/detail/55499506"><span>FK Motorlet Prague <br> FK Jablonec B</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="FK Motorlet Prague - FK Jablonec B" href="#"><span>FK Motorlet Prague <br> FK Jablonec B</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10276,7 +10276,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="SK Benesov - FA Povltavska" href="/tr/bet/live/detail/55533815"><span>SK Benesov <br> FA Povltavska</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="SK Benesov - FA Povltavska" href="#"><span>SK Benesov <br> FA Povltavska</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10295,7 +10295,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="FK Velke Mezirici - FC Slovan Rosice" href="/tr/bet/live/detail/55533816"><span>FK Velke Mezirici <br> FC Slovan Rosice</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="FK Velke Mezirici - FC Slovan Rosice" href="#"><span>FK Velke Mezirici <br> FC Slovan Rosice</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10321,7 +10321,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Cental Coast Mariners FC - Brisbane Roar FC" href="/tr/bet/live/detail/53665063"><span>Cental Coast Mariners FC <br> Brisbane Roar FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Cental Coast Mariners FC - Brisbane Roar FC" href="#"><span>Cental Coast Mariners FC <br> Brisbane Roar FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10343,7 +10343,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Western Knights SC - Ecu Joondalup" href="/tr/bet/live/detail/55429944"><span>Western Knights SC <br> Ecu Joondalup</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Western Knights SC - Ecu Joondalup" href="#"><span>Western Knights SC <br> Ecu Joondalup</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10369,7 +10369,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="SHEIKH RUSSEL KC - Fortis FC" href="/tr/bet/live/detail/55451265"><span>SHEIKH RUSSEL KC <br> Fortis FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="SHEIKH RUSSEL KC - Fortis FC" href="#"><span>SHEIKH RUSSEL KC <br> Fortis FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10395,7 +10395,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Prey Veng - Nagaworld FC" href="/tr/bet/live/detail/55475675"><span>Prey Veng <br> Nagaworld FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Prey Veng - Nagaworld FC" href="#"><span>Prey Veng <br> Nagaworld FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10421,7 +10421,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Psim Yogyakarta - Semen Padang" href="/tr/bet/live/detail/55451270"><span>Psim Yogyakarta <br> Semen Padang</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Psim Yogyakarta - Semen Padang" href="#"><span>Psim Yogyakarta <br> Semen Padang</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10440,7 +10440,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Persiba Balikpapan - Persijap Jepara" href="/tr/bet/live/detail/55452135"><span>Persiba Balikpapan <br> Persijap Jepara</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Persiba Balikpapan - Persijap Jepara" href="#"><span>Persiba Balikpapan <br> Persijap Jepara</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10459,7 +10459,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Persekat Kabupaten Tegal - Persipura Jayapura" href="/tr/bet/live/detail/55524420"><span>Persekat Kabupaten Tegal <br> Persipura Jayapura</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Persekat Kabupaten Tegal - Persipura Jayapura" href="#"><span>Persekat Kabupaten Tegal <br> Persipura Jayapura</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10481,7 +10481,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Persis Solo U20 - Bhayangkara Solo FC U20" href="/tr/bet/live/detail/55525433"><span>Persis Solo U20 <br> Bhayangkara Solo FC U20</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Persis Solo U20 - Bhayangkara Solo FC U20" href="#"><span>Persis Solo U20 <br> Bhayangkara Solo FC U20</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10507,7 +10507,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Maccabi Ironi Yafia - Maccabi Bnei Jadeidi-Makr" href="/tr/bet/live/detail/55496745"><span>Maccabi Ironi Yafia <br> Maccabi Bnei Jadeidi-Makr</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Maccabi Ironi Yafia - Maccabi Bnei Jadeidi-Makr" href="#"><span>Maccabi Ironi Yafia <br> Maccabi Bnei Jadeidi-Makr</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10533,7 +10533,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Alanyaspor Srl - Pendikspor Srl" href="/tr/bet/live/detail/55482128"><span>Alanyaspor Srl <br> Pendikspor Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Alanyaspor Srl - Pendikspor Srl" href="#"><span>Alanyaspor Srl <br> Pendikspor Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10552,7 +10552,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Adana Demirspor Srl - Hatayspor Srl" href="/tr/bet/live/detail/55482431"><span>Adana Demirspor Srl <br> Hatayspor Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Adana Demirspor Srl - Hatayspor Srl" href="#"><span>Adana Demirspor Srl <br> Hatayspor Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10574,7 +10574,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="UD Las Palmas Srl - Real Madrid Srl" href="/tr/bet/live/detail/55482104"><span>UD Las Palmas Srl <br> Real Madrid Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="UD Las Palmas Srl - Real Madrid Srl" href="#"><span>UD Las Palmas Srl <br> Real Madrid Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10593,7 +10593,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Real Sociedad Srl - Rayo Vallecano Srl" href="/tr/bet/live/detail/55482105"><span>Real Sociedad Srl <br> Rayo Vallecano Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Real Sociedad Srl - Rayo Vallecano Srl" href="#"><span>Real Sociedad Srl <br> Rayo Vallecano Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10612,7 +10612,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="RCD Mallorca Srl - Real Betis Balompie Srl" href="/tr/bet/live/detail/55482106"><span>RCD Mallorca Srl <br> Real Betis Balompie Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="RCD Mallorca Srl - Real Betis Balompie Srl" href="#"><span>RCD Mallorca Srl <br> Real Betis Balompie Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10631,7 +10631,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="FC Barcelona Srl - Villarreal CF Srl" href="/tr/bet/live/detail/55482107"><span>FC Barcelona Srl <br> Villarreal CF Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="FC Barcelona Srl - Villarreal CF Srl" href="#"><span>FC Barcelona Srl <br> Villarreal CF Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10653,7 +10653,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Atalanta BC Srl - Udinese Calcio Srl" href="/tr/bet/live/detail/55480418"><span>Atalanta BC Srl <br> Udinese Calcio Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Atalanta BC Srl - Udinese Calcio Srl" href="#"><span>Atalanta BC Srl <br> Udinese Calcio Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10672,7 +10672,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Juventus Turin Srl - Empoli FC Srl" href="/tr/bet/live/detail/55480730"><span>Juventus Turin Srl <br> Empoli FC Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Juventus Turin Srl - Empoli FC Srl" href="#"><span>Juventus Turin Srl <br> Empoli FC Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10691,7 +10691,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="AC Milan Srl - Bologna FC Srl" href="/tr/bet/live/detail/55480763"><span>AC Milan Srl <br> Bologna FC Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="AC Milan Srl - Bologna FC Srl" href="#"><span>AC Milan Srl <br> Bologna FC Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10713,7 +10713,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="RKC Waalwijk Srl - Sparta Rotterdam Srl" href="/tr/bet/live/detail/55482114"><span>RKC Waalwijk Srl <br> Sparta Rotterdam Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="RKC Waalwijk Srl - Sparta Rotterdam Srl" href="#"><span>RKC Waalwijk Srl <br> Sparta Rotterdam Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10732,7 +10732,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Excelsior Rotterdam Srl - FC Utrecht Srl" href="/tr/bet/live/detail/55482115"><span>Excelsior Rotterdam Srl <br> FC Utrecht Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Excelsior Rotterdam Srl - FC Utrecht Srl" href="#"><span>Excelsior Rotterdam Srl <br> FC Utrecht Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10751,7 +10751,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="PSV Eindhoven Srl - Almere City FC Srl" href="/tr/bet/live/detail/55482116"><span>PSV Eindhoven Srl <br> Almere City FC Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="PSV Eindhoven Srl - Almere City FC Srl" href="#"><span>PSV Eindhoven Srl <br> Almere City FC Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10770,7 +10770,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Heracles Almelo Srl - Ajax Amsterdam Srl" href="/tr/bet/live/detail/55482117"><span>Heracles Almelo Srl <br> Ajax Amsterdam Srl</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Heracles Almelo Srl - Ajax Amsterdam Srl" href="#"><span>Heracles Almelo Srl <br> Ajax Amsterdam Srl</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10796,7 +10796,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="TS Galaxy FC Reserves - Royal AM Reserve" href="/tr/bet/live/detail/55473455"><span>TS Galaxy FC Reserves <br> Royal AM Reserve</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="TS Galaxy FC Reserves - Royal AM Reserve" href="#"><span>TS Galaxy FC Reserves <br> Royal AM Reserve</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10815,7 +10815,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Golden Arrows Reserve - Sekhukhune United Reserve" href="/tr/bet/live/detail/55473461"><span>Golden Arrows Reserve <br> Sekhukhune United Reserve</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Golden Arrows Reserve - Sekhukhune United Reserve" href="#"><span>Golden Arrows Reserve <br> Sekhukhune United Reserve</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10834,7 +10834,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Amazulu Reserve - Chippa United FC Reserve" href="/tr/bet/live/detail/55473469"><span>Amazulu Reserve <br> Chippa United FC Reserve</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Amazulu Reserve - Chippa United FC Reserve" href="#"><span>Amazulu Reserve <br> Chippa United FC Reserve</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10860,7 +10860,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Royal Thai Army FC - VRN Muangnont FC" href="/tr/bet/live/detail/55451274"><span>Royal Thai Army FC <br> VRN Muangnont FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Royal Thai Army FC - VRN Muangnont FC" href="#"><span>Royal Thai Army FC <br> VRN Muangnont FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10879,7 +10879,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Prachinburi City FC - Pluak Daeng Rayong United FC" href="/tr/bet/live/detail/55451275"><span>Prachinburi City FC <br> Pluak Daeng Rayong United FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Prachinburi City FC - Pluak Daeng Rayong United FC" href="#"><span>Prachinburi City FC <br> Pluak Daeng Rayong United FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10898,7 +10898,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Chamchuri United - Inter Bangkok" href="/tr/bet/live/detail/55451276"><span>Chamchuri United <br> Inter Bangkok</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Chamchuri United - Inter Bangkok" href="#"><span>Chamchuri United <br> Inter Bangkok</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10917,7 +10917,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Bfb Pattaya City - Saimit Kabin United FC" href="/tr/bet/live/detail/55451278"><span>Bfb Pattaya City <br> Saimit Kabin United FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Bfb Pattaya City - Saimit Kabin United FC" href="#"><span>Bfb Pattaya City <br> Saimit Kabin United FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10936,7 +10936,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Surin City - Suranaree Black Cat FC" href="/tr/bet/live/detail/55475672"><span>Surin City <br> Suranaree Black Cat FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Surin City - Suranaree Black Cat FC" href="#"><span>Surin City <br> Suranaree Black Cat FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10955,7 +10955,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Rangsit University - Thonburi United" href="/tr/bet/live/detail/55475673"><span>Rangsit University <br> Thonburi United</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Rangsit University - Thonburi United" href="#"><span>Rangsit University <br> Thonburi United</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10974,7 +10974,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Thapluang United - Kanchanaburi City FC" href="/tr/bet/live/detail/55524426"><span>Thapluang United <br> Kanchanaburi City FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Thapluang United - Kanchanaburi City FC" href="#"><span>Thapluang United <br> Kanchanaburi City FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -10993,7 +10993,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Assumption United - Rajpracha FC" href="/tr/bet/live/detail/55525429"><span>Assumption United <br> Rajpracha FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Assumption United - Rajpracha FC" href="#"><span>Assumption United <br> Rajpracha FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11019,7 +11019,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Altay - Bursaspor" href="/tr/bet/live/detail/55451264"><span>Altay <br> Bursaspor</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Altay - Bursaspor" href="#"><span>Altay <br> Bursaspor</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11038,7 +11038,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Bodrum FK U19 - Bandırmaspor" href="/tr/bet/live/detail/55451283"><span>Bodrum FK U19 <br> Bandırmaspor</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Bodrum FK U19 - Bandırmaspor" href="#"><span>Bodrum FK U19 <br> Bandırmaspor</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11057,7 +11057,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Göztepe - Ankara Keçiörengücü" href="/tr/bet/live/detail/55451294"><span>Göztepe <br> Ankara Keçiörengücü</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Göztepe - Ankara Keçiörengücü" href="#"><span>Göztepe <br> Ankara Keçiörengücü</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11079,7 +11079,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Eyupspor U19 - İstanbulspor AŞ" href="/tr/bet/live/detail/55451281"><span>Eyupspor U19 <br> İstanbulspor AŞ</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Eyupspor U19 - İstanbulspor AŞ" href="#"><span>Eyupspor U19 <br> İstanbulspor AŞ</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11098,7 +11098,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Trabzonspor - Fenerbahçe" href="/tr/bet/live/detail/55451285"><span>Trabzonspor <br> Fenerbahçe</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Trabzonspor - Fenerbahçe" href="#"><span>Trabzonspor <br> Fenerbahçe</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11117,7 +11117,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Boluspor - Demir Grup Sivasspor" href="/tr/bet/live/detail/55451289"><span>Boluspor <br> Demir Grup Sivasspor</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Boluspor - Demir Grup Sivasspor" href="#"><span>Boluspor <br> Demir Grup Sivasspor</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11136,7 +11136,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Konyaspor - Altınordu FK" href="/tr/bet/live/detail/55473452"><span>Konyaspor <br> Altınordu FK</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Konyaspor - Altınordu FK" href="#"><span>Konyaspor <br> Altınordu FK</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11158,7 +11158,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="İstanbul Başakşehir FK - Gazişehir Gaziantep FK" href="/tr/bet/live/detail/55451290"><span>İstanbul Başakşehir FK <br> Gazişehir Gaziantep FK</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="İstanbul Başakşehir FK - Gazişehir Gaziantep FK" href="#"><span>İstanbul Başakşehir FK <br> Gazişehir Gaziantep FK</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11177,7 +11177,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Kayserispor - Galatasaray SK" href="/tr/bet/live/detail/55451304"><span>Kayserispor <br> Galatasaray SK</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Kayserispor - Galatasaray SK" href="#"><span>Kayserispor <br> Galatasaray SK</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11203,7 +11203,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Pvf U19 - Luxury Ha Long U19" href="/tr/bet/live/detail/55451272"><span>Pvf U19 <br> Luxury Ha Long U19</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Pvf U19 - Luxury Ha Long U19" href="#"><span>Pvf U19 <br> Luxury Ha Long U19</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11222,7 +11222,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Hong Linh Ha Tinh - Thanh Hoa U19" href="/tr/bet/live/detail/55524421"><span>Hong Linh Ha Tinh <br> Thanh Hoa U19</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Hong Linh Ha Tinh - Thanh Hoa U19" href="#"><span>Hong Linh Ha Tinh <br> Thanh Hoa U19</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11241,7 +11241,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Hoang Anh Gia Lai U19 - Kon Tum U19" href="/tr/bet/live/detail/55451273"><span>Hoang Anh Gia Lai U19 <br> Kon Tum U19</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Hoang Anh Gia Lai U19 - Kon Tum U19" href="#"><span>Hoang Anh Gia Lai U19 <br> Kon Tum U19</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11274,7 +11274,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Real Madrid (Matrix) - FC Bayern Munich (Leonardo)" href="/tr/bet/live/detail/55526461"><span>Real Madrid (Matrix) <br> FC Bayern Munich (Leonardo)</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Real Madrid (Matrix) - FC Bayern Munich (Leonardo)" href="#"><span>Real Madrid (Matrix) <br> FC Bayern Munich (Leonardo)</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11293,7 +11293,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Paris Saint Germain (Alexis) - FC Barcelona (Panther)" href="/tr/bet/live/detail/55526462"><span>Paris Saint Germain (Alexis) <br> FC Barcelona (Panther)</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Paris Saint Germain (Alexis) - FC Barcelona (Panther)" href="#"><span>Paris Saint Germain (Alexis) <br> FC Barcelona (Panther)</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11319,7 +11319,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="AS Roma (Socrates) - AC Milan (Mosquito)" href="/tr/bet/live/detail/55529319"><span>AS Roma (Socrates) <br> AC Milan (Mosquito)</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="AS Roma (Socrates) - AC Milan (Mosquito)" href="#"><span>AS Roma (Socrates) <br> AC Milan (Mosquito)</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11338,7 +11338,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Bayer 04 Leverkusen (Venom) - Toulouse FC (Raul)" href="/tr/bet/live/detail/55530059"><span>Bayer 04 Leverkusen (Venom) <br> Toulouse FC (Raul)</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Bayer 04 Leverkusen (Venom) - Toulouse FC (Raul)" href="#"><span>Bayer 04 Leverkusen (Venom) <br> Toulouse FC (Raul)</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11357,7 +11357,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Juventus (Tongpo) - SSC Napoli (Professor)" href="/tr/bet/live/detail/55530078"><span>Juventus (Tongpo) <br> SSC Napoli (Professor)</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Juventus (Tongpo) - SSC Napoli (Professor)" href="#"><span>Juventus (Tongpo) <br> SSC Napoli (Professor)</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11376,7 +11376,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Atalanta BC (Furious) - Sporting CP (Cruise)" href="/tr/bet/live/detail/55530132"><span>Atalanta BC (Furious) <br> Sporting CP (Cruise)</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Atalanta BC (Furious) - Sporting CP (Cruise)" href="#"><span>Atalanta BC (Furious) <br> Sporting CP (Cruise)</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11409,7 +11409,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Nadezhda-2 Orenburg - BC Unost Penza" href="/tr/bet/live/detail/55475699"><span>Nadezhda-2 Orenburg <br> BC Unost Penza</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Nadezhda-2 Orenburg - BC Unost Penza" href="#"><span>Nadezhda-2 Orenburg <br> BC Unost Penza</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11435,7 +11435,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="SE Melbourne Phoenix - Perth Wildcats" href="/tr/bet/live/detail/53665057"><span>SE Melbourne Phoenix <br> Perth Wildcats</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="SE Melbourne Phoenix - Perth Wildcats" href="#"><span>SE Melbourne Phoenix <br> Perth Wildcats</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11461,7 +11461,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Changhua Bll - Bank of Taiwan" href="/tr/bet/live/detail/55524406"><span>Changhua Bll <br> Bank of Taiwan</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Changhua Bll - Bank of Taiwan" href="#"><span>Changhua Bll <br> Bank of Taiwan</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11483,7 +11483,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Taipei Fubon Braves - Formosa Taishin Dreamers" href="/tr/bet/live/detail/55452988"><span>Taipei Fubon Braves <br> Formosa Taishin Dreamers</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Taipei Fubon Braves - Formosa Taishin Dreamers" href="#"><span>Taipei Fubon Braves <br> Formosa Taishin Dreamers</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11505,7 +11505,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="National Taiwan University of Science And Technology - National Formosa University" href="/tr/bet/live/detail/55474603"><span>National Taiwan University of Science And Technology <br> National Formosa University</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="National Taiwan University of Science And Technology - National Formosa University" href="#"><span>National Taiwan University of Science And Technology <br> National Formosa University</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11524,7 +11524,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Chien Hsin University - National Taiwan Normal University" href="/tr/bet/live/detail/55474609"><span>Chien Hsin University <br> National Taiwan Normal University</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Chien Hsin University - National Taiwan Normal University" href="#"><span>Chien Hsin University <br> National Taiwan Normal University</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11550,7 +11550,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Satya Wacana LBC Angsapura Salatiga - Pelita Jaya Basketball" href="/tr/bet/live/detail/55431129"><span>Satya Wacana LBC Angsapura Salatiga <br> Pelita Jaya Basketball</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Satya Wacana LBC Angsapura Salatiga - Pelita Jaya Basketball" href="#"><span>Satya Wacana LBC Angsapura Salatiga <br> Pelita Jaya Basketball</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11576,7 +11576,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Shinagawa City Club - Tokushima Gambarous" href="/tr/bet/live/detail/55452981"><span>Shinagawa City Club <br> Tokushima Gambarous</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Shinagawa City Club - Tokushima Gambarous" href="#"><span>Shinagawa City Club <br> Tokushima Gambarous</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11602,7 +11602,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Astana Tigers - Irtysh Pavlodar" href="/tr/bet/live/detail/55475700"><span>Astana Tigers <br> Irtysh Pavlodar</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Astana Tigers - Irtysh Pavlodar" href="#"><span>Astana Tigers <br> Irtysh Pavlodar</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11628,7 +11628,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Incheon Shinhan Bank S-Birds - Asan Woori Bank Wibee" href="/tr/bet/live/detail/53665059"><span>Incheon Shinhan Bank S-Birds <br> Asan Woori Bank Wibee</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Incheon Shinhan Bank S-Birds - Asan Woori Bank Wibee" href="#"><span>Incheon Shinhan Bank S-Birds <br> Asan Woori Bank Wibee</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11661,7 +11661,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Angarskiy Yermak - Metallurg Vologda Oblast" href="/tr/bet/live/detail/55456173"><span>Angarskiy Yermak <br> Metallurg Vologda Oblast</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Angarskiy Yermak - Metallurg Vologda Oblast" href="#"><span>Angarskiy Yermak <br> Metallurg Vologda Oblast</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11687,7 +11687,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Barys U20 - Aqtobe U20" href="/tr/bet/live/detail/55450518"><span>Barys U20 <br> Aqtobe U20</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Barys U20 - Aqtobe U20" href="#"><span>Barys U20 <br> Aqtobe U20</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11706,7 +11706,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="HC Temirtau U20 - Kulager U20" href="/tr/bet/live/detail/55524402"><span>HC Temirtau U20 <br> Kulager U20</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="HC Temirtau U20 - Kulager U20" href="#"><span>HC Temirtau U20 <br> Kulager U20</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11739,7 +11739,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Zheng, Qinwen - Sabalenka, Aryna" href="/tr/bet/live/detail/55162701"><span>Zheng, Qinwen <br> Sabalenka, Aryna</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Zheng, Qinwen - Sabalenka, Aryna" href="#"><span>Zheng, Qinwen <br> Sabalenka, Aryna</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11761,7 +11761,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Hesse, Amandine - Saville, Daria" href="/tr/bet/live/detail/55522863"><span>Hesse, Amandine <br> Saville, Daria</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Hesse, Amandine - Saville, Daria" href="#"><span>Hesse, Amandine <br> Saville, Daria</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11780,7 +11780,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Hontama, Mai - Sun, Lulu" href="/tr/bet/live/detail/55522859"><span>Hontama, Mai <br> Sun, Lulu</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Hontama, Mai - Sun, Lulu" href="#"><span>Hontama, Mai <br> Sun, Lulu</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11799,7 +11799,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Gadecki, Olivia - Preston, Taylah" href="/tr/bet/live/detail/55522858"><span>Gadecki, Olivia <br> Preston, Taylah</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Gadecki, Olivia - Preston, Taylah" href="#"><span>Gadecki, Olivia <br> Preston, Taylah</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11825,7 +11825,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Cretu, Cezar (2001) - Kırkın, Ergi" href="/tr/bet/live/detail/55521956"><span>Cretu, Cezar (2001) <br> Kırkın, Ergi</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Cretu, Cezar (2001) - Kırkın, Ergi" href="#"><span>Cretu, Cezar (2001) <br> Kırkın, Ergi</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11844,7 +11844,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Ionel, Nicholas David - Minighini, Daniele" href="/tr/bet/live/detail/55522913"><span>Ionel, Nicholas David <br> Minighini, Daniele</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Ionel, Nicholas David - Minighini, Daniele" href="#"><span>Ionel, Nicholas David <br> Minighini, Daniele</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11870,7 +11870,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Prisacariu, Andreea - Lovric, Pia" href="/tr/bet/live/detail/55522911"><span>Prisacariu, Andreea <br> Lovric, Pia</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Prisacariu, Andreea - Lovric, Pia" href="#"><span>Prisacariu, Andreea <br> Lovric, Pia</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11889,7 +11889,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Scilipoti, Sebastianna - Lazaro Garcia, Andrea" href="/tr/bet/live/detail/55522912"><span>Scilipoti, Sebastianna <br> Lazaro Garcia, Andrea</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Scilipoti, Sebastianna - Lazaro Garcia, Andrea" href="#"><span>Scilipoti, Sebastianna <br> Lazaro Garcia, Andrea</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11922,7 +11922,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Legion - Enerdzhi" href="/tr/bet/live/detail/55525450"><span>Legion <br> Enerdzhi</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Legion - Enerdzhi" href="#"><span>Legion <br> Enerdzhi</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11948,7 +11948,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Shandong VC - Fujian VC" href="/tr/bet/live/detail/55430381"><span>Shandong VC <br> Fujian VC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Shandong VC - Fujian VC" href="#"><span>Shandong VC <br> Fujian VC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -11974,7 +11974,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Sdtv - Yunlin Mizuno" href="/tr/bet/live/detail/55453024"><span>Sdtv <br> Yunlin Mizuno</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Sdtv - Yunlin Mizuno" href="#"><span>Sdtv <br> Yunlin Mizuno</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12000,7 +12000,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Alikhan Aktobe 2 U21 - Esil SK 2" href="/tr/bet/live/detail/55480351"><span>Alikhan Aktobe 2 U21 <br> Esil SK 2</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Alikhan Aktobe 2 U21 - Esil SK 2" href="#"><span>Alikhan Aktobe 2 U21 <br> Esil SK 2</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12026,7 +12026,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Muangphon VC - Koh Kood Cabana" href="/tr/bet/live/detail/55480350"><span>Muangphon VC <br> Koh Kood Cabana</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Muangphon VC - Koh Kood Cabana" href="#"><span>Muangphon VC <br> Koh Kood Cabana</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12052,7 +12052,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Vvc - Nkumba- A" href="/tr/bet/live/detail/55535830"><span>Vvc <br> Nkumba- A</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Vvc - Nkumba- A" href="#"><span>Vvc <br> Nkumba- A</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12085,7 +12085,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Adelaide Giants - Melbourne Aces" href="/tr/bet/live/detail/55428950"><span>Adelaide Giants <br> Melbourne Aces</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Adelaide Giants - Melbourne Aces" href="#"><span>Adelaide Giants <br> Melbourne Aces</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12118,7 +12118,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Khaliun-Od FC - Kharaatsai FC" href="/tr/bet/live/detail/55479965"><span>Khaliun-Od FC <br> Kharaatsai FC</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Khaliun-Od FC - Kharaatsai FC" href="#"><span>Khaliun-Od FC <br> Kharaatsai FC</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12144,7 +12144,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="ACS Soimii Simand U19 - CFR Timisoara U19" href="/tr/bet/live/detail/55533817"><span>ACS Soimii Simand U19 <br> CFR Timisoara U19</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="ACS Soimii Simand U19 - CFR Timisoara U19" href="#"><span>ACS Soimii Simand U19 <br> CFR Timisoara U19</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12177,7 +12177,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Rolik, Jakub - Zeman, Radek" href="/tr/bet/live/detail/55533085"><span>Rolik, Jakub <br> Zeman, Radek</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Rolik, Jakub - Zeman, Radek" href="#"><span>Rolik, Jakub <br> Zeman, Radek</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12196,7 +12196,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Marat, Filip - Semrad, Petr" href="/tr/bet/live/detail/55533086"><span>Marat, Filip <br> Semrad, Petr</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Marat, Filip - Semrad, Petr" href="#"><span>Marat, Filip <br> Semrad, Petr</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12215,7 +12215,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Krezel, Andrzej - Witkowski, Tomasz" href="/tr/bet/live/detail/55533088"><span>Krezel, Andrzej <br> Witkowski, Tomasz</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Krezel, Andrzej - Witkowski, Tomasz" href="#"><span>Krezel, Andrzej <br> Witkowski, Tomasz</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12234,7 +12234,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Malik, Mateusz - Kayque, Valois" href="/tr/bet/live/detail/55533087"><span>Malik, Mateusz <br> Kayque, Valois</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Malik, Mateusz - Kayque, Valois" href="#"><span>Malik, Mateusz <br> Kayque, Valois</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12256,7 +12256,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Dosz, Adam - Braun, Josef" href="/tr/bet/live/detail/55525736"><span>Dosz, Adam <br> Braun, Josef</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Dosz, Adam - Braun, Josef" href="#"><span>Dosz, Adam <br> Braun, Josef</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12275,7 +12275,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Rudomina, Kamil - Swierczek, Damian" href="/tr/bet/live/detail/55525742"><span>Rudomina, Kamil <br> Swierczek, Damian</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Rudomina, Kamil - Swierczek, Damian" href="#"><span>Rudomina, Kamil <br> Swierczek, Damian</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12301,7 +12301,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Cermak, Vladimir - Rygl, Lukas" href="/tr/bet/live/detail/55520223"><span>Cermak, Vladimir <br> Rygl, Lukas</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Cermak, Vladimir - Rygl, Lukas" href="#"><span>Cermak, Vladimir <br> Rygl, Lukas</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12320,7 +12320,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Chalupnicek, Milan - Syroha, Michal" href="/tr/bet/live/detail/55521152"><span>Chalupnicek, Milan <br> Syroha, Michal</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Chalupnicek, Milan - Syroha, Michal" href="#"><span>Chalupnicek, Milan <br> Syroha, Michal</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12339,7 +12339,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Svoboda, Vaclav - Hons, Karel" href="/tr/bet/live/detail/55521221"><span>Svoboda, Vaclav <br> Hons, Karel</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Svoboda, Vaclav - Hons, Karel" href="#"><span>Svoboda, Vaclav <br> Hons, Karel</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12358,7 +12358,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Vavrecka, Radomir - Chovanec, Pavel" href="/tr/bet/live/detail/55521532"><span>Vavrecka, Radomir <br> Chovanec, Pavel</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Vavrecka, Radomir - Chovanec, Pavel" href="#"><span>Vavrecka, Radomir <br> Chovanec, Pavel</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12391,7 +12391,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Liu S S / Tan N - Mayasari L T / Sugiarto R" href="/tr/bet/live/detail/55521981"><span>Liu S S / Tan N <br> Mayasari L T / Sugiarto R</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Liu S S / Tan N - Mayasari L T / Sugiarto R" href="#"><span>Liu S S / Tan N <br> Mayasari L T / Sugiarto R</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12413,7 +12413,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Finnsson K D / Hardardottir D - Rasmussen P O / Moesgaard S" href="/tr/bet/live/detail/55533770"><span>Finnsson K D / Hardardottir D <br> Rasmussen P O / Moesgaard S</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Finnsson K D / Hardardottir D - Rasmussen P O / Moesgaard S" href="#"><span>Finnsson K D / Hardardottir D <br> Rasmussen P O / Moesgaard S</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12432,7 +12432,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Titov O / Kantemyr Y - Stoffelen T / Loos M" href="/tr/bet/live/detail/55533771"><span>Titov O / Kantemyr Y <br> Stoffelen T / Loos M</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Titov O / Kantemyr Y - Stoffelen T / Loos M" href="#"><span>Titov O / Kantemyr Y <br> Stoffelen T / Loos M</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12451,7 +12451,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Ivancic M / Polanc P - Klindt B I / Lemming S" href="/tr/bet/live/detail/55535893"><span>Ivancic M / Polanc P <br> Klindt B I / Lemming S</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Ivancic M / Polanc P - Klindt B I / Lemming S" href="#"><span>Ivancic M / Polanc P <br> Klindt B I / Lemming S</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12470,7 +12470,7 @@ if ($detect->isMobile()) {?>
                                        <li class="ng-star-inserted">
                                           <div routerlinkactive="active" class="live-btns-menu">
                                              <div class="f-row flex-container">
-                                                <a routerlinkactive="active" class="match flex-item" title="Johannesson D / Arnadottir S - Stephen E / Hubscher A" href="/tr/bet/live/detail/55533772"><span>Johannesson D / Arnadottir S <br> Stephen E / Hubscher A</span></a>
+                                                <a routerlinkactive="active" class="match flex-item" title="Johannesson D / Arnadottir S - Stephen E / Hubscher A" href="#"><span>Johannesson D / Arnadottir S <br> Stephen E / Hubscher A</span></a>
                                                 <app-live-favorite classes="material-icons fvrt-add"><a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite>
                                              </div>
                                              <div class="s-row flex-container ng-star-inserted">
@@ -12511,7 +12511,7 @@ if ($detect->isMobile()) {?>
                <search-bar>
                   <div class="top-controler clear">
                      <div class="left live-tabs">
-                        <!----><a routerlinkactive="active" class="btn left active" href="/tr/bet/live"><i class="material-icons left">drag_handle</i> Genel Görünüm <a class="display-none ng-star-inserted" href="/tr/bet/live/170"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/282"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/188"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/190"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/168"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/201"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/195"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/199"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/167"></a><a class="display-none ng-star-inserted" href="/tr/bet/live/200"></a><!----></a><a href="/tr/bet/live/detail/55499493" class="btn left ng-star-inserted"><i class="material-icons icon-rotate left">drag_handle</i> Maç Görüntüsü </a><!----><a routerlinkactive="active" class="btn left" href="/tr/bet/live/live-calendar"><i class="material-icons left">event</i> Canlı Takvimi </a>
+                        <!----><a routerlinkactive="active" class="btn left active" href="#"><i class="material-icons left">drag_handle</i> Genel Görünüm <a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><a class="display-none ng-star-inserted" href="#"></a><!----></a><a href="#" class="btn left ng-star-inserted"><i class="material-icons icon-rotate left">drag_handle</i> Maç Görüntüsü </a><!----><a routerlinkactive="active" class="btn left" href="#"><i class="material-icons left">event</i> Canlı Takvimi </a>
                      </div>
                      <div class="left collapse-expand-content ng-scope ng-star-inserted"><a href="javascript:;" class="btn expand-all left"><i class="fa fa-angle-up fa-fw"></i></a></div>
                      <!---->
@@ -12546,132 +12546,132 @@ if ($detect->isMobile()) {?>
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/190" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>3</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>3</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/168" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>8</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>8</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/201" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>6</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>6</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/195" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>1</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>1</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/199" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-29 st-font-icons"></i></span><span class="type truncate"> Salon Futbolu <br><small>2</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-29 st-font-icons"></i></span><span class="type truncate"> Salon Futbolu <br><small>2</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/167" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>10</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>10</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/200" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-31 st-font-icons"></i></span><span class="type truncate"> Badminton <br><small>5</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-31 st-font-icons"></i></span><span class="type truncate"> Badminton <br><small>5</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/0" routerlinkactive="active" class="href-item"><span class="icon"><i class="fa fa-globe"></i></span><span class="type truncate"> Hepsi <br><small>107</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="fa fa-globe"></i></span><span class="type truncate"> Hepsi <br><small>107</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/170" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>52</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>52</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/282" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>6</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>6</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/188" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>10</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>10</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/190" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>3</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>3</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/168" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>8</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>8</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/201" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>6</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>6</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight active ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/195" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>1</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>1</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/199" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-29 st-font-icons"></i></span><span class="type truncate"> Salon Futbolu <br><small>2</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-29 st-font-icons"></i></span><span class="type truncate"> Salon Futbolu <br><small>2</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/167" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>10</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-20 st-font-icons"></i></span><span class="type truncate"> Masa Tenisi <br><small>10</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/200" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-31 st-font-icons"></i></span><span class="type truncate"> Badminton <br><small>5</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-31 st-font-icons"></i></span><span class="type truncate"> Badminton <br><small>5</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/0" routerlinkactive="active" class="href-item"><span class="icon"><i class="fa fa-globe"></i></span><span class="type truncate"> Hepsi <br><small>107</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="fa fa-globe"></i></span><span class="type truncate"> Hepsi <br><small>107</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/170" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>52</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-1 st-font-icons"></i></span><span class="type truncate"> Futbol <br><small>52</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/282" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>6</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-137 st-font-icons"></i></span><span class="type truncate"> e-Futbol <br><small>6</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/188" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>10</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-2 st-font-icons"></i></span><span class="type truncate"> Basketbol <br><small>10</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/190" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>3</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-4 st-font-icons"></i></span><span class="type truncate"> Buz Hokeyi <br><small>3</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/168" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>8</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-5 st-font-icons"></i></span><span class="type truncate"> Tenis <br><small>8</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/201" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>6</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-23 st-font-icons"></i></span><span class="type truncate"> Voleybol <br><small>6</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!---->
                                        <div class="owl-item ng-tns-c126-9 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 95.75px;">
-                                          <div class="events ng-star-inserted" style=""><a href="/tr/bet/live/195" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>1</small></span></a></div>
+                                          <div class="events ng-star-inserted" style=""><a href="#" routerlinkactive="active" class="href-item"><span class="icon"><i class="pg-icons sport-types-3 st-font-icons"></i></span><span class="type truncate"> Beyzbol <br><small>1</small></span></a></div>
                                           <!----><!---->
                                        </div>
                                        <!----><!---->
@@ -12708,7 +12708,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55499493">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">42:36''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/537389.png"><!----><!----><!----></app-teams-logo><span>Sokol Kazan</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/7518.png"><!----><!----><!----></app-teams-logo><span>FC Kamaz Naberezhnye Chelny</span></div></div></span></div>
@@ -12769,14 +12769,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55499493">+107</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+107</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55456194">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">30:31''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3356.png"><!----><!----><!----></app-teams-logo><span>Neman Grodno</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3361.png"><!----><!----><!----></app-teams-logo><span>Dinamo Minsk</span></div></div></span></div>
@@ -12837,14 +12837,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55456194">+255</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+255</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55456469">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">2:01''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/618700.png"><!----><!----><!----></app-teams-logo><span>SK Lisen B</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/475010.png"><!----><!----><!----></app-teams-logo><span>TJ Start Brno</span></div></div></span></div>
@@ -12905,14 +12905,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55456469">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55499504">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">2:53''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/607062.png"><!----><!----><!----></app-teams-logo><span>FK Mlada Boleslav B</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/607066.png"><!----><!----><!----></app-teams-logo><span>FK Dukla Prague B</span></div></div></span></div>
@@ -12973,14 +12973,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55499504">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55499506">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/215972.png"><!----><!----><!----></app-teams-logo><span>FK Motorlet Prague</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/600296.png"><!----><!----><!----></app-teams-logo><span>FK Jablonec B</span></div></div></span></div>
@@ -13037,14 +13037,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55499506">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533815">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">1:28''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/53088.png"><!----><!----><!----></app-teams-logo><span>SK Benesov</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/53101.png"><!----><!----><!----></app-teams-logo><span>FA Povltavska</span></div></div></span></div>
@@ -13105,14 +13105,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533815">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533816">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">0:19''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/24776.png"><!----><!----><!----></app-teams-logo><span>FK Velke Mezirici</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/43655.png"><!----><!----><!----></app-teams-logo><span>FC Slovan Rosice</span></div></div></span></div>
@@ -13173,7 +13173,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533816">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -13194,7 +13194,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/53665063">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">17:35''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/5966.png"><!----><!----><!----></app-teams-logo><span>Cental Coast Mariners FC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/5968.png"><!----><!----><!----></app-teams-logo><span>Brisbane Roar FC</span></div></div></span></div>
@@ -13255,7 +13255,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/53665063">+611</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+611</a>
                                  </div>
                               </div>
                               <!---->
@@ -13276,7 +13276,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55429944">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">1:37''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/355220.png"><!----><!----><!----></app-teams-logo><span>Western Knights SC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/92024.png"><!----><!----><!----></app-teams-logo><span>Ecu Joondalup</span></div></div></span></div>
@@ -13337,7 +13337,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55429944">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -13358,7 +13358,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451265">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">18:14''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/178000.png"><!----><!----><!----></app-teams-logo><span>SHEIKH RUSSEL KC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/774578.png"><!----><!----><!----></app-teams-logo><span>Fortis FC</span></div></div></span></div>
@@ -13419,7 +13419,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451265">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -13440,7 +13440,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55475675">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">18:07''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/681775.png"><!----><!----><!----></app-teams-logo><span>Prey Veng</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/153476.png"><!----><!----><!----></app-teams-logo><span>Nagaworld FC</span></div></div></span></div>
@@ -13501,7 +13501,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55475675">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -13522,7 +13522,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451270">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/75653.png"><!----><!----><!----></app-teams-logo><span>Psim Yogyakarta</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/86066.png"><!----><!----><!----></app-teams-logo><span>Semen Padang</span></div></div></span></div>
@@ -13583,14 +13583,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451270">+157</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+157</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55452135">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/64291.png"><!----><!----><!----></app-teams-logo><span>Persiba Balikpapan</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/135868.png"><!----><!----><!----></app-teams-logo><span>Persijap Jepara</span></div></div></span></div>
@@ -13651,14 +13651,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55452135">+157</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+157</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55524420">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/623604.png"><!----><!----><!----></app-teams-logo><span>Persekat Kabupaten Tegal</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/39732.png"><!----><!----><!----></app-teams-logo><span>Persipura Jayapura</span></div></div></span></div>
@@ -13719,7 +13719,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55524420">+140</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+140</a>
                                  </div>
                               </div>
                               <!---->
@@ -13740,7 +13740,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55525433">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:21''</span><!----> 2. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1065460.png"><!----><!----><!----></app-teams-logo><span>Persis Solo U20</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/614680.png"><!----><!----><!----></app-teams-logo><span>Bhayangkara Solo FC U20</span></div></div></span></div>
@@ -13801,7 +13801,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55525433">+163</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+163</a>
                                  </div>
                               </div>
                               <!---->
@@ -13822,7 +13822,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55496745">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">32:46''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/391676.png"><!----><!----><!----></app-teams-logo><span>Maccabi Ironi Yafia</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/840440.png"><!----><!----><!----></app-teams-logo><span>Maccabi Bnei Jadeidi-Makr</span></div></div></span></div>
@@ -13883,7 +13883,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55496745">+206</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+206</a>
                                  </div>
                               </div>
                               <!---->
@@ -13904,7 +13904,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482128">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/697169.png"><!----><!----><!----></app-teams-logo><span>Alanyaspor Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1039253.png"><!----><!----><!----></app-teams-logo><span>Pendikspor Srl</span></div></div></span></div>
@@ -13965,14 +13965,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482128">+147</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+147</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482431">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/825964.png"><!----><!----><!----></app-teams-logo><span>Adana Demirspor Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/743995.png"><!----><!----><!----></app-teams-logo><span>Hatayspor Srl</span></div></div></span></div>
@@ -14033,7 +14033,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482431">+147</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+147</a>
                                  </div>
                               </div>
                               <!---->
@@ -14054,7 +14054,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482104">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">2:06''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1039251.png"><!----><!----><!----></app-teams-logo><span>UD Las Palmas Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/694927.png"><!----><!----><!----></app-teams-logo><span>Real Madrid Srl</span></div></div></span></div>
@@ -14115,14 +14115,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482104">+281</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+281</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482105">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">1:33''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/694929.png"><!----><!----><!----></app-teams-logo><span>Real Sociedad Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/825968.png"><!----><!----><!----></app-teams-logo><span>Rayo Vallecano Srl</span></div></div></span></div>
@@ -14183,14 +14183,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482105">+281</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+281</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482106">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">2:16''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/694923.png"><!----><!----><!----></app-teams-logo><span>RCD Mallorca Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/694925.png"><!----><!----><!----></app-teams-logo><span>Real Betis Balompie Srl</span></div></div></span></div>
@@ -14251,14 +14251,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482106">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482107">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">1:20''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/694913.png"><!----><!----><!----></app-teams-logo><span>FC Barcelona Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/694909.png"><!----><!----><!----></app-teams-logo><span>Villarreal CF Srl</span></div></div></span></div>
@@ -14319,7 +14319,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482107">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -14340,7 +14340,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55480418">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">1:37''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/696851.png"><!----><!----><!----></app-teams-logo><span>Atalanta BC Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/697117.png"><!----><!----><!----></app-teams-logo><span>Udinese Calcio Srl</span></div></div></span></div>
@@ -14401,14 +14401,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55480418">+281</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+281</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55480730">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">2:32''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/696857.png"><!----><!----><!----></app-teams-logo><span>Juventus Turin Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/825970.png"><!----><!----><!----></app-teams-logo><span>Empoli FC Srl</span></div></div></span></div>
@@ -14469,14 +14469,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55480730">+281</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+281</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55480763">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">1:18''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/697103.png"><!----><!----><!----></app-teams-logo><span>AC Milan Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/697109.png"><!----><!----><!----></app-teams-logo><span>Bologna FC Srl</span></div></div></span></div>
@@ -14537,7 +14537,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55480763">+256</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+256</a>
                                  </div>
                               </div>
                               <!---->
@@ -14558,7 +14558,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482114">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:48''</span><!----> 2. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/702153.png"><!----><!----><!----></app-teams-logo><span>RKC Waalwijk Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/702157.png"><!----><!----><!----></app-teams-logo><span>Sparta Rotterdam Srl</span></div></div></span></div>
@@ -14619,14 +14619,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482114">+119</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+119</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482115">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1039259.png"><!----><!----><!----></app-teams-logo><span>Excelsior Rotterdam Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/702141.png"><!----><!----><!----></app-teams-logo><span>FC Utrecht Srl</span></div></div></span></div>
@@ -14687,14 +14687,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482115">+159</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+159</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482116">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:44''</span><!----> 2. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/702151.png"><!----><!----><!----></app-teams-logo><span>PSV Eindhoven Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1039261.png"><!----><!----><!----></app-teams-logo><span>Almere City FC Srl</span></div></div></span></div>
@@ -14755,14 +14755,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482116">+163</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+163</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55482117">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/702147.png"><!----><!----><!----></app-teams-logo><span>Heracles Almelo Srl</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/700491.png"><!----><!----><!----></app-teams-logo><span>Ajax Amsterdam Srl</span></div></div></span></div>
@@ -14823,7 +14823,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55482117">+123</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+123</a>
                                  </div>
                               </div>
                               <!---->
@@ -14844,7 +14844,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55473455">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">47:12''</span><!----> 2. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/761580.png"><!----><!----><!----></app-teams-logo><span>TS Galaxy FC Reserves</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/834574.png"><!----><!----><!----></app-teams-logo><span>Royal AM Reserve</span></div></div></span></div>
@@ -14905,14 +14905,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55473455">+136</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+136</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55473461">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:00''</span><!----> Devre Arası </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/512064.png"><!----><!----><!----></app-teams-logo><span>Golden Arrows Reserve</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/834576.png"><!----><!----><!----></app-teams-logo><span>Sekhukhune United Reserve</span></div></div></span></div>
@@ -14973,14 +14973,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55473461">+136</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+136</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55473469">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">2:37''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/764068.png"><!----><!----><!----></app-teams-logo><span>Amazulu Reserve</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/546743.png"><!----><!----><!----></app-teams-logo><span>Chippa United FC Reserve</span></div></div></span></div>
@@ -15041,7 +15041,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55473469">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -15062,7 +15062,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451274">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">31:29''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/448387.png"><!----><!----><!----></app-teams-logo><span>Royal Thai Army FC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/765150.png"><!----><!----><!----></app-teams-logo><span>VRN Muangnont FC</span></div></div></span></div>
@@ -15123,14 +15123,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451274">+224</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+224</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451275">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">31:51''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/848829.png"><!----><!----><!----></app-teams-logo><span>Prachinburi City FC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/425755.png"><!----><!----><!----></app-teams-logo><span>Pluak Daeng Rayong United FC</span></div></div></span></div>
@@ -15191,14 +15191,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451275">+206</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+206</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451276">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">32:49''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/390316.png"><!----><!----><!----></app-teams-logo><span>Chamchuri United</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/750927.png"><!----><!----><!----></app-teams-logo><span>Inter Bangkok</span></div></div></span></div>
@@ -15259,14 +15259,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451276">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451278">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">32:14''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1052311.png"><!----><!----><!----></app-teams-logo><span>Bfb Pattaya City</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/367172.png"><!----><!----><!----></app-teams-logo><span>Saimit Kabin United FC</span></div></div></span></div>
@@ -15327,14 +15327,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451278">+253</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+253</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55475672">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">30:20''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/264013.png"><!----><!----><!----></app-teams-logo><span>Surin City</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1044069.png"><!----><!----><!----></app-teams-logo><span>Suranaree Black Cat FC</span></div></div></span></div>
@@ -15395,14 +15395,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55475672">+281</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+281</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55475673">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">31:03''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/555788.png"><!----><!----><!----></app-teams-logo><span>Rangsit University</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/759622.png"><!----><!----><!----></app-teams-logo><span>Thonburi United</span></div></div></span></div>
@@ -15463,14 +15463,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55475673">+209</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+209</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55524426">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">35:52''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/950749.png"><!----><!----><!----></app-teams-logo><span>Thapluang United</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/935831.png"><!----><!----><!----></app-teams-logo><span>Kanchanaburi City FC</span></div></div></span></div>
@@ -15531,14 +15531,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55524426">+276</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+276</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55525429">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">30:48''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/553534.png"><!----><!----><!----></app-teams-logo><span>Assumption United</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/344396.png"><!----><!----><!----></app-teams-logo><span>Rajpracha FC</span></div></div></span></div>
@@ -15599,7 +15599,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55525429">+214</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+214</a>
                                  </div>
                               </div>
                               <!---->
@@ -15620,7 +15620,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451264">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305356.png"><!----><!----><!----></app-teams-logo><span>Altay</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305338.png"><!----><!----><!----></app-teams-logo><span>Bursaspor</span></div></div></span></div>
@@ -15677,14 +15677,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451264">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451283">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1047763.png"><!----><!----><!----></app-teams-logo><span>Bodrum FK U19</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/780348.png"><!----><!----><!----></app-teams-logo><span>Bandırmaspor</span></div></div></span></div>
@@ -15741,14 +15741,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451283">+275</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+275</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451294">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305354.png"><!----><!----><!----></app-teams-logo><span>Göztepe</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/780342.png"><!----><!----><!----></app-teams-logo><span>Ankara Keçiörengücü</span></div></div></span></div>
@@ -15805,7 +15805,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451294">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -15826,7 +15826,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451281">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">0:00''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305332.png"><!----><!----><!----></app-teams-logo><span>Eyupspor U19</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305316.png"><!----><!----><!----></app-teams-logo><span>İstanbulspor AŞ</span></div></div></span></div>
@@ -15887,14 +15887,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451281">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451285">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305396.png"><!----><!----><!----></app-teams-logo><span>Trabzonspor</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305336.png"><!----><!----><!----></app-teams-logo><span>Fenerbahçe</span></div></div></span></div>
@@ -15951,14 +15951,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451285">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451289">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">0:46''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305370.png"><!----><!----><!----></app-teams-logo><span>Boluspor</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/619458.png"><!----><!----><!----></app-teams-logo><span>Demir Grup Sivasspor</span></div></div></span></div>
@@ -16019,14 +16019,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451289">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55473452">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">1:09''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/290818.png"><!----><!----><!----></app-teams-logo><span>Konyaspor</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305358.png"><!----><!----><!----></app-teams-logo><span>Altınordu FK</span></div></div></span></div>
@@ -16087,7 +16087,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55473452">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -16108,7 +16108,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451290">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/391146.png"><!----><!----><!----></app-teams-logo><span>İstanbul Başakşehir FK</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/305380.png"><!----><!----><!----></app-teams-logo><span>Gazişehir Gaziantep FK</span></div></div></span></div>
@@ -16165,14 +16165,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451290">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451304">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/300922.png"><!----><!----><!----></app-teams-logo><span>Kayserispor</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/120868.png"><!----><!----><!----></app-teams-logo><span>Galatasaray SK</span></div></div></span></div>
@@ -16229,7 +16229,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451304">+283</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+283</a>
                                  </div>
                               </div>
                               <!---->
@@ -16250,7 +16250,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451272">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">75:57''</span><!----> 2. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/397126.png"><!----><!----><!----></app-teams-logo><span>Pvf U19</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1095199.png"><!----><!----><!----></app-teams-logo><span>Luxury Ha Long U19</span></div></div></span></div>
@@ -16311,14 +16311,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451272">+91</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+91</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55524421">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">75:58''</span><!----> 2. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/533323.png"><!----><!----><!----></app-teams-logo><span>Hong Linh Ha Tinh</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/548001.png"><!----><!----><!----></app-teams-logo><span>Thanh Hoa U19</span></div></div></span></div>
@@ -16379,14 +16379,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55524421">+93</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+93</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55451273">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">45:50''</span><!----> 2. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/548005.png"><!----><!----><!----></app-teams-logo><span>Hoang Anh Gia Lai U19</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/768292.png"><!----><!----><!----></app-teams-logo><span>Kon Tum U19</span></div></div></span></div>
@@ -16429,7 +16429,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55451273">+26</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+26</a>
                                  </div>
                               </div>
                               <!---->
@@ -16456,7 +16456,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55526461">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">3:10''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1012245.png"><!----><!----><!----></app-teams-logo><span>Real Madrid (Matrix)</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1013139.png"><!----><!----><!----></app-teams-logo><span>FC Bayern Munich (Leonardo)</span></div></div></span></div>
@@ -16519,14 +16519,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55526461">+34</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+34</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55526462">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">3:05''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1018835.png"><!----><!----><!----></app-teams-logo><span>Paris Saint Germain (Alexis)</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1026789.png"><!----><!----><!----></app-teams-logo><span>FC Barcelona (Panther)</span></div></div></span></div>
@@ -16589,7 +16589,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55526462">+37</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+37</a>
                                  </div>
                               </div>
                               <!---->
@@ -16610,7 +16610,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55529319">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">3:15''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1100375.png"><!----><!----><!----></app-teams-logo><span>AS Roma (Socrates)</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1079014.png"><!----><!----><!----></app-teams-logo><span>AC Milan (Mosquito)</span></div></div></span></div>
@@ -16673,14 +16673,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55529319">+39</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+39</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55530059">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">3:12''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1100379.png"><!----><!----><!----></app-teams-logo><span>Bayer 04 Leverkusen (Venom)</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1060988.png"><!----><!----><!----></app-teams-logo><span>Toulouse FC (Raul)</span></div></div></span></div>
@@ -16743,14 +16743,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55530059">+31</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+31</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55530078">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">2:56''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1100365.png"><!----><!----><!----></app-teams-logo><span>Juventus (Tongpo)</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1031225.png"><!----><!----><!----></app-teams-logo><span>SSC Napoli (Professor)</span></div></div></span></div>
@@ -16813,14 +16813,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55530078">+39</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+39</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55530132">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">3:20''</span><!----> 1. Devre </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1067080.png"><!----><!----><!----></app-teams-logo><span>Atalanta BC (Furious)</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1067078.png"><!----><!----><!----></app-teams-logo><span>Sporting CP (Cruise)</span></div></div></span></div>
@@ -16883,7 +16883,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55530132">+39</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+39</a>
                                  </div>
                               </div>
                               <!---->
@@ -16910,7 +16910,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55475699">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">7:41''</span><!----> 3. Çeyrek </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/248077.png"><!----><!----><!----></app-teams-logo><span>Nadezhda-2 Orenburg</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/247939.png"><!----><!----><!----></app-teams-logo><span>BC Unost Penza</span></div></div></span></div>
@@ -16977,7 +16977,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55475699">+136</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+136</a>
                                  </div>
                               </div>
                               <!---->
@@ -16998,7 +16998,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/53665057">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/557438.png"><!----><!----><!----></app-teams-logo><span>SE Melbourne Phoenix</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/3609.png"><!----><!----><!----></app-teams-logo><span>Perth Wildcats</span></div></div></span></div>
@@ -17055,7 +17055,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/53665057">+176</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+176</a>
                                  </div>
                               </div>
                               <!---->
@@ -17076,7 +17076,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55524406">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/975971.png"><!----><!----><!----></app-teams-logo><span>Changhua Bll</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/425791.png"><!----><!----><!----></app-teams-logo><span>Bank of Taiwan</span></div></div></span></div>
@@ -17133,7 +17133,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55524406">+171</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+171</a>
                                  </div>
                               </div>
                               <!---->
@@ -17154,7 +17154,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55452988">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/379364.png"><!----><!----><!----></app-teams-logo><span>Taipei Fubon Braves</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/384860.png"><!----><!----><!----></app-teams-logo><span>Formosa Taishin Dreamers</span></div></div></span></div>
@@ -17211,7 +17211,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55452988">+176</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+176</a>
                                  </div>
                               </div>
                               <!---->
@@ -17232,7 +17232,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55474603">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">8:58''</span><!----> 1. Çeyrek </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/771786.png"><!----><!----><!----></app-teams-logo><span>National Taiwan University of Science And Technology</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1086526.png"><!----><!----><!----></app-teams-logo><span>National Formosa University</span></div></div></span></div>
@@ -17295,14 +17295,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55474603">+170</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+170</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55474609">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/558046.png"><!----><!----><!----></app-teams-logo><span>Chien Hsin University</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/558050.png"><!----><!----><!----></app-teams-logo><span>National Taiwan Normal University</span></div></div></span></div>
@@ -17359,7 +17359,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55474609">+165</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+165</a>
                                  </div>
                               </div>
                               <!---->
@@ -17380,7 +17380,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55431129">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">6:59''</span><!----> 1. Çeyrek </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/96609.png"><!----><!----><!----></app-teams-logo><span>Satya Wacana LBC Angsapura Salatiga</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/96605.png"><!----><!----><!----></app-teams-logo><span>Pelita Jaya Basketball</span></div></div></span></div>
@@ -17443,7 +17443,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55431129">+160</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+160</a>
                                  </div>
                               </div>
                               <!---->
@@ -17464,7 +17464,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55452981">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">8:25''</span><!----> 1. Çeyrek </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/842138.png"><!----><!----><!----></app-teams-logo><span>Shinagawa City Club</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1076312.png"><!----><!----><!----></app-teams-logo><span>Tokushima Gambarous</span></div></div></span></div>
@@ -17527,7 +17527,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55452981">+159</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+159</a>
                                  </div>
                               </div>
                               <!---->
@@ -17548,7 +17548,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55475700">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">10:00''</span><!----> 1. Çeyrek </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/537677.png"><!----><!----><!----></app-teams-logo><span>Astana Tigers</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/248035.png"><!----><!----><!----></app-teams-logo><span>Irtysh Pavlodar</span></div></div></span></div>
@@ -17611,7 +17611,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55475700">+167</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+167</a>
                                  </div>
                               </div>
                               <!---->
@@ -17632,7 +17632,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/53665059">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">8:25''</span><!----> 1. Çeyrek </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/233168.png"><!----><!----><!----></app-teams-logo><span>Incheon Shinhan Bank S-Birds</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/233174.png"><!----><!----><!----></app-teams-logo><span>Asan Woori Bank Wibee</span></div></div></span></div>
@@ -17695,7 +17695,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/53665059">+166</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+166</a>
                                  </div>
                               </div>
                               <!---->
@@ -17722,7 +17722,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55456173">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">18:02''</span><!----> 1. Periyot </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1057173.png"><!----><!----><!----></app-teams-logo><span>Angarskiy Yermak</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/496508.png"><!----><!----><!----></app-teams-logo><span>Metallurg Vologda Oblast</span></div></div></span></div>
@@ -17785,7 +17785,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55456173">+368</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+368</a>
                                  </div>
                               </div>
                               <!---->
@@ -17806,7 +17806,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55450518">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">6:29''</span><!----> 3. Periyot </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/676373.png"><!----><!----><!----></app-teams-logo><span>Barys U20</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/943969.png"><!----><!----><!----></app-teams-logo><span>Aqtobe U20</span></div></div></span></div>
@@ -17873,14 +17873,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55450518">+46</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+46</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55524402">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><span class="minutes ng-star-inserted">19:29''</span><!----> 1. Periyot </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1059572.png"><!----><!----><!----></app-teams-logo><span>HC Temirtau U20</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/523430.png"><!----><!----><!----></app-teams-logo><span>Kulager U20</span></div></div></span></div>
@@ -17943,7 +17943,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55524402">+368</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+368</a>
                                  </div>
                               </div>
                               <!---->
@@ -17970,7 +17970,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55162701">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/348760.png"><!----><!----><!----></app-teams-logo><span>Zheng, Qinwen</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/157754.png"><!----><!----><!----></app-teams-logo><span>Sabalenka, Aryna</span></div></div></span></div>
@@ -18033,7 +18033,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55162701">+110</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+110</a>
                                  </div>
                               </div>
                               <!---->
@@ -18054,7 +18054,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55522863">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 2. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/52388.png"><!----><!----><!----></app-teams-logo><span>Hesse, Amandine</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/40994.png"><!----><!----><!----></app-teams-logo><span>Saville, Daria</span></div></div></span></div>
@@ -18119,14 +18119,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55522863">+62</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+62</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55522859">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 2. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/206949.png"><!----><!----><!----></app-teams-logo><span>Hontama, Mai</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/202363.png"><!----><!----><!----></app-teams-logo><span>Sun, Lulu</span></div></div></span></div>
@@ -18191,14 +18191,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55522859">+127</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+127</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55522858">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/286435.png"><!----><!----><!----></app-teams-logo><span>Gadecki, Olivia</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/675189.png"><!----><!----><!----></app-teams-logo><span>Preston, Taylah</span></div></div></span></div>
@@ -18261,7 +18261,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55522858">+98</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+98</a>
                                  </div>
                               </div>
                               <!---->
@@ -18282,7 +18282,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55521956">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 2. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/205767.png"><!----><!----><!----></app-teams-logo><span>Cretu, Cezar (2001)</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/186629.png"><!----><!----><!----></app-teams-logo><span>Kırkın, Ergi</span></div></div></span></div>
@@ -18347,14 +18347,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55521956">+119</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+119</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55522913">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/336423.png"><!----><!----><!----></app-teams-logo><span>Ionel, Nicholas David</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/831192.png"><!----><!----><!----></app-teams-logo><span>Minighini, Daniele</span></div></div></span></div>
@@ -18417,7 +18417,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55522913">+64</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+64</a>
                                  </div>
                               </div>
                               <!---->
@@ -18438,7 +18438,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55522911">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/158636.png"><!----><!----><!----></app-teams-logo><span>Prisacariu, Andreea</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/588067.png"><!----><!----><!----></app-teams-logo><span>Lovric, Pia</span></div></div></span></div>
@@ -18501,14 +18501,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55522911">+112</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+112</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55522912">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 2. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/505516.png"><!----><!----><!----></app-teams-logo><span>Scilipoti, Sebastianna</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/63682.png"><!----><!----><!----></app-teams-logo><span>Lazaro Garcia, Andrea</span></div></div></span></div>
@@ -18573,7 +18573,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55522912">+128</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+128</a>
                                  </div>
                               </div>
                               <!---->
@@ -18600,7 +18600,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55525450">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> First break </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/712121.png"><!----><!----><!----></app-teams-logo><span>Legion</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/716399.png"><!----><!----><!----></app-teams-logo><span>Enerdzhi</span></div></div></span></div>
@@ -18663,7 +18663,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55525450">+37</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+37</a>
                                  </div>
                               </div>
                               <!---->
@@ -18684,7 +18684,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55430381">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 4. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/238066.png"><!----><!----><!----></app-teams-logo><span>Shandong VC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/238058.png"><!----><!----><!----></app-teams-logo><span>Fujian VC</span></div></div></span></div>
@@ -18753,7 +18753,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55430381">+34</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+34</a>
                                  </div>
                               </div>
                               <!---->
@@ -18774,7 +18774,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55453024">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Second break </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1069228.png"><!----><!----><!----></app-teams-logo><span>Sdtv</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/403317.png"><!----><!----><!----></app-teams-logo><span>Yunlin Mizuno</span></div></div></span></div>
@@ -18839,7 +18839,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55453024">+37</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+37</a>
                                  </div>
                               </div>
                               <!---->
@@ -18860,7 +18860,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55480351">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 3. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1093163.png"><!----><!----><!----></app-teams-logo><span>Alikhan Aktobe 2 U21</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/423797.png"><!----><!----><!----></app-teams-logo><span>Esil SK 2</span></div></div></span></div>
@@ -18927,7 +18927,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55480351">+34</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+34</a>
                                  </div>
                               </div>
                               <!---->
@@ -18948,7 +18948,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55480350">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 2. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1080410.png"><!----><!----><!----></app-teams-logo><span>Muangphon VC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/671281.png"><!----><!----><!----></app-teams-logo><span>Koh Kood Cabana</span></div></div></span></div>
@@ -19013,7 +19013,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55480350">+28</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+28</a>
                                  </div>
                               </div>
                               <!---->
@@ -19034,7 +19034,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55535830">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/600088.png"><!----><!----><!----></app-teams-logo><span>Vvc</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/600092.png"><!----><!----><!----></app-teams-logo><span>Nkumba- A</span></div></div></span></div>
@@ -19091,7 +19091,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55535830">+32</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+32</a>
                                  </div>
                               </div>
                               <!---->
@@ -19118,7 +19118,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55428950">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Break top3-bottom2 </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/299840.png"><!----><!----><!----></app-teams-logo><span>Adelaide Giants</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/299846.png"><!----><!----><!----></app-teams-logo><span>Melbourne Aces</span></div></div></span></div>
@@ -19183,7 +19183,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55428950">+214</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+214</a>
                                  </div>
                               </div>
                               <!---->
@@ -19210,7 +19210,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55479965">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/998355.png"><!----><!----><!----></app-teams-logo><span>Khaliun-Od FC</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/997633.png"><!----><!----><!----></app-teams-logo><span>Kharaatsai FC</span></div></div></span></div>
@@ -19267,7 +19267,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55479965">+44</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+44</a>
                                  </div>
                               </div>
                               <!---->
@@ -19288,7 +19288,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533817">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/878139.png"><!----><!----><!----></app-teams-logo><span>ACS Soimii Simand U19</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/878137.png"><!----><!----><!----></app-teams-logo><span>CFR Timisoara U19</span></div></div></span></div>
@@ -19345,7 +19345,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533817">+47</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+47</a>
                                  </div>
                               </div>
                               <!---->
@@ -19372,7 +19372,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533085">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 4. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1095341.png"><!----><!----><!----></app-teams-logo><span>Rolik, Jakub</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1098733.png"><!----><!----><!----></app-teams-logo><span>Zeman, Radek</span></div></div></span></div>
@@ -19441,14 +19441,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533085">+40</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+40</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533086">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 2. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/827176.png"><!----><!----><!----></app-teams-logo><span>Marat, Filip</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/827170.png"><!----><!----><!----></app-teams-logo><span>Semrad, Petr</span></div></div></span></div>
@@ -19513,14 +19513,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533086">+33</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+33</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533088">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1100161.png"><!----><!----><!----></app-teams-logo><span>Krezel, Andrzej</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/946037.png"><!----><!----><!----></app-teams-logo><span>Witkowski, Tomasz</span></div></div></span></div>
@@ -19583,14 +19583,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533088">+39</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+39</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533087">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/936049.png"><!----><!----><!----></app-teams-logo><span>Malik, Mateusz</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/740531.png"><!----><!----><!----></app-teams-logo><span>Kayque, Valois</span></div></div></span></div>
@@ -19647,7 +19647,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533087">+47</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+47</a>
                                  </div>
                               </div>
                               <!---->
@@ -19668,7 +19668,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55525736">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/382948.png"><!----><!----><!----></app-teams-logo><span>Dosz, Adam</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/886975.png"><!----><!----><!----></app-teams-logo><span>Braun, Josef</span></div></div></span></div>
@@ -19731,14 +19731,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55525736">+25</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+25</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55525742">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/943361.png"><!----><!----><!----></app-teams-logo><span>Rudomina, Kamil</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/887461.png"><!----><!----><!----></app-teams-logo><span>Swierczek, Damian</span></div></div></span></div>
@@ -19795,7 +19795,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55525742">+24</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+24</a>
                                  </div>
                               </div>
                               <!---->
@@ -19816,7 +19816,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55520223">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/883889.png"><!----><!----><!----></app-teams-logo><span>Cermak, Vladimir</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/955305.png"><!----><!----><!----></app-teams-logo><span>Rygl, Lukas</span></div></div></span></div>
@@ -19879,14 +19879,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55520223">+22</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+22</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55521152">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1007085.png"><!----><!----><!----></app-teams-logo><span>Chalupnicek, Milan</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/932549.png"><!----><!----><!----></app-teams-logo><span>Syroha, Michal</span></div></div></span></div>
@@ -19949,14 +19949,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55521152">+33</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+33</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55521221">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1029111.png"><!----><!----><!----></app-teams-logo><span>Svoboda, Vaclav</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1024921.png"><!----><!----><!----></app-teams-logo><span>Hons, Karel</span></div></div></span></div>
@@ -20019,14 +20019,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55521221">+20</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+20</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55521532">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 2. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1027067.png"><!----><!----><!----></app-teams-logo><span>Vavrecka, Radomir</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1047225.png"><!----><!----><!----></app-teams-logo><span>Chovanec, Pavel</span></div></div></span></div>
@@ -20091,7 +20091,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55521532">+43</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+43</a>
                                  </div>
                               </div>
                               <!---->
@@ -20118,7 +20118,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55521981">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/997321.png"><!----><!----><!----></app-teams-logo><span>Liu S S / Tan N</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/948225.png"><!----><!----><!----></app-teams-logo><span>Mayasari L T / Sugiarto R</span></div></div></span></div>
@@ -20181,7 +20181,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55521981">+42</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+42</a>
                                  </div>
                               </div>
                               <!---->
@@ -20202,7 +20202,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <div class="modul-content ng-star-inserted">
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533770">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/983773.png"><!----><!----><!----></app-teams-logo><span>Finnsson K D / Hardardottir D</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1098717.png"><!----><!----><!----></app-teams-logo><span>Rasmussen P O / Moesgaard S</span></div></div></span></div>
@@ -20265,14 +20265,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533770">+24</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+24</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533771">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/999063.png"><!----><!----><!----></app-teams-logo><span>Titov O / Kantemyr Y</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1013811.png"><!----><!----><!----></app-teams-logo><span>Stoffelen T / Loos M</span></div></div></span></div>
@@ -20335,14 +20335,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533771">+34</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+34</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res even ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55535893">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> Başlamadı </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/306186.png"><!----><!----><!----></app-teams-logo><span>Ivancic M / Polanc P</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1098711.png"><!----><!----><!----></app-teams-logo><span>Klindt B I / Lemming S</span></div></div></span></div>
@@ -20399,14 +20399,14 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55535893">+34</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+34</a>
                                  </div>
                               </div>
                               <!---->
                            </div>
                            <!---->
                            <div class="live-fixture-container flex-container align-items-res odd ng-star-inserted">
-                              <a class="first-content flex-container flex-item ng-star-inserted" href="/tr/bet/live/detail/55533772">
+                              <a class="first-content flex-container flex-item ng-star-inserted" href="#">
                                  <div class="match flex-item flex-container">
                                     <app-live-favorite classes="material-icons fvrt-add">
                               <a href="javascript:;"><i class="fvrt-add material-icons">star_border</i></a></app-live-favorite><span href="javascript:;" class="match-name left"><div class="match-info left ng-star-inserted"><span class="match-info-container left"><!----> 1. Set </span></div><!----><!----><!----><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/569781.png"><!----><!----><!----></app-teams-logo><span>Johannesson D / Arnadottir S</span></div></div><div class="team"><div class="team-area truncate"><app-teams-logo classes="team-img"><img class="team-img ng-star-inserted" src="https://img-cdn001.akamaized.net/ls/crest/medium/1098715.png"><!----><!----><!----></app-teams-logo><span>Stephen E / Hubscher A</span></div></div></span></div>
@@ -20469,7 +20469,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                  <div class="other-container">
                                     <div class="other-title center-align"> Diğer </div>
-                                    <a class="btn other-btn waves-effect waves-light" href="/tr/bet/live/detail/55533772">+24</a>
+                                    <a class="btn other-btn waves-effect waves-light" href="#">+24</a>
                                  </div>
                               </div>
                               <!---->

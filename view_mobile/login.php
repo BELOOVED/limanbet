@@ -25,7 +25,7 @@ if ($detect->isMobile()) {?>
                <!----><!----><button onclick="logIn()" type="submit" class="btn login-btn"> Giriş Yap </button><!----><!---->
             </form>
             <!---->
-            <div class="flex-container btn-group"><a class="forgot-pass" href="/tr/authentication/forgot-password"> Şifremi Unuttum? </a><a class="forgot-username" href="/tr/authentication/forgot-username"> Kullanıcı adını unuttum? </a></div>
+            <div class="flex-container btn-group"><a class="forgot-pass" href="/forgot-password"> Şifremi Unuttum? </a><a class="forgot-username" href="/forgot-username"> Kullanıcı adını unuttum? </a></div>
             <div class="flex-container btn-group btn-register"><a href="javascript:;" class="register-btn flex-item"><span>Hesabınız yok mu?</span> Yeni hesap oluştur </a></div>
             <!----><a class="contact-support" href="javascript:;" onclick="maximizeTawkToWidget()"><i class="fa fa-comments left"></i> Canlı Destek </a><!----><!----><!---->
          </div>

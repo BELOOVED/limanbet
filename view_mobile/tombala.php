@@ -106,11 +106,11 @@ if ($detect->isMobile()) {?>
                   <div class="title flex-container">
                      <div class="flex-item txt"><span class="ctry-n"> Canlı Tombala </span></div>
                      <div class="gm-acn">
-                        <a class="btn popup" href="/tr/dashboard/payments/deposit-money"><i class="material-icons pg-icons">account_balance</i></a><a class="btn refresh" href="/tr/dashboard/payments/transfer"><i class="fa fa-exchange pg-icons"></i></a><a href="javascript:;" class="btn refresh"><i class="fa fa-refresh pg-icons"></i></a>
+                        <a class="btn popup" ><i class="material-icons pg-icons">account_balance</i></a><a class="btn refresh" ><i class="fa fa-exchange pg-icons"></i></a><a href="javascript:;" class="btn refresh"><i class="fa fa-refresh pg-icons"></i></a>
                         <app-user-favorite classes="btn fvrt-lnk">
                            <!---->
                         </app-user-favorite>
-                        <a class="btn close" href="/tr/games/livecasino"><i class="material-icons pg-icons">close</i></a>
+                        <a class="btn close" ><i class="material-icons pg-icons">close</i></a>
                      </div>
                   </div>
                   <!----><!---->

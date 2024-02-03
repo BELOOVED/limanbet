@@ -621,9 +621,9 @@ if ($detect->isMobile()) {?>
                         <div class="mdl-cntnt">
                            <ul class="tabs ng-star-inserted">
                               <!---->
-                              <li class="tab ng-star-inserted"><a href="/tr/dashboard/account-activity/iframe-report/golden-race" routerlinkactive="active" class="iframe-tabs active"> Golden Race </a></li>
+                              <li class="tab ng-star-inserted"><a href="#" routerlinkactive="active" class="iframe-tabs active"> Golden Race </a></li>
                               <!----><!---->
-                              <li class="tab ng-star-inserted"><a href="/tr/dashboard/account-activity/iframe-report/ultraplay" routerlinkactive="active" class="iframe-tabs"> E-Sporlar Hesap Hrk. Raporu </a></li>
+                              <li class="tab ng-star-inserted"><a href="#" routerlinkactive="active" class="iframe-tabs"> E-Sporlar Hesap Hrk. Raporu </a></li>
                               <!----><!---->
                            </ul>
                            <!----><!---->

@@ -43,7 +43,7 @@ if ($detect->isMobile()) {?>
                         <ul class="money-list-menu">
                            <!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="envoysoft-withdraw" href="/tr/dashboard/payments/withdraw-money/detail/envoysoft-withdraw">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="envoysoft-withdraw" >
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Envoy Hızlı Havale Çekim" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-413.png" width="100" height="33" class="envoysoft-withdraw"><!---->
@@ -67,7 +67,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" href="/tr/dashboard/payments/withdraw-money/detail/bankTransfer">
+                              <a queryparamshandling="merge" class="flex-container" >
                                  <div class="img-wrapper">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=BANK_TRANSFER" width="100" height="33" hidden="" class="hide"><img src="/images/common/assets/images/payments/bank-transfer.png" width="100" height="33" class=""><!---->
@@ -92,7 +92,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-withdraw" href="/tr/dashboard/payments/withdraw-money/detail/papara-form-withdraw">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-withdraw" >
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Papara Çekim Form" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-270.png" width="100" height="33" class="papara-form-withdraw"><!---->
@@ -116,7 +116,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-withdraw" href="/tr/dashboard/payments/withdraw-money/detail/upaycoins-withdraw">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-withdraw" >
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=YouPayCoin Çekim" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-715.png" width="100" height="33" class="upaycoins-withdraw"><!---->
@@ -140,7 +140,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="payfix-form-withdraw" href="/tr/dashboard/payments/withdraw-money/detail/payfix-form-withdraw">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="payfix-form-withdraw" >
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Payfix Çekim Form" width="100" height="33" class="hide" hidden=""><img src="/images/common/assets/images/payments/withdraw-836.png" width="100" height="33" class="payfix-form-withdraw"><!---->
@@ -164,7 +164,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="seripopy-withdraw" href="/tr/dashboard/payments/withdraw-money/detail/seripopy-withdraw">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="seripopy-withdraw" >
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Seripopy Withdraw" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/withdraw-1872.png" width="100" height="33" class="seripopy-withdraw"><!---->
@@ -188,7 +188,7 @@ if ($detect->isMobile()) {?>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="starpay-papara-withdraw" href="/tr/dashboard/payments/withdraw-money/detail/starpay-papara-withdraw">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="starpay-papara-withdraw" >
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
                                        <img src="https://via.placeholder.com/100x33.png?text=Starpay Papara Withdraw" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/withdraw-1870.png" width="100" height="33" class="starpay-papara-withdraw"><!---->
