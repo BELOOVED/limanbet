@@ -246,8 +246,8 @@ $res = $db -> query("SELECT * from accounts where id = 1")->fetch_assoc();
           <footer class="site-footer">
             <div class="footer-inner bg-white">
               <div class="row">
-                <div class="col-sm-6"> Copyright &copy; 2022 Admin </div>
-                <div class="col-sm-6 text-right"> Designed by Beloved </a>
+                <div class="col-sm-6"> Copyright &copy; 2024 Admin </div>
+                <div class="col-sm-6 text-right"> Designed by Limanbet </a>
                 </div>
               </div>
             </div>
