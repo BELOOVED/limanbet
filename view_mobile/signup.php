@@ -638,7 +638,7 @@ if ($detect->isMobile()) {?>
    </div>
 </app-notifications>
 <div class="flex-container step-btns">
-   <a href="javascript:;" class="btn prev-btn flex-item truncate"> Hesap Bilgilerine Gidin </a><!----><a href="javascript:;" onclick="step2()" class="btn next-btn flex-item truncate"> Bilgileri Onayla </a><!----><!----><!----><!----><!----><!----><!---->
+   <a href="javascript:;" onclick="backstep1()" class="btn prev-btn flex-item truncate"> Hesap Bilgilerine Gidin </a><!----><a href="javascript:;" onclick="step2()" class="btn next-btn flex-item truncate"> Bilgileri Onayla </a><!----><!----><!----><!----><!----><!----><!---->
 </div>
                   </div><!---->
                   <div id="step-confirmation" class="hidden">
@@ -666,7 +666,7 @@ if ($detect->isMobile()) {?>
                         </div>
                      </app-notifications>
                      <div class="flex-container step-btns">
-                        <a href="javascript:;" class="btn prev-btn flex-item truncate"> Kişisel Bilgilere Gidin </a><!----><!----><button type="submit" class="btn next-btn flex-item register-btn truncate"> Üye Ol </button><!----><!----><!----><!----><!----><!---->
+                        <a href="javascript:;" onclick="backstep2()" class="btn prev-btn flex-item truncate"> Kişisel Bilgilere Gidin </a><!----><!----><button type="submit" class="btn next-btn flex-item register-btn truncate"> Üye Ol </button><!----><!----><!----><!----><!----><!---->
                      </div>
                   </div>
 <!----><!----></div></form><!----><!---->    </div>
@@ -2029,7 +2029,22 @@ if ($detect->isMobile()) {?>
       $('#step-PERSONAL').addClass('hidden');
       $('#step-confirmation').removeClass('hidden');
       $('#fgj2').removeClass('active');
+     
       $('#fgj3').addClass('active');
+}
+function backstep1(){
+      $('#step-ACCOUNT').removeClass('hidden');
+      $('#step-PERSONAL').addClass('hidden');
+      $('#fgj1').addClass('active');
+      $('#fgj2').removeClass('active');
+
+
+   }
+   function backstep2(){
+      $('#step-PERSONAL').removeClass('hidden');
+      $('#step-confirmation').addClass('hidden');
+      $('#fgj2').addClass('active');
+      $('#fgj3').removeClass('active');
 }
 </script>
 <?php }else {?>
