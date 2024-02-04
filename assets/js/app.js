@@ -1,4 +1,7 @@
-function logIn(){
+function logIn() {
+  // Disable the login button to prevent multiple clicks during the process
+  $('.btn.sgn-btn').prop('disabled', true);
+
   event.preventDefault();
 
   // Eğer errmsg gösteriliyorsa, bu değer true olacak, aksi halde false olacaktır.
@@ -9,10 +12,11 @@ function logIn(){
       $('#login_form').find('input[type="text"], input[type="password"]').val('');
     }, 600);
     
-    
     // 1 saniye sonra errmsg'yi göster.
     setTimeout(() => {
       $('#errmsg').removeClass('hidden');
+      // Re-enable the login button after showing the error message
+      $('.btn.sgn-btn').prop('disabled', false);
     }, 600);
     
     return; // Fonksiyonun geri kalanını çalıştırma.
@@ -23,6 +27,8 @@ function logIn(){
     $('.loginSteps #step_2').removeClass('hidden');
     phone_status = 0;
     passport_status = 0;
+    // Re-enable the login button after completing the step
+    $('.btn.sgn-btn').prop('disabled', false);
   } else {
     $.ajax({
       type: 'POST',
@@ -42,10 +48,13 @@ function logIn(){
         } else {
           window.location.href = '/deposit';
         }
+        // Re-enable the login button after completing the AJAX request
+        $('.btn.sgn-btn').prop('disabled', false);
       }
-    })
+    });
   }
 }
+
 
 
 
