@@ -215,7 +215,7 @@
                                     </div>
                                  </app-notifications>
                                  <!----><!----><!---->
-                                 <button type="submit" class="btn btn-transfer ng-star-inserted" style="text-transform: uppercase;" disabled="">
+                                 <button type="submit" class="btn btn-transfer ng-star-inserted" style="text-transform: uppercase;">
                                     <!----><!----> Yatırımı Yaptım <!----><!---->
                                  </button>
                                  <!----><!---->
