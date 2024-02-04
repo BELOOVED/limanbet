@@ -318,7 +318,14 @@
                <header id="hdr-c" class="navbar-fixed">
                   <nav>
                      <div class="nav-wrapper">
-                        <a routerlink="/" class="logo logo-out" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a><a materialize="sideNav" href="javascript:;" onclick="openmenu1()" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a><a href="javascript:;" materialize="sideNav" data-activates="user-menu" onclick="openmenu2()" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
+                        <a routerlink="/" class="logo logo-out" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a>
+
+                        <a materialize="sideNav" href="javascript:;" onclick="openmenu1()" data-activates="left-menu" class="button-collapse menu-icon-head"><i class="material-icons">menu</i></a>
+                        <?php if(isset($us['id'])) {?>
+                        <span class="ng-star-inserted"><a href="javascript:;" onclick="openmenu2()"  materialize="sideNav" data-activates="user-menu" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i><span class="message-notification ng-star-inserted">20</span><!----></a><span class="header-balance right ng-star-inserted"><span><?=$us['balance']?><span class="currency-symbol"> ₺</span></span></span><!----><!----></span>
+                        <?php }else{?>
+                        <a href="javascript:;" materialize="sideNav" data-activates="user-menu" onclick="openmenu2()" class="button-collapse user-icon right right-sidebar"><i aria-hidden="true" class="fa fa-user"></i></a><!----><!---->
+                        <?php }?>
                      </div>
                   </nav>
                   <app-static-inner-content contentcode="m_header-static">

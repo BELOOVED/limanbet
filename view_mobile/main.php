@@ -132,26 +132,26 @@
                <div class="main-button-content ng-scope">
                   <!-- ngIf: $root.currentTrader.wcOpen && isSpecialEventsOpen -->
                   <div class="flex-container">
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="fa fa-list main-icons" aria-hidden="true"></i> Spor A-Z</a></div>
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="pg-icons material-icons main-icons">ondemand_video</i> Canlı Bahis</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/sportsbook"><i class="fa fa-list main-icons" aria-hidden="true"></i> Spor A-Z</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/livesports"><i class="pg-icons material-icons main-icons">ondemand_video</i> Canlı Bahis</a></div>
                   </div>
                   <div class="flex-container">
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="icon cards-fill pg-icons" aria-hidden="true"></i> Canlı Casino</a></div>
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="icon cherry pg-icons" aria-hidden="true"></i> Casino</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/livecasino"><i class="icon cards-fill pg-icons" aria-hidden="true"></i> Canlı Casino</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/casino"><i class="icon cherry pg-icons" aria-hidden="true"></i> Casino</a></div>
                   </div>
                   <div class="flex-container">
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="#"><i class="fa fa-futbol-o main-icons" aria-hidden="true"></i> Sanal Bahis</a></div>
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" ui-sref="contents({pageUrl:'promotions'})" href="#"><i class="fa fa-gamepad pg-icons"></i>Crash Games</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" routerlinkactive="active" href="/virtualsports"><i class="fa fa-futbol-o main-icons" aria-hidden="true"></i> Sanal Bahis</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" ui-sref="contents({pageUrl:'promotions'})" href="/crash"><i class="fa fa-gamepad pg-icons"></i>Crash Games</a></div>
                   </div>
                   <div class="flex-container">
                      <!-- ngIf: isOpenPoker -->
-                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="#" routerlinkactive="active"><i class="pg-icons icon chip"></i> Poker</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="/poker" routerlinkactive="active"><i class="pg-icons icon chip"></i> Poker</a></div>
                      <!-- end ngIf: isOpenPoker -->
-                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="#" routerlinkactive="active"><i class="pg-icons icon spades"></i>  Canlı Tombala</a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button" href="/tombala" routerlinkactive="active"><i class="pg-icons icon spades"></i>  Canlı Tombala</a></div>
                   </div>
                   <div class="flex-container">
-                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" href="https://rdrxl.live/redir" target="_blank"><i class="material-icons main-icons" aria-hidden="true">tv</i>Canlı Tv</a></div>
-                     <div class="flex-item truncate"><a class="btn-large mar-5 main-button" routerlinkactive="active" href="#"><i class="material-icons main-icons">redeem</i> <span class="truncate ng-binding"> Promosyonlar</span></a></div>
+                     <div class="flex-item"><a class="btn-large mar-5 main-button ng-binding" href="/tvgames" target="_blank"><i class="material-icons main-icons" aria-hidden="true">tv</i>Canlı Tv</a></div>
+                     <div class="flex-item truncate"><a class="btn-large mar-5 main-button" routerlinkactive="active" href="/promotions"><i class="material-icons main-icons">redeem</i> <span class="truncate ng-binding"> Promosyonlar</span></a></div>
                      <!-- ngIf: isFifa20Enabled -->
                   </div>
                </div>
@@ -1291,7 +1291,7 @@
       </app-static-inner-content>
       <main>
          <!---->
-         <div id="type1" class="ng-star-inserted">
+         <div id="type1" class="ng-star-inserted" onclick="window.location.href = '/livesports'">
             <app-main-tabs class="ng-star-inserted">
                <ul class="main tabs flex-container ng-star-inserted">
                   <li class="tab flex-item ng-star-inserted">
@@ -2225,7 +2225,7 @@
             <!---->
          </div>
          <!---->
-         <div id="type2" class="ng-star-inserted">
+         <div id="type2" class="ng-star-inserted" onclick="window.location.href = '/sportsbook'">
             <popular-events class="ng-star-inserted">
                <div accordion="" class="modul-accordion populer-events compact-view ng-star-inserted">
                   <div class="modul-header"><span class="header-text"> En Çok Tercih Edilenler </span><i class="fa fa-chevron-right right"></i></div>
@@ -2465,7 +2465,7 @@
             <!---->
          </div>
          <!---->
-         <div id="type3" class="ng-star-inserted">
+         <div id="type3" class="ng-star-inserted" onclick="window.location.href = '/casino'">
             <app-popular-games class="ng-star-inserted">
                <!---->
                <div accordion="" class="modul-accordion populer-events ng-star-inserted">
@@ -4851,7 +4851,7 @@
             <!---->
          </div>
          <!---->
-         <div id="type4" class="ng-star-inserted">
+         <div id="type4" class="ng-star-inserted" onclick="window.location.href = '/livesports'">
             <app-top-list-widget class="ng-star-inserted">
                <!---->
                <div accordion="" class="modul-accordion populer-events ng-star-inserted">
@@ -4867,7 +4867,7 @@
             <!---->
          </div>
          <!---->
-         <div id="type5" class="ng-star-inserted">
+         <div id="type5" class="ng-star-inserted" onclick="window.location.href = '/sportsbook'">
             <popular-odds class="ng-star-inserted">
                <div accordion="" class="modul-accordion populer-events populer-team-bets ng-star-inserted">
                   <div class="modul-header"><span class="header-text"> Popüler Bahisler </span><i class="fa fa-chevron-right right"></i></div>

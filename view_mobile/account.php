@@ -20,7 +20,7 @@ if ($detect->isMobile()) {?>
                      <tbody>
                         <tr>
                            <td>Kullanıcı adı</td>
-                           <td>Dilafruz</td>
+                           <td><?=$us['login']?></td>
                         </tr>
                         <tr>
                            <td>E-posta</td>
@@ -34,7 +34,7 @@ if ($detect->isMobile()) {?>
                         </tr>
                         <tr>
                            <td>Kullanıcı Numarası</td>
-                           <td>2022046625030</td>
+                           <td>2022046625030<?=$us['id']?></td>
                         </tr>
                         <tr class="ng-star-inserted">
                            <td>Ad</td>
