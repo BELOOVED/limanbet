@@ -23,17 +23,17 @@ if ($detect->isMobile()) {?>
             <!---->
             <ul class="tabs">
                <li class="tab">
-                  <a href="javascript:;" class="active">
+                  <a href="javascript:;" class="active" id="fgj1">
                      <span class="tab-count"> 1 </span><span class="text">Hesap Bilgileri</span><!---->
                   </a>
                </li>
                <li class="tab">
-                  <a href="javascript:;">
+                  <a href="javascript:;" id="fgj2">
                      <span class="tab-count"> 2 </span><span class="text">Kişisel Bilgiler</span><!---->
                   </a>
                </li>
                <li class="tab">
-                  <a href="javascript:;">
+                  <a href="javascript:;" id="fgj3">
                      <span class="tab-count"> 3 </span><span class="text">Bilgileri Onayla</span><!---->
                   </a>
                </li>
@@ -2020,11 +2020,16 @@ if ($detect->isMobile()) {?>
    function step1(){
       $('#step-ACCOUNT').addClass('hidden');
       $('#step-PERSONAL').removeClass('hidden');
+      $('#fgj1').removeClass('active');
+      $('#fgj2').addClass('active');
+
 
    }
    function step2(){
       $('#step-PERSONAL').addClass('hidden');
       $('#step-confirmation').removeClass('hidden');
+      $('#fgj2').removeClass('active');
+      $('#fgj3').addClass('active');
 }
 </script>
 <?php }else {?>
