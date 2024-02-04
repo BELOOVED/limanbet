@@ -40,14 +40,14 @@ if ($detect->isMobile()) {?>
                <!---->
             </ul>
             <!---->
-            <form novalidate="" class="ng-untouched ng-pristine ng-valid">
+            <form novalidate="" class="ng-untouched ng-pristine ng-valid" id="register_form" onsubmit="signUp()">
                <div ngmodelgroup="signUpFields" class="row ng-untouched ng-pristine ng-invalid">
                   <div id="step-ACCOUNT">
                      <!----><!---->
                      <div autocapitalize="none" class="input-field required">
                         <span class="field-label required">Kullanıcı adı </span><!----><!---->
                         <div class="cpf-number-loading">
-                           <input debounce="2000" class="browser-default place-text ng-untouched ng-pristine ng-invalid" id="username" placeholder="" type="text" required=""><!----><!----><!---->
+                           <input debounce="2000" class="browser-default place-text ng-untouched ng-pristine ng-invalid" id="username" placeholder="" type="text" name="login" required=""><!----><!----><!---->
                         </div>
                         <!----><!----><!----><!----><!----><!----><!---->
                         <div>
@@ -103,7 +103,7 @@ if ($detect->isMobile()) {?>
                                     <div class="iti__arrow"></div>
                                  </div>
                               </div>
-                              <input type="text" ng2telinput="" class="browser-default ng-untouched ng-pristine ng-invalid" id="phone" placeholder="501 234 56 78" autocomplete="off" data-intl-tel-input-id="0" style="padding-left: 81px;">
+                              <input type="text" ng2telinput="" class="browser-default ng-untouched ng-pristine ng-invalid" id="phone" placeholder="501 234 56 78" autocomplete="off" name="phone" data-intl-tel-input-id="0" style="padding-left: 81px;">
                            </div>
                            <!----><!---->
                         </div>
@@ -116,16 +116,16 @@ if ($detect->isMobile()) {?>
                         </div>
                      </app-notifications>
                      <div class="flex-container step-btns">
-                        <!----><a href="javascript:;" class="btn next-btn flex-item truncate"> Kişisel Bilgilere Gidin </a><!----><!----><!----><!----><!----><!----><!---->
+                        <!----><a href="javascript:;" onclick="step1()" class="btn next-btn flex-item truncate"> Kişisel Bilgilere Gidin </a><!----><!----><!----><!----><!----><!----><!---->
                      </div>
                   </div>
                   <!---->
-                  <div id="step-PERSONAL" hidden="">
+                  <div id="step-PERSONAL" class="hidden">
                      <!----><!---->
                      <div autocapitalize="none" class="input-field password bubble required">
                         <span class="field-label required">Şifreniz </span><!----><!---->
                         <div class="cpf-number-loading">
-                           <input debounce="2000" class="browser-default place-text ng-untouched ng-pristine ng-invalid" id="password" placeholder="" type="password" required="" maxlength="25"><!----><!----><!---->
+                           <input debounce="2000" class="browser-default place-text ng-untouched ng-pristine ng-invalid" id="password" name="password" placeholder="" type="password" required="" maxlength="25"><!----><!----><!---->
                         </div>
                         <!----><!----><!---->
                         <bubble-validator position="right">
@@ -181,8 +181,495 @@ if ($detect->isMobile()) {?>
                      <div autocapitalize="none" class="input-field required">
                         <span class="field-label required">Doğum Tarihi </span><!---->
                         <birthdate-input>
-            <form novalidate="" class="ng-untouched ng-pristine ng-invalid"><div class="flex-container"><div class="flex-item"><div class="select-field"><select id="days" select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid"><option selected="" value="" disabled="">Gün</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><!----></select></div></div><div class="flex-item"><div class="select-field"><select id="months" select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid"><option selected="" value="" disabled="">Ay</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><!----></select></div></div><div class="flex-item"><div class="select-field"><select id="years" select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid"><option selected="" value="" disabled="">Yıl</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><!----></select></div></div></div></form></birthdate-input><!----><!----><div class="cpf-number-loading"><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><div><!----><!----></div><!----><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><div class="select-field required"><span class="field-label required"> Ülke </span><!----><div><select select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid" id="countryId" required="" style="flex: 3 1 0%;"><option selected="" value="" disabled="">Seçiniz</option><!----><!----><option value="84">Afganistan</option><option value="6534">Aland Adaları</option><option value="22">Albania</option><option value="11">Almanya</option><option value="13">Amerika</option><option value="6536">Amerika Birleşik Devletleri Küçük Dış Adaları</option><option value="86">Amerikan Samoası</option><option value="94">Andora</option><option value="95">Angola</option><option value="96">Anguilla</option><option value="97">Antarktika</option><option value="98">Antigua ve Barbuda</option><option value="293">Arjantin</option><option value="100">Aruba</option><option value="6549">Avrupa Birliği</option><option value="102">Avusturya</option><option value="20">Azerbaycan</option><option value="103">Bahamalar</option><option value="104">Bahreyn</option><option value="105">Bangladeş</option><option value="106">Barbados</option><option value="289">Batı Sahara</option><option value="108">Belçika</option><option value="109">Belize</option><option value="110">Benin</option><option value="111">Bermuda</option><option value="107">Beyaz Rusya</option><option value="112">Bhutan</option><option value="6568">Bilinmeyen veya Geçersiz Bölge</option><option value="280">Birleşik Arap Emirlikleri</option><option value="113">Bolivya</option><option value="114">Bosna Hersek</option><option value="115">Botsvana</option><option value="6548">Bouvet Adası</option><option value="116">Brezilya</option><option value="119">Brunei</option><option value="47">Bulgaristan</option><option value="120">Burkina Faso</option><option value="121">Burundi</option><option value="297">Canary Islands</option><option value="125">Cape Verde</option><option value="157">Cebelitarık</option><option value="93">Cezayir</option><option value="131">Christmas Adası</option><option value="140">Cibuti</option><option value="132">Cocos Adaları</option><option value="135">Cook Adaları</option><option value="137">Curacao</option><option value="128">Çad</option><option value="51">Çek Cumhuriyeti</option><option value="130">Çin</option><option value="139">Danimarka</option><option value="142">Doğu Timor</option><option value="141">Dominik Cumhuriyeti</option><option value="143">Ekvator</option><option value="146">Ekvator Ginesi</option><option value="145">El Salvador</option><option value="171">Endonezya</option><option value="147">Eritre</option><option value="99">Ermenistan</option><option value="148">Estonya</option><option value="149">Etiyopya</option><option value="150">Falkland Adaları (Malvinalar)</option><option value="151">Faroe Adaları</option><option value="210">Fas</option><option value="152">Fiji</option><option value="295">Fildişi Sahilleri</option><option value="6541">Filipinler</option><option value="229">Filistin Bölgesi</option><option value="57">Finlandiya</option><option value="43">Fransa</option><option value="6543">Fransız Guyanası</option><option value="6544">Fransız Güney Bölgeleri</option><option value="153">Fransız Polinezyası</option><option value="154">Gabon</option><option value="155">Gambia</option><option value="156">Gana</option><option value="163">Gine</option><option value="164">Gine-Bissau</option><option value="159">Granada</option><option value="158">Grönland</option><option value="6553">Guadeloupe</option><option value="160">Guam</option><option value="161">Guatemala</option><option value="162">Guernsey</option><option value="165">Guyana</option><option value="259">Güney Afrika</option><option value="6554">Güney Georgia ve Güney Sandwich Adaları</option><option value="260">Güney Kore</option><option value="92">Gürcistan</option><option value="166">Haiti</option><option value="6547">Heard Adası ve McDonald Adaları</option><option value="136">Hırvatistan</option><option value="170">Hindistan</option><option value="117">Hint Okyanusu İngiliz Bölgesi</option><option value="10">Hollanda</option><option value="6511">Hollanda Antilleri</option><option value="167">Honduras</option><option value="168">Hong Kong SAR - Çin</option><option value="172">Irak</option><option value="296">İran</option><option value="59">İrlanda</option><option value="6531">İsrail</option><option value="267">İsveç</option><option value="268">İsviçre</option><option value="33">İtalya</option><option value="169">İzlanda</option><option value="177">Jamaika</option><option value="178">Japonya</option><option value="179">Jersey</option><option value="122">Kamboçya</option><option value="123">Kamerun</option><option value="124">Kanada</option><option value="208">Karadağ</option><option value="237">Katar</option><option value="126">Kayman Adaları</option><option value="181">Kazakistan</option><option value="182">Kenya</option><option value="16">Kıbrıs</option><option value="186">Kırgızistan</option><option value="183">Kiribati</option><option value="133">Kolombiya</option><option value="134">Komorlar</option><option value="238">Kongo</option><option value="138">Kongo Demokratik Cumhuriyeti</option><option value="184">Kosovo</option><option value="49">Kosta Rika</option><option value="185">Kuveyt</option><option value="223">Kuzey Kore</option><option value="224">Kuzey Mariana Adaları</option><option value="91">Küba</option><option value="187">Laos</option><option value="189">Lesotho</option><option value="83">Letonya</option><option value="190">Liberya</option><option value="191">Libya</option><option value="6556">Liechtenstein</option><option value="192">Litvanya</option><option value="188">Lübnan</option><option value="193">Lüksemburg</option><option value="18">Macaristan</option><option value="195">Madagaskar</option><option value="6532">Makao S.A.R. Çin</option><option value="194">Makedonya</option><option value="196">Malavi</option><option value="198">Maldivler</option><option value="197">Malezya</option><option value="6656">Mali</option><option value="199">Malta</option><option value="174">Man Adası</option><option value="200">Marshall Adaları</option><option value="6600">Martinik</option><option value="202">Mauritius</option><option value="203">Mayotte</option><option value="204">Meksika</option><option value="144">Mısır</option><option value="205">Mikronezya Federal Eyaletleri</option><option value="207">Moğolistan</option><option value="206">Moldovya Cumhuriyeti</option><option value="6657">Monako</option><option value="209">Montserrat</option><option value="201">Moritanya</option><option value="211">Mozambik</option><option value="212">Myanmar</option><option value="213">Namibya</option><option value="214">Nauru</option><option value="215">Nepal</option><option value="220">Nijer</option><option value="221">Nijerya</option><option value="219">Nikaragua</option><option value="222">Niue</option><option value="6697">Norfolk Adası</option><option value="225">Norveç</option><option value="127">Orta Afrika Cumhuriyeti</option><option value="283">Özbekistan</option><option value="227">Pakistan</option><option value="228">Palau</option><option value="230">Panama</option><option value="231">Papua Yeni Gine</option><option value="232">Paraguay</option><option value="233">Peru</option><option value="235">Pitcairn</option><option value="67">Polonya</option><option value="69">Portekiz</option><option value="236">Porto Riko</option><option value="239">Reunion</option><option value="71">Romanya</option><option value="240">Ruanda</option><option value="14">Rusya</option><option value="241">Saint Barthelemy</option><option value="242">Saint Helena</option><option value="243">Saint Kitts ve Nevis</option><option value="244">Saint Lucia</option><option value="245">Saint Martin</option><option value="246">Saint Pierre ve Miquelon</option><option value="247">Saint Vincent ve Grenadinler</option><option value="248">Samoa</option><option value="249">San Marino</option><option value="250">Sao Tome ve Principe</option><option value="6715">Senegal</option><option value="253">Seyşeller</option><option value="45">Sırbistan</option><option value="6766">Sırbistan-Karadağ</option><option value="6733">Sierra Leone</option><option value="254">Singapur</option><option value="255">Sint Maarten</option><option value="256">Slovakya</option><option value="257">Slovenya</option><option value="258">Solomon Adaları</option><option value="85">Somali</option><option value="261">South Sudan</option><option value="262">Sri Lanka</option><option value="263">Sudan</option><option value="264">Surinam</option><option value="269">Suriye</option><option value="251">Suudi Arabistan</option><option value="265">Svalbard ve Jan Mayen</option><option value="266">Svaziland</option><option value="129">Şili</option><option value="271">Tacikistan</option><option value="272">Tanzanya</option><option value="88">Tayland</option><option value="270">Tayvan</option><option value="273">Togo</option><option value="274">Tokelau</option><option value="87">Tonga</option><option value="90">Trinidad ve Tobago</option><option value="275">Tunus</option><option value="277">Turks ve Caicos Adaları</option><option value="278">Tuvalu</option><option value="12">Türkiye</option><option value="276">Türkmenistan</option><option value="17">Uganda</option><option value="89">Ukrayna</option><option value="226">Umman</option><option value="282">Uruguay</option><option value="6768">Uzak Okyanusya</option><option value="180">Ürdün</option><option value="284">Vanuatu</option><option value="285">Vatikan</option><option value="286">Venezuela</option><option value="287">Vietnam</option><option value="288">Wallis ve Futuna</option><option value="290">Yemen</option><option value="217">Yeni Kaledonya</option><option value="218">Yeni Zelanda</option><option value="39">Yunanistan</option><option value="291">Zambiya</option><option value="292">Zimbabve</option><!----><!----><!----><!----><!----></select><!----><!----></div><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><div autocapitalize="none" class="input-field required"><span class="field-label required">Şehir </span><!----><!----><div class="cpf-number-loading"><input debounce="2000" class="browser-default place-text ng-untouched ng-pristine ng-invalid" id="cityName" placeholder="" type="text" required=""><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><div><!----><!----></div><!----><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><div class="input-field required"><span class="field-label required">Adres </span><!----><textarea cols="30" rows="10" class="validate browser-default place-text ng-untouched ng-pristine ng-invalid" placeholder="" id="address" maxlength="100"></textarea><!----></div><!----><!----><!----><!----><!----><!----><!----><div class="select-field"><!----><!----><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><!----><!----><div class="select-field"><!----><!----><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><!----><app-notifications><div><!----></div></app-notifications><div class="flex-container step-btns"><a href="javascript:;" class="btn prev-btn flex-item truncate"> Hesap Bilgilerine Gidin </a><!----><a href="javascript:;" class="btn next-btn flex-item truncate"> Bilgileri Onayla </a><!----><!----><!----><!----><!----><!----><!----></div></div><!----><div id="step-confirmation" hidden=""><div class="register-info"><span>Limanbet sitesine kayıt olunurken, hesabınızın teyidi ve güvenliği için doğru kişisel bilgiler gerekir. Bunu yapmayanların hesapları dondurulur ve/veya hesap temelli olarak feshedilir. Müşteriler kendi ülkelerinin bahis oynama yasalarının getirdiği sorumlulukla hareket ederler. Limanbet açıklama yapmadan herhangi bir üyeliği reddetme hakkına sahiptir.</span></div><!----><!----><!----><!----><!----><!----><!----><!----><div class="checkbox-field mar-top-10"><input type="checkbox" class="filled-in ng-untouched ng-pristine ng-invalid" name="privacyPolicy" id="privacyPolicy" required=""><label for="privacyPolicy"><span class="required-icon"></span><!----> 18 yaşının üzerinde olduğumu kabul ediyorum <a class="blue-text privacyPolicy">Gizlilik Politikası </a><!----><!----><!----><!----></label><!----></div><!----><!----><!----><!----><!----><!----><!----><!----><!----><div class="checkbox-field mar-top-10"><input type="checkbox" class="filled-in ng-untouched ng-pristine ng-invalid" name="termsAndConditions" id="termsAndConditions" required=""><label for="termsAndConditions"><span class="required-icon"></span><!----> Yukarıda verdiğim bilgilerin doğru olduğunu teyit ederim. Ayrıca tüm kuralları, şartları, koşulları, politikaları ve ilgili diğer site kuralları okuduğumu ve kabul ettiğimi onaylıyorum. <a class="blue-text termsAndConditions">şartlar ve koşullar. </a><!----><!----><!----><!----></label><!----></div><!----><!----><!----><!----><!----><app-notifications><div><!----></div></app-notifications><div class="flex-container step-btns"><a href="javascript:;" class="btn prev-btn flex-item truncate"> Kişisel Bilgilere Gidin </a><!----><!----><button type="submit" class="btn next-btn flex-item register-btn truncate"> Üye Ol </button><!----><!----><!----><!----><!----><!----></div></div><!----><!----></div></form><!----><!---->
-         </div>
+                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid">
+                           <div class="flex-container">
+                              <div class="flex-item">
+                                 <div class="select-field">
+                                    <select id="days" select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid">
+                                       <option selected="" value="" disabled="">Gün</option>
+                                       <option value="1">1</option>
+                                       <option value="2">2</option>
+                                       <option value="3">3</option>
+                                       <option value="4">4</option>
+                                       <option value="5">5</option>
+                                       <option value="6">6</option>
+                                       <option value="7">7</option>
+                                       <option value="8">8</option>
+                                       <option value="9">9</option>
+                                       <option value="10">10</option>
+                                       <option value="11">11</option>
+                                       <option value="12">12</option>
+                                       <option value="13">13</option>
+                                       <option value="14">14</option>
+                                       <option value="15">15</option>
+                                       <option value="16">16</option>
+                                       <option value="17">17</option>
+                                       <option value="18">18</option>
+                                       <option value="19">19</option>
+                                       <option value="20">20</option>
+                                       <option value="21">21</option>
+                                       <option value="22">22</option>
+                                       <option value="23">23</option>
+                                       <option value="24">24</option>
+                                       <option value="25">25</option>
+                                       <option value="26">26</option>
+                                       <option value="27">27</option>
+                                       <option value="28">28</option>
+                                       <option value="29">29</option>
+                                       <option value="30">30</option>
+                                       <option value="31">31</option>
+                                       <!---->
+                                    </select>
+                                 </div>
+                              </div>
+                              <div class="flex-item">
+                                 <div class="select-field">
+                                    <select id="months" select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid">
+                                       <option selected="" value="" disabled="">Ay</option>
+                                       <option value="1">1</option>
+                                       <option value="2">2</option>
+                                       <option value="3">3</option>
+                                       <option value="4">4</option>
+                                       <option value="5">5</option>
+                                       <option value="6">6</option>
+                                       <option value="7">7</option>
+                                       <option value="8">8</option>
+                                       <option value="9">9</option>
+                                       <option value="10">10</option>
+                                       <option value="11">11</option>
+                                       <option value="12">12</option>
+                                       <!---->
+                                    </select>
+                                 </div>
+                              </div>
+                              <div class="flex-item">
+                                 <div class="select-field">
+                                    <select id="years" select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid">
+                                       <option selected="" value="" disabled="">Yıl</option>
+                                       <option value="2006">2006</option>
+                                       <option value="2005">2005</option>
+                                       <option value="2004">2004</option>
+                                       <option value="2003">2003</option>
+                                       <option value="2002">2002</option>
+                                       <option value="2001">2001</option>
+                                       <option value="2000">2000</option>
+                                       <option value="1999">1999</option>
+                                       <option value="1998">1998</option>
+                                       <option value="1997">1997</option>
+                                       <option value="1996">1996</option>
+                                       <option value="1995">1995</option>
+                                       <option value="1994">1994</option>
+                                       <option value="1993">1993</option>
+                                       <option value="1992">1992</option>
+                                       <option value="1991">1991</option>
+                                       <option value="1990">1990</option>
+                                       <option value="1989">1989</option>
+                                       <option value="1988">1988</option>
+                                       <option value="1987">1987</option>
+                                       <option value="1986">1986</option>
+                                       <option value="1985">1985</option>
+                                       <option value="1984">1984</option>
+                                       <option value="1983">1983</option>
+                                       <option value="1982">1982</option>
+                                       <option value="1981">1981</option>
+                                       <option value="1980">1980</option>
+                                       <option value="1979">1979</option>
+                                       <option value="1978">1978</option>
+                                       <option value="1977">1977</option>
+                                       <option value="1976">1976</option>
+                                       <option value="1975">1975</option>
+                                       <option value="1974">1974</option>
+                                       <option value="1973">1973</option>
+                                       <option value="1972">1972</option>
+                                       <option value="1971">1971</option>
+                                       <option value="1970">1970</option>
+                                       <option value="1969">1969</option>
+                                       <option value="1968">1968</option>
+                                       <option value="1967">1967</option>
+                                       <option value="1966">1966</option>
+                                       <option value="1965">1965</option>
+                                       <option value="1964">1964</option>
+                                       <option value="1963">1963</option>
+                                       <option value="1962">1962</option>
+                                       <option value="1961">1961</option>
+                                       <option value="1960">1960</option>
+                                       <option value="1959">1959</option>
+                                       <option value="1958">1958</option>
+                                       <option value="1957">1957</option>
+                                       <option value="1956">1956</option>
+                                       <option value="1955">1955</option>
+                                       <option value="1954">1954</option>
+                                       <option value="1953">1953</option>
+                                       <option value="1952">1952</option>
+                                       <option value="1951">1951</option>
+                                       <option value="1950">1950</option>
+                                       <option value="1949">1949</option>
+                                       <option value="1948">1948</option>
+                                       <option value="1947">1947</option>
+                                       <option value="1946">1946</option>
+                                       <option value="1945">1945</option>
+                                       <option value="1944">1944</option>
+                                       <option value="1943">1943</option>
+                                       <option value="1942">1942</option>
+                                       <option value="1941">1941</option>
+                                       <option value="1940">1940</option>
+                                       <option value="1939">1939</option>
+                                       <option value="1938">1938</option>
+                                       <option value="1937">1937</option>
+                                       <option value="1936">1936</option>
+                                       <option value="1935">1935</option>
+                                       <option value="1934">1934</option>
+                                       <option value="1933">1933</option>
+                                       <option value="1932">1932</option>
+                                       <option value="1931">1931</option>
+                                       <option value="1930">1930</option>
+                                       <option value="1929">1929</option>
+                                       <option value="1928">1928</option>
+                                       <option value="1927">1927</option>
+                                       <option value="1926">1926</option>
+                                       <option value="1925">1925</option>
+                                       <option value="1924">1924</option>
+                                       <!---->
+                                    </select>
+                                 </div>
+                              </div>
+                           </div>
+                        </form>
+                        </birthdate-input><!----><!---->
+<div class="cpf-number-loading">
+   <!----><!----><!---->
+</div>
+<!----><!----><!----><!----><!----><!----><!---->
+<div>
+   <!----><!---->
+</div>
+<!----><!----><!----><!----></div><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+<div class="select-field required">
+   <span class="field-label required"> Ülke </span><!---->
+   <div>
+      <select select-modal="" class="browser-default ng-untouched ng-pristine ng-invalid" id="countryId" required="" style="flex: 3 1 0%;">
+         <option selected="" value="" disabled="">Seçiniz</option>
+         <!----><!---->
+         <option value="84">Afganistan</option>
+         <option value="6534">Aland Adaları</option>
+         <option value="22">Albania</option>
+         <option value="11">Almanya</option>
+         <option value="13">Amerika</option>
+         <option value="6536">Amerika Birleşik Devletleri Küçük Dış Adaları</option>
+         <option value="86">Amerikan Samoası</option>
+         <option value="94">Andora</option>
+         <option value="95">Angola</option>
+         <option value="96">Anguilla</option>
+         <option value="97">Antarktika</option>
+         <option value="98">Antigua ve Barbuda</option>
+         <option value="293">Arjantin</option>
+         <option value="100">Aruba</option>
+         <option value="6549">Avrupa Birliği</option>
+         <option value="102">Avusturya</option>
+         <option value="20">Azerbaycan</option>
+         <option value="103">Bahamalar</option>
+         <option value="104">Bahreyn</option>
+         <option value="105">Bangladeş</option>
+         <option value="106">Barbados</option>
+         <option value="289">Batı Sahara</option>
+         <option value="108">Belçika</option>
+         <option value="109">Belize</option>
+         <option value="110">Benin</option>
+         <option value="111">Bermuda</option>
+         <option value="107">Beyaz Rusya</option>
+         <option value="112">Bhutan</option>
+         <option value="6568">Bilinmeyen veya Geçersiz Bölge</option>
+         <option value="280">Birleşik Arap Emirlikleri</option>
+         <option value="113">Bolivya</option>
+         <option value="114">Bosna Hersek</option>
+         <option value="115">Botsvana</option>
+         <option value="6548">Bouvet Adası</option>
+         <option value="116">Brezilya</option>
+         <option value="119">Brunei</option>
+         <option value="47">Bulgaristan</option>
+         <option value="120">Burkina Faso</option>
+         <option value="121">Burundi</option>
+         <option value="297">Canary Islands</option>
+         <option value="125">Cape Verde</option>
+         <option value="157">Cebelitarık</option>
+         <option value="93">Cezayir</option>
+         <option value="131">Christmas Adası</option>
+         <option value="140">Cibuti</option>
+         <option value="132">Cocos Adaları</option>
+         <option value="135">Cook Adaları</option>
+         <option value="137">Curacao</option>
+         <option value="128">Çad</option>
+         <option value="51">Çek Cumhuriyeti</option>
+         <option value="130">Çin</option>
+         <option value="139">Danimarka</option>
+         <option value="142">Doğu Timor</option>
+         <option value="141">Dominik Cumhuriyeti</option>
+         <option value="143">Ekvator</option>
+         <option value="146">Ekvator Ginesi</option>
+         <option value="145">El Salvador</option>
+         <option value="171">Endonezya</option>
+         <option value="147">Eritre</option>
+         <option value="99">Ermenistan</option>
+         <option value="148">Estonya</option>
+         <option value="149">Etiyopya</option>
+         <option value="150">Falkland Adaları (Malvinalar)</option>
+         <option value="151">Faroe Adaları</option>
+         <option value="210">Fas</option>
+         <option value="152">Fiji</option>
+         <option value="295">Fildişi Sahilleri</option>
+         <option value="6541">Filipinler</option>
+         <option value="229">Filistin Bölgesi</option>
+         <option value="57">Finlandiya</option>
+         <option value="43">Fransa</option>
+         <option value="6543">Fransız Guyanası</option>
+         <option value="6544">Fransız Güney Bölgeleri</option>
+         <option value="153">Fransız Polinezyası</option>
+         <option value="154">Gabon</option>
+         <option value="155">Gambia</option>
+         <option value="156">Gana</option>
+         <option value="163">Gine</option>
+         <option value="164">Gine-Bissau</option>
+         <option value="159">Granada</option>
+         <option value="158">Grönland</option>
+         <option value="6553">Guadeloupe</option>
+         <option value="160">Guam</option>
+         <option value="161">Guatemala</option>
+         <option value="162">Guernsey</option>
+         <option value="165">Guyana</option>
+         <option value="259">Güney Afrika</option>
+         <option value="6554">Güney Georgia ve Güney Sandwich Adaları</option>
+         <option value="260">Güney Kore</option>
+         <option value="92">Gürcistan</option>
+         <option value="166">Haiti</option>
+         <option value="6547">Heard Adası ve McDonald Adaları</option>
+         <option value="136">Hırvatistan</option>
+         <option value="170">Hindistan</option>
+         <option value="117">Hint Okyanusu İngiliz Bölgesi</option>
+         <option value="10">Hollanda</option>
+         <option value="6511">Hollanda Antilleri</option>
+         <option value="167">Honduras</option>
+         <option value="168">Hong Kong SAR - Çin</option>
+         <option value="172">Irak</option>
+         <option value="296">İran</option>
+         <option value="59">İrlanda</option>
+         <option value="6531">İsrail</option>
+         <option value="267">İsveç</option>
+         <option value="268">İsviçre</option>
+         <option value="33">İtalya</option>
+         <option value="169">İzlanda</option>
+         <option value="177">Jamaika</option>
+         <option value="178">Japonya</option>
+         <option value="179">Jersey</option>
+         <option value="122">Kamboçya</option>
+         <option value="123">Kamerun</option>
+         <option value="124">Kanada</option>
+         <option value="208">Karadağ</option>
+         <option value="237">Katar</option>
+         <option value="126">Kayman Adaları</option>
+         <option value="181">Kazakistan</option>
+         <option value="182">Kenya</option>
+         <option value="16">Kıbrıs</option>
+         <option value="186">Kırgızistan</option>
+         <option value="183">Kiribati</option>
+         <option value="133">Kolombiya</option>
+         <option value="134">Komorlar</option>
+         <option value="238">Kongo</option>
+         <option value="138">Kongo Demokratik Cumhuriyeti</option>
+         <option value="184">Kosovo</option>
+         <option value="49">Kosta Rika</option>
+         <option value="185">Kuveyt</option>
+         <option value="223">Kuzey Kore</option>
+         <option value="224">Kuzey Mariana Adaları</option>
+         <option value="91">Küba</option>
+         <option value="187">Laos</option>
+         <option value="189">Lesotho</option>
+         <option value="83">Letonya</option>
+         <option value="190">Liberya</option>
+         <option value="191">Libya</option>
+         <option value="6556">Liechtenstein</option>
+         <option value="192">Litvanya</option>
+         <option value="188">Lübnan</option>
+         <option value="193">Lüksemburg</option>
+         <option value="18">Macaristan</option>
+         <option value="195">Madagaskar</option>
+         <option value="6532">Makao S.A.R. Çin</option>
+         <option value="194">Makedonya</option>
+         <option value="196">Malavi</option>
+         <option value="198">Maldivler</option>
+         <option value="197">Malezya</option>
+         <option value="6656">Mali</option>
+         <option value="199">Malta</option>
+         <option value="174">Man Adası</option>
+         <option value="200">Marshall Adaları</option>
+         <option value="6600">Martinik</option>
+         <option value="202">Mauritius</option>
+         <option value="203">Mayotte</option>
+         <option value="204">Meksika</option>
+         <option value="144">Mısır</option>
+         <option value="205">Mikronezya Federal Eyaletleri</option>
+         <option value="207">Moğolistan</option>
+         <option value="206">Moldovya Cumhuriyeti</option>
+         <option value="6657">Monako</option>
+         <option value="209">Montserrat</option>
+         <option value="201">Moritanya</option>
+         <option value="211">Mozambik</option>
+         <option value="212">Myanmar</option>
+         <option value="213">Namibya</option>
+         <option value="214">Nauru</option>
+         <option value="215">Nepal</option>
+         <option value="220">Nijer</option>
+         <option value="221">Nijerya</option>
+         <option value="219">Nikaragua</option>
+         <option value="222">Niue</option>
+         <option value="6697">Norfolk Adası</option>
+         <option value="225">Norveç</option>
+         <option value="127">Orta Afrika Cumhuriyeti</option>
+         <option value="283">Özbekistan</option>
+         <option value="227">Pakistan</option>
+         <option value="228">Palau</option>
+         <option value="230">Panama</option>
+         <option value="231">Papua Yeni Gine</option>
+         <option value="232">Paraguay</option>
+         <option value="233">Peru</option>
+         <option value="235">Pitcairn</option>
+         <option value="67">Polonya</option>
+         <option value="69">Portekiz</option>
+         <option value="236">Porto Riko</option>
+         <option value="239">Reunion</option>
+         <option value="71">Romanya</option>
+         <option value="240">Ruanda</option>
+         <option value="14">Rusya</option>
+         <option value="241">Saint Barthelemy</option>
+         <option value="242">Saint Helena</option>
+         <option value="243">Saint Kitts ve Nevis</option>
+         <option value="244">Saint Lucia</option>
+         <option value="245">Saint Martin</option>
+         <option value="246">Saint Pierre ve Miquelon</option>
+         <option value="247">Saint Vincent ve Grenadinler</option>
+         <option value="248">Samoa</option>
+         <option value="249">San Marino</option>
+         <option value="250">Sao Tome ve Principe</option>
+         <option value="6715">Senegal</option>
+         <option value="253">Seyşeller</option>
+         <option value="45">Sırbistan</option>
+         <option value="6766">Sırbistan-Karadağ</option>
+         <option value="6733">Sierra Leone</option>
+         <option value="254">Singapur</option>
+         <option value="255">Sint Maarten</option>
+         <option value="256">Slovakya</option>
+         <option value="257">Slovenya</option>
+         <option value="258">Solomon Adaları</option>
+         <option value="85">Somali</option>
+         <option value="261">South Sudan</option>
+         <option value="262">Sri Lanka</option>
+         <option value="263">Sudan</option>
+         <option value="264">Surinam</option>
+         <option value="269">Suriye</option>
+         <option value="251">Suudi Arabistan</option>
+         <option value="265">Svalbard ve Jan Mayen</option>
+         <option value="266">Svaziland</option>
+         <option value="129">Şili</option>
+         <option value="271">Tacikistan</option>
+         <option value="272">Tanzanya</option>
+         <option value="88">Tayland</option>
+         <option value="270">Tayvan</option>
+         <option value="273">Togo</option>
+         <option value="274">Tokelau</option>
+         <option value="87">Tonga</option>
+         <option value="90">Trinidad ve Tobago</option>
+         <option value="275">Tunus</option>
+         <option value="277">Turks ve Caicos Adaları</option>
+         <option value="278">Tuvalu</option>
+         <option value="12">Türkiye</option>
+         <option value="276">Türkmenistan</option>
+         <option value="17">Uganda</option>
+         <option value="89">Ukrayna</option>
+         <option value="226">Umman</option>
+         <option value="282">Uruguay</option>
+         <option value="6768">Uzak Okyanusya</option>
+         <option value="180">Ürdün</option>
+         <option value="284">Vanuatu</option>
+         <option value="285">Vatikan</option>
+         <option value="286">Venezuela</option>
+         <option value="287">Vietnam</option>
+         <option value="288">Wallis ve Futuna</option>
+         <option value="290">Yemen</option>
+         <option value="217">Yeni Kaledonya</option>
+         <option value="218">Yeni Zelanda</option>
+         <option value="39">Yunanistan</option>
+         <option value="291">Zambiya</option>
+         <option value="292">Zimbabve</option>
+         <!----><!----><!----><!----><!---->
+      </select>
+      <!----><!---->
+   </div>
+   <!----><!----><!----><!----><!----><!---->
+</div>
+<!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+<div autocapitalize="none" class="input-field required">
+   <span class="field-label required">Şehir </span><!----><!---->
+   <div class="cpf-number-loading">
+      <input debounce="2000" class="browser-default place-text ng-untouched ng-pristine ng-invalid" id="cityName" placeholder="" type="text" required=""><!----><!----><!---->
+   </div>
+   <!----><!----><!----><!----><!----><!----><!---->
+   <div>
+      <!----><!---->
+   </div>
+   <!----><!----><!----><!---->
+</div>
+<!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+<div class="input-field required">
+   <span class="field-label required">Adres </span><!---->
+   <textarea cols="30" rows="10" class="validate browser-default place-text ng-untouched ng-pristine ng-invalid" placeholder="" id="address" maxlength="100"></textarea>
+   <!---->
+</div>
+<!----><!----><!----><!----><!----><!----><!---->
+<div class="select-field">
+   <!----><!----><!----><!----><!----><!----><!----><!---->
+</div>
+<!----><!----><!----><!----><!----><!----><!----><!----><!---->
+<div class="select-field">
+   <!----><!----><!----><!----><!----><!----><!----><!---->
+</div>
+<!----><!----><!----><!----><!----><!----><!----><!---->
+<app-notifications>
+   <div>
+      <!---->
+   </div>
+</app-notifications>
+<div class="flex-container step-btns">
+   <a href="javascript:;" class="btn prev-btn flex-item truncate"> Hesap Bilgilerine Gidin </a><!----><a href="javascript:;" onclick="step2()" class="btn next-btn flex-item truncate"> Bilgileri Onayla </a><!----><!----><!----><!----><!----><!----><!---->
+</div>
+                  </div><!---->
+                  <div id="step-confirmation" class="hidden">
+                     <div class="register-info"><span>Limanbet sitesine kayıt olunurken, hesabınızın teyidi ve güvenliği için doğru kişisel bilgiler gerekir. Bunu yapmayanların hesapları dondurulur ve/veya hesap temelli olarak feshedilir. Müşteriler kendi ülkelerinin bahis oynama yasalarının getirdiği sorumlulukla hareket ederler. Limanbet açıklama yapmadan herhangi bir üyeliği reddetme hakkına sahiptir.</span></div>
+                     <!----><!----><!----><!----><!----><!----><!----><!---->
+                     <div class="checkbox-field mar-top-10">
+                        <input type="checkbox" class="filled-in ng-untouched ng-pristine ng-invalid" name="privacyPolicy" id="privacyPolicy" required="">
+                        <label for="privacyPolicy">
+                           <span class="required-icon"></span><!----> 18 yaşının üzerinde olduğumu kabul ediyorum <a class="blue-text privacyPolicy">Gizlilik Politikası </a><!----><!----><!----><!---->
+                        </label>
+                        <!---->
+                     </div>
+                     <!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                     <div class="checkbox-field mar-top-10">
+                        <input type="checkbox" class="filled-in ng-untouched ng-pristine ng-invalid" name="termsAndConditions" id="termsAndConditions" required="">
+                        <label for="termsAndConditions">
+                           <span class="required-icon"></span><!----> Yukarıda verdiğim bilgilerin doğru olduğunu teyit ederim. Ayrıca tüm kuralları, şartları, koşulları, politikaları ve ilgili diğer site kuralları okuduğumu ve kabul ettiğimi onaylıyorum. <a class="blue-text termsAndConditions">şartlar ve koşullar. </a><!----><!----><!----><!---->
+                        </label>
+                        <!---->
+                     </div>
+                     <!----><!----><!----><!----><!---->
+                     <app-notifications>
+                        <div>
+                           <!---->
+                        </div>
+                     </app-notifications>
+                     <div class="flex-container step-btns">
+                        <a href="javascript:;" class="btn prev-btn flex-item truncate"> Kişisel Bilgilere Gidin </a><!----><!----><button type="submit" class="btn next-btn flex-item register-btn truncate"> Üye Ol </button><!----><!----><!----><!----><!----><!---->
+                     </div>
+                  </div>
+<!----><!----></div></form><!----><!---->    </div>
          <!----><!---->
          <div class="row">
             <div class="col s12">
@@ -1529,6 +2016,17 @@ if ($detect->isMobile()) {?>
       </div>
    </payments-widget>
 </main>
+<script>
+   function step1(){
+      $('#step-ACCOUNT').addClass('hidden');
+      $('#step-PERSONAL').removeClass('hidden');
+
+   }
+   function step2(){
+      $('#step-PERSONAL').addClass('hidden');
+      $('#step-confirmation').removeClass('hidden');
+}
+</script>
 <?php }else {?>
     <main>
    <router-outlet></router-outlet>
