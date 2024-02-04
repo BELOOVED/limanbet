@@ -84,68 +84,8 @@ if ($detect->isMobile()) {?>
                                     overflow: hidden;
                                     }
                                  </style>
-                                 <span style="
-                                    font-weight: bold;
-                                    color: #000;
-                                    padding: 4px;
-                                    color: #fff;
-                                    /* position: absolute; */
-                                    /* margin-top: -20px; */
-                                    text-align: center;
-                                    font-size: 12px;
-                                    width: 100%;
-                                    display: block;
-                                    ">SIRADAKİ DOMAİNLER</span>
-                                 <div id="domains" style="
-                                    text-align: center;
-                                    display: block;
-                                    margin-bottom: 4px;
-                                    "> <b>limanbet570.com </b><b style="margin-left: 4px;margin-right: 1px;">limanbet571.com</b> <b>limanbet572.com</b></div>
-                                 <script type="text/javascript">
-                                    setTimeout(function(){
-                                    $(document).ready(function () {
-                                    
-                                     
-                                     
-                                     
-                                                      var user = {};
-                                    
-                                                user = {
-                                                    username: isLoggedInUser.username,
-                                                    code: isLoggedInUser.code,
-                                                    fullname: isLoggedInUser.firstName + ' ' + isLoggedInUser.surname
-                                                }
-                                    
-                                    
-                                       // $('#250min').attr('href','https://payhera.co/pay/papara?provider=61d41b56c412d&username='+user.username+'&uid='+user.code+'');
-                                    
-                                    
-                                        $('#papara250').attr('href', 'https://limanbet.anindaislem.com/Pay/User/To/'+user.username+'/'+user.code+'/'+user.fullname+'');
-                                        $('#papara500').attr('href', 'https://limanbet.anindaislem.com/Pay/User/To/'+user.username+'/'+user.code+'/'+user.fullname+'');
-                                    
-                                    
-                                    
-                                    
-                                    
-                                        $('.parazula').attr('href', 'https://pzula.sistemnakit.com/parazula/start-parazula.php?secret=oCWDs5XeO8j9CXwnVt8m&intpay=true&userdata='+user.code+'&fullname='+user.fullname+'&amount=100');
-                                        $('#upaycoins').attr('href', '/tr/dashboard/payments/deposit-money/detail/softpay-deposit');
-                                    
-                                    
-                                        });
-                                    
-                                      },300);
-                                    
-                                 </script>
-                                 <script type="text/javascript">
-                                    function gotoBITCON() {
-                                    popupWindow = window.open(
-                                    //'https://neropay.com/tr/','_blank');
-                                    'https://metepay.com/transactions/1204223cf8711c7c41ff72a4d3c3ab0c','_blank','height=950,width=750,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
-                                    }
-                                 </script>
-                                 <script>
-                                    var envoyAPI=envoyAPI||{},envoyUrl="https://envoysoft2.net/api",siteKey="ym0IFpRS",enVendor="p3";(function(){(function(f){var g=document.createElement("script"),h=document.getElementsByTagName("script");l=h.length,h=h[l-1],g.type="text/javascript",g.async=!0,g.src=f,h.parentNode.insertBefore(g,h)})(envoyUrl+"/api.1.0.min.js")})(envoyAPI||{});
-                                 </script>
+                                 
+                                 
                                  <div id="paymentDep">
                                     <a href="#" id="envoygo" style="display: inline;"><img src="https://cdnliman.b-cdn.net/deposit/envoyhavale1.jpg"></a>
                                     <a href="#" id="envoyqr" style="display: inline;"><img src="https://beluga.cdnroot.blog/deposit/mobile_envoyqr25.jpg"></a>
@@ -266,47 +206,11 @@ if ($detect->isMobile()) {?>
                                     }
                                     /* animation part end */
                                  </style>
-                                 <script type="text/javascript">
-                                    // select the open-btn button
-                                    let openBtn = document.getElementById('open-btn');
-                                    // select the modal-background
-                                    let modalBackground = document.getElementById('modal-background');
-                                    // select the close-btn 
-                                    let closeBtn = document.getElementById('close-btn');
-                                    
-                                    // shows the modal when the user clicks open-btn
-                                    openBtn.addEventListener('click', function() {
-                                    modalBackground.style.display = 'block';
-                                    });
-                                    
-                                    // hides the modal when the user clicks close-btn
-                                    closeBtn.addEventListener('click', function() {
-                                    modalBackground.style.display = 'none';
-                                    });
-                                    
-                                    // hides the modal when the user clicks outside the modal
-                                    window.addEventListener('click', function(event) {
-                                    // check if the event happened on the modal-background
-                                    if (event.target === modalBackground) {
-                                    // hides the modal
-                                    modalBackground.style.display = 'none';
-                                    }
-                                    });
-                                 </script>
+                                
                               </div>
                            </div>
                            <div class="ng-star-inserted">
-                              <script type="text/javascript">
-                                 setTimeout(function(){
-                                     $(document).ready(function(){ 
-                                   $.get("https://api.cdnroot.net/api/lmnv2/deposit/getDepositM.php", function(data) {
-                                     $("#bosbos").html(data);
-                                   }); 
-                                  
-                                 
-                                 }); 
-                                 },500);
-                              </script>
+                              
                            </div>
                            <div class="ng-star-inserted"></div>
                            <!----><!---->
@@ -314,7 +218,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <ul class="money-list-menu">
                            <!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="envoysoft-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -338,7 +242,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="envoyqr-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -362,7 +266,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -386,7 +290,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/crypto'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -410,7 +314,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" href="#">
                                  <div class="img-wrapper">
                                     <payment-icon width="100" height="33">
@@ -435,7 +339,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" href="#">
                                  <div class="img-wrapper">
                                     <payment-icon width="100" height="33">
@@ -458,7 +362,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="turbohavale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -482,7 +386,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/fixturka'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-fixturka-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -506,7 +410,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -530,7 +434,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="tiktak-havale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -554,7 +458,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="softpay-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -578,7 +482,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -602,7 +506,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-bank-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -626,31 +530,9 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
-                              <a queryparamshandling="merge" class="flex-container" data-payment="seripopy-deposit" href="#">
-                                 <div class="img-wrapper ng-star-inserted">
-                                    <payment-icon width="100" height="33">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Seripopy Deposit" width="100" height="33" class="hide" hidden=""><img src="/images/limanbet/upload_files/deposit-1871.png" width="100" height="33" class="seripopy-deposit"><!---->
-                                    </payment-icon>
-                                 </div>
-                                 <!----><!----><br>
-                                 <ul class="flex-item info">
-                                    <li>
-                                       <b title="Seripopy Deposit" class="ng-star-inserted">Seripopy Deposit</b><br class="ng-star-inserted"><small class="ng-star-inserted">Seripopy Deposit ile işlem yap</small><!----><!----><!----><!----><!---->
-                                    </li>
-                                    <!---->
-                                    <li class="trans-fee">
-                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
-                                       <small>
-                                          Bedava<!----><!----><!----><!----><!----><!---->
-                                       </small>
-                                    </li>
-                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 100,000.00</small></li>
-                                 </ul>
-                              </a>
-                           </li>
+                           
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="safirhavale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -674,7 +556,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-bank-transfer-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -698,7 +580,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="starpay-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
