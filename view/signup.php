@@ -3621,7 +3621,7 @@ if ($detect->isMobile()) {?>
       <div class="module-content">
          <div class="register-info ng-star-inserted"><span>Limanbet sitesine kayıt olunurken, hesabınızın teyidi ve güvenliği için doğru kişisel bilgiler gerekir. Bunu yapmayanların hesapları dondurulur ve/veya hesap temelli olarak feshedilir. Müşteriler kendi ülkelerinin bahis oynama yasalarının getirdiği sorumlulukla hareket ederler. Limanbet açıklama yapmadan herhangi bir üyeliği reddetme hakkına sahiptir.</span></div>
          <!----><!----><!----><!----><!----><!----><!----><!---->
-         <div class="checkbox-field mar-top-10 ng-star-inserted" style="margin-top: 40px">
+         <div class="checkbox-field mar-top-10 ng-star-inserted" style="margin-top: 40px !important">
             <input type="checkbox" class="filled-in ng-untouched ng-pristine ng-invalid" name="privacyPolicy" id="privacyPolicy" required="">
             <label for="privacyPolicy">
                <span class="required-icon ng-star-inserted"></span><!----> 18 yaşının üzerinde olduğumu kabul ediyorum <a class="blue-text privacyPolicy ng-star-inserted">Gizlilik Politikası </a><!----><!----><!----><!---->
@@ -3629,7 +3629,7 @@ if ($detect->isMobile()) {?>
             <!---->
          </div>
          <!----><!----><!----><!----><!----><!----><!----><!----><!---->
-         <div class="checkbox-field mar-top-10 ng-star-inserted" style="margin-top: 40px">
+         <div class="checkbox-field mar-top-10 ng-star-inserted" style="margin-top: 40px !important">
             <input type="checkbox" class="filled-in ng-untouched ng-pristine ng-invalid" name="termsAndConditions" id="termsAndConditions" required="">
             <label for="termsAndConditions">
                <span class="required-icon ng-star-inserted"></span><!----> Yukarıda verdiğim bilgilerin doğru olduğunu teyit ederim. Ayrıca tüm kuralları, şartları, koşulları, politikaları ve ilgili diğer site kuralları okuduğumu ve kabul ettiğimi onaylıyorum. <a class="blue-text termsAndConditions ng-star-inserted">şartlar ve koşullar. </a><!----><!----><!----><!---->
@@ -3637,7 +3637,7 @@ if ($detect->isMobile()) {?>
             <!---->
          </div>
          <!----><!----><!----><!---->
-         <div class="three-steps-mode" style="margin-top: 40px">
+         <div class="three-steps-mode" style="margin-top: 40px !important">
             <!----><!---->
             <div class="flex-container step-btns">
                <!----><!----><button type="submit" class="btn next-btn flex-item register-btn ng-star-inserted"> Üye Ol </button><!----><!----><!---->
