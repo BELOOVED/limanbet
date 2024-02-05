@@ -3637,7 +3637,7 @@ if ($detect->isMobile()) {?>
             <!---->
          </div>
          <!----><!----><!----><!---->
-         <div class="three-steps-mode" style="margin-top: 40px !important">
+         <div class="three-steps-mode" style="margin-top: 100px !important">
             <!----><!---->
             <div class="flex-container step-btns">
                <!----><!----><button type="submit" class="btn next-btn flex-item register-btn ng-star-inserted"> Üye Ol </button><!----><!----><!---->
