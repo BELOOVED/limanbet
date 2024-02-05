@@ -257,19 +257,31 @@
       function openmenu1() {
 
          $("#left-menu").css('transform','translateX(0%)');
-       
+         $(".modal-overlay").removeClass('hidden');
+
+         
    }
    function openmenu2() {
 
          $("#user-menu").css('transform','translateX(0%)');
+         $(".modal-overlay").removeClass('hidden');
+
        }
        
    
    function closemenu1() {
       $("#left-menu").css('transform','translateX(-100%)');
+      $(".modal-overlay").addClass('hidden');
+
    }
    function closemenu2() {
       $("#user-menu").css('transform','translateX(100%)');
+      $(".modal-overlay").addClass('hidden');
+
+   }
+   function closeo() {
+      closemenu1();
+      closemenu2();
    }
   
       function openmodal(contentId, menuId) {

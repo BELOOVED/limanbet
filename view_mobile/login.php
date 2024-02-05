@@ -60,15 +60,15 @@ if ($detect->isMobile()) {?>
                            <!---->
                         </div>
                         <!----><!----><button class="btn sgn-btn"> Giriş Yap </button><!----><!---->
-                        <div class="flex-container ftgtpass-nwacc"><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Şifremi Unuttum </a><a class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Kullanıcı adını unuttum </a></div>
+                        <div class="flex-container ftgtpass-nwacc"><a class="btn flex-item ftgtpass" href="/forgot-password"><i class="fa fa-key pg-icons"></i> Şifremi Unuttum </a><a href="/forgot-username" class="btn flex-item ftgtpass"><i class="fa fa-key pg-icons"></i> Kullanıcı adını unuttum </a></div>
                         <div class="login-form-bottom">
-                           <a href="javascript:;" class="btn flex-item nwacc"> Hesabınız yok mu? </a>
+                           <a href="/signup" class="btn flex-item nwacc"> Hesabınız yok mu? </a>
                            <div class="login-popup-content clear">
                               <app-static-inner-content contentcode="login-popup-content">
                                  <!---->
                               </app-static-inner-content>
                            </div>
-                           <a href="javascript:;" class="waves-effect waves-light register-btn"> Üye Ol </a>
+                           <a href="/signup" class="waves-effect waves-light register-btn"> Üye Ol </a>
                         </div>
                         <!----><!---->
                      </div>

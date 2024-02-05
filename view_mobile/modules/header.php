@@ -336,7 +336,7 @@
                   <!---->
                </div>
             </app-header>
-            <app-sidebar>
+            <app-sidebar onclick="closeo()">
                <div id="left-menu" class="side-nav" style="transform: translateX(-100%);">
                   <div class="side-nav-header">
                      <div class="top-logo"><a routerlink="/" class="logo" href="/"><img src="/assets/views/trader/limanbet/assets/images/logo.png" alt="" class="lg"></a></div>
@@ -429,7 +429,7 @@
                </div>
             </app-sidebar>
             <?php if(isset($us['id'])) {?>
-<app-user-sidebar>
+<app-user-sidebar onclick="closeo()">
    <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(100%);">
       <div class="side-nav-header">
          <div class="top-icon" onclick="closemenu2()"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
@@ -635,7 +635,7 @@
    </div>
 </app-user-sidebar>
             <?php }else{?>   
-            <app-user-sidebar>
+            <app-user-sidebar onclick="closeo()">
                <div id="user-menu" class="side-nav right-aligned" style="transform: translateX(100%);">
                   <div class="side-nav-header">
                      <div class="top-icon"  onclick="closemenu2()"><a href="javascript:;"><i aria-hidden="true" class="fa fa-times"></i></a></div>
