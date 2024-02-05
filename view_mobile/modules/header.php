@@ -557,7 +557,7 @@
                            </li>
                            <!----><!----><!----><!---->
                            <li class="ng-star-inserted">
-                              <a routerlinkactive="active" href="/gamehistory" class="ng-star-inserted">
+                              <a routerlinkactive="active" href="/history" class="ng-star-inserted">
                                  UltraPlay Hesap Hrk. Raporu <!---->
                               </a>
                               <!---->
