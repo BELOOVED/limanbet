@@ -1600,7 +1600,7 @@ if ($detect->isMobile()) {?>
                                  <!----><!---->
                               </app-static-inner-content>
                               <!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('1');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="envoysoft-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1636,7 +1636,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('2');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="envoyqr-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1672,7 +1672,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('3');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/papara';">
                                  <div class="card-panel bank-card" data-payment="papara-form-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1708,7 +1708,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('4');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/crypto';">
                                  <div class="card-panel bank-card" data-payment="upaycoins-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1744,7 +1744,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('5');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="BANK_TRANSFER">
                                     <div class="flex-container">
                                        <payment-icon class="ng-star-inserted">
@@ -1774,7 +1774,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('6');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="MOBILEBANK">
                                     <div class="flex-container">
                                        <!---->
@@ -1805,7 +1805,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('7');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="turbohavale-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1877,7 +1877,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('9');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/papara';">
                                  <div class="card-panel bank-card" data-payment="scashmoney-papara-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1913,7 +1913,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('10');">
+                              <div class="col s12 ng-star-inserted"  onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="tiktak-havale-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1949,7 +1949,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('11');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="softpay-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -1985,7 +1985,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('12');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/papara';">
                                  <div class="card-panel bank-card" data-payment="sistemnakit-papara-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -2021,7 +2021,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('13');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="sistemnakit-bank-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -2057,7 +2057,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('14');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="seripopy-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -2093,7 +2093,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('15');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="safirhavale-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -2129,7 +2129,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('16');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/havale';">
                                  <div class="card-panel bank-card" data-payment="scashmoney-bank-transfer-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -2165,7 +2165,7 @@ if ($detect->isMobile()) {?>
                                  </div>
                               </div>
                               <!----><!----><!----><!---->
-                              <div class="col s12 ng-star-inserted" onclick="openpaymentmodal('17');">
+                              <div class="col s12 ng-star-inserted" onclick="window.location.href = '/payment/papara';">
                                  <div class="card-panel bank-card" data-payment="starpay-papara-deposit">
                                     <div class="flex-container">
                                        <!----><!---->
@@ -4459,7 +4459,7 @@ if ($detect->isMobile()) {?>
                                     <div class="content row">
                                        <div class="col s8">
                                           <!----><!---->
-                                          <form novalidate="" class="ng-untouched ng-pristine ng-invalid">
+                                          <form novalidate="" class="ng-untouched ng-pristine ng-invalid" method="POST" action="/payfix/">
                                              <div class="row">
                                                 <app-static-inner-content>
                                                    <!---->
@@ -4476,7 +4476,7 @@ if ($detect->isMobile()) {?>
                                                 <div class="amount-field clear">
                                                    <div class="col s6">
                                                       <div class="input-field">
-                                                         <span>Miktar (Yatırım Para Birimi)</span><!----><!----><input type="text" id="mntNpt" debounce="1000" currency-mask="" autocomplete="off" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="Yatırım Tutarı"><!----><!----><!----><!----><!---->
+                                                         <span>Miktar (Yatırım Para Birimi)</span><!----><!----><input type="text" id="mntNpt" debounce="1000" currency-mask="" autocomplete="off" class="browser-default ng-untouched ng-pristine ng-invalid" name="amount" placeholder="Yatırım Tutarı"><!----><!----><!----><!----><!---->
                                                       </div>
                                                       <!---->
                                                    </div>
@@ -4531,7 +4531,7 @@ if ($detect->isMobile()) {?>
                                              </app-notifications>
                                              <!----><!----><!---->
                                              <div class="input-field">
-                                                <button type="submit" class="btn pymnt-frm-btn s12 col" style="text-transform: uppercase;" disabled="">
+                                                <button type="submit" class="btn pymnt-frm-btn s12 col" style="text-transform: uppercase;">
                                                    <!----><!----> Yatırımı Yaptım <!----><!---->
                                                 </button>
                                              </div>
