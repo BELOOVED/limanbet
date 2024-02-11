@@ -284,7 +284,7 @@
                                           <span class="field-label required ng-star-inserted">İsim Soyisim</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input  name="full_name" select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode"  required="">
+                                             <input  name="full_name" select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" placeholder="İsim Soyisim"  required="">
                                                
                                              <!---->
                                           </div>
@@ -300,7 +300,7 @@
                                           <span class="field-label required ng-star-inserted">Telefon</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input select-modal="" name="sender_phone" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode"  required="">
+                                             <input select-modal="" name="sender_phone" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" placeholder="Örn. : +905320110101"  required="">
                                                
                                              <!---->
                                           </div>
@@ -316,7 +316,7 @@
                                           <span class="field-label required ng-star-inserted">Miktar</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input  name="amount" select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode"  required="">
+                                             <input  name="amount" select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" placeholder="Örn. : 1000"  required="">
                                                
                                              <!---->
                                           </div>
