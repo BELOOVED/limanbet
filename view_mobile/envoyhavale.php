@@ -234,7 +234,15 @@
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
-                                               
+                                             <button class="copy-btn" style="
+                                                background: #c38a41;
+                                                width: 70;
+                                                padding-bottom: 5;
+                                                height: 40px;
+                                                color: white;
+                                                border-bottom-right-radius: 5px;
+                                                border-top-right-radius: 5px;
+                                            ">Kopyala</button>
                                              <!---->
                                           </div>
                                           <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
@@ -251,7 +259,15 @@
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_number" readonly>
-                                               
+                                             <button class="copy-btn2" style="
+                                                        background: #c38a41;
+                                                        width: 70;
+                                                        padding-bottom: 5;
+                                                        height: 40px;
+                                                        color: white;
+                                                        border-bottom-right-radius: 5px;
+                                                        border-top-right-radius: 5px;
+                                                    ">Kopyala</button>
                                              <!---->
                                           </div>
                                           <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
@@ -324,6 +340,41 @@
       <!---->
    </app-dashboard>
    <!---->
+   <script>
+    $(document).ready(function() {
+    $('.copy-btn').click(function() {
+        var bankHolderValue = $('#bank_holder').val(); // Input alanının değerini alır
+        copyToClipboard(bankHolderValue); // Kopyalamayı gerçekleştirir
+    });
+});
+
+// Metni panoya kopyalamak için yardımcı bir fonksiyon
+function copyToClipboard(text) {
+    var $temp = $("<input>");
+    $("body").append($temp);
+    $temp.val(text).select();
+    document.execCommand("copy");
+    $temp.remove();
+    alert("Metin kopyalandı: " + text);
+}
+$(document).ready(function() {
+    $('.copy-btn2').click(function() {
+        var bankHolderValu2e = $('#bank_number').val(); // Input alanının değerini alır
+        copyToClipboard2(bankHolderValue2); // Kopyalamayı gerçekleştirir
+    });
+});
+
+// Metni panoya kopyalamak için yardımcı bir fonksiyon
+function copyToClipboard2(text) {
+    var $temp = $("<input>");
+    $("body").append($temp);
+    $temp.val(text).select();
+    document.execCommand("copy");
+    $temp.remove();
+    alert("Metin kopyalandı: " + text);
+}
+
+   </script>
    <payments-widget>
       <owl-carousel-o _nghost-hmi-c77="" class="ng-star-inserted">
          <div _ngcontent-hmi-c77="" class="owl-carousel owl-theme owl-loaded owl-drag">
