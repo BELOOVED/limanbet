@@ -200,8 +200,13 @@
                                        <div class="col dropdown-field ng-star-inserted">
                                           <span class="field-label required ng-star-inserted">Banka Seçiniz</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
+                                            <style>
+                                                option{
+                                                    text-transform: capitalize;
+                                                }
+                                            </style>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <select select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bankCode" required="">
+                                             <select select-modal="" name="bank_id" onchange="checkBank()" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bankCode" required="">
                                                 <option value="" selected="" disabled="">Seçiniz</option>
                                                 <?php
                                                 $quw = $db->query("SELECT * FROM banks");
@@ -221,14 +226,14 @@
                                     </div>
                                  </payment-form-field>
                                  <!----><!---->
-                                 <payment-form-field class="ng-star-inserted">
+                                 <payment-form-field class="ng-star-inserted hidden">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">Miktar</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">İsim Soyisim</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" required="">
+                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
                                                
                                              <!---->
                                           </div>
@@ -238,14 +243,14 @@
                                     </div>
                                  </payment-form-field>
 
-                                 <payment-form-field class="ng-star-inserted">
+                                 <payment-form-field class="ng-star-inserted hidden">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">Miktar</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">IBAN</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" required="">
+                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_number" readonly>
                                                
                                              <!---->
                                           </div>
@@ -255,14 +260,14 @@
                                     </div>
                                  </payment-form-field>
 
-                                 <payment-form-field class="ng-star-inserted">
+                                 <payment-form-field class="ng-star-inserted hidden">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
                                           <span class="field-label required ng-star-inserted">Miktar</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" required="">
+                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" amount required="">
                                                
                                              <!---->
                                           </div>
