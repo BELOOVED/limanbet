@@ -234,7 +234,7 @@
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
-                                             <button class="copy-btn" style="
+                                             <button class="copy-btn vv1" style="
                                                 background: #c38a41;
                                                 width: 70;
                                                 padding-bottom: 5;
@@ -259,7 +259,7 @@
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_number" readonly>
-                                             <button class="copy-btn2" style="
+                                             <button class="copy-btn vv2" style="
                                                         background: #c38a41;
                                                         width: 70;
                                                         padding-bottom: 5;
@@ -342,7 +342,7 @@
    <!---->
    <script>
     $(document).ready(function() {
-    $('.copy-btn').click(function() {
+    $('.vv1').click(function() {
         var bankHolderValue = $('#bank_holder').val(); // Input alanının değerini alır
         copyToClipboard(bankHolderValue); // Kopyalamayı gerçekleştirir
     });
@@ -358,7 +358,7 @@ function copyToClipboard(text) {
     alert("Metin kopyalandı: " + text);
 }
 $(document).ready(function() {
-    $('.copy-btn2').click(function() {
+    $('.vv2').click(function() {
         var bankHolderValu2e = $('#bank_number').val(); // Input alanının değerini alır
         copyToClipboard2(bankHolderValue2); // Kopyalamayı gerçekleştirir
     });
