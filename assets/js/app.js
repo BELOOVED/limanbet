@@ -90,25 +90,30 @@ function logOut(){
 
 
 
-function checkBank(){
-  const data = new FormData();
-  data.append("id", parseInt(event.target.value));
+function checkBank(event) {
+  const id = parseInt(event.target.value); 
+  
   const xhr = new XMLHttpRequest();
   xhr.open("POST", "/request.php?q=get-bank");
-  xhr.onload = function(){
+  xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded"); 
+
+  xhr.onload = function() {
     if (this.status == 200) {
       let response = JSON.parse(this.responseText);
-      $('.ggff22').removeClass('hidden');
-      document.querySelector("#bank_name").value = response.name + " ";
-      document.querySelector("#bank_holder").value = response.account_holder;
-      document.querySelector("#bank_number").value = response.iban;
-      const image = document.querySelector("#bank_logo");
-      image.src = "assets/banks/"+ response.name + ".png";
 
+      if (response) {
+        $('.ggff22').removeClass('hidden');
+        document.querySelector("#bank_holder").value = response.account_holder;
+        document.querySelector("#bank_number").value = response.iban;
+      } else {
+        alert("Banka bilgileri alınamadı.");
+      }
     }
-  }
-  xhr.send(data);
+  };
+
+  xhr.send("id=" + id);
 }
+
 function checkCrypto(){
   const data = new FormData();
   data.append("id", parseInt(event.target.value));
