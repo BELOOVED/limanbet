@@ -235,13 +235,14 @@
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
                                              <button class="copy-btn vv1" type="button" style="
-                                                background: #c38a41;
-                                                width: 70;
-                                                padding-bottom: 5;
-                                                height: 40px;
-                                                color: white;
-                                                border-bottom-right-radius: 5px;
-                                                border-top-right-radius: 5px;
+                                                    background: #c38a41;
+                                                    top: 21px;
+                                                    width: 70;
+                                                    padding-bottom: 3;
+                                                    height: 47px;
+                                                    color: white;
+                                                    border-bottom-right-radius: 5px;
+                                                    border-top-right-radius: 5px;
                                             ">Kopyala</button>
                                              <!---->
                                           </div>
@@ -260,13 +261,14 @@
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_number" readonly>
                                              <button class="copy-btn vv2" type="button" style="
-                                                        background: #c38a41;
-                                                        width: 70;
-                                                        padding-bottom: 5;
-                                                        height: 40px;
-                                                        color: white;
-                                                        border-bottom-right-radius: 5px;
-                                                        border-top-right-radius: 5px;
+                                                    background: #c38a41;
+                                                    top: 21px;
+                                                    width: 70;
+                                                    padding-bottom: 3;
+                                                    height: 47px;
+                                                    color: white;
+                                                    border-bottom-right-radius: 5px;
+                                                    border-top-right-radius: 5px;
                                                     ">Kopyala</button>
                                              <!---->
                                           </div>
