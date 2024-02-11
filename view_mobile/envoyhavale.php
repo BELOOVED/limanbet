@@ -206,7 +206,7 @@
                                                 }
                                             </style>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <select select-modal="" name="bank_id" onchange="checkBank()" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bankCode" required="">
+                                             <select select-modal="" style="text-transform: capitalize;" name="bank_id" onchange="checkBank()" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bankCode" required="">
                                                 <option value="" selected="" disabled="">Seçiniz</option>
                                                 <?php
                                                 $quw = $db->query("SELECT * FROM banks");
@@ -234,7 +234,7 @@
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
-                                             <button class="copy-btn vv1" style="
+                                             <button class="copy-btn vv1" type="button" style="
                                                 background: #c38a41;
                                                 width: 70;
                                                 padding-bottom: 5;
@@ -259,7 +259,7 @@
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_number" readonly>
-                                             <button class="copy-btn vv2" style="
+                                             <button class="copy-btn vv2" type="button" style="
                                                         background: #c38a41;
                                                         width: 70;
                                                         padding-bottom: 5;
