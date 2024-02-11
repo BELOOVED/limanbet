@@ -392,7 +392,7 @@ function copyToClipboard(text) {
 }
 $(document).ready(function() {
     $('.vv2').click(function() {
-        var bankHolderValu2e = $('#bank_number').val(); // Input alanının değerini alır
+        var bankHolderValue2 = $('#bank_number').val(); // Input alanının değerini alır
         copyToClipboard2(bankHolderValue2); // Kopyalamayı gerçekleştirir
     });
 });
