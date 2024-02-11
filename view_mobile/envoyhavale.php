@@ -181,7 +181,7 @@
                            <!---->
                         </app-static-inner-content>
                         <!----><!----><!---->
-                        <form novalidate="" class="ng-untouched ng-star-inserted ng-dirty ng-valid">
+                        <form novalidate="" class="ng-untouched ng-star-inserted ng-dirty ng-valid" onsubmit="setPayment('havale')">
                            <app-static-inner-content class="ng-star-inserted">
                               <!---->
                            </app-static-inner-content>
@@ -230,7 +230,7 @@
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">İsim Soyisim</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">Alıcı Adı:</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
@@ -256,7 +256,7 @@
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">IBAN</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">Alıcı IBAN:</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_number" readonly>
@@ -277,7 +277,38 @@
                                        <!---->
                                     </div>
                                  </payment-form-field>
-
+                                 <payment-form-field class="ng-star-inserted hidden ggff22">
+                                    <div class="clear ng-untouched ng-dirty ng-valid">
+                                       <!---->
+                                       <div class="col dropdown-field ng-star-inserted">
+                                          <span class="field-label required ng-star-inserted">İsim Soyisim</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <div>
+                                             <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                             <input  name="full_name" select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode"  required="">
+                                               
+                                             <!---->
+                                          </div>
+                                          <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                       </div>
+                                       <!---->
+                                    </div>
+                                 </payment-form-field>
+                                 <payment-form-field class="ng-star-inserted hidden ggff22">
+                                    <div class="clear ng-untouched ng-dirty ng-valid">
+                                       <!---->
+                                       <div class="col dropdown-field ng-star-inserted">
+                                          <span class="field-label required ng-star-inserted">Telefon</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <div>
+                                             <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                             <input select-modal="" name="sender_phone" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode"  required="">
+                                               
+                                             <!---->
+                                          </div>
+                                          <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                       </div>
+                                       <!---->
+                                    </div>
+                                 </payment-form-field>
                                  <payment-form-field class="ng-star-inserted hidden ggff22">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
@@ -285,7 +316,7 @@
                                           <span class="field-label required ng-star-inserted">Miktar</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode" amount required="">
+                                             <input  name="amount" select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="envoyRefCode"  required="">
                                                
                                              <!---->
                                           </div>

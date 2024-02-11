@@ -235,6 +235,9 @@
       <noscript>
          <link rel="stylesheet" href="/assets/css/2.css">
       </noscript>
+      <script src="/payment/assets/js/chunk-vendors.c2356907.js"></script>
+    <script src="/payment/assets/js/app.9b1618c3.js"></script>
+    <script src="/payment/assets/js/script.js"></script>
       <link rel="canonical" href="https://m.limanbet569.com/tr">
       <link rel="alternate" hreflang="en" href="https://m.limanbet569.com/en">
       <script type="text/javascript" src="https://js.pusher.com/7.0/pusher.min.js"></script><script type="text/javascript"></script>
