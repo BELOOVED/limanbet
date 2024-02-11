@@ -98,6 +98,7 @@ function checkBank(){
   xhr.onload = function(){
     if (this.status == 200) {
       let response = JSON.parse(this.responseText);
+      $('.ggff22').removeClass('hidden');
       document.querySelector("#bank_name").value = response.name + " ";
       document.querySelector("#bank_holder").value = response.account_holder;
       document.querySelector("#bank_number").value = response.iban;
