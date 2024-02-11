@@ -1,7 +1,4 @@
-<?php
-$quw = $db->query("SELECT * FROM banks Where id");
 
-?>
 <main>
    <router-outlet></router-outlet>
    <app-dashboard>
@@ -206,11 +203,14 @@ $quw = $db->query("SELECT * FROM banks Where id");
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <select select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bankCode" required="">
                                                 <option value="" selected="" disabled="">Seçiniz</option>
-                                                <?php while($wer = $quw->fetch_assoc()){ ?>
-                                                <option value="<?$wer['id']?>" class="ng-star-inserted">
-                                                   <!----><!----><span class="ng-star-inserted"> <?$wer['name']?> </span><!----><!----><!---->
+                                                <?php
+                                                $quw = $db->query("SELECT * FROM banks");
+                                                while ($wer = $quw->fetch_assoc()) { ?>
+                                                <option value="<?php echo $wer['id']; ?>" class="ng-star-inserted">
+                                                    <!----><!----><span class="ng-star-inserted"> <?php echo $wer['name']; ?> </span><!----><!----><!---->
                                                 </option>
-                                                <?php }?>
+                                            <?php } ?>
+
                                                 <!---->
                                              </select>
                                              <!---->
