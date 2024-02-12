@@ -289,6 +289,29 @@ if ($detect->isMobile()) {?>
                                  </ul>
                               </a>
                            </li>
+                           <li class="ng-star-inserted" onclick="window.location.href = '/fixturka'">
+                              <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-deposit" href="#">
+                                 <div class="img-wrapper ng-star-inserted">
+                                    <payment-icon width="100" height="33">
+                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="https://www.payfix.com.tr/assets/cdn/public/images/logo.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                    </payment-icon>
+                                 </div>
+                                 <!----><!----><br>
+                                 <ul class="flex-item info">
+                                    <li>
+                                       <b title="Papara Yatırım" class="ng-star-inserted">Payfix Yatırım</b><br class="ng-star-inserted"><small class="ng-star-inserted">Payfix Yatırım ile işlem yap</small><!----><!----><!----><!----><!---->
+                                    </li>
+                                    <!---->
+                                    <li class="trans-fee">
+                                       <b>İşlem limiti &amp; İşlem zamanı</b><br>
+                                       <small>
+                                          Bedava<!----><!----><!----><span class="ng-star-inserted">/ Anında <span class="processing-min">Dk</span></span><!----><!---->
+                                       </small>
+                                    </li>
+                                    <li class="bank-amound-limit"><small>Min. TRY: 50.00 / Max. TRY: 50,000.00</small></li>
+                                 </ul>
+                              </a>
+                           </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            <li class="ng-star-inserted" onclick="window.location.href = '/payment/crypto'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-deposit" href="#">
