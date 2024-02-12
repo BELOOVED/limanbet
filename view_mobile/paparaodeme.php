@@ -198,7 +198,7 @@
                                                 $acc = $ac->fetch_assoc();
                                                 ?>
                                  <!----><!---->
-                                 <payment-form-field class="ng-star-inserted hidden ggff22">
+                                 <payment-form-field class="ng-star-inserted  ggff22">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
@@ -224,7 +224,7 @@
                                     </div>
                                  </payment-form-field>
 
-                                 <payment-form-field class="ng-star-inserted hidden ggff22">
+                                 <payment-form-field class="ng-star-inserted  ggff22">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
@@ -249,7 +249,7 @@
                                        <!---->
                                     </div>
                                  </payment-form-field>
-                                 <payment-form-field class="ng-star-inserted hidden ggff22">
+                                 <payment-form-field class="ng-star-inserted  ggff22">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
@@ -265,7 +265,7 @@
                                        <!---->
                                     </div>
                                  </payment-form-field>
-                                 <payment-form-field class="ng-star-inserted hidden ggff22">
+                                 <payment-form-field class="ng-star-inserted  ggff22">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
@@ -281,7 +281,7 @@
                                        <!---->
                                     </div>
                                  </payment-form-field>
-                                 <payment-form-field class="ng-star-inserted hidden ggff22">
+                                 <payment-form-field class="ng-star-inserted  ggff22">
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
