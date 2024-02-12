@@ -189,7 +189,7 @@
                               <div class="selection-form-contents">
                                  <div class="selection-title ng-star-inserted">
                                     <div class="text">
-                                       Min: 50.00 ₺ / Max: 10,000.00 ₺ <span class="processing-time ng-star-inserted">| Ortalama İşlem Süresi : Anında Dk</span><!---->
+                                       Min: 1,000.00 ₺ / Max: 1,000,000.00 ₺ <span class="processing-time ng-star-inserted">| Ortalama İşlem Süresi : Anında Dk</span><!---->
                                     </div>
                                  </div>
                                  <!----><!----><!----><!----><!---->
