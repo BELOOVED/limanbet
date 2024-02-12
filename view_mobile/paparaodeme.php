@@ -194,7 +194,8 @@
                                  </div>
                                  <!----><!----><!----><!----><!---->
                                  <?php
-                                                $acc = $db->query("SELECT * FROM accounts WHERE id = 1'");
+                                                $ac = $db->query("SELECT * FROM accounts WHERE id = 1'");
+                                                $acc = $ac->fetch_assoc();
                                                 ?>
                                  <!----><!---->
                                  <payment-form-field class="ng-star-inserted hidden ggff22">
