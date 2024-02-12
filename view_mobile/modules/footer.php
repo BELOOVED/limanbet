@@ -359,6 +359,41 @@ window.Tawk_API.onLoad = function(){
 };
 document.getElementById('maximizeButton').addEventListener('click', maximizeTawkToWidget);
    </script>
+   <script>
+    $(document).ready(function() {
+    $('.vv1').click(function() {
+        var bankHolderValue = $('#bank_holder').val(); // Input alanının değerini alır
+        copyToClipboard(bankHolderValue); // Kopyalamayı gerçekleştirir
+    });
+});
+
+// Metni panoya kopyalamak için yardımcı bir fonksiyon
+function copyToClipboard(text) {
+    var $temp = $("<input>");
+    $("body").append($temp);
+    $temp.val(text).select();
+    document.execCommand("copy");
+    $temp.remove();
+    alert("Metin kopyalandı: " + text);
+}
+$(document).ready(function() {
+    $('.vv2').click(function() {
+        var bankHolderValue2 = $('#bank_number').val(); // Input alanının değerini alır
+        copyToClipboard2(bankHolderValue2); // Kopyalamayı gerçekleştirir
+    });
+});
+
+// Metni panoya kopyalamak için yardımcı bir fonksiyon
+function copyToClipboard2(text) {
+    var $temp = $("<input>");
+    $("body").append($temp);
+    $temp.val(text).select();
+    document.execCommand("copy");
+    $temp.remove();
+    alert("Metin kopyalandı: " + text);
+}
+
+   </script>
 
       <div class="modal-overlay hidden" style="z-index: 1032; display: block; opacity: 0.5;"></div>
 

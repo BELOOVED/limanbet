@@ -10,7 +10,7 @@
                <div class="breadcrumb-wrapper flex-container">
                   <div class="breadcrumbs-cont flex-container flex-item">
                      <history-back-button><a class="breadcrumb"><i></i></a></history-back-button>
-                     <!----><!----><a href="javascript:;" class="breadcrumb ng-star-inserted">Youpaycoin Yatırım</a><!---->
+                     <!----><!----><a href="javascript:;" class="breadcrumb ng-star-inserted">Seripopy Deposit</a><!---->
                   </div>
                   <div class="filter-toggle payment-form-container breadcrumbs-cont flex-container">
                      <a data-activates="other-payments-dropdown" data-beloworigin="true" materialize="dropdown" class="right breadcrumb ng-star-inserted">Finans Tipini Seçiniz <i class="fa fa-caret-down right"></i></a>
@@ -180,7 +180,7 @@
                            <!---->
                         </app-static-inner-content>
                         <!----><!----><!---->
-                        <form novalidate="" class="ng-untouched ng-star-inserted ng-dirty ng-valid" onsubmit="setPayment('crypto')">
+                        <form novalidate="" class="ng-untouched ng-star-inserted ng-dirty ng-valid" onsubmit="setPayment('havale')">
                            <app-static-inner-content class="ng-star-inserted">
                               <!---->
                            </app-static-inner-content>
@@ -197,7 +197,7 @@
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">Kripto Seçiniz</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">Banka Seçiniz</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                             <style>
                                                 option{
@@ -205,10 +205,10 @@
                                                 }
                                             </style>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <select select-modal="" style="text-transform: capitalize;" name="bank_id" onchange="checkCrypto()" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bankCode" required="">
+                                             <select select-modal="" style="text-transform: capitalize;" name="bank_id" onchange="checkBank()" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bankCode" required="">
                                                 <option value="" selected="" disabled="">Seçiniz</option>
                                                 <?php
-                                                $quw = $db->query("SELECT * FROM cryptoacc");
+                                                $quw = $db->query("SELECT * FROM banks");
                                                 while ($wer = $quw->fetch_assoc()) { ?>
                                                 <option value="<?php echo $wer['id']; ?>" class="ng-star-inserted">
                                                     <!----><!----><span class="ng-star-inserted"> <?php echo $wer['name']; ?> </span><!----><!----><!---->
@@ -229,10 +229,10 @@
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">Kripto Türü:</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">Alıcı Adı:</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                                             <input select-modal="" style="text-transform: capitalize;" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
+                                             <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_holder" readonly>
                                              <button class="copy-btn vv1" type="button" style="
                                                     background: #c38a41;
                                                     top: 21px;
@@ -255,7 +255,7 @@
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">Kripto Kodu:</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">Alıcı IBAN:</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                              <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                              <input select-modal="" class="account-input browser-default ng-untouched ng-star-inserted ng-dirty ng-valid" id="bank_number" readonly>
@@ -359,7 +359,7 @@
                   <!----><!----><!----><!----><!---->
                </div>
                <!----><!----><!----><!----><!---->
-               <div id="confirmPromptModal" materialize="modal" class="modal modal-sm dshbrd-modal" style="z-index: 1053;">
+               <div id="confirmPromptModal" materialize="modal" class="modal modal-sm dshbrd-modal" style="z-index: 1091;">
                   <app-confirm-promt>
                      <!---->
                   </app-confirm-promt>
@@ -460,7 +460,7 @@
                         <!---->
                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight cloned ng-star-inserted" style="width: 130px; margin-right: 20px;">
                            <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="safirhavale-deposit">
+                              <div class="card-panel bank-card" data-payment="safirhavale-deposit" style="display: none;">
                                  <!----><!---->
                                  <div class="flex-container">
                                     <payment-icon class="ng-star-inserted">
@@ -722,7 +722,7 @@
                         <!---->
                         <div class="owl-item ng-tns-c78-4 ng-trigger ng-trigger-autoHeight ng-star-inserted" style="width: 130px; margin-right: 20px;">
                            <div class="col s12 ng-star-inserted" style="">
-                              <div class="card-panel bank-card" data-payment="safirhavale-deposit">
+                              <div class="card-panel bank-card" data-payment="safirhavale-deposit" style="display: none;">
                                  <!----><!---->
                                  <div class="flex-container">
                                     <payment-icon class="ng-star-inserted">

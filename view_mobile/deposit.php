@@ -218,7 +218,7 @@ if ($detect->isMobile()) {?>
                         <!----><!---->
                         <ul class="money-list-menu">
                            <!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/envoyhavale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="envoysoft-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -242,7 +242,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/envoy_qr'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="envoyqr-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -266,7 +266,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/paparaodeme'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -313,7 +313,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/crypto'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/youpaycoin'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="upaycoins-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -337,7 +337,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/banktransfer'">
                               <a queryparamshandling="merge" class="flex-container" href="#">
                                  <div class="img-wrapper">
                                     <payment-icon width="100" height="33">
@@ -362,7 +362,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/cepbank'">
                               <a queryparamshandling="merge" class="flex-container" href="#">
                                  <div class="img-wrapper">
                                     <payment-icon width="100" height="33">
@@ -385,7 +385,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/trendhavale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="turbohavale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -433,7 +433,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/scashpapara'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -457,7 +457,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/serihavale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="tiktak-havale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -481,7 +481,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/trinkhavale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="softpay-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -505,7 +505,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/sistempapara'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -529,7 +529,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/sistemhavale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="sistemnakit-bank-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -555,7 +555,7 @@ if ($detect->isMobile()) {?>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
                            
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/seripopy'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="safirhavale-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -579,7 +579,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/havale'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/scashhavale'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="scashmoney-bank-transfer-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
@@ -603,7 +603,7 @@ if ($detect->isMobile()) {?>
                               </a>
                            </li>
                            <!----><!----><!----><!----><!----><!----><!----><!---->
-                           <li class="ng-star-inserted" onclick="window.location.href = '/payment/papara'">
+                           <li class="ng-star-inserted" onclick="window.location.href = '/starpaypapara'">
                               <a queryparamshandling="merge" class="flex-container" data-payment="starpay-papara-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">

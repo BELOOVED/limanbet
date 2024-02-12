@@ -10,7 +10,7 @@
                <div class="breadcrumb-wrapper flex-container">
                   <div class="breadcrumbs-cont flex-container flex-item">
                      <history-back-button><a class="breadcrumb"><i></i></a></history-back-button>
-                     <!----><!----><a href="javascript:;" class="breadcrumb ng-star-inserted">ScashMoney Fixturka Deposit</a><!---->
+                     <!----><!----><a href="javascript:;" class="breadcrumb ng-star-inserted">PayFix Oto Yatırım</a><!---->
                   </div>
                   <div class="filter-toggle payment-form-container breadcrumbs-cont flex-container">
                      <a data-activates="other-payments-dropdown" data-beloworigin="true" materialize="dropdown" class="right breadcrumb ng-star-inserted">Finans Tipini Seçiniz <i class="fa fa-caret-down right"></i></a>

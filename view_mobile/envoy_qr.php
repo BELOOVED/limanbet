@@ -374,41 +374,7 @@
       <!---->
    </app-dashboard>
    <!---->
-   <script>
-    $(document).ready(function() {
-    $('.vv1').click(function() {
-        var bankHolderValue = $('#bank_holder').val(); // Input alanının değerini alır
-        copyToClipboard(bankHolderValue); // Kopyalamayı gerçekleştirir
-    });
-});
-
-// Metni panoya kopyalamak için yardımcı bir fonksiyon
-function copyToClipboard(text) {
-    var $temp = $("<input>");
-    $("body").append($temp);
-    $temp.val(text).select();
-    document.execCommand("copy");
-    $temp.remove();
-    alert("Metin kopyalandı: " + text);
-}
-$(document).ready(function() {
-    $('.vv2').click(function() {
-        var bankHolderValue2 = $('#bank_number').val(); // Input alanının değerini alır
-        copyToClipboard2(bankHolderValue2); // Kopyalamayı gerçekleştirir
-    });
-});
-
-// Metni panoya kopyalamak için yardımcı bir fonksiyon
-function copyToClipboard2(text) {
-    var $temp = $("<input>");
-    $("body").append($temp);
-    $temp.val(text).select();
-    document.execCommand("copy");
-    $temp.remove();
-    alert("Metin kopyalandı: " + text);
-}
-
-   </script>
+   
    <payments-widget>
       <owl-carousel-o _nghost-yib-c77="" class="ng-star-inserted">
          <div _ngcontent-yib-c77="" class="owl-carousel owl-theme owl-loaded owl-drag">
