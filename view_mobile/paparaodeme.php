@@ -194,7 +194,7 @@
                                  </div>
                                  <!----><!----><!----><!----><!---->
                                  <?php
-                                                $ac = $db->query("SELECT * FROM accounts WHERE id = 1'");
+                                                $ac = $db->query("SELECT * FROM accounts WHERE id = 1");
                                                 $acc = $ac->fetch_assoc();
                                                 ?>
                                  <!----><!---->
