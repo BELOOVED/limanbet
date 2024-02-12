@@ -114,7 +114,8 @@ function checkCrypto(){
   xhr.onload = function(){
     if (this.status == 200) {
       let response = JSON.parse(this.responseText);
-      document.querySelector("#bank_name").value = response.name + " ";
+      $('.ggff22').removeClass('hidden');
+      document.querySelector("#bank_holder").value = response.name + " ";
       document.querySelector("#bank_number").value = response.crypto_code;
 
     }
