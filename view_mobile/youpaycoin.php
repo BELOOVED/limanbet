@@ -197,7 +197,7 @@
                                     <div class="clear ng-untouched ng-dirty ng-valid">
                                        <!---->
                                        <div class="col dropdown-field ng-star-inserted">
-                                          <span class="field-label required ng-star-inserted">Banka Seçiniz</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+                                          <span class="field-label required ng-star-inserted">Kripto Seçiniz</span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
                                           <div>
                                             <style>
                                                 option{
