@@ -293,7 +293,7 @@ if ($detect->isMobile()) {?>
                               <a queryparamshandling="merge" class="flex-container" data-payment="papara-form-deposit" href="#">
                                  <div class="img-wrapper ng-star-inserted">
                                     <payment-icon width="100" height="33">
-                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="https://www.payfix.com.tr/assets/cdn/public/images/logo.png" width="100" height="33" class="papara-form-deposit"><!---->
+                                       <img src="https://via.placeholder.com/100x33.png?text=Papara Yatırım" width="100" height="33" class="hide" hidden=""><img src="/assets/payfix.png" width="100" height="33" class="payfix-form-deposit"><!---->
                                     </payment-icon>
                                  </div>
                                  <!----><!----><br>
