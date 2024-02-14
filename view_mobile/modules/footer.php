@@ -18,7 +18,7 @@
                            <li><a href="about-us-contact">Bize Ulaşın</a></li>
                            <li><a href="promotions-general-rules">Genel Bonus Kuralları</a></li>
                            <li><a href="cashout-content">Bahis Bozdur</a></li>
-                           <!---->
+                           
                         </ul>
                      </div>
                      <div class="divider opacity-half mar-top-5"></div>
