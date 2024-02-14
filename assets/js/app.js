@@ -19,7 +19,7 @@ function logIn() {
       $('.btn.sgn-btn').prop('disabled', false);
     }, 600);
     
-    return; // Fonksiyonun geri kalanını çalıştırma.
+    return; 
   }
   
   if (phone_status == 1 || passport_status == 1) {
