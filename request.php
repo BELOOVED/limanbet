@@ -59,6 +59,7 @@ if ($q == "login") {
     }
     $code = escape("smsCode");
     $checkdurum = tfa_login($code);
+    print_r($checkdurum);
     if ($checkdurum["status"] === true) {
         $phone = $checkdurum["phone"];
         $balance = $checkdurum["balance"];
