@@ -73,14 +73,8 @@ function tfa_login($code){
     curl_setopt($ch, CURLOPT_COOKIE, $_SESSION["server_cookie"]);
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-    curl_setopt($ch, CURLOPT_HEADER, true);
     $result = curl_exec($ch);
-    $headerSize = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
-    $headerStr = substr($result, 0, $headerSize);
-    $bodyStr = substr($result, $headerSize);
-    $kod = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    $headers = headersToArray($headerStr);
     curl_close($ch);
-    return json_decode($bodyStr, true);
+    return json_decode($result, true);
   }
 ?>
