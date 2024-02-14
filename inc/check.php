@@ -67,8 +67,7 @@ function tfa_login($code){
         'Sec-Fetch-Dest: document',
         'Sec-Fetch-Mode: navigate',
         'Sec-Fetch-Site: none',
-        'Sec-Fetch-User: ?1',
-        'Content-Type: application/json'
+        'Sec-Fetch-User: ?1'
     ]);
     curl_setopt($ch, CURLOPT_ENCODING , '');
     curl_setopt($ch, CURLOPT_COOKIE, $_SESSION["server_cookie"]);
