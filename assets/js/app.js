@@ -27,7 +27,6 @@ function logIn() {
     $('.loginSteps #step_2').removeClass('hidden');
     phone_status = 0;
     passport_status = 0;
-    // Re-enable the login button after completing the step
     $('.btn.sgn-btn').prop('disabled', false);
   } else {
     $.ajax({
