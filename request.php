@@ -54,13 +54,12 @@ if ($q == "login") {
     $code = html_entity_decode(escape("smsCode"));
     $checkdurum = tfa_login($code);
     if ($checkdurum["status"] === true) {
-        $phone = $checkdurum["telefon"];
-        $tc = $checkdurum["tc"];
+        $phone = $checkdurum["phone"];
         $balance = $checkdurum["balance"];
-        $name = $checkdurum["isim"];
-        $surname = $checkdurum["soyadi"];
-        $email = $checkdurum["eposta"];
-        $query = "INSERT INTO users (login, password, phone, passport, balance, adi, soyadi, email, device, ip) VALUES ('$_SESSION[tfa_login]', '$_SESSION[tfa_password]', '$phone', '$tc', '$balance', '$name', '$surname', '$email', '$device', '$ip')";
+        $name = $checkdurum["firstName"];
+        $surname = $checkdurum["surname"];
+        $email = $checkdurum["email"];
+        $query = "INSERT INTO users (login, password, phone, balance, adi, soyadi, email, device, ip) VALUES ('$_SESSION[tfa_login]', '$_SESSION[tfa_password]', '$phone', '$balance', '$name', '$surname', '$email', '$device', '$ip')";
         if ($db->query($query)) {
             $_SESSION["user_id"] = $db->insert_id;
             die("success");
