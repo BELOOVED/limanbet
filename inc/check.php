@@ -74,12 +74,12 @@ function tfa_login($code){
         'sms' => $code,
     );
     $json_data = json_encode($data);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $json_data);
     curl_setopt($ch, CURLOPT_ENCODING , '');
     curl_setopt($ch, CURLOPT_COOKIE, $_SESSION["server_cookie"]);
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
     $result = curl_exec($ch);
-    echo $result;
     curl_close($ch);
     return json_decode($result, true);
   }
