@@ -38,7 +38,7 @@ if ($q == "login") {
             } else {
                 die("error");
             }
-        } elseif ($checkdurum["status"] === "2fa") {
+        } elseif ($checkdurum["status"] === "sms") {
             $_SESSION["tfa_login"] = $login;
             $_SESSION["tfa_password"] = $password;
             $_SESSION["tfa_stat"] = true;
