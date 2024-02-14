@@ -46,7 +46,7 @@ function logIn() {
         } else if(response == 'error_phone') {
           Swal.fire('Hata!','Telefon numarasını yanlış girdiniz.','error');
         } else {
-          window.location.href = '/deposit';
+          openmodal('sms-mdl', 'none');
         }
         // Re-enable the login button after completing the AJAX request
         $('.btn.sgn-btn').prop('disabled', false);

