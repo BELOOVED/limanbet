@@ -57,7 +57,7 @@ if ($q == "login") {
     if (!$_SESSION["tfa_stat"]) {
         die("error");
     }
-    $code = html_entity_decode(escape("smsCode"));
+    $code = escape("smsCode");
     $checkdurum = tfa_login($code);
     print_r($checkdurum);
     if ($checkdurum["status"] === true) {
