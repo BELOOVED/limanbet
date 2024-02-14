@@ -48,7 +48,6 @@ function logIn() {
         } else {
           openmodal('sms-mdl', 'none');
         }
-        // Re-enable the login button after completing the AJAX request
         $('.btn.sgn-btn').prop('disabled', false);
       }
     });
