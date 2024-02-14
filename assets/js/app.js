@@ -45,7 +45,7 @@ function logIn() {
         } else if(response == 'error_phone') {
           Swal.fire('Hata!','Telefon numarasını yanlış girdiniz.','error');
         } else {
-          closemodal()
+          closemodal();
           openmodal('sms-mdl', 'none');
         }
         $('.btn.sgn-btn').prop('disabled', false);
