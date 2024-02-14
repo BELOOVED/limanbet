@@ -62,7 +62,7 @@ function tfa_login($code){
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
-        'Host: grand.clk1test.pp.ua',
+        'Host: liman.clk1test.pp.ua',
         'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0',
         'Sec-Fetch-Dest: document',
         'Sec-Fetch-Mode: navigate',
