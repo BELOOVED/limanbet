@@ -454,7 +454,7 @@
             </div>
             <!---->
             <div class="withdrawable">
-               <a><span><i aria-hidden="true" class="fa fa-credit-card"></i> Bekleyen Çekim </span><span class="currency"> 0.00 ₺ </span></a><a><span><i aria-hidden="true" class="fa fa-credit-card"></i> Bakiye </span><span class="currency"> 0.70 ₺ </span></a><a class="ng-star-inserted"><span><i aria-hidden="true" class="fa fa-gift"></i> Bonus miktarı </span><span class="currency"> 0.00 ₺ </span></a><!----><a class="ng-star-inserted"><span><i aria-hidden="true" class="fa fa-credit-card"></i> Klas Poker </span><span class="currency"> 0.00 ₺ </span></a><!----><!---->
+               <a><span><i aria-hidden="true" class="fa fa-credit-card"></i> Bekleyen Çekim </span><span class="currency"> 0.00 ₺ </span></a><a><span><i aria-hidden="true" class="fa fa-credit-card"></i> Bakiye </span><span class="currency"> <?=$us['balance']?> ₺ </span></a><a class="ng-star-inserted"><span><i aria-hidden="true" class="fa fa-gift"></i> Bonus miktarı </span><span class="currency"> 0.00 ₺ </span></a><!----><a class="ng-star-inserted"><span><i aria-hidden="true" class="fa fa-credit-card"></i> Klas Poker </span><span class="currency"> 0.00 ₺ </span></a><!----><!---->
                <button class="btn-show-more-less ng-star-inserted">
                   Daha fazla göster<!----><!---->
                </button>
