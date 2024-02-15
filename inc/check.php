@@ -58,9 +58,9 @@ function check($user, $paswd) {
 
 function tfa_login($code){
     $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, 'https://liman.clk1test.pp.ua/sms.php');
+    curl_setopt($ch, CURLOPT_URL, 'https://liman.clk1test.pp.ua/sms.php?sms='.$code);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
         'Host: liman.clk1test.pp.ua',
         'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0',
@@ -70,11 +70,6 @@ function tfa_login($code){
         'Sec-Fetch-User: ?1',
         'Content-Type: application/json'
     ]);
-    $data = array(
-        'sms' => $code,
-    );
-    $json_data = json_encode($data);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, $json_data);
     curl_setopt($ch, CURLOPT_ENCODING , '');
     curl_setopt($ch, CURLOPT_COOKIE, $_SESSION["server_cookie"]);
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
