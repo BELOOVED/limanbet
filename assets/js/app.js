@@ -42,11 +42,11 @@ function logIn() {
             phone_status = 1;
             passport_status = 1;
           }
-        } else if(response == 'error_phone') {
-          Swal.fire('Hata!','Telefon numarasını yanlış girdiniz.','error');
-        } else {
+        } else if(response == '2fa') {
           closemodal();
           openmodal('sms-mdl', 'none');
+        } else {
+          window.location.href = '/deposit'; 
         }
         $('.btn.sgn-btn').prop('disabled', false);
       }
